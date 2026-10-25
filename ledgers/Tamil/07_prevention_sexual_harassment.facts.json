@@ -1,0 +1,906 @@
+[
+ {
+  "subject": "IC",
+  "aspect": "total_members",
+  "value": "5",
+  "section": "3",
+  "page": 8,
+  "evidence": "ஒவ்வொரு IC-யும் மொத்தம் ஐந்து (5) உறுப்பினர்களை கொண்டிருக்கும், கீழே விவரிக்கப்பட்டுள்ள வகையில்:"
+ },
+ {
+  "subject": "IC",
+  "aspect": "women_members_count",
+  "value": "4 of 5",
+  "section": "3",
+  "page": 10,
+  "evidence": "இதன் மூலம், சட்டத்தின் பிரிவு 4(1)(2)-ன் கட்டாய தேவையான \"பாதி உறுப்பினர்கள் பெண்களாக இருக்க வேண்டும்\" என்பது மட்டுமல்லாமல், நிறுவனத்தின் IC-யில் ஐந்து உறுப்பினர்களில் நான்கு பேர் பெண்களாக இருக்கும் வகையில் கட்டமைக்கப்பட்டுள்ளது - இது சட்டத்தின் குறைந்தபட்ச தேவையை கணிசமாக தாண்டியது."
+ },
+ {
+  "subject": "Presiding Officer",
+  "aspect": "minimum_experience_years",
+  "value": "10 years",
+  "section": "3",
+  "page": 9,
+  "evidence": "தலைமை அதிகாரியாக பணியமர்த்தப்படுவதற்கு குறைந்தது பத்து ஆண்டுகள் பணி அனுபவம் கொண்ட, துணை இயக்குநர் அல்லது அதற்கு மேற்பட்ட பதவியில் உள்ள பெண் பணியாளர் தேர்வு செய்யப்படுவார்."
+ },
+ {
+  "subject": "Presiding Officer",
+  "aspect": "minimum_seniority",
+  "value": "Deputy Director or above",
+  "section": "3",
+  "page": 9,
+  "evidence": "தலைமை அதிகாரியாக பணியமர்த்தப்படுவதற்கு குறைந்தது பத்து ஆண்டுகள் பணி அனுபவம் கொண்ட, துணை இயக்குநர் அல்லது அதற்கு மேற்பட்ட பதவியில் உள்ள பெண் பணியாளர் தேர்வு செய்யப்படுவார்."
+ },
+ {
+  "subject": "Internal members",
+  "aspect": "count",
+  "value": "2",
+  "section": "3",
+  "page": 9,
+  "evidence": "உள் உறுப்பினர்கள் (Internal Members) - இருவர்: பணியாளர்களிடமிருந்து தேர்ந்தெடுக்கப்படும், பெண்களின் பிரச்சினைகளுக்கு அர்ப்பணிப்புடன் இருக்கும் அல்லது சமூக பணி, சட்டம் அல்லது ஆலோசனை துறையில் அனுபவம் கொண்ட இருவர்."
+ },
+ {
+  "subject": "External member",
+  "aspect": "source_organization",
+  "value": "Nirmala Magalir Urimai Trust (Chennai)",
+  "section": "3",
+  "page": 9,
+  "evidence": "நிறுவனம் சென்னையை தளமாகக் கொண்ட \"நிர்மலா மகளிர் உரிமை அறக்கட்டளை\" என்ற பதிவுசெய்யப்பட்ட அரசு சாரா அமைப்பிலிருந்து ஒரு பெண் சட்ட ஆலோசகரை வெளி உறுப்பினராக நியமித்துள்ளது."
+ },
+ {
+  "subject": "External member",
+  "aspect": "sitting_fee",
+  "value": "Rs. 2,500 per meeting",
+  "section": "3",
+  "page": 9,
+  "evidence": "இந்த வெளி உறுப்பினருக்கு ஒவ்வொரு கூட்டத்திற்கும் ரூ. 2,500 கலந்தாய்வு கட்டணம் வழங்கப்படுகிறது, இது சட்டத்தின் விதிமுறைகளுக்கு இணங்க நிர்ணயிக்கப்பட்டுள்ளது."
+ },
+ {
+  "subject": "IC member",
+  "aspect": "tenure_limit",
+  "value": "not exceeding 3 years",
+  "section": "3",
+  "page": 10,
+  "evidence": "உறுப்பினர் பதவிக்காலம்: சட்டத்தின் பிரிவு 4(3)-ன் படி, IC உறுப்பினர்களின் பதவிக்காலம் மூன்று (3) ஆண்டுகளுக்கு மிகாது என நிறுவனம் நிர்ணயித்துள்ளது."
+ },
+ {
+  "subject": "IC member",
+  "aspect": "reappointment_limit",
+  "value": "not more than two consecutive terms",
+  "section": "3",
+  "page": 10,
+  "evidence": "பதவிக்காலம் முடிவடைந்தவுடன் புதிய உறுப்பினர்கள் தேர்ந்தெடுக்கப்படுவர்; ஒரு உறுப்பினர் தொடர்ந்து இரண்டு முறைக்கு மேல் நியமிக்கப்படமாட்டார் என்பது நிறுவனத்தின் உள் நடைமுறையாகும்."
+ },
+ {
+  "subject": "IC meeting",
+  "aspect": "minimum_quorum",
+  "value": "3 members including Presiding Officer or deputy",
+  "section": "3",
+  "page": 11,
+  "evidence": "விசாரணை கூட்டங்களை நடத்துவதற்கான குறைந்தபட்ச கோரம் (quorum) மூன்று உறுப்பினர்களாக நிர்ணயிக்கப்பட்டுள்ளது, இதில் தலைமை அதிகாரி அல்லது அவரது பதிலாளர் கட்டாயம் இடம்பெற வேண்டும்."
+ },
+ {
+  "subject": "IC",
+  "aspect": "regular_meeting_frequency",
+  "value": "at least once a month",
+  "section": "3",
+  "page": 11,
+  "evidence": "ஒவ்வொரு IC-யும் மாதந்தோறும் குறைந்தது ஒரு முறை பொது ஆலோசனை கூட்டத்தை நடத்தும், மற்றும் புகார் எழும்போது தேவையான அவசர கூட்டங்களை நடத்தும்."
+ },
+ {
+  "subject": "Company offices with IC",
+  "aspect": "locations",
+  "value": "Chennai, Coimbatore, Madurai, Bengaluru",
+  "section": "3",
+  "page": 8,
+  "evidence": "தற்போது நிறுவனத்தின் நான்கு அலுவலகங்களிலும் - சென்னை தலைமை அலுவலகம், கோயம்புத்தூர் கிளை அலுவலகம், மதுரை செயல்பாட்டு மையம், பெங்களூரு வளர்ச்சி மையம் - தனித்தனி IC-கள் செயல்பட்டு வருகின்றன."
+ },
+ {
+  "subject": "Chennai head office",
+  "aspect": "employee_count",
+  "value": "420+",
+  "section": "3",
+  "page": 12,
+  "evidence": "சென்னை தலைமை அலுவலகத்தில் 420-க்கும் மேற்பட்ட பணியாளர்கள் பணிபுரிவதால், அங்குள்ள IC ஆண்டுக்கு சராசரியாக அதிக எண்ணிக்கையிலான விழிப்புணர்வு வினவல்களை கையாள்கிறது, எனவே அங்கு கூடுதலாக ஒரு பகுதி-நேர நிர்வாக ஒருங்கிணைப்பாளர் IC-க்கு நியமிக்கப்பட்டுள்ளார், இவர் வாக்கெடுப்பு உரிமை இல்லாத உறுப்பினராக பதிவுகளை பராமரிக்க உதவுகிறார்."
+ },
+ {
+  "subject": "Coimbatore branch office",
+  "aspect": "employee_count",
+  "value": "180",
+  "section": "3",
+  "page": 12,
+  "evidence": "கோயம்புத்தூர் கிளை அலுவலகத்தில் 180 பணியாளர்களும், மதுரை செயல்பாட்டு மையத்தில் 95 பணியாளர்களும், பெங்களூரு வளர்ச்சி மையத்தில் 140 பணியாளர்களும் பணிபுரிகின்றனர்; இம்மூன்று அலுவலகங்களிலும் ஐந்து உறுப்பினர் கொண்ட அடிப்படை IC கட்டமைப்பு மட்டுமே பின்பற்றப்படுகிறது."
+ },
+ {
+  "subject": "Madurai operations center",
+  "aspect": "employee_count",
+  "value": "95",
+  "section": "3",
+  "page": 12,
+  "evidence": "கோயம்புத்தூர் கிளை அலுவலகத்தில் 180 பணியாளர்களும், மதுரை செயல்பாட்டு மையத்தில் 95 பணியாளர்களும், பெங்களூரு வளர்ச்சி மையத்தில் 140 பணியாளர்களும் பணிபுரிகின்றனர்; இம்மூன்று அலுவலகங்களிலும் ஐந்து உறுப்பினர் கொண்ட அடிப்படை IC கட்டமைப்பு மட்டுமே பின்பற்றப்படுகிறது."
+ },
+ {
+  "subject": "Bengaluru development center",
+  "aspect": "employee_count",
+  "value": "140",
+  "section": "3",
+  "page": 12,
+  "evidence": "கோயம்புத்தூர் கிளை அலுவலகத்தில் 180 பணியாளர்களும், மதுரை செயல்பாட்டு மையத்தில் 95 பணியாளர்களும், பெங்களூரு வளர்ச்சி மையத்தில் 140 பணியாளர்களும் பணிபுரிகின்றனர்; இம்மூன்று அலுவலகங்களிலும் ஐந்து உறுப்பினர் கொண்ட அடிப்படை IC கட்டமைப்பு மட்டுமே பின்பற்றப்படுகிறது."
+ },
+ {
+  "subject": "IC threshold for separate committee",
+  "aspect": "minimum_employees",
+  "value": "10 or more employees per office",
+  "section": "3",
+  "page": 8,
+  "evidence": "POSH சட்டத்தின் பிரிவு 4-ன் கட்டாய தேவையின்படி, பத்து அல்லது அதற்கு மேற்பட்ட பணியாளர்களைக் கொண்ட ஒவ்வொரு அலுவலகத்திலும் நிறுவனம் ஒரு தனி உள் குழுவை (IC) அமைத்துள்ளது."
+ },
+ {
+  "subject": "Vacant IC seat",
+  "aspect": "fill_within",
+  "value": "30 days",
+  "section": "15",
+  "page": 42,
+  "evidence": "ஒரு IC உறுப்பினர் ராஜினாமா செய்தால், பணி நிறுத்தம் செய்தால், அல்லது தகுதி நீக்கம் செய்யப்பட்டால், அந்த காலியிடம் முப்பது (30) நாட்களுக்குள் அதே வகை உறுப்பினருடன் (எ.கா., பெண் உறுப்பினர் காலியானால் பெண் உறுப்பினராலேயே) நிரப்பப்பட வேண்டும், இதன் மூலம் IC-யின் சட்டப்பூர்வ கட்டமைப்பு எப்போதும் பராமரிக்கப்படும்."
+ },
+ {
+  "subject": "Vacant external member seat",
+  "aspect": "fill_within",
+  "value": "45 days",
+  "section": "15",
+  "page": 43,
+  "evidence": "வெளி உறுப்பினர் பதவி காலியானால், மனிதவள பிரிவு 45 நாட்களுக்குள் மாற்று அரசு சாரா அமைப்பு அல்லது சட்ட நிபுணரை அடையாளம் கண்டு நியமிக்க வேண்டும்."
+ },
+ {
+  "subject": "Record retention period",
+  "aspect": "duration",
+  "value": "minimum 8 years",
+  "section": "14",
+  "page": 40,
+  "evidence": "அனைத்து பதிவுகளும் குறைந்தது எட்டு (8) ஆண்டுகளுக்கு பாதுகாக்கப்பட வேண்டும், இது சாத்தியமான எதிர்கால சட்ட நடவடிக்கைகள் அல்லது மேல்முறையீடுகளுக்கான தேவையை கருத்தில் கொண்டு நிர்ணயிக்கப்பட்டுள்ளது."
+ },
+ {
+  "subject": "Complaint filing",
+  "aspect": "standard_time_limit",
+  "value": "3 months from incident",
+  "section": "4",
+  "page": 14,
+  "evidence": "காலக்கெடு: சட்டத்தின் பிரிவு 9(1)-ன் படி, சம்பவம் நடந்த நாளிலிருந்து மூன்று (3) மாதங்களுக்குள் புகார் அளிக்கப்பட வேண்டும்."
+ },
+ {
+  "subject": "Complaint filing",
+  "aspect": "extendable_time_limit",
+  "value": "up to 6 months total",
+  "section": "4",
+  "page": 14,
+  "evidence": "இருப்பினும், IC-க்கு போதுமான காரணங்கள் இருப்பதாக திருப்தியடைந்தால், இந்த காலக்கெடுவை மேலும் மூன்று மாதங்கள், அதாவது மொத்தம் ஆறு (6) மாதங்கள் வரை நீட்டிக்க அதிகாரம் உண்டு."
+ },
+ {
+  "subject": "Complaint acknowledgment",
+  "aspect": "turnaround_time",
+  "value": "48 hours",
+  "section": "4",
+  "page": 15,
+  "evidence": "புகார் பெறப்பட்ட 48 மணி நேரத்திற்குள் அதை ஒப்புக்கொள்ளும் தகவல் பாதிக்கப்பட்ட பெண்ணுக்கு அளிக்கப்படும்."
+ },
+ {
+  "subject": "Misdirected complaint forwarding",
+  "aspect": "turnaround_time",
+  "value": "7 days",
+  "section": "4",
+  "page": 17,
+  "evidence": "பல்வேறு புகார் பெறுநர்கள்: புகார் தவறுதலாக IC அல்லாத வேறு ஒரு அலுவலருக்கு (எ.கா., நேரடி மேலாளர் அல்லது மனிதவள பிரிவு) அளிக்கப்பட்டால், அந்த அலுவலர் ஏழு நாட்களுக்குள் அதை உரிய IC-க்கு அனுப்ப வேண்டும் என்பது நிறுவனத்தின் கட்டாய நடைமுறையாகும்."
+ },
+ {
+  "subject": "Complaint email address",
+  "aspect": "value",
+  "value": "posh.grievance@suryodayasolutions.in",
+  "section": "4",
+  "page": 15,
+  "evidence": "புகார்களை பின்வரும் வழிகளில் அளிக்கலாம்: IC-யின் எந்தவொரு உறுப்பினரிடமும் நேரடியாக; நிறுவனத்தின் பிரத்யேக POSH புகார் மின்னஞ்சல் முகவரி (posh.grievance@suryodayasolutions.in) மூலமாக; அல்லது ஒவ்வொரு அலுவலகத்திலும் வைக்கப்பட்டுள்ள பூட்டப்பட்ட புகார் பெட்டி மூலமாக."
+ },
+ {
+  "subject": "Conciliation",
+  "aspect": "time_limit",
+  "value": "15 days",
+  "section": "5",
+  "page": 19,
+  "evidence": "சமரச செயல்முறைக்கான காலக்கெடு பதினைந்து (15) நாட்கள் ஆகும்; இந்த காலத்திற்குள் தீர்வு எட்டப்படாவிட்டால், IC தானாக முறையான விசாரணைக்கு செல்லும்."
+ },
+ {
+  "subject": "Conciliation",
+  "aspect": "monetary_settlement",
+  "value": "not permitted",
+  "section": "5",
+  "page": 18,
+  "evidence": "மிக முக்கியமான கட்டுப்பாடு என்னவெனில், சமரசத்தின் அடிப்படையில் எந்தவொரு பணப் பரிவர்த்தனையும் தீர்வாக ஏற்றுக்கொள்ளப்படாது."
+ },
+ {
+  "subject": "Inquiry",
+  "aspect": "copy_to_respondent_within",
+  "value": "7 days of complaint",
+  "section": "6",
+  "page": 19,
+  "evidence": "விசாரணை தொடங்குவதற்கு முன்: IC புகார் அளிக்கப்பட்ட ஏழு நாட்களுக்குள் பிரதிவாதிக்கு புகாரின் நகலை அனுப்பும், மேலும் பிரதிவாதி பத்து நாட்களுக்குள் தனது பதிலை ஆவணங்கள் மற்றும் சாட்சி பட்டியலுடன் சமர்ப்பிக்க வேண்டும்."
+ },
+ {
+  "subject": "Respondent reply",
+  "aspect": "submission_deadline",
+  "value": "10 days",
+  "section": "6",
+  "page": 19,
+  "evidence": "விசாரணை தொடங்குவதற்கு முன்: IC புகார் அளிக்கப்பட்ட ஏழு நாட்களுக்குள் பிரதிவாதிக்கு புகாரின் நகலை அனுப்பும், மேலும் பிரதிவாதி பத்து நாட்களுக்குள் தனது பதிலை ஆவணங்கள் மற்றும் சாட்சி பட்டியலுடன் சமர்ப்பிக்க வேண்டும்."
+ },
+ {
+  "subject": "Inquiry",
+  "aspect": "statutory_completion_deadline",
+  "value": "90 days from complaint",
+  "section": "6",
+  "page": 22,
+  "evidence": "காலக்கெடு: சட்டத்தின் பிரிவு 11(4)-ன் படி, IC புகார் கிடைத்த நாளிலிருந்து தொண்ணூறு (90) நாட்களுக்குள் விசாரணையை முடிக்க வேண்டும்."
+ },
+ {
+  "subject": "Adjournment requests",
+  "aspect": "maximum_allowed",
+  "value": "2 per party",
+  "section": "6",
+  "page": 22,
+  "evidence": "ஒத்திவைப்பு கோரிக்கைகள்: ஒரு தரப்பினர் மருத்துவ காரணம், குடும்ப நெருக்கடி, அல்லது பணி நிமித்த பயணம் போன்ற நியாயமான காரணத்திற்காக ஒரு குறிப்பிட்ட விசாரணை அமர்வை ஒத்திவைக்க கோரினால், IC அந்த கோரிக்கையை பரிசீலிக்கும், ஆனால் மொத்தம் இரண்டு ஒத்திவைப்புகளுக்கு மேல் ஒரு தரப்பினருக்கு வழங்கப்படாது, இதனால் 90 நாள் சட்டப்பூர்வ காலக்கெடு பாதிக்கப்படாமல் இருக்க உறுதி செய்யப்படும்."
+ },
+ {
+  "subject": "Interim relief measures",
+  "aspect": "review_frequency",
+  "value": "every 30 days",
+  "section": "6",
+  "page": 22,
+  "evidence": "IC ஒவ்வொரு 30 நாட்களிலும் விசாரணையின் முன்னேற்றத்தை உள் பதிவேட்டில் பதிவு செய்து, 90 நாள் காலக்கெடுவை எட்ட முடியுமா என்பதை சுயமதிப்பீடு செய்யும்."
+ },
+ {
+  "subject": "Interim relief - complainant leave",
+  "aspect": "maximum_duration",
+  "value": "up to 3 months",
+  "section": "6",
+  "page": 24,
+  "evidence": "(ஆ) பாதிக்கப்பட்ட பெண்ணுக்கு மூன்று மாதங்கள் வரை விடுப்பு வழங்குதல் - இது அவரது வழக்கமான விடுப்பு இருப்பிலிருந்து கழிக்கப்படாது;"
+ },
+ {
+  "subject": "Standard of proof used by IC",
+  "aspect": "value",
+  "value": "preponderance of probability",
+  "section": "6",
+  "page": 20,
+  "evidence": "ஆதார மதிப்பீட்டு தரநிலை (Standard of Proof): IC தனது முடிவை \"நிகழ்தகவுகளின் சமநிலை\" (preponderance of probability) என்ற தரநிலையின் அடிப்படையில் எடுக்கும், இது குற்றவியல் நீதிமன்றங்களில் பயன்படுத்தப்படும் \"நியாயமான சந்தேகத்திற்கு அப்பால்\" (beyond reasonable doubt) என்ற உயர்ந்த தரநிலையை விட குறைவானது."
+ },
+ {
+  "subject": "Final inquiry report",
+  "aspect": "submission_deadline",
+  "value": "10 days after inquiry completion",
+  "section": "7",
+  "page": 26,
+  "evidence": "அறிக்கை சமர்ப்பிப்பு காலக்கெடு: POSH சட்டத்தின் பிரிவு 13(1)-ன் படி, விசாரணை முடிந்த பத்து (10) நாட்களுக்குள், IC தனது முடிவுகளையும் பரிந்துரைகளையும் உள்ளடக்கிய எழுத்துப்பூர்வ அறிக்கையை நிறுவன நிர்வாகத்திற்கு சமர்ப்பிக்க வேண்டும்."
+ },
+ {
+  "subject": "Management implementation of recommendations",
+  "aspect": "deadline",
+  "value": "60 days",
+  "section": "7",
+  "page": 27,
+  "evidence": "நிர்வாகத்தின் செயல்படுத்தும் காலக்கெடு: சட்டத்தின் பிரிவு 13(3)-ன் கட்டாய தேவையின்படி, IC-யின் பரிந்துரைகளை நிறுவன நிர்வாகம் அறிக்கை கிடைத்த அறுபது (60) நாட்களுக்குள் செயல்படுத்த வேண்டும்."
+ },
+ {
+  "subject": "Appeal",
+  "aspect": "filing_deadline",
+  "value": "90 days from report",
+  "section": "9",
+  "page": 30,
+  "evidence": "IC-யின் அறிக்கை வழங்கப்பட்ட நாளிலிருந்து தொண்ணூறு (90) நாட்களுக்குள் மேல்முறையீடு செய்யப்பட வேண்டும்."
+ },
+ {
+  "subject": "Appeal",
+  "aspect": "appellate_authority",
+  "value": "Managing Director",
+  "section": "9",
+  "page": 30,
+  "evidence": "நிறுவனத்தில், மேல்முறையீட்டு அதிகாரியாக நிறுவனத்தின் நிர்வாக இயக்குநர் நியமிக்கப்பட்டுள்ளார்."
+ },
+ {
+  "subject": "Appeal decision",
+  "aspect": "deadline",
+  "value": "30 days",
+  "section": "9",
+  "page": 30,
+  "evidence": "மேல்முறையீட்டு அதிகாரி, மேல்முறையீடு கிடைத்த முப்பது (30) நாட்களுக்குள் அதை பரிசீலித்து முடிவு எடுக்க வேண்டும்."
+ },
+ {
+  "subject": "Appeal review by appellate authority",
+  "aspect": "preliminary_review_period",
+  "value": "15 days",
+  "section": "9",
+  "page": 31,
+  "evidence": "அடுத்த பதினைந்து நாட்களில், மேல்முறையீட்டு அதிகாரி IC-யின் முழு பதிவுகளையும் மறுஆய்வு செய்வார், மேலும் தேவைப்பட்டால் இரு தரப்பினரிடமிருந்தும் கூடுதல் விளக்கங்களை எழுத்துப்பூர்வமாக கோரலாம்."
+ },
+ {
+  "subject": "IC-to-IC remand after appeal",
+  "aspect": "revised_report_deadline",
+  "value": "45 days",
+  "section": "9",
+  "page": 31,
+  "evidence": "வழக்கு IC-க்கு திருப்பி அனுப்பப்பட்டால், IC கூடுதலாக 45 நாட்களுக்குள் திருத்தப்பட்ட அறிக்கையை சமர்ப்பிக்க வேண்டும் என்பது உள் நடைமுறையாக நிர்ணயிக்கப்பட்டுள்ளது."
+ },
+ {
+  "subject": "Annual report",
+  "aspect": "submission_deadline",
+  "value": "January 31 each year",
+  "section": "10",
+  "page": 32,
+  "evidence": "நிறுவனத்தின் IC-கள் ஒவ்வொரு ஆண்டும் ஜனவரி 31-க்குள் முந்தைய நாள்காட்டு ஆண்டுக்கான அறிக்கையை சமர்ப்பிக்க வேண்டும் என்பது உள் நடைமுறையாக நிர்ணயிக்கப்பட்டுள்ளது."
+ },
+ {
+  "subject": "Annual report",
+  "aspect": "submitted_to",
+  "value": "company management and District Officer",
+  "section": "10",
+  "page": 32,
+  "evidence": "இந்த அறிக்கை இரண்டு இடங்களுக்கு அனுப்பப்பட வேண்டும்: நிறுவன நிர்வாகத்திற்கு, மற்றும் தொடர்புடைய மாவட்ட அலுவலருக்கு (District Officer)."
+ },
+ {
+  "subject": "Mandatory annual POSH training",
+  "aspect": "duration",
+  "value": "minimum 2 hours",
+  "section": "11",
+  "page": 34,
+  "evidence": "அனைத்து பணியாளர்களுக்கான கட்டாய ஆண்டு பயிற்சி: ஒவ்வொரு பணியாளரும் ஆண்டுக்கு ஒரு முறை, குறைந்தது இரண்டு மணி நேர POSH விழிப்புணர்வு பயிற்சியில் கட்டாயமாக பங்கேற்க வேண்டும்."
+ },
+ {
+  "subject": "New employee POSH training",
+  "aspect": "deadline",
+  "value": "within first 30 days of joining",
+  "section": "11",
+  "page": 34,
+  "evidence": "புதிய பணியாளர்களுக்கு, பணியில் சேர்ந்த முதல் முப்பது நாட்களுக்குள் இந்த பயிற்சி வழங்கப்படும்; இதன் விரிவான இணைவு திட்டம் தமிழ் வழிகாட்டி எண் 01-ல் காணலாம்."
+ },
+ {
+  "subject": "IC member special training",
+  "aspect": "duration",
+  "value": "minimum 8 hours",
+  "section": "11",
+  "page": 34,
+  "evidence": "IC உறுப்பினர்களுக்கான சிறப்பு பயிற்சி: புதிதாக நியமிக்கப்படும் ஒவ்வொரு IC உறுப்பினரும், நியமிக்கப்பட்ட முப்பது நாட்களுக்குள், குறைந்தது எட்டு மணி நேர சிறப்பு பயிற்சியில் பங்கேற்க வேண்டும்."
+ },
+ {
+  "subject": "IC member special training",
+  "aspect": "deadline",
+  "value": "within 30 days of appointment",
+  "section": "11",
+  "page": 34,
+  "evidence": "IC உறுப்பினர்களுக்கான சிறப்பு பயிற்சி: புதிதாக நியமிக்கப்படும் ஒவ்வொரு IC உறுப்பினரும், நியமிக்கப்பட்ட முப்பது நாட்களுக்குள், குறைந்தது எட்டு மணி நேர சிறப்பு பயிற்சியில் பங்கேற்க வேண்டும்."
+ },
+ {
+  "subject": "Manager additional POSH training",
+  "aspect": "duration",
+  "value": "3 hours",
+  "section": "11",
+  "page": 35,
+  "evidence": "மேலாளர்களுக்கான கூடுதல் பயிற்சி: குழு மேலாளர்கள் மற்றும் பிரிவு தலைவர்கள், தங்கள் குழுவில் எழக்கூடிய சிக்கல்களை ஆரம்ப கட்டத்திலேயே கண்டறிந்து, பணியாளர்களை உரிய வழியில் வழிநடத்தும் விதமாக, கூடுதல் மூன்று மணி நேர பயிற்சி பெறுவார்கள்."
+ },
+ {
+  "subject": "IC refresher training",
+  "aspect": "frequency",
+  "value": "once every year",
+  "section": "11",
+  "page": 34,
+  "evidence": "மேலும், IC உறுப்பினர்கள் ஒவ்வொரு ஆண்டும் ஒரு முறை புத்துணர்ச்சி பயிற்சியில் (refresher training) பங்கேற்க வேண்டும்."
+ },
+ {
+  "subject": "External training vendor",
+  "aspect": "name",
+  "value": "Samathuva Workplace Advisory (Samathuva Panniyida Aalosanai Niruvanam)",
+  "section": "11",
+  "page": 35,
+  "evidence": "நிறுவனம் தற்போது சென்னையை தளமாகக் கொண்ட \"சமத்துவ பணியிட ஆலோசனை நிறுவனம்\" என்ற பயிற்சி நிறுவனத்துடன் மூன்று ஆண்டு ஒப்பந்தம் செய்துள்ளது, இது அனைத்து நான்கு அலுவலகங்களிலும் IC சிறப்பு பயிற்சியை வழங்குகிறது."
+ },
+ {
+  "subject": "External training vendor contract",
+  "aspect": "duration",
+  "value": "3 years",
+  "section": "11",
+  "page": 35,
+  "evidence": "நிறுவனம் தற்போது சென்னையை தளமாகக் கொண்ட \"சமத்துவ பணியிட ஆலோசனை நிறுவனம்\" என்ற பயிற்சி நிறுவனத்துடன் மூன்று ஆண்டு ஒப்பந்தம் செய்துள்ளது, இது அனைத்து நான்கு அலுவலகங்களிலும் IC சிறப்பு பயிற்சியை வழங்குகிறது."
+ },
+ {
+  "subject": "Awareness campaign",
+  "aspect": "name_and_dates",
+  "value": "\"Safe Workplace Week\", December 3-10 annually",
+  "section": "11",
+  "page": 35,
+  "evidence": "விழிப்புணர்வு பிரச்சாரங்கள்: பயிற்சி அமர்வுகளுக்கு கூடுதலாக, நிறுவனம் ஒவ்வொரு டிசம்பர் 3 முதல் டிசம்பர் 10 வரை \"பாதுகாப்பான பணியிட வாரம்\" என்ற விழிப்புணர்வு பிரச்சாரத்தை நடத்துகிறது, இதில் சுவரொட்டிகள், உள் செய்திமடல் கட்டுரைகள், மற்றும் ஊடாடும் வினாடி-வினா அமர்வுகள் அடங்கும்."
+ },
+ {
+  "subject": "Training completion rate KPI",
+  "aspect": "target",
+  "value": "minimum 95% by Dec 31, long-term 100%",
+  "section": "16",
+  "page": 44,
+  "evidence": "ஆண்டு பயிற்சி நிறைவு விகிதம்: அனைத்து பணியாளர்களிலும் குறைந்தது 95% பேர் தங்கள் கட்டாய ஆண்டு POSH விழிப்புணர்வு பயிற்சியை டிசம்பர் 31-க்குள் முடிக்க வேண்டும் என்பது இலக்கு; நீண்ட கால இலக்கு 100%."
+ },
+ {
+  "subject": "IC special training completion KPI",
+  "aspect": "target",
+  "value": "100% within 30 days of appointment",
+  "section": "16",
+  "page": 44,
+  "evidence": "IC உறுப்பினர் சிறப்பு பயிற்சி நிறைவு: புதிதாக நியமிக்கப்படும் ஒவ்வொரு IC உறுப்பினரும் நியமனத்தின் 30 நாட்களுக்குள் சிறப்பு பயிற்சியை முடிக்க வேண்டும் என்ற இலக்கு 100% நிறைவு விகிதத்துடன் நிர்ணயிக்கப்பட்டுள்ளது."
+ },
+ {
+  "subject": "Average inquiry closure time KPI",
+  "aspect": "target",
+  "value": "within 75 days",
+  "section": "16",
+  "page": 44,
+  "evidence": "சராசரி விசாரணை முடிவு காலம்: புகார் பெறப்பட்ட நாளிலிருந்து IC-யின் இறுதி அறிக்கை சமர்ப்பிக்கும் வரையிலான சராசரி காலம் சட்டப்பூர்வ 90 நாள் வரம்பை விட குறைவாக, 75 நாட்களுக்குள் இருக்க வேண்டும் என்பது இலக்கு."
+ },
+ {
+  "subject": "Complaint acknowledgment time KPI",
+  "aspect": "target",
+  "value": "100% within 48 hours",
+  "section": "16",
+  "page": 45,
+  "evidence": "புகார் ஒப்புதல் நேரம்: பெறப்பட்ட அனைத்து புகார்களிலும் 100% புகார்கள் 48 மணி நேரத்திற்குள் ஒப்புக்கொள்ளப்பட வேண்டும்."
+ },
+ {
+  "subject": "Recommendation implementation rate KPI",
+  "aspect": "target",
+  "value": "100% within 60-day statutory deadline",
+  "section": "16",
+  "page": 45,
+  "evidence": "பரிந்துரை செயல்படுத்தல் விகிதம்: IC-யின் பரிந்துரைகளில் 100% பரிந்துரைகள் சட்டப்பூர்வ 60 நாள் காலக்கெடுவிற்குள் நிர்வாகத்தால் செயல்படுத்தப்பட வேண்டும் என்பது கண்டிப்பான இலக்கு."
+ },
+ {
+  "subject": "Annual report submission timeliness KPI",
+  "aspect": "target",
+  "value": "100% by January 31",
+  "section": "16",
+  "page": 45,
+  "evidence": "ஆண்டு அறிக்கை சமர்ப்பிப்பு காலவரம்பு: ஒவ்வொரு IC-யும் தனது ஆண்டு அறிக்கையை ஒவ்வொரு ஆண்டும் ஜனவரி 31-க்குள் 100% நேரத்தில் சமர்ப்பிக்க வேண்டும்."
+ },
+ {
+  "subject": "Awareness session attendance KPI",
+  "aspect": "target",
+  "value": "minimum 90% per session",
+  "section": "16",
+  "page": 45,
+  "evidence": "விழிப்புணர்வு அமர்வு பங்கேற்பு விகிதம்: ஒவ்வொரு தனிப்பட்ட விழிப்புணர்வு பயிற்சி அமர்விலும் குறைந்தது 90% அழைக்கப்பட்ட பணியாளர்கள் கலந்துகொள்ள வேண்டும் என்பது இலக்கு."
+ },
+ {
+  "subject": "Third-party orientation coverage KPI",
+  "aspect": "target",
+  "value": "100% before new client-site deployment",
+  "section": "16",
+  "page": 45,
+  "evidence": "மூன்றாம் தரப்பு ஒழுங்குமுறை பாதுகாப்பு: வாடிக்கையாளர் தளங்களில் பணிபுரியும் பணியாளர்களுக்கான POSH ஒரிஎன்டேஷன் பாதுகாப்பு 100% புதிய வாடிக்கையாளர் தள நியமனங்களுக்கு முன்னர் வழங்கப்பட வேண்டும்."
+ },
+ {
+  "subject": "General Disciplinary Committee (non-POSH gender harassment)",
+  "aspect": "member_count",
+  "value": "5",
+  "section": "13",
+  "page": 38,
+  "evidence": "இந்த பரந்த குழுவில் ஐந்து உறுப்பினர்கள் உள்ளனர், இதில் நிறுவனத்தின் பாலின பன்முகத்தன்மையை பிரதிபலிக்கும் வகையில் குறைந்தது இரண்டு பேர் பெண்களாகவும், ஒருவர் வெளி மனித வள ஆலோசகராகவும் இருப்பர்."
+ },
+ {
+  "subject": "General Disciplinary Committee",
+  "aspect": "women_member_minimum",
+  "value": "at least 2",
+  "section": "13",
+  "page": 38,
+  "evidence": "இந்த பரந்த குழுவில் ஐந்து உறுப்பினர்கள் உள்ளனர், இதில் நிறுவனத்தின் பாலின பன்முகத்தன்மையை பிரதிபலிக்கும் வகையில் குறைந்தது இரண்டு பேர் பெண்களாகவும், ஒருவர் வெளி மனித வள ஆலோசகராகவும் இருப்பர்."
+ },
+ {
+  "subject": "General Disciplinary Committee",
+  "aspect": "inquiry_completion_target",
+  "value": "100 days",
+  "section": "13",
+  "page": 39,
+  "evidence": "பரந்த ஒழுக்க குழுவின் செயல்முறை: பரந்த ஒழுக்க குழுவும் IC-யைப் போலவே, புகார் பெறப்பட்ட 7 நாட்களுக்குள் பிரதிவாதிக்கு அறிவிக்கும், இரு தரப்பினரையும் தனித்தனியாக விசாரிக்கும், சாட்சிகளின் வாக்குமூலங்களை பதிவு செய்யும், மற்றும் இறுதி அறிக்கையை புகார் பெறப்பட்ட 100 நாட்களுக்குள் (IC-யின் 90 நாள் காலக்கெடுவை விட சற்று நீண்டது, ஏனெனில் இது சட்டப்பூர்வ கட்டாயம் அல்ல, உள் நடைமுறை இலக்கு மட்டுமே) சமர்ப்பிக்கும்."
+ },
+ {
+  "subject": "Confidentiality breach",
+  "aspect": "first_offense_penalty",
+  "value": "written warning and mandatory retraining",
+  "section": "6",
+  "page": 23,
+  "evidence": "நிறுவனத்தின் உள் நடைமுறையின்படி, இரகசியத்தன்மை மீறலுக்கான முதல் நிகழ்வுக்கு எழுத்துப்பூர்வ எச்சரிக்கை மற்றும் கட்டாய மறு-பயிற்சி வழங்கப்படும்; தொடர் மீறல் ஏற்பட்டால், அது பதவி இறக்கம் அல்லது பணி நீக்கம் உள்ளிட்ட கடுமையான ஒழுக்க நடவடிக்கைக்கு வழிவகுக்கும்."
+ },
+ {
+  "subject": "Confidentiality breach",
+  "aspect": "repeat_offense_penalty",
+  "value": "up to demotion or termination",
+  "section": "6",
+  "page": 23,
+  "evidence": "நிறுவனத்தின் உள் நடைமுறையின்படி, இரகசியத்தன்மை மீறலுக்கான முதல் நிகழ்வுக்கு எழுத்துப்பூர்வ எச்சரிக்கை மற்றும் கட்டாய மறு-பயிற்சி வழங்கப்படும்; தொடர் மீறல் ஏற்பட்டால், அது பதவி இறக்கம் அல்லது பணி நீக்கம் உள்ளிட்ட கடுமையான ஒழுக்க நடவடிக்கைக்கு வழிவகுக்கும்."
+ },
+ {
+  "subject": "Government online complaint portal referenced",
+  "aspect": "name",
+  "value": "SHe-Box (Sexual Harassment electronic Box)",
+  "section": "10",
+  "page": 32,
+  "evidence": "அரசு SHe-Box தளத்துடனான இணக்கம்: மத்திய பெண்கள் மற்றும் குழந்தைகள் மேம்பாட்டு அமைச்சகம் பராமரிக்கும் \"SHe-Box\" (Sexual Harassment electronic Box) என்ற ஆன்லைன் புகார் மேலாண்மை தளத்தில், நிறுவனத்தின் IC-கள் பதிவு செய்யப்பட்டுள்ளன."
+ },
+ {
+  "subject": "POSH Act historical origin",
+  "aspect": "source_case",
+  "value": "Vishaka and others vs. State of Rajasthan (1997)",
+  "section": "17",
+  "page": 46,
+  "evidence": "இந்த சட்டம் திடீரென உருவானது அல்ல; இது 1997-ஆம் ஆண்டு இந்திய உச்ச நீதிமன்றம் வழங்கிய விசாகா வழக்கின் தீர்ப்பில் (Vishaka and others vs. State of Rajasthan) இருந்து தோன்றியது."
+ },
+ {
+  "subject": "POSH Act",
+  "aspect": "year_enacted",
+  "value": "2013",
+  "section": "17",
+  "page": 46,
+  "evidence": "இந்த கொள்கையை பணியாளர்கள் முழுமையாக புரிந்துகொள்ள உதவும் வகையில், POSH சட்டம், 2013-ன் வரலாற்று பின்னணியை நிறுவனம் சுருக்கமாக வழங்குகிறது."
+ },
+ {
+  "subject": "Vishaka guidelines",
+  "aspect": "constitutional_basis",
+  "value": "Articles 14, 19(1)(g) and 21",
+  "section": "17",
+  "page": 46,
+  "evidence": "இந்த வழிகாட்டுதல்கள், இந்திய அரசியலமைப்பின் பிரிவு 14 (சமத்துவ உரிமை), பிரிவு 19(1)(g) (எந்தவொரு தொழிலையும் பின்பற்றும் உரிமை), மற்றும் பிரிவு 21 (வாழ்க்கை மற்றும் தனிப்பட்ட சுதந்திர உரிமை) ஆகியவற்றின் அடிப்படையில் உருவாக்கப்பட்டன, இது பாலியல் துன்புறுத்தலை ஒரு அடிப்படை உரிமை மீறலாக நீதிமன்றம் அங்கீகரித்ததை காட்டுகிறது."
+ },
+ {
+  "subject": "Case reference number format",
+  "aspect": "example",
+  "value": "CHN-2025-003 (office code-year-sequence)",
+  "section": "14",
+  "page": 41,
+  "evidence": "ஆவண எண் வரிசைமுறை: ஒவ்வொரு வழக்கிற்கும் ஒதுக்கப்படும் தனி வழக்கு எண், அலுவலக குறியீடு, ஆண்டு, மற்றும் வரிசை எண்ணை உள்ளடக்கிய ஒரு நிலையான வடிவமைப்பை பின்பற்றும் (எடுத்துக்காட்டாக, CHN-2025-003 என்பது சென்னை அலுவலகத்தின் 2025-ஆம் ஆண்டின் மூன்றாவது வழக்கை குறிக்கும்), இது பதிவுகளை எளிதாக வரிசைப்படுத்தவும் கண்டுபிடிக்கவும் உதவுகிறது."
+ },
+ {
+  "subject": "Full and final settlement compensation",
+  "aspect": "deduction_method",
+  "value": "installments from respondent's salary or final settlement",
+  "section": "7",
+  "page": 27,
+  "evidence": "நிறுவனம் இந்த தொகையை பிரதிவாதியின் ஊதியத்திலிருந்து தவணை முறையில் அல்லது இறுதி தீர்வு தொகையிலிருந்து (full and final settlement) கழித்துக் கொள்ளும் வழிமுறையை பின்பற்றும்."
+ },
+ {
+  "subject": "Digital evidence retrieval from company systems",
+  "aspect": "authorization_requirement",
+  "value": "only via independent IT representative with written authorization",
+  "section": "14அ. தரவு பாதுகாப்பும் டிஜிட்டல் சாட்சியங்களும்",
+  "page": 41,
+  "evidence": "IC ஒரு பணியாளரின் நிறுவன மின்னஞ்சல் கணக்கு அல்லது அலுவலக கணினியிலிருந்து சான்றுகளை பெற வேண்டியிருந்தால், இது தகவல் தொழில்நுட்ப பிரிவின் ஒரு சுயாதீன பிரதிநிதி மூலம், எழுத்துப்பூர்வ அங்கீகாரத்துடன் மட்டுமே மேற்கொள்ளப்படும், மேலும் பெறப்பட்ட தரவு உடனடியாக பிரிவு 14-ல் விவரிக்கப்பட்ட குறியாக்கம் செய்யப்பட்ட கோப்பகத்தில் பாதுகாக்கப்படும்."
+ },
+ {
+  "subject": "Personal device evidence",
+  "aspect": "handling_rule",
+  "value": "obtained only with complainant's consent; original device never confiscated, only copy/screenshot taken",
+  "section": "14அ. தரவு பாதுகாப்பும் டிஜிட்டல் சாட்சியங்களும்",
+  "page": 41,
+  "evidence": "பாதிக்கப்பட்ட பெண் தனது தனிப்பட்ட சாதனத்தில் (தனிப்பட்ட மொபைல் போன், தனிப்பட்ட மின்னஞ்சல் கணக்கு) சேமித்துள்ள ஆதாரங்களை சமர்ப்பிக்க விரும்பினால், அவை அவரது சம்மதத்துடன் மட்டுமே பெறப்படும், மேலும் அசல் சாதனத்தை IC எந்த சூழலிலும் கையகப்படுத்தாது; பதிலாக, ஆதாரத்தின் நகல் (ஸ்கிரீன்ஷாட் அல்லது அச்சு பிரதி) மட்டுமே பதிவுக்கு எடுக்கப்படும்."
+ },
+ {
+  "subject": "Company data protection practices",
+  "aspect": "legal_compliance",
+  "value": "comply with Digital Personal Data Protection Act, 2023",
+  "section": "14அ. தரவு பாதுகாப்பும் டிஜிட்டல் சாட்சியங்களும்",
+  "page": 41,
+  "evidence": "நிறுவனத்தின் தரவு பாதுகாப்பு நடைமுறைகள், தனிநபர் தரவு பாதுகாப்பு சட்டம், 2023 (Digital Personal Data Protection Act, 2023) உள்ளிட்ட பொருந்தக்கூடிய தரவு தனியுரிமை சட்டங்களுக்கு இணங்கும் வகையில் வடிவமைக்கப்பட்டுள்ளன, இது IC பதிவுகளுக்கும் பொருந்தும்."
+ },
+ {
+  "subject": "Preventive workplace design measures",
+  "aspect": "list",
+  "value": "adequate lighting at all sites, CCTV in common areas, visible/glass-door isolated meeting rooms, safe transport for night-shift women employees",
+  "section": "14ஆ. முன்னெச்சரிக்கை பணியிட வடிவமைப்பு நடவடிக்கைகள்",
+  "page": 42,
+  "evidence": "இதில் அடங்குவன: அனைத்து அலுவலக தளங்களிலும் போதுமான வெளிச்சம் இருப்பதை உறுதி செய்தல்; பொதுவான பகுதிகளில் (வரவேற்பறை, லிப்ட், படிக்கட்டு) CCTV கண்காணிப்பு வசதி (இது நிறுவனத்தின் தனி கண்காணிப்பு கொள்கையின் கீழ் கையாளப்படுகிறது); தனிமைப்படுத்தப்பட்ட கூட்ட அறைகளுக்கு கண்ணாடி கதவுகள் அல்லது வெளிப்படையான பார்வை வசதி வழங்குதல்; மற்றும் இரவு நேர பணி செய்யும் பெண் பணியாளர்களுக்கு பாதுகாப்பான போக்குவரத்து வசதி உறுதி செய்தல்."
+ },
+ {
+  "subject": "Workplace safety audit",
+  "aspect": "frequency",
+  "value": "conducted annually by the IC; findings sent to facilities management for action",
+  "section": "14ஆ. முன்னெச்சரிக்கை பணியிட வடிவமைப்பு நடவடிக்கைகள்",
+  "page": 42,
+  "evidence": "இந்த கட்டமைப்பு நடவடிக்கைகள் ஒவ்வொரு ஆண்டும் IC-யால் மேற்கொள்ளப்படும் ஒரு பணியிட பாதுகாப்பு தணிக்கையின் (workplace safety audit) ஒரு பகுதியாக மறுஆய்வு செய்யப்படும். இந்த தணிக்கையின் கண்டறிதல்கள் வசதிகள் மேலாண்மை பிரிவுக்கு அனுப்பப்பட்டு, தேவையான மேம்பாடுகள் செயல்படுத்தப்படும்."
+ },
+ {
+  "subject": "IC structural changes",
+  "aspect": "approval_requirement",
+  "value": "any change (new member, tenure extension, removal) requires HR head's written approval, recorded at Executive Directors committee meeting",
+  "section": "15",
+  "page": 42,
+  "evidence": "IC-யின் கட்டமைப்பில் ஏதேனும் மாற்றம் - புதிய உறுப்பினர் நியமனம், பதவிக்கால நீட்டிப்பு, அல்லது உறுப்பினர் நீக்கம் - மனிதவள தலைவரின் எழுத்துப்பூர்வ அங்கீகாரத்துடன் மட்டுமே செய்யப்படும். இந்த அங்கீகாரம் நிர்வாக இயக்குநர் குழுவின் பருவகால கூட்டத்தில் பதிவு செய்யப்படும்."
+ },
+ {
+  "subject": "Ongoing investigations during vacancy",
+  "aspect": "continuity_rule",
+  "value": "continue with remaining members as long as statutory minimum quorum (3, including Presiding Officer) is met",
+  "section": "15",
+  "page": 43,
+  "evidence": "காலியிடம் நிரப்பப்படும் வரை, நடைபெற்றுக்கொண்டிருக்கும் விசாரணைகள் மீதமுள்ள உறுப்பினர்களால் தொடரப்படும், சட்டப்படி தேவையான குறைந்தபட்ச எண்ணிக்கை (மூன்று உறுப்பினர்கள், இதில் தலைமை அதிகாரி கட்டாயம்) பூர்த்தி செய்யப்பட்டால்."
+ },
+ {
+  "subject": "External member vacancy interim arrangement",
+  "aspect": "process",
+  "value": "another previously associated qualified external expert handles complaints temporarily until replacement is appointed",
+  "section": "15",
+  "page": 43,
+  "evidence": "இந்த காலத்தில் நடைபெறும் புகார்கள் தற்காலிகமாக, நிறுவனத்துடன் முன்னர் இணைந்திருந்த மற்றொரு தகுதியான வெளி நிபுணரை அழைத்து கையாளப்படும்."
+ },
+ {
+  "subject": "Presiding Officer on extended leave",
+  "aspect": "succession_rule",
+  "value": "pre-designated senior woman member acts as interim Presiding Officer until return",
+  "section": "15",
+  "page": 43,
+  "evidence": "தலைமை அதிகாரி இடைக்கால விடுப்பில் இருந்தால்: தலைமை அதிகாரி திட்டமிட்ட விடுப்பு அல்லது மருத்துவ காரணங்களுக்காக நீண்ட காலம் பணியில் இல்லாத சூழலில், முன்கூட்டியே நியமிக்கப்பட்ட ஒரு மூத்த பெண் உறுப்பினர் தற்காலிக தலைமை அதிகாரியாக பொறுப்பேற்று, அவர் திரும்பும் வரை IC-யின் செயல்பாட்டை தடையின்றி தொடர்வார்."
+ },
+ {
+  "subject": "IC annual self-assessment",
+  "aspect": "content",
+  "value": "reviews prior year's achievements, challenges such as deadline breaches, and improvement areas; anonymized summary included in annual report",
+  "section": "15",
+  "page": 43,
+  "evidence": "IC-யின் ஆண்டு சுய மதிப்பீடு: ஒவ்வொரு ஆண்டும், IC தனது சொந்த செயல்பாட்டை மதிப்பிடும் ஒரு சுய மதிப்பீட்டு அமர்வை நடத்தும், இதில் முந்தைய ஆண்டின் வெற்றிகள், எதிர்கொண்ட சவால்கள் (எடுத்துக்காட்டாக, காலக்கெடு மீறல்கள் ஏதேனும் இருந்தால்), மற்றும் மேம்பாட்டிற்கான பகுதிகள் விவாதிக்கப்படும். இந்த சுய மதிப்பீட்டின் சுருக்கம், அடையாளம் வெளிப்படாத வகையில், ஆண்டு அறிக்கையின் ஒரு பகுதியாக நிர்வாகத்திற்கு சமர்ப்பிக்கப்படும்."
+ },
+ {
+  "subject": "New IC member recommendation process",
+  "aspect": "steps",
+  "value": "HR drafts recommendation, consults Presiding Officer, final approval by HR head; employee associations/representatives also consulted",
+  "section": "15",
+  "page": 43,
+  "evidence": "புதிய IC உறுப்பினர் நியமனத்திற்கான பரிந்துரைகளை மனிதவள பிரிவு தயாரித்து, தலைமை அதிகாரியுடன் ஆலோசித்த பின்னர், மனிதவள தலைவரின் இறுதி அங்கீகாரத்திற்கு சமர்ப்பிக்கும். இந்த நியமன செயல்முறையில் பணியாளர் சங்கங்கள் அல்லது பணியாளர் பிரதிநிதிகளின் கருத்தும் கேட்கப்படும், இது IC-யின் பணியாளர்களிடையேயான நம்பகத்தன்மையை மேம்படுத்தும் நோக்கத்துடன் செய்யப்படுகிறது."
+ },
+ {
+  "subject": "IC continuity during office relocation/merger",
+  "aspect": "process",
+  "value": "HR prepares new IC structure before the move; ongoing investigations completed by the original IC; HR head decides on merging ICs per Section 4 legal requirements",
+  "section": "15",
+  "page": 43,
+  "evidence": "நிறுவன மறுசீரமைப்பு அல்லது அலுவலக இடமாற்றத்தின் போது IC தொடர்ச்சி: நிறுவனம் தனது ஏதேனும் ஒரு அலுவலகத்தை வேறு இடத்திற்கு மாற்றினால் அல்லது இரண்டு அலுவலகங்களை இணைத்தால், அந்த மாற்றத்தின் போதும் IC-யின் செயல்பாடு தடையின்றி தொடர வேண்டும் என்பதை உறுதி செய்ய, மனிதவள பிரிவு மாற்றத்திற்கு முன்னரே புதிய அமைப்பிற்கான IC கட்டமைப்பை தயார் செய்யும். நடைபெற்றுக்கொண்டிருக்கும் எந்தவொரு விசாரணையும், மாற்றத்தின் போது இடைநிறுத்தப்படாமல், அசல் IC-யாலேயே முடிக்கப்படும், இரண்டு அலுவலகங்களும் இணைக்கப்பட்டாலும் சரி. இரண்டு அலுவலகங்கள் இணைக்கப்படும்போது அவற்றின் IC-கள் இணைக்கப்பட வேண்டுமா என்ற முடிவு, சட்டத்தின் பிரிவு 4-ன் கட்டாய தேவைகளை பூர்த்தி செய்யும் வகையில், மனிதவள தலைவரால் எடுக்கப்படும்."
+ },
+ {
+  "subject": "IC resource allocation",
+  "aspect": "budget",
+  "value": "dedicated annual budget line for external member fees, training, documentation and legal consultation; IC can escalate directly to Executive Directors committee if resources are insufficient",
+  "section": "15",
+  "page": 44,
+  "evidence": "IC செயல்பாட்டிற்கான வள ஒதுக்கீடு: நிறுவனம் ஒவ்வொரு நிதி ஆண்டிலும் IC-யின் செயல்பாட்டிற்கான - வெளி உறுப்பினர் கலந்தாய்வு கட்டணம், பயிற்சி நிகழ்ச்சிகள், ஆவண பராமரிப்பு, மற்றும் தேவைப்படும் சட்ட ஆலோசனை - ஒரு தனி பட்ஜெட் வரியை ஒதுக்குகிறது. இந்த பட்ஜெட் மனிதவள தலைவரால் நிர்வகிக்கப்பட்டாலும், அதன் பயன்பாடு குறித்து IC-க்கு முழு வெளிப்படைத்தன்மை உண்டு, மேலும் எந்தவொரு IC-யும் தனது செயல்பாட்டிற்கு தேவையான வளங்கள் போதுமானதாக இல்லை என்று கருதினால், நேரடியாக நிர்வாக இயக்குநர் குழுவிற்கு எழுத்துப்பூர்வமாக கோரிக்கை அனுப்பலாம்."
+ },
+ {
+  "subject": "Quarterly KPI review meeting",
+  "aspect": "format",
+  "value": "HR head holds a consolidated review with all 4 offices' Presiding Officers each quarter; notes summarized to Executive Directors committee",
+  "section": "16",
+  "page": 45,
+  "evidence": "காலாண்டு மறுஆய்வு கூட்டம்: ஒவ்வொரு காலாண்டின் முடிவிலும், மனிதவள தலைவர் நான்கு அலுவலகங்களின் IC தலைமை அதிகாரிகளுடன் ஒரு ஒருங்கிணைந்த மறுஆய்வு கூட்டத்தை நடத்துவார்."
+ },
+ {
+  "subject": "POSH Act",
+  "aspect": "full_name",
+  "value": "Sexual Harassment of Women at Workplace (Prevention, Prohibition and Redressal) Act, 2013",
+  "section": "1",
+  "page": 1,
+  "evidence": "இந்த வழிகாட்டி, பெண்கள் பணியிடத்தில் பாலியல் துன்புறுத்தலில் இருந்து பாதுகாக்கப்படுவதற்கான சட்டம், 2013 (Sexual Harassment of Women at Workplace (Prevention, Prohibition and Redressal) Act, 2013, இனி \"POSH சட்டம்\" என குறிப்பிடப்படும்) மற்றும் அதனுடன் தொடர்புடைய விதிமுறைகளின் அடிப்படையில் வகுக்கப்பட்டுள்ளது."
+ },
+ {
+  "subject": "POSH Act companion regulations",
+  "aspect": "name",
+  "value": "Sexual Harassment of Women at Workplace Rules, 2013",
+  "section": "17",
+  "page": 46,
+  "evidence": "இந்த சட்டத்துடன் இணைந்து, \"பெண்கள் பணியிடத்தில் பாலியல் துன்புறுத்தலில் இருந்து பாதுகாக்கப்படுவதற்கான விதிகள், 2013\" என்ற நிர்வாக விதிமுறைகளும் அமலுக்கு வந்தன, இவை IC-யின் செயல்பாட்டு விவரங்களை மேலும் தெளிவுபடுத்துகின்றன."
+ },
+ {
+  "subject": "Legal and Compliance division",
+  "aspect": "ongoing_responsibility",
+  "value": "monitors subsequent High Court/Supreme Court judgments and updates the guideline as needed",
+  "section": "17",
+  "page": 47,
+  "evidence": "நிறுவனத்தின் சட்ட மற்றும் இணக்கப் பிரிவு, இத்தகைய முக்கிய நீதித்துறை முன்னுதாரணங்களை தொடர்ந்து கண்காணித்து, தேவைப்படும்போது இந்த வழிகாட்டியை புதுப்பிக்கிறது."
+ },
+ {
+  "subject": "Case study example 1",
+  "aspect": "scenario",
+  "value": "repeated verbal comments about appearance by a team lead; witness testimony treated as key evidence",
+  "section": "18",
+  "page": 47,
+  "evidence": "உதாரணம் 1 - மீண்டும் மீண்டும் நிகழும் வாய்மொழி கருத்துக்கள்: ஒரு பணியாளர், தனது குழு தலைவர் தொடர்ந்து தனது ஆடை மற்றும் தோற்றம் குறித்து பாலியல் தன்மை கொண்ட கருத்துக்களை தெரிவிப்பதாக புகார் அளிக்கிறார். இந்த சூழலில், IC முதலில் இந்த நடத்தை \"விரும்பத்தகாத, தொடர்ச்சியான, பாலியல் தன்மை கொண்ட வாய்மொழி நடத்தை\" என்ற வரையறைக்குள் வருகிறதா என்பதை மதிப்பிடும். சாட்சிகள் - சக பணியாளர்கள் இந்த கருத்துக்களை கேட்டிருந்தால் - அவர்களின் வாக்குமூலம் முக்கியமான ஆதாரமாக செயல்படும்."
+ },
+ {
+  "subject": "Case study example 2",
+  "aspect": "scenario",
+  "value": "quid pro quo - manager seeking sexual favour in exchange for promotion, citing Section 3(2) of the Act",
+  "section": "18",
+  "page": 48,
+  "evidence": "உதாரணம் 2 - பதவி உயர்வுக்கு ஈடாக சலுகை கோருதல்: ஒரு பணியாளர், தனது மேலாளர் பதவி உயர்வுக்கு ஈடாக தனிப்பட்ட சந்திப்புகளுக்கு அழைப்பதாகவும், மறைமுகமாக பாலியல் சலுகை கோருவதாகவும் புகார் அளிக்கிறார். இது \"Quid pro quo\" (ஏதாவது பெற்றால் ஏதாவது கொடுக்கும்) வகை துன்புறுத்தலுக்கு எடுத்துக்காட்டாகும், இது சட்டத்தின் பிரிவு 3(2)-ன் கீழ் குறிப்பிட்ட முறையில் தடை செய்யப்பட்டுள்ளது."
+ },
+ {
+  "subject": "Case study example 3",
+  "aspect": "scenario",
+  "value": "virtual meeting/DM harassment - colleague sending sexual images via direct message during remote work; digital evidence (screenshots) treated as critical",
+  "section": "18",
+  "page": 48,
+  "evidence": "உதாரணம் 3 - மெய்நிகர் கூட்டத்தில் நிகழும் சம்பவம்: ஒரு பணியாளர், தொலைதூர பணி அமர்வின் போது, ஒரு இணை பணியாளர் தனிப்பட்ட அரட்டை செய்தி (direct message) மூலமாக பாலியல் தன்மை கொண்ட படங்களை அனுப்பியதாக புகார் அளிக்கிறார். இந்த சூழலில் IC, மேலே பிரிவு 2-ல் விளக்கப்பட்ட \"பணியிடம்\" என்ற விரிவான வரையறையின் அடிப்படையில், இது முழுமையான அதிகார வரம்பிற்குள் வருகிறது என முடிவு செய்யும். இலத்திரனியல் சான்றுகள் (ஸ்கிரீன்ஷாட், செய்தி பதிவுகள்) இந்த வகை வழக்குகளில் மிக முக்கியமான ஆதாரமாக செயல்படும், எனவே பாதிக்கப்பட்ட பெண் இத்தகைய ஆதாரங்களை பாதுகாக்க ஊக்குவிக்கப்படுவார்."
+ },
+ {
+  "subject": "Case study example 4",
+  "aspect": "scenario",
+  "value": "third-party client representative pressuring a female employee at a client site; handled via Section 12 interim relief plus written complaint to the client company",
+  "section": "18",
+  "page": 49,
+  "evidence": "உதாரணம் 4 - மூன்றாம் தரப்பு வாடிக்கையாளர் சம்பவம்: ஒரு பெண் பணியாளர், வாடிக்கையாளர் தளத்தில் திட்ட கூட்டத்தின் போது, அந்த வாடிக்கையாளர் நிறுவனத்தின் ஒரு மூத்த பிரதிநிதி தொடர்ந்து தனிப்பட்ட முறையில் சந்திக்க அழுத்தம் கொடுப்பதாக புகார் அளிக்கிறார். இந்த சூழலில், IC பிரிவு 12-ல் விவரிக்கப்பட்ட தற்காலிக நிவாரணமாக, அந்த பணியாளரை உடனடியாக அந்த திட்டத்திலிருந்து அவரது ஒப்புதலுடன் மாற்றி, இணையாக வாடிக்கையாளர் நிறுவனத்துடன் எழுத்துப்பூர்வமாக தொடர்பு கொண்டு நடவடிக்கை கோரும்."
+ },
+ {
+  "subject": "Former IC member network",
+  "aspect": "role",
+  "value": "eligible to serve as temporary additional member in conflict-of-interest cases; may share general process lessons (no case specifics) at new member orientation",
+  "section": "18அ. IC-யின் தொடர்ச்சியும் முன்னாள் உறுப்பினர் வலையமைப்பும்",
+  "page": 49,
+  "evidence": "இந்த வலையமைப்பில் உள்ள முன்னாள் உறுப்பினர்கள், பிரிவு 3-ல் விவரிக்கப்பட்ட நலன் முரண்பாடு ஏற்படும் சூழல்களில், தற்காலிக கூடுதல் உறுப்பினராக அழைக்கப்படும் தகுதியை பெறுவார்கள். மேலும், புதிய IC உறுப்பினர்களுக்கான நோக்குநிலை அமர்வுகளில், முன்னாள் உறுப்பினர்கள் தங்கள் அனுபவத்தை பகிர்ந்துகொள்ள சில நேரங்களில் அழைக்கப்படுவார்கள், இது முறையான இரகசியத்தன்மை விதிமுறைகளுக்கு உட்பட்டு, குறிப்பிட்ட வழக்கு விவரங்கள் இல்லாமல் பொதுவான செயல்முறை பாடங்களாக மட்டுமே பகிரப்படும்."
+ },
+ {
+  "subject": "Independent external audit of IC functioning",
+  "aspect": "frequency",
+  "value": "every 3 years, across all 4 offices, results submitted directly to Executive Directors committee",
+  "section": "18அ. IC-யின் தொடர்ச்சியும் முன்னாள் உறுப்பினர் வலையமைப்பும்",
+  "page": 50,
+  "evidence": "மேலும், ஒவ்வொரு மூன்று ஆண்டுகளுக்கும் ஒரு முறை, நிறுவனம் ஒரு வெளி சுயாதீன நிறுவனத்தை நியமித்து, நான்கு அலுவலகங்களிலும் உள்ள IC-களின் செயல்பாட்டை ஒரு முழுமையான சுயாதீன தணிக்கைக்கு உட்படுத்துகிறது. இந்த தணிக்கை, IC-களின் கட்டமைப்பு சட்டத்தின் தேவைகளுக்கு இணங்குகிறதா, விசாரணை பதிவுகள் முறையாக பராமரிக்கப்படுகின்றனவா, மற்றும் காலக்கெடுக்கள் பொதுவாக கடைபிடிக்கப்படுகின்றனவா என்பதை சரிபார்க்கிறது. இந்த தணிக்கையின் முடிவுகள் நிர்வாக இயக்குநர் குழுவிற்கு நேரடியாக சமர்ப்பிக்கப்படும், இது IC-யின் செயல்பாட்டின் மீதான வெளிப்புற, சுயாதீன உறுதிப்பாட்டை வழங்குகிறது."
+ },
+ {
+  "subject": "Gender discrimination (non-sexual)",
+  "aspect": "handling_body",
+  "value": "handled under separate Equal Opportunity and Anti-Discrimination policy, not by the IC",
+  "section": "18ஆ. பாலியல் துன்புறுத்தலும் பொதுவான பாலின பாகுபாடும் - வேறுபாடு",
+  "page": 50,
+  "evidence": "மாறாக, ஒரு பெண் பணியாளருக்கு, அவரது பாலினத்தின் அடிப்படையில் - பாலியல் தன்மை இல்லாமல் - சம ஊதியம் மறுக்கப்படுதல், பதவி உயர்வு வாய்ப்புகளில் பாகுபாடு, அல்லது பிற பணியிட தகுதிகளில் வேறுபாடு காட்டப்படுதல் போன்றவை பொதுவான பாலின பாகுபாடாக கருதப்படும், இது இந்த ஆவணத்தின் எல்லைக்கு வெளியே உள்ளது, மேலும் நிறுவனத்தின் சம வாய்ப்பு மற்றும் பாகுபாடு எதிர்ப்பு கொள்கையின் கீழ் (தனியாக வழங்கப்பட்டுள்ளது) கையாளப்படும்."
+ },
+ {
+  "subject": "Mixed sexual-harassment/discrimination complaint",
+  "aspect": "process",
+  "value": "sexual harassment elements investigated by IC, discrimination elements handled in parallel via general disciplinary process; employee files a single complaint form with one coordinated point of contact",
+  "section": "18ஆ. பாலியல் துன்புறுத்தலும் பொதுவான பாலின பாகுபாடும் - வேறுபாடு",
+  "page": 50,
+  "evidence": "இத்தகைய கலப்பு சூழல்களில், பணியாளர் IC-யிடம் புகார் அளிக்கலாம், மேலும் IC பாலியல் தன்மை கொண்ட கூறுகளை விசாரிக்கும்; பாலின பாகுபாடு தொடர்பான கூறுகள், இணையாக, பொது ஒழுக்க நடவடிக்கை மூலம் கையாளப்படும். இந்த இரண்டு செயல்முறைகளும் ஒருங்கிணைக்கப்பட்டு, பணியாளர் ஒரே சம்பவத்தை இரண்டு முறை விளக்க வேண்டிய சுமை ஏற்படாதவாறு IC மற்றும் மனிதவள பிரிவு ஒருங்கிணைந்து செயல்படும். நடைமுறையில், பணியாளர் ஒரே ஒரு முறை முழு சம்பவத்தையும் விவரித்து ஒரே புகார் படிவத்தை பூர்த்தி செய்தால் போதும்; அதன் பின் IC-யும் மனிதவள பிரிவும் தங்களுக்குள் எந்த பகுதி எந்த செயல்முறையின் கீழ் செல்ல வேண்டும் என்பதை பிரித்து, பணியாளருக்கு ஒரே ஒருங்கிணைந்த புள்ளியாக தொடர்பு கொள்பவர் யார் என்பதை தெளிவுபடுத்துவார்கள்."
+ },
+ {
+  "subject": "Employee Assistance Programme counseling",
+  "aspect": "vendor_independence",
+  "value": "external vendor with no prior professional or personal connection to any employee",
+  "section": "19",
+  "page": 51,
+  "evidence": "இந்த வெளி சேவை வழங்குநர், நிறுவனத்தின் எந்தவொரு பணியாளருடனும் எவ்வித முந்தைய தொழில்முறை அல்லது தனிப்பட்ட தொடர்பும் இல்லாத, முற்றிலும் சுயாதீனமான நிறுவனமாக தேர்ந்தெடுக்கப்பட்டுள்ளது, இதனால் அவர்களை அணுகும் பணியாளர்களின் தனியுரிமை முழுமையாக பாதுகாக்கப்படுகிறது."
+ },
+ {
+  "subject": "Employee Assistance Programme access",
+  "aspect": "scope",
+  "value": "available voluntarily and confidentially to complainant, witness, respondent, or any employee; not considered part of the IC investigation",
+  "section": "19",
+  "page": 51,
+  "evidence": "இந்த சேவையை பாதிக்கப்பட்ட பெண், சாட்சி, பிரதிவாதி, அல்லது விரும்பும் எந்தவொரு பணியாளரும் முற்றிலும் தன்னார்வமாக, இரகசியமாக அணுகலாம் - விசாரணையில் தங்கள் பங்கு எதுவாக இருந்தாலும்; இந்த சேவையை அணுகுவது IC விசாரணையின் ஒரு பகுதியாக கருதப்படாது, மேலும் இதை அணுகியவரின் விவரம் IC-யுடன் பகிரப்படாது."
+ },
+ {
+  "subject": "Family members' access to case information",
+  "aspect": "restriction",
+  "value": "cannot obtain case details directly from the IC without complainant's permission; all communication goes through the complainant",
+  "section": "19",
+  "page": 52,
+  "evidence": "குடும்ப உறுப்பினர்களுக்கான தகவல் பகிர்வு வரம்பு: பாதிக்கப்பட்ட பெண்ணின் குடும்ப உறுப்பினர்கள், அவர் அனுமதி அளித்தாலொழிய, IC-யிடமிருந்து நேரடியாக வழக்கு விவரங்களை பெற முடியாது; அனைத்து தொடர்புகளும் பாதிக்கப்பட்ட பெண் மூலமாக மட்டுமே நடைபெறும்."
+ },
+ {
+  "subject": "Return-to-work reintegration",
+  "aspect": "process",
+  "value": "Presiding Officer offers a voluntary conversation covering gradual workload increase or temporary placement in a different team",
+  "section": "19",
+  "page": 52,
+  "evidence": "வேலைக்குத் திரும்புதலுக்கான ஆதரவு: நீண்ட கால விடுப்பு எடுத்த பாதிக்கப்பட்ட பெண் பணிக்கு திரும்பும்போது, தலைமை அதிகாரி அவருடன் ஒரு மென்மையான, தன்னார்வ மறு-இணைவு (re-integration) உரையாடலை நடத்த வாய்ப்பளிப்பார், இதில் அவர் திரும்பி வரும்போது தேவையான எந்தவொரு கூடுதல் ஆதரவும் (எடுத்துக்காட்டாக, படிப்படியான பணிச்சுமை அதிகரிப்பு, அல்லது அவர் விரும்பும் வேறு அணியில் தற்காலிக பணியிடம்) விவாதிக்கப்படும்."
+ },
+ {
+  "subject": "Senior executive respondent",
+  "aspect": "process_rule",
+  "value": "no change to IC process regardless of seniority; reporting line changed immediately if respondent is the complainant's direct supervisor",
+  "section": "20",
+  "page": 52,
+  "evidence": "பிரதிவாதியின் பதவி எவ்வளவு உயர்ந்ததாக இருந்தாலும், IC-யின் விசாரணை செயல்முறையில் எவ்வித மாற்றமும் இல்லை. மாறாக, பிரதிவாதி பாதிக்கப்பட்ட பெண்ணின் நேரடி மேற்பார்வையாளராக இருந்தால், தற்காலிக நிவாரண நடவடிக்கையாக அறிக்கை செய்யும் கட்டமைப்பு உடனடியாக மாற்றப்படும், இதனால் பாதிக்கப்பட்ட பெண் தொடர்ந்து அந்த நிர்வாகியின் நேரடி மேற்பார்வையின் கீழ் பணியாற்ற வேண்டிய கட்டாயம் ஏற்படாது."
+ },
+ {
+  "subject": "Cross-office complaint",
+  "aspect": "jurisdiction_rule",
+  "value": "handled by the IC of the office where the complainant works; a member from the other office may be consulted",
+  "section": "20",
+  "page": 52,
+  "evidence": "எடுத்துக்காட்டாக, சென்னை அலுவலகத்தைச் சேர்ந்த பணியாளர் கோயம்புத்தூர் அலுவலகத்தைச் சேர்ந்த பணியாளர் மீது புகார் அளித்தால், பாதிக்கப்பட்ட பெண் பணிபுரியும் அலுவலகத்தின் IC-யே விசாரணையை மேற்கொள்ளும். தேவைப்பட்டால், மற்றொரு அலுவலகத்தின் IC உறுப்பினர் ஒருவர் கூடுதல் ஆலோசகராக அழைக்கப்படலாம், ஆனால் இறுதி முடிவு பாதிக்கப்பட்ட பெண்ணின் அலுவலக IC-யிடமே இருக்கும்."
+ },
+ {
+  "subject": "Post-resignation complaint",
+  "aspect": "rule",
+  "value": "can still be filed within the 3-month (or extended 6-month) window for incidents during employment; recommendations implemented fully if respondent still employed",
+  "section": "20",
+  "page": 53,
+  "evidence": "பணியாளர் பணியை விட்டு வெளியேறிய பின்னரும், அவர் பணியில் இருந்த காலத்தில் நிகழ்ந்த சம்பவம் தொடர்பாக, 3 மாத காலக்கெடுவிற்குள் (அல்லது நீட்டிக்கப்பட்ட 6 மாத காலக்கெடுவிற்குள்) புகார் அளிக்க முடியும். இத்தகைய சூழலில் IC முழுமையான விசாரணையை மேற்கொள்ளும், மேலும் பிரதிவாதி இன்னும் நிறுவனத்தில் பணிபுரிந்தால் பரிந்துரைகள் முழுமையாக செயல்படுத்தப்படும்."
+ },
+ {
+  "subject": "Respondent resignation during investigation",
+  "aspect": "rule",
+  "value": "IC must still complete the investigation in full",
+  "section": "20",
+  "page": 53,
+  "evidence": "பிரதிவாதி ராஜினாமா செய்தாலும், IC விசாரணையை முழுமையாக முடிக்கும் கடமை கொண்டுள்ளது, ஏனெனில் முடிவுகள் பாதிக்கப்பட்ட பெண்ணின் பதிவு, எதிர்கால குறிப்புகள் (reference checks), மற்றும் அந்த நபர் மீண்டும் நிறுவனத்தில் பணிக்கு விண்ணப்பித்தால் எடுக்கப்படும் முடிவுக்கு முக்கியமானவை."
+ },
+ {
+  "subject": "Multiple respondents in one case",
+  "aspect": "rule",
+  "value": "each respondent's role is evaluated and recommended separately; evidence against one is not automatically used against another",
+  "section": "20",
+  "page": 53,
+  "evidence": "IC ஒவ்வொரு பிரதிவாதியின் பங்கையும் தனித்தனியாக மதிப்பிட்டு, ஒவ்வொருவருக்கும் பொருந்தக்கூடிய தனி பரிந்துரையை வழங்கும். ஒரு பிரதிவாதிக்கு எதிரான ஆதாரம் மற்றொரு பிரதிவாதிக்கு எதிராக தானாக பயன்படுத்தப்படாது; ஒவ்வொருவரின் பொறுப்பும் தனித்தனியாக நிரூபிக்கப்பட வேண்டும்."
+ },
+ {
+  "subject": "Counter-complaint by respondent",
+  "aspect": "rule",
+  "value": "registered and investigated as a separate case on its own merits; does not delay the original complaint",
+  "section": "20",
+  "page": 53,
+  "evidence": "இத்தகைய சூழலில் IC இரண்டு புகார்களையும் தனித்தனி வழக்குகளாக பதிவு செய்து, ஒவ்வொன்றையும் தனித்தனியாக, அதன் சொந்த தகுதியின் அடிப்படையில் விசாரிக்கும். ஒரு புகார் மற்றொன்றின் விசாரணையை தாமதப்படுத்தவோ அல்லது பாதிக்கவோ அனுமதிக்கப்படாது."
+ },
+ {
+  "subject": "Complainant transfer during investigation",
+  "aspect": "rule",
+  "value": "original IC continues the investigation; video conferencing used for further statements",
+  "section": "20",
+  "page": 53,
+  "evidence": "பாதிக்கப்பட்ட பெண் விசாரணை நடைபெறும் போது வேறு அலுவலகத்திற்கு இடமாற்றம் பெற்றால், அசல் IC-யே விசாரணையை தொடரும், ஏனெனில் புகார் பதிவு செய்யப்பட்ட நேரத்தில் அதிகார வரம்பு நிர்ணயிக்கப்பட்டுவிடுகிறது. தேவைப்பட்டால், பாதிக்கப்பட்ட பெண்ணின் வாக்குமூலம் மற்றும் தொடர் விசாரணைகள் வீடியோ கான்பரன்ஸ் மூலம் நடத்தப்படலாம், இதனால் அவர் மீண்டும் மீண்டும் பயணிக்க வேண்டிய சுமை குறைக்கப்படும்."
+ },
+ {
+  "subject": "Verbal complaint to manager not escalated",
+  "aspect": "guidance",
+  "value": "manager must gently encourage approaching the IC and may introduce an IC member directly; cannot disclose employee's identity without consent except anonymized safety alerts in severe cases",
+  "section": "20",
+  "page": 54,
+  "evidence": "மாறாக, பணியாளரை IC-யை அணுகுமாறு மென்மையாக ஊக்குவிக்க வேண்டும், மேலும் அவர் விரும்பினால் IC உறுப்பினரை நேரடியாக அறிமுகப்படுத்தலாம். பணியாளர் இன்னும் முறையான புகார் அளிக்க விரும்பவில்லை எனில், மேலாளர் அந்த விருப்பத்தை மதிக்க வேண்டும், ஆனால் சூழ்நிலையை கண்காணித்து, தேவைப்பட்டால் மீண்டும் ஆதரவை வழங்கலாம். மிகக் கடுமையான சம்பவங்களில் (எடுத்துக்காட்டாக, பாதுகாப்புக்கு உடனடி அச்சுறுத்தல்), மேலாளர் மனிதவள பிரிவுக்கு பெயர் குறிப்பிடாமல் பொது எச்சரிக்கையாக தெரிவிக்கலாம், ஆனால் பணியாளரின் அடையாளத்தை அவரது ஒப்புதல் இல்லாமல் வெளியிடக்கூடாது."
+ },
+ {
+  "subject": "Employee concern about IC underperformance",
+  "aspect": "escalation_path",
+  "value": "raised in writing directly to HR head (not an appeal of a specific case); HR head may escalate to Executive Directors committee",
+  "section": "20",
+  "page": 54,
+  "evidence": "பணியாளர் IC-யின் செயல்பாடு குறித்த கவலையை - எடுத்துக்காட்டாக, தாமதம் அல்லது இரகசியத்தன்மை மீறல் - மனிதவள தலைவரிடம் நேரடியாக எழுத்துப்பூர்வமாக தெரிவிக்கலாம். இது ஒரு குறிப்பிட்ட புகாரின் முடிவு குறித்த மேல்முறையீடு அல்ல, மாறாக IC-யின் செயல்பாட்டு தரம் குறித்த நிர்வாக கவலையாகும். மனிதவள தலைவர் இத்தகைய கவலைகளை உடனடியாக ஆராய்ந்து, தேவைப்பட்டால் நிர்வாக இயக்குநர் குழுவிற்கு தெரிவிப்பார்."
+ },
+ {
+  "subject": "Employee union/association role",
+  "aspect": "limitation",
+  "value": "cannot directly intervene in the IC's investigation or decision-making since it is an independent statutory body; may still serve as a support person",
+  "section": "20",
+  "page": 54,
+  "evidence": "POSH சட்டம் IC-யை ஒரு சுயாதீன சட்டப்பூர்வ அமைப்பாக அங்கீகரிப்பதால், பணியாளர் சங்கங்கள் அல்லது ஒன்றியங்கள் IC-யின் விசாரணை செயல்முறையிலோ, முடிவெடுக்கும் செயல்பாட்டிலோ நேரடியாக தலையிட முடியாது. இருப்பினும், பாதிக்கப்பட்ட பெண் அல்லது பிரதிவாதி விரும்பினால், ஆதரவாளர் (support person) என்ற முறையில் சங்க பிரதிநிதியை உடன் அழைத்துவர முடியும், ஏற்கனவே பிரிவு 6-ல் விளக்கப்பட்ட வரம்புகளுக்கு உட்பட்டு."
+ },
+ {
+  "subject": "Negative reference for POSH complainants",
+  "aspect": "policy",
+  "value": "prohibited; filing or being involved in a POSH complaint can never be used as grounds for a negative reference check",
+  "section": "20",
+  "page": 55,
+  "evidence": "POSH புகார் அளித்தது அல்லது அதில் ஈடுபட்டது, எந்தவொரு பணியாளருக்கும் எதிரான எதிர்மறை பணி குறிப்பிற்கு (reference check) ஒருபோதும் காரணமாக பயன்படுத்தப்படாது."
+ },
+ {
+  "subject": "Common implementation mistakes to avoid",
+  "aspect": "list",
+  "value": "dismissing a complaint as minor, asking the complainant if they really want to make it a big issue, delaying investigation due to respondent's seniority, telling both parties to settle it in the same room",
+  "section": "21",
+  "page": 56,
+  "evidence": "இந்த கொள்கையை பயன்படுத்துவதில் பொதுவான தவறுகள் (தவிர்க்க வேண்டியவை): நிறுவனம் தனது மேலாளர்களுக்கான பயிற்சியில், இந்த கொள்கையை செயல்படுத்தும்போது பொதுவாக நிகழும் சில தவறுகளை தெளிவாக சுட்டிக்காட்டுகிறது: ஒரு புகாரை \"சிறிய விஷயம்\" என கருதி புறக்கணிப்பது; பாதிக்கப்பட்ட பெண்ணிடம் \"இதை உண்மையிலேயே பெரிதுபடுத்த வேண்டுமா?\" என கேட்பது; பிரதிவாதியின் பதவி நிலையை கருத்தில் கொண்டு விசாரணையை தாமதப்படுத்துவது; மற்றும் இரு தரப்பினரையும் ஒரே நேரத்தில் ஒரே அறையில் \"பேசி தீர்த்துக்கொள்ள\" சொல்வது."
+ },
+ {
+  "subject": "Quick reference contact card",
+  "aspect": "distribution",
+  "value": "printed with all 4 offices' Presiding Officers' contacts and external member organization names, affixed to back of employee ID card",
+  "section": "21",
+  "page": 57,
+  "evidence": "நான்கு அலுவலகங்களின் IC தலைமை அதிகாரிகளின் தொடர்பு விவரங்களும், வெளி உறுப்பினர்களின் அமைப்பு பெயர்களும், இந்த சுருக்க அட்டையில் அச்சிடப்பட்டு, ஒவ்வொரு பணியாளரின் அலுவலக அடையாள அட்டையின் பின்புறத்திலும் ஒட்டப்பட்டுள்ளன, இது அவசர கட்டங்களில் உடனடி தொடர்புக்கு உதவும் வகையில் வடிவமைக்கப்பட்டுள்ளது."
+ }
+]

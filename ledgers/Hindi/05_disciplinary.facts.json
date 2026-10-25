@@ -1,0 +1,698 @@
+[
+ {
+  "subject": "misconduct_reporting",
+  "aspect": "manager_report_deadline_working_days",
+  "value": 3,
+  "section": "७.१",
+  "page": 17,
+  "evidence": "जिस प्रबंधक अथवा पर्यवेक्षक को किसी वर्ग-ख अथवा वर्ग-ग कदाचार की जानकारी हो, वह उसे जानकारी होने के ३ कार्यदिवस के भीतर मानव संसाधन व्यापार भागीदार को लिखित रूप से सूचित करेगा।"
+ },
+ {
+  "subject": "misconduct_reporting",
+  "aspect": "limitation_days_from_incident",
+  "value": 90,
+  "section": "७.३",
+  "page": 18,
+  "evidence": "कदाचार की सूचना घटना की तिथि से ९० दिन के भीतर दी जानी चाहिए।"
+ },
+ {
+  "subject": "disciplinary_proceedings",
+  "aspect": "outer_limitation_years",
+  "value": 3,
+  "section": "७.३",
+  "page": 18,
+  "evidence": "घटना की तिथि से ३ वर्ष व्यतीत हो जाने पर कोई अनुशासनिक कार्यवाही आरंभ नहीं की जाएगी।"
+ },
+ {
+  "subject": "preliminary_inquiry",
+  "aspect": "order_decision_working_days",
+  "value": 5,
+  "section": "७.४",
+  "page": 19,
+  "evidence": "सूचना प्राप्त होने के ५ कार्यदिवस के भीतर मानव संसाधन व्यापार भागीदार यह निश्चय करेगा कि प्रारंभिक जाँच आवश्यक है या नहीं।"
+ },
+ {
+  "subject": "preliminary_inquiry",
+  "aspect": "report_deadline_working_days",
+  "value": 10,
+  "section": "७.५",
+  "page": 19,
+  "evidence": "नामित परीक्षक अपना प्रतिवेदन नियुक्ति की तिथि से १० कार्यदिवस के भीतर प्रस्तुत करेगा।"
+ },
+ {
+  "subject": "preliminary_inquiry",
+  "aspect": "extension_working_days",
+  "value": 5,
+  "section": "७.५",
+  "page": 19,
+  "evidence": "जहाँ साक्ष्य अनेक कार्यालयों में बिखरा हो अथवा तकनीकी अभिलेखों के निष्कर्षण में समय लगे, वहाँ विभागीय प्रमुख एक बार में और अधिकतम ५ कार्यदिवस का विस्तार दे सकते हैं।"
+ },
+ {
+  "subject": "preliminary_inquiry",
+  "aspect": "authority_decision_working_days",
+  "value": 5,
+  "section": "७.६",
+  "page": 20,
+  "evidence": "प्रारंभिक जाँच का प्रतिवेदन प्राप्त होने के ५ कार्यदिवस के भीतर सक्षम प्राधिकारी संस्तुति पर निर्णय लेगा।"
+ },
+ {
+  "subject": "summary_procedure",
+  "aspect": "explanation_window_working_days",
+  "value": 3,
+  "section": "७.६",
+  "page": 20,
+  "evidence": "वर्ग-क के प्रकरणों में, जहाँ तथ्य विवादित न हों, सक्षम प्राधिकारी कर्मी को ३ कार्यदिवस का लिखित स्पष्टीकरण-अवसर देकर सीधे लघु दंड लगा सकता है।"
+ },
+ {
+  "subject": "suspension",
+  "aspect": "interim_separation_max_working_days",
+  "value": 3,
+  "section": "८.३",
+  "page": 22,
+  "evidence": "तात्कालिक सुरक्षा-जोखिम की स्थिति में विभागीय प्रमुख अधिकतम ३ कार्यदिवस के लिए कर्मी को कार्य से पृथक् रख सकते हैं, किंतु उसी अवधि में सक्षम प्राधिकारी से औपचारिक निलंबन आदेश प्राप्त करना होगा।"
+ },
+ {
+  "subject": "suspension",
+  "aspect": "order_service_working_days",
+  "value": 1,
+  "section": "८.४",
+  "page": 23,
+  "evidence": "तामील आदेश की तिथि से १ कार्यदिवस के भीतर होनी चाहिए।"
+ },
+ {
+  "subject": "suspension",
+  "aspect": "asset_return_working_days",
+  "value": 2,
+  "section": "८.५",
+  "page": 23,
+  "evidence": "वह संगठन के परिसर, सूचना-प्रणालियों एवं आंतरिक संचार-माध्यमों का उपयोग नहीं करेगा, और अपने अधिकार में रखे संगठन के उपकरण एवं दस्तावेज़ आदेश की तामील के २ कार्यदिवस के भीतर लौटाएगा।"
+ },
+ {
+  "subject": "suspension_review_committee",
+  "aspect": "member_count",
+  "value": 3,
+  "section": "८.६",
+  "page": 24,
+  "evidence": "निलंबन की समीक्षा के लिए एक *निलंबन समीक्षा समिति* गठित होगी जिसमें ३ सदस्य होंगे — मानव संसाधन प्रमुख अथवा उनका नामिती, संबद्ध कार्य-क्षेत्र से भिन्न किसी विभाग का प्रमुख, तथा विधि एवं अनुपालन कक्ष का प्रतिनिधि।"
+ },
+ {
+  "subject": "suspension",
+  "aspect": "review_interval_days",
+  "value": 60,
+  "section": "८.६",
+  "page": 24,
+  "evidence": "समिति प्रत्येक निलंबन की समीक्षा प्रत्येक ६० दिन पर करेगी।"
+ },
+ {
+  "subject": "suspension",
+  "aspect": "auto_revocation_grace_working_days",
+  "value": 7,
+  "section": "८.६",
+  "page": 25,
+  "evidence": "यदि नियत तिथि से ७ कार्यदिवस के भीतर समीक्षा नहीं होती, तो निलंबन स्वतः प्रत्याहृत माना जाएगा और कर्मी उस तिथि से पूर्ण वेतन का अधिकारी होगा, भले ही उसे तत्काल कार्य पर न बुलाया जाए।"
+ },
+ {
+  "subject": "suspension",
+  "aspect": "initial_max_days",
+  "value": 180,
+  "section": "८.७",
+  "page": 25,
+  "evidence": "निलंबन की प्रारंभिक अवधि १८० दिन से अधिक नहीं होगी।"
+ },
+ {
+  "subject": "suspension",
+  "aspect": "extension_block_days",
+  "value": 90,
+  "section": "८.७",
+  "page": 25,
+  "evidence": "यदि जाँच उस अवधि में पूर्ण न हो, तो प्रबंध निदेशक के लिखित अनुमोदन से ९० दिन के खंडों में विस्तार दिया जा सकता है।"
+ },
+ {
+  "subject": "suspension",
+  "aspect": "total_max_days",
+  "value": 360,
+  "section": "८.७",
+  "page": 25,
+  "evidence": "किसी भी प्रकरण में कुल निलंबन-अवधि ३६० दिन से अधिक नहीं होगी।"
+ },
+ {
+  "subject": "subsistence_allowance",
+  "aspect": "pct_first_90_days",
+  "value": 50,
+  "section": "९.१",
+  "page": 26,
+  "evidence": "निलंबन के प्रथम ९० दिन तक निर्वाह भत्ते की दर ५० प्रतिशत होगी।"
+ },
+ {
+  "subject": "subsistence_allowance",
+  "aspect": "pct_days_91_to_180",
+  "value": 65,
+  "section": "९.१",
+  "page": 26,
+  "evidence": "९१वें दिन से १८०वें दिन तक यह दर बढ़कर ६५ प्रतिशत हो जाएगी।"
+ },
+ {
+  "subject": "subsistence_allowance",
+  "aspect": "pct_beyond_180_days",
+  "value": 75,
+  "section": "९.१",
+  "page": 26,
+  "evidence": "१८० दिन के पश्चात् निलंबन जारी रहने पर दर ७५ प्रतिशत होगी।"
+ },
+ {
+  "subject": "subsistence_allowance",
+  "aspect": "reduced_pct_for_non_cooperation",
+  "value": 40,
+  "section": "९.२",
+  "page": 26,
+  "evidence": "यदि निलंबन समीक्षा समिति यह अभिलिखित करे कि जाँच में हुआ विलंब पूर्णतः अथवा मुख्यतः कर्मी के असहयोग के कारण है — यथा बार-बार स्थगन माँगना, सूचना पर उपस्थित न होना, अथवा माँगे गए अभिलेख न देना — तो वह उस अवधि के लिए निर्वाह भत्ते की दर घटाकर ४० प्रतिशत कर सकती है।"
+ },
+ {
+  "subject": "subsistence_allowance",
+  "aspect": "withheld_payment_release_working_days",
+  "value": 5,
+  "section": "९.३",
+  "page": 26,
+  "evidence": "कर्मी द्वारा मासिक घोषणा-पत्र प्रस्तुत न करने पर भुगतान रोका जा सकता है, किंतु घोषणा-पत्र प्राप्त होते ही रोकी गई राशि का भुगतान ५ कार्यदिवस के भीतर किया जाएगा।"
+ },
+ {
+  "subject": "suspension_revocation",
+  "aspect": "order_issue_working_days",
+  "value": 3,
+  "section": "१०.१",
+  "page": 28,
+  "evidence": "निर्णय हो जाने के पश्चात् प्रत्याहरण आदेश ३ कार्यदिवस के भीतर जारी होगा।"
+ },
+ {
+  "subject": "reinstatement",
+  "aspect": "joining_notice_working_days",
+  "value": 5,
+  "section": "१०.२",
+  "page": 28,
+  "evidence": "प्रत्याहरण आदेश में कर्मी को कार्य पर लौटने की तिथि दी जाएगी, जो आदेश की तामील से कम-से-कम ५ कार्यदिवस बाद की होगी, ताकि कर्मी को व्यावहारिक तैयारी का समय मिले।"
+ },
+ {
+  "subject": "reinstatement",
+  "aspect": "reentry_meeting_working_days",
+  "value": 10,
+  "section": "१०.२",
+  "page": 29,
+  "evidence": "यह वार्ता बहाली के १० कार्यदिवस के भीतर होनी चाहिए।"
+ },
+ {
+  "subject": "exoneration",
+  "aspect": "arrears_payment_days",
+  "value": 30,
+  "section": "१०.३",
+  "page": 30,
+  "evidence": "उसे पूर्ण वेतन एवं भत्तों तथा पहले से भुगतान किए गए निर्वाह भत्ते के बीच के अंतर की राशि देय होगी, जिसका भुगतान अंतिम आदेश की तिथि से ३० दिन के भीतर किया जाएगा।"
+ },
+ {
+  "subject": "non_cumulative_increment_stoppage",
+  "aspect": "duration_years",
+  "value": 1,
+  "section": "११.२",
+  "page": 32,
+  "evidence": "इस दंड के अंतर्गत आगामी वार्षिक वेतनवृद्धि १ वर्ष के लिए रोक दी जाती है।"
+ },
+ {
+  "subject": "cumulative_increment_stoppage",
+  "aspect": "max_years",
+  "value": 2,
+  "section": "११.३",
+  "page": 32,
+  "evidence": "इसमें वेतनवृद्धि अधिकतम २ वर्ष तक रोकी जाती है और रोकी गई वृद्धि आगे की गणना में पुनः नहीं जुड़ती।"
+ },
+ {
+  "subject": "recovery_of_loss",
+  "aspect": "max_monthly_deduction_pct",
+  "value": 20,
+  "section": "११.३",
+  "page": 33,
+  "evidence": "किसी भी माह में की जाने वाली कटौती उस माह के मूल वेतन के २० प्रतिशत से अधिक नहीं होगी, और वसूली की कुल अवधि २४ माह से अधिक नहीं होगी।"
+ },
+ {
+  "subject": "recovery_of_loss",
+  "aspect": "max_recovery_months",
+  "value": 24,
+  "section": "११.३",
+  "page": 33,
+  "evidence": "किसी भी माह में की जाने वाली कटौती उस माह के मूल वेतन के २० प्रतिशत से अधिक नहीं होगी, और वसूली की कुल अवधि २४ माह से अधिक नहीं होगी।"
+ },
+ {
+  "subject": "demotion",
+  "aspect": "min_duration_years",
+  "value": 1,
+  "section": "११.३",
+  "page": 33,
+  "evidence": "पदावनति की अवधि न्यूनतम १ वर्ष और अधिकतम ३ वर्ष होगी, जिसका उल्लेख आदेश में अनिवार्य है।"
+ },
+ {
+  "subject": "demotion",
+  "aspect": "max_duration_years",
+  "value": 3,
+  "section": "११.३",
+  "page": 33,
+  "evidence": "पदावनति की अवधि न्यूनतम १ वर्ष और अधिकतम ३ वर्ष होगी, जिसका उल्लेख आदेश में अनिवार्य है।"
+ },
+ {
+  "subject": "disciplinary_committee",
+  "aspect": "member_count",
+  "value": 5,
+  "section": "१२.४",
+  "page": 36,
+  "evidence": "अनुशासन समिति में ५ नामित सदस्य होंगे — प्रबंध निदेशक द्वारा नामित कोई विभागीय प्रमुख, जो अध्यक्षता करेंगे; मानव संसाधन प्रमुख, जो सदस्य-सचिव होंगे; विधि एवं अनुपालन कक्ष का प्रतिनिधि; तथा दो ऐसे वरिष्ठ कर्मी जो संबद्ध विभाग से भिन्न विभागों से हों।"
+ },
+ {
+  "subject": "disciplinary_committee",
+  "aspect": "quorum",
+  "value": 3,
+  "section": "१२.४",
+  "page": 36,
+  "evidence": "बैठक के लिए गणपूर्ति ३ सदस्यों की होगी, जिनमें अध्यक्ष एवं सदस्य-सचिव का होना अनिवार्य है।"
+ },
+ {
+  "subject": "disciplinary_committee",
+  "aspect": "nomination_review_years",
+  "value": 2,
+  "section": "१२.४",
+  "page": 37,
+  "evidence": "समिति के सदस्यों का नामांकन प्रत्येक २ वर्ष पर पुनर्विचारित होगा।"
+ },
+ {
+  "subject": "warning_currency",
+  "aspect": "counselling_record_months",
+  "value": 6,
+  "section": "१४.१",
+  "page": 40,
+  "evidence": "परामर्श-अभिलेख की वैधता अवधि ६ माह है।"
+ },
+ {
+  "subject": "warning_currency",
+  "aspect": "written_warning_months",
+  "value": 12,
+  "section": "१४.१",
+  "page": 40,
+  "evidence": "लिखित चेतावनी की १२ माह।"
+ },
+ {
+  "subject": "warning_currency",
+  "aspect": "censure_months",
+  "value": 24,
+  "section": "१४.१",
+  "page": 40,
+  "evidence": "कठोर निंदा की २४ माह।"
+ },
+ {
+  "subject": "warning_currency",
+  "aspect": "major_penalty_months",
+  "value": 36,
+  "section": "१४.१",
+  "page": 40,
+  "evidence": "समस्त गुरु दंडों की वैधता अवधि ३६ माह है।"
+ },
+ {
+  "subject": "record_expungement",
+  "aspect": "removal_working_days",
+  "value": 15,
+  "section": "१४.२",
+  "page": 40,
+  "evidence": "यह निष्कासन अवधि समाप्ति के १५ कार्यदिवस के भीतर होगा और इसके लिए कर्मी के आवेदन की आवश्यकता नहीं है।"
+ },
+ {
+  "subject": "early_expungement",
+  "aspect": "decision_working_days",
+  "value": 20,
+  "section": "१४.३",
+  "page": 41,
+  "evidence": "निर्णय मानव संसाधन प्रमुख करेंगे और आवेदन की तिथि से २० कार्यदिवस के भीतर करेंगे।"
+ },
+ {
+  "subject": "cumulative_minor_penalties",
+  "aspect": "escalation_threshold_count",
+  "value": 3,
+  "section": "१५.३",
+  "page": 43,
+  "evidence": "यदि किसी कर्मी के सक्रिय अभिलेख में एक साथ ३ अथवा उससे अधिक लघु दंड विद्यमान हों, तो अगला प्रकरण, चाहे वह किसी भी वर्ग का हो, विभागीय प्रमुख के स्तर से हटकर सीधे अनुशासन समिति के समक्ष जाएगा।"
+ },
+ {
+  "subject": "final_order",
+  "aspect": "after_inquiry_report_working_days",
+  "value": 10,
+  "section": "१६.१",
+  "page": 44,
+  "evidence": "जहाँ औपचारिक जाँच हुई हो, वहाँ दंड-निर्धारण प्राधिकारी जाँच प्रतिवेदन प्राप्त होने की तिथि से १० कार्यदिवस के भीतर अंतिम आदेश पारित करेगा।"
+ },
+ {
+  "subject": "final_order",
+  "aspect": "disciplinary_committee_working_days",
+  "value": 20,
+  "section": "१६.१",
+  "page": 44,
+  "evidence": "जहाँ प्रकरण अनुशासन समिति के समक्ष हो, वहाँ यह अवधि २० कार्यदिवस होगी, क्योंकि समिति की बैठक निर्धारित करनी होती है।"
+ },
+ {
+  "subject": "final_order",
+  "aspect": "summary_procedure_working_days",
+  "value": 7,
+  "section": "१६.१",
+  "page": 44,
+  "evidence": "जहाँ संक्षिप्त प्रक्रिया अपनाई गई हो, वहाँ स्पष्टीकरण प्राप्त होने के ७ कार्यदिवस के भीतर आदेश पारित होगा।"
+ },
+ {
+  "subject": "final_order",
+  "aspect": "communication_working_days",
+  "value": 7,
+  "section": "१६.३",
+  "page": 45,
+  "evidence": "आदेश पर हस्ताक्षर होने के ७ कार्यदिवस के भीतर उसकी प्रति कर्मी को दी जाएगी।"
+ },
+ {
+  "subject": "increment_stoppage",
+  "aspect": "cycle_deferral_threshold_days",
+  "value": 30,
+  "section": "१६.४",
+  "page": 45,
+  "evidence": "यदि तामील और चक्र के बीच का अंतराल ३० दिन से कम हो और वेतन-गणना पहले ही अंतिम रूप ले चुकी हो, तो रोक उससे अगले चक्र पर लागू होगी।"
+ },
+ {
+  "subject": "appeal",
+  "aspect": "filing_window_days",
+  "value": 30,
+  "section": "१७.२",
+  "page": 46,
+  "evidence": "अपील दंड-आदेश की तामील की तिथि से ३० दिन के भीतर दायर करनी होगी।"
+ },
+ {
+  "subject": "appeal",
+  "aspect": "delay_condonation_max_days",
+  "value": 15,
+  "section": "१७.२",
+  "page": 46,
+  "evidence": "यदि अपील विलंब से दायर हो, तो अपीलीय प्राधिकारी अधिकतम १५ अतिरिक्त दिन तक के विलंब को क्षमा कर सकता है, बशर्ते कर्मी विलंब का पर्याप्त कारण लिखित रूप से दर्शाए।"
+ },
+ {
+  "subject": "appeal",
+  "aspect": "absolute_bar_day",
+  "value": 45,
+  "section": "१७.२",
+  "page": 46,
+  "evidence": "४५वें दिन के पश्चात् प्राप्त अपील किसी भी कारण से ग्राह्य नहीं होगी।"
+ },
+ {
+  "subject": "appeal",
+  "aspect": "ground_clarification_working_days",
+  "value": 7,
+  "section": "१७.४",
+  "page": 47,
+  "evidence": "केवल असंतोष व्यक्त करने वाली अपील को अपीलीय प्राधिकारी आधार स्पष्ट करने के लिए एक बार लौटा सकता है, और उसके लिए ७ कार्यदिवस का समय देगा।"
+ },
+ {
+  "subject": "appeal",
+  "aspect": "decision_deadline_working_days",
+  "value": 45,
+  "section": "१७.५",
+  "page": 48,
+  "evidence": "अपीलीय प्राधिकारी अपील प्राप्त होने के ४५ कार्यदिवस के भीतर निर्णय देगा।"
+ },
+ {
+  "subject": "appeal",
+  "aspect": "decision_extension_working_days",
+  "value": 20,
+  "section": "१७.५",
+  "page": 48,
+  "evidence": "जहाँ नया साक्ष्य प्रस्तुत हुआ हो और उसके सत्यापन में समय अपेक्षित हो, वहाँ प्रबंध निदेशक के अनुमोदन से यह अवधि एक बार और अधिकतम २० कार्यदिवस बढ़ाई जा सकती है।"
+ },
+ {
+  "subject": "appeal",
+  "aspect": "enhancement_notice_working_days",
+  "value": 10,
+  "section": "१७.६",
+  "page": 48,
+  "evidence": "दंड को बढ़ाने की शक्ति अपीलीय प्राधिकारी को है, किंतु उसका प्रयोग तभी होगा जब कर्मी को पहले यह सूचना दी गई हो कि वृद्धि पर विचार किया जा रहा है और उसे १० कार्यदिवस में उत्तर देने का अवसर दिया गया हो।"
+ },
+ {
+  "subject": "appellate_order",
+  "aspect": "communication_working_days",
+  "value": 5,
+  "section": "१७.८",
+  "page": 49,
+  "evidence": "अपीलीय आदेश कर्मी को हस्ताक्षर के ५ कार्यदिवस के भीतर संप्रेषित किया जाएगा।"
+ },
+ {
+  "subject": "probationer",
+  "aspect": "explanation_window_working_days",
+  "value": 5,
+  "section": "१८.१",
+  "page": 50,
+  "evidence": "परिवीक्षा-समाप्ति के लिए औपचारिक जाँच आवश्यक नहीं है, किंतु कर्मी को कथित कदाचार की लिखित सूचना और ५ कार्यदिवस का स्पष्टीकरण-अवसर देना अनिवार्य है।"
+ },
+ {
+  "subject": "level_p5",
+  "aspect": "suspension_review_interval_days",
+  "value": 45,
+  "section": "१८.३",
+  "page": 51,
+  "evidence": "स्तर प-५ के प्रकरणों में निलंबन का आदेश केवल प्रबंधन मंडल दे सकता है, और वहाँ निलंबन समीक्षा का अंतराल ६० दिन के स्थान पर ४५ दिन होगा, क्योंकि इस स्तर पर दीर्घ अनिश्चितता का संगठनात्मक प्रभाव अधिक व्यापक होता है।"
+ },
+ {
+  "subject": "resignation_during_proceedings",
+  "aspect": "dues_withholding_max_days",
+  "value": 120,
+  "section": "१८.४",
+  "page": 51,
+  "evidence": "जहाँ प्रकरण वर्ग-ग का हो, वहाँ अंतिम देयताओं का भुगतान अंतिम आदेश की तिथि तक रोका जा सकता है, किंतु यह रोक किसी भी स्थिति में १२० दिन से अधिक नहीं रहेगी।"
+ },
+ {
+  "subject": "long_leave",
+  "aspect": "proceedings_stay_max_days",
+  "value": 90,
+  "section": "१८.६",
+  "page": 52,
+  "evidence": "यदि कर्मी चिकित्सा अथवा अन्य स्वीकृत दीर्घ अवकाश पर हो, तो कार्यवाही उसके अवकाश की समाप्ति तक स्थगित रहेगी, किंतु यह स्थगन ९० दिन से अधिक नहीं होगा।"
+ },
+ {
+  "subject": "revision",
+  "aspect": "application_window_days",
+  "value": 180,
+  "section": "१९.२",
+  "page": 53,
+  "evidence": "कर्मी अपीलीय आदेश की तामील से १८० दिन के भीतर पुनरीक्षण आवेदन कर सकता है।"
+ },
+ {
+  "subject": "revision",
+  "aspect": "suo_motu_window_months",
+  "value": 12,
+  "section": "१९.२",
+  "page": 53,
+  "evidence": "पुनरीक्षण प्राधिकारी स्वप्रेरणा से भी किसी आदेश का पुनरीक्षण कर सकता है, किंतु मूल आदेश की तिथि से १२ माह के भीतर ही।"
+ },
+ {
+  "subject": "revision",
+  "aspect": "decision_working_days",
+  "value": 60,
+  "section": "१९.२",
+  "page": 53,
+  "evidence": "पुनरीक्षण पर निर्णय आवेदन की तिथि से ६० कार्यदिवस के भीतर दिया जाएगा।"
+ },
+ {
+  "subject": "penalty_mitigation",
+  "aspect": "eligibility_months",
+  "value": 18,
+  "section": "१९.३",
+  "page": 53,
+  "evidence": "गुरु दंड से दंडित कर्मी दंड की प्रभावी तिथि से १८ माह व्यतीत हो जाने पर दंड-लघुकरण के लिए आवेदन कर सकता है।"
+ },
+ {
+  "subject": "parallel_criminal_case",
+  "aspect": "stay_review_interval_days",
+  "value": 120,
+  "section": "२०.२",
+  "page": 54,
+  "evidence": "स्थगन दिए जाने पर उसकी समीक्षा प्रत्येक १२० दिन पर होगी।"
+ },
+ {
+  "subject": "criminal_acquittal",
+  "aspect": "revision_window_days",
+  "value": 60,
+  "section": "२०.३",
+  "page": 55,
+  "evidence": "किंतु जहाँ दोषमुक्ति इस आधार पर हो कि आरोपित कार्य हुआ ही नहीं था, वहाँ कर्मी दोषमुक्ति की तिथि से ६० दिन के भीतर पुनरीक्षण आवेदन कर सकता है और वह आवेदन ग्राह्य होगा, चाहे धारा १९.२ की अवधि व्यतीत हो चुकी हो।"
+ },
+ {
+  "subject": "criminal_conviction",
+  "aspect": "representation_working_days",
+  "value": 10,
+  "section": "२०.३",
+  "page": 55,
+  "evidence": "आपराधिक न्यायालय द्वारा दोषसिद्धि की स्थिति में, जहाँ दोषसिद्धि नैतिक अधमता से जुड़े अपराध की हो, अनुशासन समिति अपनी जाँच पूर्ण किए बिना भी सेवा-समाप्ति अथवा बर्खास्तगी का आदेश दे सकती है, किंतु उससे पूर्व कर्मी को दोषसिद्धि के परिणाम पर १० कार्यदिवस में अभ्यावेदन का अवसर देना अनिवार्य है।"
+ },
+ {
+  "subject": "custody",
+  "aspect": "deemed_suspension_hours",
+  "value": 48,
+  "section": "२०.४",
+  "page": 55,
+  "evidence": "यदि कर्मी ४८ घंटे से अधिक अवधि के लिए अभिरक्षा में रहता है, तो वह उस तिथि से निलंबित माना जाएगा, जिसके लिए पृथक् आदेश की आवश्यकता नहीं होगी।"
+ },
+ {
+  "subject": "custody",
+  "aspect": "release_intimation_working_days",
+  "value": 3,
+  "section": "२०.४",
+  "page": 55,
+  "evidence": "मुक्त होने पर कर्मी इसकी सूचना ३ कार्यदिवस के भीतर देगा, और तब निलंबन जारी रखने अथवा प्रत्याहृत करने का निश्चय धारा ८.२ के आधारों पर पृथक् रूप से किया जाएगा।"
+ },
+ {
+  "subject": "records",
+  "aspect": "major_penalty_retention_years",
+  "value": 8,
+  "section": "२१.२",
+  "page": 56,
+  "evidence": "गुरु दंड से संबंधित समस्त अभिलेख कर्मी के संगठन छोड़ने की तिथि से ८ वर्ष तक संरक्षित रहेंगे।"
+ },
+ {
+  "subject": "records",
+  "aspect": "minor_penalty_preservation_years",
+  "value": 3,
+  "section": "२१.२",
+  "page": 57,
+  "evidence": "लघु दंड के अभिलेख सक्रिय संचिका से निष्कासन की तिथि से ३ वर्ष तक परिरक्षित संचिका में रहेंगे और उसके पश्चात् नष्ट कर दिए जाएँगे।"
+ },
+ {
+  "subject": "records",
+  "aspect": "closed_preliminary_inquiry_years",
+  "value": 1,
+  "section": "२१.२",
+  "page": 57,
+  "evidence": "जिन प्रारंभिक जाँचों में प्रकरण बंद कर दिया गया, उनके अभिलेख बंद करने की तिथि से १ वर्ष तक रखे जाएँगे, और उस अवधि में भी उनका उपयोग केवल अंकेक्षण के लिए ही संभव होगा।"
+ },
+ {
+  "subject": "records",
+  "aspect": "employee_copy_working_days",
+  "value": 10,
+  "section": "२१.४",
+  "page": 58,
+  "evidence": "आवेदन करने पर अभिलेख कक्ष १० कार्यदिवस के भीतर प्रति उपलब्ध कराएगा।"
+ },
+ {
+  "subject": "promotion",
+  "aspect": "major_penalty_consideration_months",
+  "value": 36,
+  "section": "२२.१",
+  "page": 59,
+  "evidence": "गुरु दंड की वैधता अवधि समाप्त होने के पश्चात् भी पदोन्नति-समिति उस दंड को विचार में ले सकती है, किंतु केवल दंड की तिथि से ३६ माह तक, और उसे अपने निर्णय में यह अभिलिखित करना होगा कि उस तथ्य को किस भार के साथ लिया गया।"
+ },
+ {
+  "subject": "false_complaint",
+  "aspect": "action_initiation_working_days",
+  "value": 30,
+  "section": "२३.३",
+  "page": 61,
+  "evidence": "मिथ्या शिकायत पर कार्यवाही मूल प्रकरण के अंतिम आदेश की तिथि से ३० कार्यदिवस के भीतर आरंभ की जाएगी।"
+ },
+ {
+  "subject": "retaliation",
+  "aspect": "preliminary_inquiry_working_days",
+  "value": 5,
+  "section": "२३.४",
+  "page": 61,
+  "evidence": "ऐसी शिकायत पर प्रारंभिक जाँच की समय-सीमा १० कार्यदिवस के स्थान पर ५ कार्यदिवस होगी।"
+ },
+ {
+  "subject": "quarterly_report",
+  "aspect": "submission_working_days",
+  "value": 15,
+  "section": "२५.१",
+  "page": 64,
+  "evidence": "मानव संसाधन प्रमुख प्रत्येक तिमाही की समाप्ति के १५ कार्यदिवस के भीतर प्रबंधन मंडल को एक प्रतिवेदन प्रस्तुत करेंगे जिसमें निम्नलिखित होगा: वर्ग-वार प्राप्त सूचनाओं की संख्या; प्रारंभिक जाँचों की संख्या एवं उनके परिणामों का वितरण; लगाए गए दंडों का श्रेणी-वार वितरण; लंबित प्रकरणों की संख्या एवं उनकी औसत आयु; निलंबनों की संख्या एवं उनकी औसत अवधि; दायर एवं निर्णीत अपीलों की संख्या तथा उनमें दंड परिवर्तित होने का अनुपात; और समय-सीमाओं के उल्लंघन की सूची कारण सहित।"
+ },
+ {
+  "subject": "cycle_time_target",
+  "aspect": "class_a_working_days",
+  "value": 25,
+  "section": "२५.२",
+  "page": 65,
+  "evidence": "सूचना प्राप्ति से अंतिम आदेश तक की औसत अवधि वर्ग-क में २५ कार्यदिवस, वर्ग-ख में ५५ कार्यदिवस तथा वर्ग-ग में ९० कार्यदिवस से अधिक नहीं होनी चाहिए।"
+ },
+ {
+  "subject": "cycle_time_target",
+  "aspect": "class_b_working_days",
+  "value": 55,
+  "section": "२५.२",
+  "page": 65,
+  "evidence": "सूचना प्राप्ति से अंतिम आदेश तक की औसत अवधि वर्ग-क में २५ कार्यदिवस, वर्ग-ख में ५५ कार्यदिवस तथा वर्ग-ग में ९० कार्यदिवस से अधिक नहीं होनी चाहिए।"
+ },
+ {
+  "subject": "cycle_time_target",
+  "aspect": "class_c_working_days",
+  "value": 90,
+  "section": "२५.२",
+  "page": 65,
+  "evidence": "सूचना प्राप्ति से अंतिम आदेश तक की औसत अवधि वर्ग-क में २५ कार्यदिवस, वर्ग-ख में ५५ कार्यदिवस तथा वर्ग-ग में ९० कार्यदिवस से अधिक नहीं होनी चाहिए।"
+ },
+ {
+  "subject": "appeal_outcome",
+  "aspect": "overturn_rate_threshold_pct",
+  "value": 10,
+  "section": "२५.२",
+  "page": 65,
+  "evidence": "अपील में दंड के अपास्त होने का अनुपात १० प्रतिशत से अधिक होना यह संकेत देता है कि मूल स्तर पर प्रक्रिया अथवा आदेश-लेखन में कमी है।"
+ },
+ {
+  "subject": "timeline_compliance",
+  "aspect": "minimum_threshold_pct",
+  "value": 90,
+  "section": "२५.२",
+  "page": 65,
+  "evidence": "समय-सीमा के पालन का अनुपात ९० प्रतिशत से कम होना सुधारात्मक कार्ययोजना का आधार बनेगा।"
+ },
+ {
+  "subject": "annual_audit",
+  "aspect": "sample_pct",
+  "value": 15,
+  "section": "२५.३",
+  "page": 65,
+  "evidence": "आंतरिक अंकेक्षण कक्ष प्रत्येक वर्ष निर्णीत प्रकरणों के १५ प्रतिशत का, अथवा न्यूनतम २५ प्रकरणों का — जो भी अधिक हो — परीक्षण करेगा।"
+ },
+ {
+  "subject": "annual_audit",
+  "aspect": "minimum_cases",
+  "value": 25,
+  "section": "२५.३",
+  "page": 65,
+  "evidence": "आंतरिक अंकेक्षण कक्ष प्रत्येक वर्ष निर्णीत प्रकरणों के १५ प्रतिशत का, अथवा न्यूनतम २५ प्रकरणों का — जो भी अधिक हो — परीक्षण करेगा।"
+ },
+ {
+  "subject": "annual_audit",
+  "aspect": "corrective_plan_working_days",
+  "value": 30,
+  "section": "२५.३",
+  "page": 66,
+  "evidence": "प्रतिवेदन में पाई गई त्रुटियों के निवारण के लिए मानव संसाधन प्रमुख ३० कार्यदिवस के भीतर कार्ययोजना प्रस्तुत करेंगे।"
+ },
+ {
+  "subject": "training",
+  "aspect": "refresher_interval_months",
+  "value": 24,
+  "section": "२५.४",
+  "page": 66,
+  "evidence": "दंड लगाने के लिए सक्षम प्रत्येक प्राधिकारी को इस नियमावली पर प्रशिक्षण प्राप्त करना अनिवार्य है, और यह प्रशिक्षण प्रत्येक २४ माह पर दोहराया जाएगा।"
+ },
+ {
+  "subject": "training",
+  "aspect": "new_manager_completion_days",
+  "value": 60,
+  "section": "२५.४",
+  "page": 66,
+  "evidence": "नए प्रबंधकों के लिए यह प्रशिक्षण पदभार ग्रहण करने के ६० दिन के भीतर पूर्ण होना चाहिए।"
+ },
+ {
+  "subject": "policy_amendment",
+  "aspect": "effective_after_publication_days",
+  "value": 15,
+  "section": "२५.५",
+  "page": 66,
+  "evidence": "अनुमोदित संशोधन कर्मी पोर्टल पर प्रकाशित होने के १५ दिन बाद प्रभावी होंगे।"
+ }
+]

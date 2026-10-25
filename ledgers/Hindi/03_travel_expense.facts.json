@@ -1,0 +1,762 @@
+[
+ {
+  "subject": "outstation_travel",
+  "aspect": "minimum_distance_km",
+  "value": 80,
+  "section": "३",
+  "page": 8,
+  "evidence": "बाह्य-नगर यात्रा वह यात्रा है जिसमें कर्मचारी मुख्यालय की नगरपालिका सीमा से कम से कम ८० किलोमीटर की दूरी तक कार्यार्थ जाता है, अथवा जिसमें वह मुख्यालय से कम से कम १० घंटे अनुपस्थित रहता है।"
+ },
+ {
+  "subject": "policy_amendment",
+  "aspect": "employee_notice_days",
+  "value": 15,
+  "section": "१.१",
+  "page": 4,
+  "evidence": "ऐसे संशोधन की सूचना कर्मचारियों को उसके प्रभावी होने से कम से कम १५ कैलेंडर दिन पूर्व दी जाएगी, सिवाय उस स्थिति के जहाँ विधि स्वयं तत्काल प्रभाव की अपेक्षा करती हो।"
+ },
+ {
+  "subject": "city_class_list",
+  "aspect": "annual_revision_date",
+  "value": "१ मई",
+  "section": "५.२",
+  "page": 14,
+  "evidence": "नगर-श्रेणी की सूची वित्त नियंत्रक द्वारा प्रति वर्ष १ मई को पुनरीक्षित की जाएगी और पुनरीक्षित सूची उसी वर्ष १ जुलाई से प्रभावी होगी।"
+ },
+ {
+  "subject": "city_class_a",
+  "aspect": "peripheral_radius_km",
+  "value": 35,
+  "section": "५.२",
+  "page": 15,
+  "evidence": "जहाँ कोई कार्यस्थल नगर-श्रेणी अ के किसी नगर की नगरपालिका सीमा से बाहर किंतु ३५ किलोमीटर के भीतर स्थित हो, वहाँ उसे उसी श्रेणी अ का भाग माना जाएगा, बशर्ते कर्मचारी ने रात्रि-विश्राम भी उसी क्षेत्र में किया हो।"
+ },
+ {
+  "subject": "air_travel_entitlement",
+  "aspect": "rail_duration_threshold_hours_grade1_2",
+  "value": 14,
+  "section": "५.३",
+  "page": 15,
+  "evidence": "स्तर ग-१ एवं ग-२ के कर्मचारियों को वायु यात्रा का किराया तभी देय होगा जब रेल-मार्ग से एकतरफ़ा यात्रा में १४ घंटे से अधिक समय लगता हो, अथवा जब विभाग प्रमुख ने कार्य की तात्कालिकता के आधार पर लिखित अनुमोदन दिया हो।"
+ },
+ {
+  "subject": "daily_allowance",
+  "aspect": "amount_inr_metro_grade4",
+  "value": 1800,
+  "section": "६.२",
+  "page": 18,
+  "evidence": "स्तर ग-४ के कर्मचारी को नगर-श्रेणी अ में प्रति दिवस १,८०० रुपये का दैनिक भत्ता देय है।"
+ },
+ {
+  "subject": "daily_allowance",
+  "aspect": "nil_below_absence_hours",
+  "value": 6,
+  "section": "६.३",
+  "page": 19,
+  "evidence": "यदि उस दिवस मुख्यालय से अनुपस्थिति ६ घंटे से कम रही, तो उस दिवस का कोई दैनिक भत्ता देय नहीं है।"
+ },
+ {
+  "subject": "daily_allowance",
+  "aspect": "half_rate_absence_band_percent",
+  "value": 50,
+  "section": "६.३",
+  "page": 19,
+  "evidence": "यदि अनुपस्थिति ६ घंटे या अधिक किंतु १२ घंटे से कम रही, तो पूर्ण दर का ५० प्रतिशत देय है।"
+ },
+ {
+  "subject": "daily_allowance",
+  "aspect": "breakfast_deduction_percent",
+  "value": 10,
+  "section": "६.४",
+  "page": 20,
+  "evidence": "प्रातराश उपलब्ध होने पर उस दिवस के दैनिक भत्ते में १० प्रतिशत की कटौती होगी।"
+ },
+ {
+  "subject": "daily_allowance",
+  "aspect": "lunch_deduction_percent",
+  "value": 25,
+  "section": "६.४",
+  "page": 20,
+  "evidence": "दोपहर का भोजन उपलब्ध होने पर २५ प्रतिशत की कटौती होगी।"
+ },
+ {
+  "subject": "daily_allowance",
+  "aspect": "dinner_deduction_percent",
+  "value": 30,
+  "section": "६.४",
+  "page": 20,
+  "evidence": "रात्रि-भोजन उपलब्ध होने पर ३० प्रतिशत की कटौती होगी।"
+ },
+ {
+  "subject": "daily_allowance",
+  "aspect": "full_board_residual_percent",
+  "value": 25,
+  "section": "६.४",
+  "page": 20,
+  "evidence": "जहाँ तीनों समय का भोजन तथा जलपान उपलब्ध कराया गया हो, वहाँ केवल २५ प्रतिशत दैनिक भत्ता देय रहेगा, जो अन्य व्यक्तिगत व्ययों की एवजी है।"
+ },
+ {
+  "subject": "long_deployment",
+  "aspect": "reduced_rate_percent_after_30_days",
+  "value": 70,
+  "section": "६.६",
+  "page": 21,
+  "evidence": "जहाँ किसी कर्मचारी को एक ही बाह्य स्थल पर ३० कैलेंडर दिन से अधिक की निरंतर तैनाती पर भेजा जाए, वहाँ ३१वें दिन से दैनिक भत्ता घटकर सामान्य दर का ७० प्रतिशत रह जाएगा, और ६१वें दिन से ५० प्रतिशत।"
+ },
+ {
+  "subject": "long_deployment",
+  "aspect": "ceases_to_be_travel_days",
+  "value": 90,
+  "section": "६.६",
+  "page": 21,
+  "evidence": "९० कैलेंडर दिन से अधिक की तैनाती को इस नियमावली के प्रयोजन हेतु यात्रा नहीं माना जाएगा।"
+ },
+ {
+  "subject": "long_deployment",
+  "aspect": "reminder_day",
+  "value": 80,
+  "section": "६.६",
+  "page": 21,
+  "evidence": "मानव संसाधन विभाग ८० वें दिन पर संबंधित विभाग प्रमुख को इस विषय में स्मारक भेजेगा, ताकि निर्णय समय रहते लिया जा सके।"
+ },
+ {
+  "subject": "lodging_limit",
+  "aspect": "excess_over_ceiling_requires_fc_approval_percent",
+  "value": 30,
+  "section": "७.३",
+  "page": 23,
+  "evidence": "३० प्रतिशत से अधिक की अधिकता के लिए वित्त नियंत्रक का पूर्व अनुमोदन आवश्यक है।"
+ },
+ {
+  "subject": "shared_room",
+  "aspect": "multiplier_of_higher_grade_ceiling",
+  "value": 1.4,
+  "section": "७.४",
+  "page": 23,
+  "evidence": "जहाँ दो कर्मचारी एक ही कक्ष साझा करें, वहाँ कुल कक्ष-शुल्क की प्रतिपूर्ति उच्चतर स्तर वाले कर्मचारी की सीमा के १.४ गुना तक देय होगी।"
+ },
+ {
+  "subject": "company_guest_house",
+  "aspect": "standard_cost_inr_per_night",
+  "value": 1100,
+  "section": "७.५",
+  "page": 24,
+  "evidence": "यदि कर्मचारी अतिथि-गृह में स्थान उपलब्ध होते हुए भी बाह्य आवास-गृह चुनता है, तो प्रतिपूर्ति अतिथि-गृह की प्रति-रात्रि मानक लागत तक सीमित रहेगी, जो वर्तमान में ११०० रुपये प्रति रात्रि निर्धारित है।"
+ },
+ {
+  "subject": "informal_lodging",
+  "aspect": "lumpsum_inr_per_night_class_a",
+  "value": 800,
+  "section": "७.६",
+  "page": 24,
+  "evidence": "यदि कर्मचारी बाह्य-नगर में अपने संबंधी अथवा मित्र के यहाँ ठहरता है और कोई कक्ष-शुल्क नहीं देता, तो उसे आवास के बदले एक निश्चित एकमुश्त राशि देय होगी — नगर-श्रेणी अ में ८०० रुपये प्रति रात्रि, नगर-श्रेणी ब में ६०० रुपये तथा नगर-श्रेणी स में ४५० रुपये।"
+ },
+ {
+  "subject": "laundry",
+  "aspect": "eligible_after_nights",
+  "value": 4,
+  "section": "७.७",
+  "page": 25,
+  "evidence": "धुलाई-सेवा का व्यय तब प्रतिपूर्ति-योग्य है जब बाह्य-नगर प्रवास लगातार ४ रात्रियों से अधिक चला हो।"
+ },
+ {
+  "subject": "laundry",
+  "aspect": "limit_inr_per_day",
+  "value": 300,
+  "section": "७.७",
+  "page": 25,
+  "evidence": "ऐसी स्थिति में पाँचवीं रात्रि से प्रति दिवस ३०० रुपये तक का धुलाई-व्यय देय है।"
+ },
+ {
+  "subject": "hotel_internet",
+  "aspect": "limit_inr_per_night",
+  "value": 400,
+  "section": "७.७",
+  "page": 25,
+  "evidence": "प्रति रात्रि ४०० रुपये की सीमा लागू है।"
+ },
+ {
+  "subject": "own_vehicle",
+  "aspect": "rate_inr_per_km_four_wheeler",
+  "value": 12,
+  "section": "८.३",
+  "page": 27,
+  "evidence": "चारपहिया वाहन के लिए दर १२ रुपये प्रति किलोमीटर है और दोपहिया वाहन के लिए ५ रुपये ५० पैसे प्रति किलोमीटर।"
+ },
+ {
+  "subject": "own_vehicle",
+  "aspect": "prior_approval_distance_km_per_day",
+  "value": 180,
+  "section": "८.३",
+  "page": 28,
+  "evidence": "निजी वाहन से एक दिवस में १८० किलोमीटर से अधिक की यात्रा के लिए तात्कालिक पर्यवेक्षक का पूर्व अनुमोदन आवश्यक है।"
+ },
+ {
+  "subject": "late_evening_meal",
+  "aspect": "limit_inr",
+  "value": 150,
+  "section": "९.१",
+  "page": 29,
+  "evidence": "यदि कर्मचारी किसी पूर्व-अनुमोदित कार्यालयीन आवश्यकता के कारण अपने सामान्य कार्य-समय से ३ घंटे से अधिक रुकता है, तो उसे १५० रुपये तक का रात्रि-जलपान व्यय देय है।"
+ },
+ {
+  "subject": "late_evening_meal",
+  "aspect": "max_times_per_month",
+  "value": 8,
+  "section": "९.१",
+  "page": 29,
+  "evidence": "इस अपवाद का उपयोग एक कर्मचारी द्वारा एक मास में ८ बार से अधिक नहीं किया जा सकता।"
+ },
+ {
+  "subject": "team_meal",
+  "aspect": "limit_inr_per_person",
+  "value": 650,
+  "section": "९.२",
+  "page": 30,
+  "evidence": "प्रति व्यक्ति सीमा ६५० रुपये है, और दल-भोजन की अनुमति एक दल के लिए एक तिमाही में दो बार है।"
+ },
+ {
+  "subject": "client_hospitality",
+  "aspect": "limit_inr_per_person_class_a",
+  "value": 2200,
+  "section": "१०.१",
+  "page": 31,
+  "evidence": "प्रति व्यक्ति प्रति भोज की अधिकतम सीमा नगर-श्रेणी अ में २,२०० रुपये, नगर-श्रेणी ब में १,६०० रुपये तथा नगर-श्रेणी स में १,२०० रुपये है।"
+ },
+ {
+  "subject": "client_hospitality",
+  "aspect": "fc_prior_approval_threshold_inr",
+  "value": 75000,
+  "section": "१०.१",
+  "page": 31,
+  "evidence": "७५,००० रुपये से अधिक के आयोजन के लिए वित्त नियंत्रक का पूर्व अनुमोदन अनिवार्य है।"
+ },
+ {
+  "subject": "client_gift",
+  "aspect": "limit_inr_without_approval",
+  "value": 1500,
+  "section": "१०.३",
+  "page": 32,
+  "evidence": "ग्राहक अथवा सहयोगी को दिया गया उपहार तभी प्रतिपूर्ति-योग्य है जब उसका मूल्य १,५०० रुपये से अधिक न हो और उस पर संस्था का प्रतीक-चिह्न अंकित हो अथवा वह प्रचार-सामग्री की प्रकृति का हो।"
+ },
+ {
+  "subject": "foreign_lodging",
+  "aspect": "limit_usd_per_night_grade1_3_zone1",
+  "value": 170,
+  "section": "११.३",
+  "page": 34,
+  "evidence": "स्तर ग-१ से ग-३ के लिए विदेश-श्रेणी एक में १७० डॉलर, श्रेणी दो में १२० डॉलर तथा श्रेणी तीन में ९० डॉलर।"
+ },
+ {
+  "subject": "foreign_lodging",
+  "aspect": "limit_usd_per_night_grade4_plus_zone1",
+  "value": 220,
+  "section": "११.३",
+  "page": 34,
+  "evidence": "स्तर ग-४ एवं उससे ऊपर के लिए क्रमशः २२० डॉलर, १५० डॉलर तथा ११० डॉलर।"
+ },
+ {
+  "subject": "foreign_currency",
+  "aspect": "return_of_unspent_working_days",
+  "value": 7,
+  "section": "११.४",
+  "page": 35,
+  "evidence": "यात्रा से लौटने पर अव्ययित विदेशी मुद्रा, चाहे वह नकद हो अथवा पूर्वदत्त यात्रा-कार्ड में शेष, ७ कार्यदिवसों के भीतर लेखा विभाग को लौटानी होगी।"
+ },
+ {
+  "subject": "claim_submission",
+  "aspect": "deadline_working_days",
+  "value": 15,
+  "section": "१३.१",
+  "page": 38,
+  "evidence": "बाह्य-नगर यात्रा से लौटने के १५ कार्यदिवसों के भीतर दावा प्रस्तुत करना अनिवार्य है।"
+ },
+ {
+  "subject": "local_conveyance_claim",
+  "aspect": "monthly_deadline_working_day",
+  "value": 7,
+  "section": "१३.१",
+  "page": 38,
+  "evidence": "स्थानीय आवागमन के दावे मासिक आधार पर प्रस्तुत होंगे और उनकी अंतिम तिथि अगले मास का ७वाँ कार्यदिवस है।"
+ },
+ {
+  "subject": "late_claim_tier2",
+  "aspect": "daily_allowance_deduction_percent",
+  "value": 25,
+  "section": "१३.२",
+  "page": 38,
+  "evidence": "ऐसे दावे के लिए वित्त नियंत्रक का अनुमोदन आवश्यक है, और दैनिक भत्ते की समस्त राशि पर २५ प्रतिशत की कटौती लागू होगी।"
+ },
+ {
+  "subject": "late_claim",
+  "aspect": "absolute_bar_working_days",
+  "value": 90,
+  "section": "१३.२",
+  "page": 39,
+  "evidence": "९० कार्यदिवसों के पश्चात प्रस्तुत किसी भी दावे पर विचार नहीं होगा।"
+ },
+ {
+  "subject": "year_end_claim",
+  "aspect": "cutoff_date",
+  "value": "१० अप्रैल",
+  "section": "१३.४",
+  "page": 40,
+  "evidence": "चाहे उपर्युक्त सामान्य अवधि शेष हो, ३१ मार्च को अथवा उससे पूर्व संपन्न हुई समस्त यात्राओं के दावे उसी वर्ष १० अप्रैल तक प्रस्तुत करने होंगे।"
+ },
+ {
+  "subject": "travel_advance",
+  "aspect": "eligibility_minimum_nights",
+  "value": 2,
+  "section": "१४.१",
+  "page": 40,
+  "evidence": "यात्रा अग्रिम का अनुरोध वह कर्मचारी कर सकता है जिसकी अनुमोदित बाह्य-नगर यात्रा में कम से कम दो रात्रियों का प्रवास सम्मिलित हो, अथवा जिसकी विदेश यात्रा अनुमोदित हो।"
+ },
+ {
+  "subject": "travel_advance",
+  "aspect": "probationer_limit_fraction",
+  "value": 0.5,
+  "section": "१४.१",
+  "page": 40,
+  "evidence": "परिवीक्षाधीन कर्मचारी यात्रा अग्रिम के पात्र हैं, किंतु उनके लिए अधिकतम सीमा सामान्य सीमा की आधी रहेगी।"
+ },
+ {
+  "subject": "travel_advance",
+  "aspect": "max_percent_of_estimate",
+  "value": 80,
+  "section": "१४.२",
+  "page": 41,
+  "evidence": "अग्रिम की राशि अनुमानित व्यय के ८० प्रतिशत से अधिक नहीं होगी।"
+ },
+ {
+  "subject": "travel_advance",
+  "aspect": "domestic_ceiling_inr",
+  "value": 75000,
+  "section": "१४.२",
+  "page": 41,
+  "evidence": "घरेलू यात्रा के लिए अग्रिम की अधिकतम सीमा ७५,००० रुपये है।"
+ },
+ {
+  "subject": "travel_advance",
+  "aspect": "foreign_ceiling_inr",
+  "value": 250000,
+  "section": "१४.२",
+  "page": 41,
+  "evidence": "विदेश यात्रा के लिए यह सीमा २,५०,००० रुपये अथवा उसका समतुल्य विदेशी मुद्रा है।"
+ },
+ {
+  "subject": "travel_advance",
+  "aspect": "request_lead_working_days",
+  "value": 5,
+  "section": "१४.३",
+  "page": 41,
+  "evidence": "अग्रिम का अनुरोध यात्रा आरंभ होने से कम से कम ५ कार्यदिवस पूर्व प्रस्तुत करना होगा।"
+ },
+ {
+  "subject": "travel_advance",
+  "aspect": "hod_countersign_threshold_inr",
+  "value": 40000,
+  "section": "१४.३",
+  "page": 41,
+  "evidence": "अनुरोध पर तात्कालिक पर्यवेक्षक की संस्तुति आवश्यक है, तथा ४०,००० रुपये से अधिक के अग्रिम पर विभाग प्रमुख की भी।"
+ },
+ {
+  "subject": "travel_advance",
+  "aspect": "disbursement_working_days",
+  "value": 3,
+  "section": "१४.३",
+  "page": 41,
+  "evidence": "विधिवत अनुमोदित अग्रिम का वितरण अनुमोदन के ३ कार्यदिवसों के भीतर कर्मचारी के वेतन-खाते में किया जाएगा।"
+ },
+ {
+  "subject": "travel_advance",
+  "aspect": "refund_on_cancellation_working_days",
+  "value": 5,
+  "section": "१४.४",
+  "page": 42,
+  "evidence": "यदि यात्रा किसी कारण से रद्द हो जाती है, तो अग्रिम की संपूर्ण राशि रद्दीकरण की सूचना के ५ कार्यदिवसों के भीतर लौटानी होगी।"
+ },
+ {
+  "subject": "handwritten_receipt",
+  "aspect": "max_amount_inr",
+  "value": 300,
+  "section": "१५.१",
+  "page": 43,
+  "evidence": "हस्तलिखित कच्ची पर्ची तभी स्वीकार्य है जब उस श्रेणी के विक्रेता से मुद्रित रसीद मिलना व्यावहारिक रूप से संभव न हो, जैसे छोटे कस्बों में स्थानीय परिवहन के मामले में, और राशि ३०० रुपये से अधिक न हो।"
+ },
+ {
+  "subject": "original_receipts",
+  "aspect": "employee_retention_months",
+  "value": 6,
+  "section": "१५.१",
+  "page": 43,
+  "evidence": "मूल रसीदें कर्मचारी अपने पास ६ मास तक सुरक्षित रखेगा, क्योंकि अंकेक्षण के समय उनकी माँग की जा सकती है।"
+ },
+ {
+  "subject": "receipt_free_expense",
+  "aspect": "per_item_limit_inr",
+  "value": 500,
+  "section": "१५.३",
+  "page": 44,
+  "evidence": "किसी एक मद पर ५०० रुपये तक का व्यय बिना रसीद के, केवल स्व-प्रमाणन के आधार पर, स्वीकार्य है।"
+ },
+ {
+  "subject": "receipt_free_expense",
+  "aspect": "per_claim_limit_inr",
+  "value": 2500,
+  "section": "१५.३",
+  "page": 44,
+  "evidence": "एक ही दावे में ऐसी रसीद-रहित मदों की कुल राशि २,५०० रुपये से अधिक नहीं हो सकती।"
+ },
+ {
+  "subject": "receipt_free_expense",
+  "aspect": "annual_limit_inr",
+  "value": 18000,
+  "section": "१५.३",
+  "page": 44,
+  "evidence": "एक कर्मचारी के लिए एक लेखा-वर्ष में रसीद-रहित मदों की कुल सीमा १८,००० रुपये है।"
+ },
+ {
+  "subject": "verification",
+  "aspect": "completion_working_days",
+  "value": 3,
+  "section": "१६.२",
+  "page": 46,
+  "evidence": "यह जाँच दावा प्राप्ति के ३ कार्यदिवसों के भीतर पूर्ण होनी चाहिए।"
+ },
+ {
+  "subject": "clarification_response",
+  "aspect": "window_working_days",
+  "value": 5,
+  "section": "१६.२",
+  "page": 46,
+  "evidence": "कर्मचारी को उत्तर देने के लिए ५ कार्यदिवस मिलेंगे।"
+ },
+ {
+  "subject": "approval",
+  "aspect": "decision_working_days",
+  "value": 5,
+  "section": "१६.३",
+  "page": 47,
+  "evidence": "अनुमोदनकर्ता को दावा प्राप्त होने के ५ कार्यदिवसों के भीतर निर्णय देना है।"
+ },
+ {
+  "subject": "approval_authority",
+  "aspect": "supervisor_ceiling_inr",
+  "value": 10000,
+  "section": "२३.२",
+  "page": 73,
+  "evidence": "पर्यवेक्षक दस हज़ार रुपये तक के दावों का अनुमोदनकर्ता है और उससे अधिक राशि के दावों का संस्तुतिकर्ता।"
+ },
+ {
+  "subject": "payment",
+  "aspect": "sla_working_days_after_approval",
+  "value": 7,
+  "section": "१७.१",
+  "page": 48,
+  "evidence": "अनुमोदन के ७ कार्यदिवसों के भीतर स्वीकृत राशि कर्मचारी के पंजीकृत बैंक खाते में जमा कर दी जाएगी।"
+ },
+ {
+  "subject": "claim_cycle",
+  "aspect": "total_normal_working_days",
+  "value": 15,
+  "section": "१७.१",
+  "page": 49,
+  "evidence": "इस प्रकार दावा प्रस्तुत करने से भुगतान तक की कुल सामान्य अवधि १५ कार्यदिवसों से अधिक नहीं होनी चाहिए — ३ कार्यदिवस सत्यापन, ५ कार्यदिवस अनुमोदन तथा ७ कार्यदिवस भुगतान।"
+ },
+ {
+  "subject": "service_standard_breach",
+  "aspect": "departmental_review_threshold_percent",
+  "value": 10,
+  "section": "१७.३",
+  "page": 49,
+  "evidence": "एक तिमाही में यदि किसी विभाग के १० प्रतिशत से अधिक दावों में सेवा-मानक का उल्लंघन हुआ हो, तो वित्त नियंत्रक उस विभाग की प्रक्रिया की समीक्षा करेंगे।"
+ },
+ {
+  "subject": "objection",
+  "aspect": "filing_window_working_days",
+  "value": 10,
+  "section": "१८.१",
+  "page": 50,
+  "evidence": "जिस कर्मचारी का दावा पूर्णतः अथवा आंशिक रूप से अस्वीकृत हुआ है, वह अस्वीकृति की सूचना के १० कार्यदिवसों के भीतर लिखित आपत्ति प्रस्तुत कर सकता है।"
+ },
+ {
+  "subject": "objection",
+  "aspect": "decision_working_days",
+  "value": 12,
+  "section": "१८.२",
+  "page": 50,
+  "evidence": "आपत्ति पर निर्णय १२ कार्यदिवसों के भीतर देना होगा।"
+ },
+ {
+  "subject": "final_appeal",
+  "aspect": "minimum_disputed_amount_inr",
+  "value": 30000,
+  "section": "१८.३",
+  "page": 51,
+  "evidence": "यदि कर्मचारी उपर्युक्त निर्णय से भी असंतुष्ट है और विवादित राशि ३०,००० रुपये से अधिक है, तो वह प्रबंध निदेशक के समक्ष अंतिम अपील कर सकता है।"
+ },
+ {
+  "subject": "recovery",
+  "aspect": "single_instalment_threshold_inr",
+  "value": 20000,
+  "section": "१९.२",
+  "page": 52,
+  "evidence": "२०,००० रुपये तक की राशि एक ही मास में काटी जाएगी।"
+ },
+ {
+  "subject": "recovery",
+  "aspect": "max_percent_of_net_salary_per_month",
+  "value": 25,
+  "section": "१९.२",
+  "page": 53,
+  "evidence": "किसी भी मास में वसूली की कटौती कर्मचारी के उस मास के शुद्ध वेतन के २५ प्रतिशत से अधिक नहीं होगी।"
+ },
+ {
+  "subject": "unadjusted_advance",
+  "aspect": "administrative_charge_percent_per_month",
+  "value": 0.75,
+  "section": "१९.३",
+  "page": 53,
+  "evidence": "३० दिनों के पश्चात अ-समायोजित राशि पर प्रति मास ०.७५ प्रतिशत की दर से प्रशासनिक प्रभार लगेगा, जो अधिकतम ६ मास तक ही लगेगा।"
+ },
+ {
+  "subject": "fraud",
+  "aspect": "preliminary_enquiry_working_days",
+  "value": 15,
+  "section": "२०.३",
+  "page": 55,
+  "evidence": "प्रारंभिक जाँच वित्त नियंत्रक द्वारा नामित एक अधिकारी करेगा और वह १५ कार्यदिवसों के भीतर अपना प्रतिवेदन देगा।"
+ },
+ {
+  "subject": "fraud",
+  "aspect": "advance_debarment_months",
+  "value": 24,
+  "section": "२०.४",
+  "page": 56,
+  "evidence": "संबंधित कर्मचारी को २४ मास की अवधि के लिए यात्रा अग्रिम की पात्रता से वंचित कर दिया जाएगा।"
+ },
+ {
+  "subject": "fraud",
+  "aspect": "legal_action_threshold_inr",
+  "value": 100000,
+  "section": "२०.४",
+  "page": 56,
+  "evidence": "जहाँ कपट की राशि १,००,००० रुपये से अधिक हो, वहाँ वित्त नियंत्रक विधि विभाग से परामर्श करके बाह्य विधिक कार्रवाई की संस्तुति कर सकते हैं।"
+ },
+ {
+  "subject": "pre_payment_audit",
+  "aspect": "full_check_threshold_inr",
+  "value": 50000,
+  "section": "२१.१",
+  "page": 57,
+  "evidence": "५०,००० रुपये से अधिक राशि के प्रत्येक दावे की शत-प्रतिशत जाँच भुगतान से पूर्व होगी, अर्थात् उसकी प्रत्येक रसीद का मिलान होगा।"
+ },
+ {
+  "subject": "pre_payment_audit",
+  "aspect": "random_sample_percent_per_month",
+  "value": 12,
+  "section": "२१.१",
+  "page": 57,
+  "evidence": "इससे कम राशि के दावों में से प्रति मास १२ प्रतिशत का यादृच्छिक नमूना चुनकर उसी स्तर की जाँच की जाएगी।"
+ },
+ {
+  "subject": "pre_payment_audit",
+  "aspect": "sample_check_max_working_days",
+  "value": 4,
+  "section": "२१.१",
+  "page": 57,
+  "evidence": "नमूने में चुने गए दावे का भुगतान जाँच पूर्ण होने तक रुकेगा, किंतु जाँच के लिए अधिकतम ४ कार्यदिवस ही मिलेंगे।"
+ },
+ {
+  "subject": "quarterly_audit",
+  "aspect": "sample_percent",
+  "value": 5,
+  "section": "२१.२",
+  "page": 57,
+  "evidence": "प्रत्येक तिमाही की समाप्ति के पश्चात आंतरिक अंकेक्षण दल उस तिमाही में निपटाए गए समस्त दावों में से ५ प्रतिशत का परीक्षण करेगा।"
+ },
+ {
+  "subject": "audit_report",
+  "aspect": "quarterly_submission_working_days",
+  "value": 30,
+  "section": "२१.४",
+  "page": 58,
+  "evidence": "आंतरिक अंकेक्षण दल प्रत्येक तिमाही की समाप्ति के ३० कार्यदिवसों के भीतर अपना प्रतिवेदन वित्त नियंत्रक को सौंपेगा।"
+ },
+ {
+  "subject": "audit_report",
+  "aspect": "annual_submission_date",
+  "value": "३१ मई",
+  "section": "२१.४",
+  "page": 58,
+  "evidence": "वार्षिक समेकित प्रतिवेदन प्रत्येक वर्ष ३१ मई तक लेखा-परीक्षा समिति के समक्ष रखा जाएगा।"
+ },
+ {
+  "subject": "audit_finding_medium",
+  "aspect": "corrective_action_calendar_days",
+  "value": 45,
+  "section": "२१.४",
+  "page": 59,
+  "evidence": "मध्यम श्रेणी की कमियों पर संबंधित विभाग को ४५ कैलेंडर दिनों के भीतर सुधारात्मक कार्रवाई करनी होगी।"
+ },
+ {
+  "subject": "worked_example_one",
+  "aspect": "total_claim_inr",
+  "value": 46630,
+  "section": "२२.१",
+  "page": 62,
+  "evidence": "चारों शीर्षों का योग ४६,६३० रुपये हुआ।"
+ },
+ {
+  "subject": "worked_example_one",
+  "aspect": "lodging_mumbai_inr_per_night",
+  "value": 6800,
+  "section": "२२.१",
+  "page": 61,
+  "evidence": "मुंबई में कक्ष-शुल्क ६,८०० रुपये प्रति रात्रि रहा, जो स्तर ग-४ की नगर-श्रेणी अ सीमा ७,२०० रुपये के भीतर है।"
+ },
+ {
+  "subject": "worked_example_one",
+  "aspect": "cycle_working_days",
+  "value": 12,
+  "section": "२२.१",
+  "page": 62,
+  "evidence": "सत्यापन ३ कार्यदिवसों में, अनुमोदन ४ कार्यदिवसों में तथा भुगतान ५ कार्यदिवसों में हुआ — कुल १२ कार्यदिवस, जो सेवा-मानक के भीतर है।"
+ },
+ {
+  "subject": "worked_example_two",
+  "aspect": "advance_sanctioned_inr",
+  "value": 40000,
+  "section": "२२.२",
+  "page": 63,
+  "evidence": "अनुमानित व्यय ५०,००० रुपये आँका गया और उसका ८० प्रतिशत, अर्थात् ४०,००० रुपये, यात्रा अग्रिम के रूप में स्वीकृत हुआ।"
+ },
+ {
+  "subject": "worked_example_two",
+  "aspect": "unspent_advance_refund_inr",
+  "value": 15457,
+  "section": "२२.२",
+  "page": 64,
+  "evidence": "प्राप्त अग्रिम ४०,००० रुपये था, अतः १५,४५७ रुपये अव्ययित रहे और सुश्री देशपांडे को वह राशि लौटानी थी।"
+ },
+ {
+  "subject": "worked_example_three",
+  "aspect": "amount_approved_inr",
+  "value": 39559,
+  "section": "२२.३",
+  "page": 67,
+  "evidence": "प्रस्तुत दावे की कुल राशि ४४,०६४ रुपये थी और स्वीकृत राशि ३९,५५९ रुपये रही; अस्वीकृति ४,५०५ रुपये की हुई।"
+ },
+ {
+  "subject": "worked_example_four",
+  "aspect": "hospitality_reimbursed_inr",
+  "value": 17600,
+  "section": "२२.४",
+  "page": 69,
+  "evidence": "कुल बिल २६,१०० रुपये में से १७,६०० रुपये प्रतिपूरित हुए और ८,५०० रुपये श्रीमती नायर के खाते में गए।"
+ },
+ {
+  "subject": "worked_example_five",
+  "aspect": "foreign_daily_allowance_usd_grade4_zone1",
+  "value": 110,
+  "section": "२२.५",
+  "page": 70,
+  "evidence": "स्तर ग-४ के लिए विदेश-श्रेणी एक की दर ११० डॉलर प्रति दिवस है।"
+ },
+ {
+  "subject": "worked_example_five",
+  "aspect": "exchange_rate_inr_per_usd",
+  "value": 86.4,
+  "section": "२२.५",
+  "page": 71,
+  "evidence": "दावा अनुमोदित होने की तिथि पर संदर्भ विनिमय दर ८६ रुपये ४० पैसे प्रति डॉलर रही, जिसके अनुसार दावे का रुपया-मूल्य ९७,३२९ रुपये ६० पैसे बना।"
+ },
+ {
+  "subject": "worked_example_six",
+  "aspect": "administrative_charge_inr",
+  "value": 870,
+  "section": "२२.६",
+  "page": 72,
+  "evidence": "अग्रिम नियत तिथि से दो मास तक अ-समायोजित रहा था, अतः ०.७५ प्रतिशत प्रति मास की दर से ८७० रुपये का प्रशासनिक प्रभार भी लगा।"
+ },
+ {
+  "subject": "expense_query",
+  "aspect": "cell_response_working_days",
+  "value": 2,
+  "section": "२३.१",
+  "page": 73,
+  "evidence": "जहाँ संदेह हो, वहाँ व्यय करने से पूर्व व्यय परिशोधन प्रकोष्ठ से पूछ लेना उसका अधिकार है, और प्रकोष्ठ को ऐसे प्रश्न का उत्तर २ कार्यदिवसों में देना होगा।"
+ },
+ {
+  "subject": "unadjusted_advance_list",
+  "aspect": "monthly_submission_working_days",
+  "value": 5,
+  "section": "२३.४",
+  "page": 74,
+  "evidence": "प्रकोष्ठ प्रत्येक मास की समाप्ति के ५ कार्यदिवसों के भीतर अ-समायोजित अग्रिमों की सूची वित्त नियंत्रक को देगा।"
+ },
+ {
+  "subject": "record_retention",
+  "aspect": "claims_years",
+  "value": 8,
+  "section": "२४.१",
+  "page": 76,
+  "evidence": "दावे, रसीदें, अनुमोदन की टिप्पणियाँ तथा भुगतान के विवरण व्यय प्रबंधन प्रणाली में ८ वर्ष तक संरक्षित रहेंगे।"
+ },
+ {
+  "subject": "record_retention",
+  "aspect": "proven_fraud_years",
+  "value": 12,
+  "section": "२४.१",
+  "page": 76,
+  "evidence": "कपट के सिद्ध मामलों के अभिलेख १२ वर्ष तक रहेंगे।"
+ },
+ {
+  "subject": "indicator",
+  "aspect": "average_cycle_target_working_days",
+  "value": 10,
+  "section": "२६.१",
+  "page": 78,
+  "evidence": "पहला, दावा प्रस्तुत करने से भुगतान तक की औसत अवधि, जिसका लक्ष्य १० कार्यदिवस है।"
+ },
+ {
+  "subject": "indicator",
+  "aspect": "on_time_claim_target_percent",
+  "value": 92,
+  "section": "२६.१",
+  "page": 78,
+  "evidence": "दूसरा, समय-सीमा के भीतर प्रस्तुत दावों का अनुपात, जिसका लक्ष्य ९२ प्रतिशत है।"
+ },
+ {
+  "subject": "indicator",
+  "aspect": "unadjusted_advance_target_percent",
+  "value": 3,
+  "section": "२६.१",
+  "page": 78,
+  "evidence": "तीसरा, अ-समायोजित अग्रिमों का उनके कुल मूल्य में अनुपात, जिसका लक्ष्य ३ प्रतिशत से कम है।"
+ },
+ {
+  "subject": "indicator",
+  "aspect": "overturned_objection_target_percent",
+  "value": 15,
+  "section": "२६.१",
+  "page": 78,
+  "evidence": "चौथा, आपत्ति-स्तर पर उलटे गए निर्णयों का अनुपात, जिसका लक्ष्य १५ प्रतिशत से कम है।"
+ },
+ {
+  "subject": "rate_revision",
+  "aspect": "cycle_years",
+  "value": 2,
+  "section": "२६.२",
+  "page": 79,
+  "evidence": "दैनिक भत्ता, आवास सीमा तथा स्थानीय आवागमन की दरें प्रति दो वर्ष में एक बार पुनरीक्षित होंगी।"
+ },
+ {
+  "subject": "new_employee_training",
+  "aspect": "deadline_calendar_days",
+  "value": 30,
+  "section": "२६.५",
+  "page": 80,
+  "evidence": "नए कर्मचारियों को कार्यभार ग्रहण करने के ३० कैलेंडर दिनों के भीतर इस नियमावली का एक संक्षिप्त प्रशिक्षण दिया जाएगा।"
+ }
+]

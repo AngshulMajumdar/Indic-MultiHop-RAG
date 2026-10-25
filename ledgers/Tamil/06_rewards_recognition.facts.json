@@ -1,0 +1,1330 @@
+[
+ {
+  "subject": "Total Rewards framework",
+  "aspect": "component_count",
+  "value": "6 components (base pay, variable pay, benefits/insurance, career growth, work-life balance, rewards & recognition)",
+  "section": "1",
+  "page": 1,
+  "evidence": "மொத்த வெகுமதி கட்டமைப்பில் ஆறு முக்கிய கூறுகள் உள்ளன: அடிப்படை ஊதியம், மாறுபடும் ஊக்கத்தொகைகள் (variable pay), பலன்கள் மற்றும் காப்பீடுகள், தொழில் வளர்ச்சி வாய்ப்புகள், பணி-வாழ்க்கை சமநிலை ஏற்பாடுகள், மற்றும் இந்த ஆவணத்தின் மையப் பொருளான வெகுமதி மற்றும் அங்கீகாரம்."
+ },
+ {
+  "subject": "Recognition philosophy",
+  "aspect": "core_principles",
+  "value": "5 principles: timeliness, fairness, visibility, meaningfulness, consistency",
+  "section": "1",
+  "page": 3,
+  "evidence": "இந்த மூன்று கோட்பாடுகளுடன் சேர்த்து, நிறுவனம் இரண்டு கூடுதல் கோட்பாடுகளையும் முக்கியமாகக் கருதுகிறது: \"அர்த்தமுள்ள தன்மை\" (meaningfulness) மற்றும் நிலைத்தன்மை (consistency). இந்த ஐந்து கோட்பாடுகளும் ஒன்றையொன்று வலுப்படுத்துகின்றன என்பதை புரிந்துகொள்வது அவசியம் — எடுத்துக்காட்டாக, உடனடித்தன்மை இல்லாமல் அர்த்தமுள்ள தன்மை முழுமையடையாது, ஏனெனில் ஒரு தாமதமான, எவ்வளவு அர்த்தமுள்ள அங்கீகாரமாக இருந்தாலும், அதன் உணர்ச்சிகர வலிமையில் குறைவு ஏற்படும்."
+ },
+ {
+  "subject": "Surya Inaippu platform",
+  "aspect": "launch_history",
+  "value": "manual/email-based process from 2019; points system introduced with platform v1 in 2022; mobile app added 2024",
+  "section": "1",
+  "page": 4,
+  "evidence": "இந்த வழிகாட்டியின் தற்போதைய பதிப்பு, 2019-ல் முதன்முதலில் அறிமுகப்படுத்தப்பட்ட ஒரு எளிமையான, கையேடு பரிந்துரை அடிப்படையிலான அங்கீகார செயல்முறையிலிருந்து குறிப்பிடத்தக்க பரிணாம வளர்ச்சியை பிரதிபலிக்கிறது. அந்த ஆரம்பகால அமைப்பில், மேலாளர்கள் மின்னஞ்சல் மூலம் மட்டுமே பரிந்துரைகளை சமர்ப்பிக்க முடியும், மேலும் புள்ளி அடிப்படையிலான மீட்பு எதுவும் இல்லை; பதிலாக, காலாண்டுதோறும் ஒரு பணப்பை (cash envelope) மட்டுமே வழங்கப்பட்டது. 2022-ல் \"சூர்ய இணைப்பு\" தளத்தின் முதல் பதிப்பு அறிமுகப்படுத்தப்பட்டபோது, புள்ளி அடிப்படையிலான அமைப்பு முதன்முறையாக செயல்படுத்தப்பட்டது, மேலும் 2024-ல் மொபைல் செயலி அம்சம் சேர்க்கப்பட்டது."
+ },
+ {
+  "subject": "Pirakasa Muthirai",
+  "aspect": "nomination_types",
+  "value": "peer-to-peer and manager-to-employee",
+  "section": "2",
+  "page": 5,
+  "evidence": "பிரகாச முத்திரை திட்டத்தில் இரண்டு வகையான நியமனங்கள் அனுமதிக்கப்படுகின்றன: சக பணியாளர்-க்கு-சக பணியாளர் (peer-to-peer) நியமனம் மற்றும் மேலாளர்-க்கு-பணியாளர் (manager-to-employee) நியமனம்."
+ },
+ {
+  "subject": "Peer-to-peer nomination",
+  "aspect": "monthly_limit",
+  "value": "maximum 4 nominations per month",
+  "section": "2",
+  "page": 5,
+  "evidence": "சக பணியாளர் நியமனத்தில், எந்தவொரு பணியாளரும் மாதத்திற்கு அதிகபட்சமாக நான்கு நியமனங்களை சமர்ப்பிக்க முடியும், ஒவ்வொரு நியமனமும் 50 முதல் 150 புள்ளிகள் வரை மதிப்புடையதாக இருக்கும்."
+ },
+ {
+  "subject": "Peer-to-peer nomination",
+  "aspect": "point_range",
+  "value": "50 to 150 points per nomination",
+  "section": "2",
+  "page": 5,
+  "evidence": "சக பணியாளர் நியமனத்தில், எந்தவொரு பணியாளரும் மாதத்திற்கு அதிகபட்சமாக நான்கு நியமனங்களை சமர்ப்பிக்க முடியும், ஒவ்வொரு நியமனமும் 50 முதல் 150 புள்ளிகள் வரை மதிப்புடையதாக இருக்கும்."
+ },
+ {
+  "subject": "Manager nomination",
+  "aspect": "limit",
+  "value": "no count limit, subject to quarterly budget",
+  "section": "2",
+  "page": 5,
+  "evidence": "மேலாளர் நியமனங்களுக்கு இத்தகைய எண்ணிக்கை வரம்பு இல்லை, ஆனால் மேலாளரின் காலாண்டு பட்ஜெட்டுக்கு உட்பட்டே நியமனங்கள் செய்யப்பட வேண்டும்."
+ },
+ {
+  "subject": "Pirakasa Muthirai nomination categories",
+  "aspect": "list",
+  "value": "collaboration, innovation, customer focus, ownership, integrity, continuous learning (6 company values)",
+  "section": "2",
+  "page": 5,
+  "evidence": "நியமனங்கள் ஆறு நிறுவன மதிப்புகளில் ஒன்றின் கீழ் வகைப்படுத்தப்பட வேண்டும்: கூட்டுறவு (collaboration), புதுமை (innovation), வாடிக்கையாளர் கவனம் (customer focus), சொந்தம் எடுத்தல் (ownership), ஒருமைப்பாடு (integrity), மற்றும் தொடர்ச்சியான கற்றல் (continuous learning)."
+ },
+ {
+  "subject": "2024-25 nomination value distribution",
+  "aspect": "most_cited_value",
+  "value": "collaboration - 31% of nominations",
+  "section": "2",
+  "page": 6,
+  "evidence": "2024-25 ஆம் ஆண்டின் நியமன தரவின்படி, \"கூட்டுறவு\" மிகவும் அடிக்கடி குறிப்பிடப்பட்ட மதிப்பாக இருந்தது (மொத்த நியமனங்களில் 31 சதவீதம்), அதே நேரத்தில் \"ஒருமைப்பாடு\" குறைவாக குறிப்பிடப்பட்ட மதிப்பாக இருந்தது (8 சதவீதம்), இது ஒரு இயல்பான வடிவமாக கருதப்படுகிறது, ஏனெனில் ஒருமைப்பாடு தொடர்பான நடத்தைகள் பெரும்பாலும் வெளிப்படையாக காணப்படாமல் இருக்கலாம்."
+ },
+ {
+  "subject": "2024-25 nomination value distribution",
+  "aspect": "least_cited_value",
+  "value": "integrity - 8% of nominations",
+  "section": "2",
+  "page": 6,
+  "evidence": "2024-25 ஆம் ஆண்டின் நியமன தரவின்படி, \"கூட்டுறவு\" மிகவும் அடிக்கடி குறிப்பிடப்பட்ட மதிப்பாக இருந்தது (மொத்த நியமனங்களில் 31 சதவீதம்), அதே நேரத்தில் \"ஒருமைப்பாடு\" குறைவாக குறிப்பிடப்பட்ட மதிப்பாக இருந்தது (8 சதவீதம்), இது ஒரு இயல்பான வடிவமாக கருதப்படுகிறது, ஏனெனில் ஒருமைப்பாடு தொடர்பான நடத்தைகள் பெரும்பாலும் வெளிப்படையாக காணப்படாமல் இருக்கலாம்."
+ },
+ {
+  "subject": "Manager Pirakasa Muthirai budget",
+  "aspect": "annual_rate",
+  "value": "₹4,500 per employee per year average",
+  "section": "2",
+  "page": 6,
+  "evidence": "ஒவ்வொரு மேலாளருக்கும் தமது நேரடி குழுவின் அளவைப் பொறுத்து ஆண்டுக்கு ஒரு பணியாளருக்கு சராசரியாக ₹4,500 என்ற கணக்கில் பட்ஜெட் ஒதுக்கப்படுகிறது."
+ },
+ {
+  "subject": "Manager budget example",
+  "aspect": "10_person_team",
+  "value": "₹45,000 per year",
+  "section": "2",
+  "page": 6,
+  "evidence": "எடுத்துக்காட்டாக, பத்து பேர் கொண்ட குழுவை நிர்வகிக்கும் மேலாளருக்கு ஆண்டுக்கு ₹45,000 பிரகாச முத்திரை பட்ஜெட் கிடைக்கும்."
+ },
+ {
+  "subject": "Manager budget",
+  "aspect": "quarterly_carryover",
+  "value": "unused amount carried forward up to 50% to next quarter; remainder expires at year end",
+  "section": "2",
+  "page": 6,
+  "evidence": "இந்த பட்ஜெட் நான்கு காலாண்டுகளாகப் பிரிக்கப்பட்டு, பயன்படுத்தப்படாத தொகை அடுத்த காலாண்டுக்கு 50 சதவீதம் வரை மட்டுமே கொண்டு செல்லப்படும்; மீதமுள்ளவை ஆண்டு இறுதியில் காலாவதியாகிவிடும்."
+ },
+ {
+  "subject": "Pirakasa Muthirai point value",
+  "aspect": "current_value",
+  "value": "₹8 per point, reviewed annually at start of fiscal year",
+  "section": "2",
+  "page": 7,
+  "evidence": "ஒரு புள்ளியின் பண மதிப்பு (₹8) ஆண்டுக்கு ஒருமுறை, நிதியாண்டு தொடக்கத்தில், பணவீக்க விகிதம் மற்றும் ஒப்பீட்டு சந்தை தரவுகளின் அடிப்படையில் வெகுமதி நிர்வாக குழுவால் மறுஆய்வு செய்யப்படுகிறது."
+ },
+ {
+  "subject": "Pirakasa Muthirai point value",
+  "aspect": "history",
+  "value": "₹6 in 2022 (launch), ₹7 in 2024, ₹8 currently",
+  "section": "2",
+  "page": 7,
+  "evidence": "இந்த மதிப்பு 2022-ல் திட்டம் தொடங்கியபோது ₹6 ஆக இருந்தது, 2024-ல் ₹7 ஆக உயர்த்தப்பட்டு, தற்போது ₹8 ஆக உள்ளது; இந்த படிப்படியான உயர்வு, பணியாளர்களின் உண்மையான வாங்கும் திறனை புள்ளிகள் பிரதிபலிக்க வேண்டும் என்ற கொள்கையை அடிப்படையாகக் கொண்டது."
+ },
+ {
+  "subject": "Redemption catalogue",
+  "aspect": "tier_structure",
+  "value": "Silver up to 500 points, Gold 501-2000 points, Platinum 2001+ points",
+  "section": "2",
+  "page": 7,
+  "evidence": "மீட்பு பட்டியல் மூன்று அடுக்குகளாக கட்டமைக்கப்பட்டுள்ளது: வெள்ளி அடுக்கு (500 புள்ளிகள் வரை — எழுதுபொருட்கள், உணவக கூப்பன்கள், புத்தகங்கள்), தங்க அடுக்கு (501 முதல் 2,000 புள்ளிகள் வரை — மின்னணு சாதனங்கள், பயண சாமான் பைகள், சமையலறை உபகரணங்கள்), மற்றும் பிளாட்டினம் அடுக்கு (2,001 புள்ளிகளுக்கு மேல் — விடுமுறை பொதிகள், உயர்தர மின்னணுப் பொருட்கள், கனரக பிரீமியம் பொருட்கள்)."
+ },
+ {
+  "subject": "Redemption catalogue",
+  "aspect": "update_frequency",
+  "value": "twice a year, in April and October",
+  "section": "2",
+  "page": 7,
+  "evidence": "மீட்பு பட்டியல் ஆண்டுக்கு இருமுறை, ஏப்ரல் மற்றும் அக்டோபர் மாதங்களில் புதுப்பிக்கப்படுகிறது, மேலும் பணியாளர் கணிப்பீடுகளின் அடிப்படையில் புதிய விற்பனையாளர்களும் (vendors) சேர்க்கப்படுவார்கள்."
+ },
+ {
+  "subject": "Pirakasa Muthirai points",
+  "aspect": "expiry",
+  "value": "24 months from credit date; reminder sent 3 months before expiry",
+  "section": "2",
+  "page": 7,
+  "evidence": "புள்ளிகள் வரவு வைக்கப்பட்ட நாளிலிருந்து 24 மாதங்களுக்குள் மீட்கப்படாவிட்டால் காலாவதியாகிவிடும்; இது தொடர்பாக பணியாளர்களுக்கு காலாவதிக்கு மூன்று மாதங்களுக்கு முன்னரே நினைவூட்டல் அனுப்பப்படும்."
+ },
+ {
+  "subject": "Points expiry",
+  "aspect": "long_leave_exception",
+  "value": "clock pauses during continuous leave of 6+ months",
+  "section": "2",
+  "page": 7,
+  "evidence": "ஒரு பணியாளர் நீண்ட கால விடுப்பில் இருக்கும்போது (எடுத்துக்காட்டாக, ஆறு மாதங்களுக்கும் மேலான தொடர்ச்சியான விடுப்பு), அவரது புள்ளிகளின் காலாவதி கடிகாரம் தானாகவே அந்த விடுப்பு காலத்திற்கு இடைநிறுத்தப்படும், இதனால் அவர்கள் பணிக்குத் திரும்பியவுடன் தமது புள்ளிகளை முழு 24 மாத காலத்திற்கு பயன்படுத்த முடியும்."
+ },
+ {
+  "subject": "Recognition approval levels",
+  "aspect": "tier_1",
+  "value": "up to ₹1,000 - direct manager approval only, auto-processed",
+  "section": "2",
+  "page": 8,
+  "evidence": "₹1,000 வரை மதிப்புள்ள நியமனங்களுக்கு நேரடி மேலாளரின் ஒப்புதல் மட்டுமே போதுமானது; இந்த நியமனங்கள் அமைப்பு மூலமாக தானியங்கி முறையில் செயல்படுத்தப்படும்."
+ },
+ {
+  "subject": "Recognition approval levels",
+  "aspect": "tier_2",
+  "value": "₹1,001 to ₹5,000 - requires Department Head approval",
+  "section": "2",
+  "page": 8,
+  "evidence": "₹1,001 முதல் ₹5,000 வரையிலான நியமனங்களுக்கு துறைத் தலைவரின் (Department Head) கூடுதல் ஒப்புதல் தேவைப்படும்."
+ },
+ {
+  "subject": "Recognition approval levels",
+  "aspect": "tier_3",
+  "value": "above ₹5,001 - requires HR Head approval",
+  "section": "2",
+  "page": 8,
+  "evidence": "₹5,001-க்கு மேற்பட்ட நியமனங்களுக்கு — இவை பொதுவாக அசாதாரணமான, நிறுவன அளவிலான தாக்கத்தை ஏற்படுத்திய பங்களிப்புகளுக்காக வழங்கப்படும் — மனித வள தலைவரின் நேரடி ஒப்புதல் கட்டாயமாகும்."
+ },
+ {
+  "subject": "Nomination note",
+  "aspect": "minimum_word_count",
+  "value": "minimum 40 words",
+  "section": "2",
+  "page": 8,
+  "evidence": "நியமிக்கும் நபர் \"சூர்ய இணைப்பு\" தளத்தில் நுழைந்து, பெறுநரின் பெயரைத் தேர்ந்தெடுத்து, சாதனையை விவரிக்கும் ஒரு குறுகிய குறிப்பை (குறைந்தபட்சம் 40 சொற்கள்) எழுத வேண்டும், பொருந்தக்கூடிய நிறுவன மதிப்பை தேர்ந்தெடுக்க வேண்டும், மற்றும் பரிந்துரைக்கப்படும் புள்ளி மதிப்பை உள்ளிட வேண்டும்."
+ },
+ {
+  "subject": "Nomination processing time",
+  "aspect": "target",
+  "value": "average 3 working days; up to 7 working days for nominations above ₹5,001",
+  "section": "2",
+  "page": 9,
+  "evidence": "சராசரியாக, ஒரு நியமனம் சமர்ப்பிக்கப்பட்ட நேரத்திலிருந்து ஒப்புதல் பெற்று புள்ளிகள் வரவு வைக்கப்படும் வரை 3 வேலை நாட்களுக்கு மேல் எடுக்கக்கூடாது என்பது நிறுவனத்தின் இலக்காகும். ₹5,001-க்கு மேற்பட்ட நியமனங்களுக்கு, மனித வள தலைவரின் அட்டவணையைப் பொறுத்து, இந்த காலக்கெடு 7 வேலை நாட்கள் வரை நீடிக்கலாம்."
+ },
+ {
+  "subject": "2024-25 Pirakasa Muthirai volume",
+  "aspect": "total_nominations",
+  "value": "11,200+ nominations processed, 22% increase over previous year",
+  "section": "2",
+  "page": 9,
+  "evidence": "2024-25 ஆம் ஆண்டில், பிரகாச முத்திரை திட்டத்தின் கீழ் மொத்தம் 11,200-க்கும் மேற்பட்ட நியமனங்கள் செயலாக்கப்பட்டன, இது முந்தைய ஆண்டை விட 22 சதவீதம் அதிகம் ஆகும்."
+ },
+ {
+  "subject": "2024-25 nomination split",
+  "aspect": "peer_vs_manager",
+  "value": "64% peer-to-peer, 36% manager-to-employee",
+  "section": "2",
+  "page": 9,
+  "evidence": "இதில் 64 சதவீதம் சக பணியாளர் நியமனங்களாகவும், 36 சதவீதம் மேலாளர் நியமனங்களாகவும் இருந்தன."
+ },
+ {
+  "subject": "Quarterly top recognizer",
+  "aspect": "reward",
+  "value": "top 3 employees get 200 bonus points each",
+  "section": "2",
+  "page": 9,
+  "evidence": "ஒவ்வொரு காலாண்டிலும், அதிக எண்ணிக்கையிலான தரமான நியமனங்களை சமர்ப்பித்த மூன்று பணியாளர்கள் \"மிகச் சிறந்த அங்கீகரிப்பாளர்\" (top recognizer) என்று அடையாளம் காணப்பட்டு, அவர்களுக்கு 200 கூடுதல் புள்ளிகள் வழங்கப்படும்."
+ },
+ {
+  "subject": "Mobile app nomination",
+  "aspect": "process_steps",
+  "value": "3-step process: select person, record note (voice or text), submit",
+  "section": "2",
+  "page": 10,
+  "evidence": "மொபைல் செயலியில் பிரகாச முத்திரை அம்சம் ஒரு எளிமையான மூன்று-படி செயல்முறையாக வடிவமைக்கப்பட்டுள்ளது: நபரைத் தேர்ந்தெடுத்தல், குறிப்பை குரல் குறிப்பு (voice note) அல்லது எழுத்து வடிவில் பதிவு செய்தல், மற்றும் சமர்ப்பித்தல்."
+ },
+ {
+  "subject": "Oliviru Natchathiram award",
+  "aspect": "small_department_frequency",
+  "value": "departments with fewer than 10 employees award once every 2 months instead of monthly",
+  "section": "3",
+  "page": 10,
+  "evidence": "ஒரு துறையில் பத்து பணியாளர்களுக்கும் குறைவாக இருந்தால், அந்த துறை இரண்டு மாதங்களுக்கு ஒருமுறை மட்டுமே இந்த விருதை வழங்கும், இதனால் மிகச் சிறிய குழுக்களில் ஒரே பணியாளர்கள் மீண்டும் மீண்டும் தேர்ந்தெடுக்கப்படும் நிலை தவிர்க்கப்படுகிறது."
+ },
+ {
+  "subject": "Oliviru Natchathiram selection criteria",
+  "aspect": "weights",
+  "value": "performance vs targets 35%, team collaboration 25%, customer/stakeholder appreciation 25%, values alignment 15%",
+  "section": "3",
+  "page": 10,
+  "evidence": "தேர்வு அளவுகோல்களில் பின்வருவன அடங்கும்: நிர்ணயிக்கப்பட்ட இலக்குகளை மீறிய செயல்திறன் (எடை 35 சதவீதம்), குழு ஒத்துழைப்பு (எடை 25 சதவீதம்), வாடிக்கையாளர் அல்லது உள் பங்குதாரர் பாராட்டு (எடை 25 சதவீதம்), மற்றும் நிறுவன மதிப்புகளுக்கு ஏற்ப நடந்துகொள்ளுதல் (எடை 15 சதவீதம்)."
+ },
+ {
+  "subject": "Oliviru Natchathiram selection committee",
+  "aspect": "composition",
+  "value": "3 members: department head, HR Business Partner, previous month's winner (rotation)",
+  "section": "3",
+  "page": 11,
+  "evidence": "தேர்வுக் குழு ஒவ்வொரு துறையிலும் மூன்று உறுப்பினர்களைக் கொண்டிருக்கும்: துறைத் தலைவர், மனித வள பங்குதாரர் (HR Business Partner), மற்றும் முந்தைய மாத வெற்றியாளர் (ரொட்டேஷன் அடிப்படையில்)."
+ },
+ {
+  "subject": "Oliviru Natchathiram selection meeting",
+  "aspect": "format",
+  "value": "30-minute meeting: 10 min presentations, 15 min discussion, 5 min voting",
+  "section": "3",
+  "page": 11,
+  "evidence": "தேர்வு கூட்டம் ஒவ்வொரு மாதமும் கடைசி வேலை நாளுக்கு முன் நடைபெறும், மேலும் இது ஒரு நிலையான 30 நிமிட வடிவத்தைப் பின்பற்றுகிறது: முதல் 10 நிமிடங்களில் ஒவ்வொரு உறுப்பினரும் தமது பரிந்துரைக்கப்பட்ட வேட்பாளரை சுருக்கமாக முன்வைப்பார், அடுத்த 15 நிமிடங்களில் மதிப்பீட்டு அளவுகோல் அட்டவணையின் அடிப்படையில் விவாதம் நடைபெறும், மற்றும் கடைசி 5 நிமிடங்களில் இறுதி வாக்களிப்பு மூலம் வெற்றியாளர் தீர்மானிக்கப்படுவார்."
+ },
+ {
+  "subject": "Oliviru Natchathiram tie-break",
+  "aspect": "rule",
+  "value": "HR Business Partner's vote is decisive on a tie",
+  "section": "3",
+  "page": 11,
+  "evidence": "ஒரு முடிவில் உடன்பாடு ஏற்படாவிட்டால், மனித வள பங்குதாரரின் வாக்கு இறுதி முடிவாக கருதப்படும்."
+ },
+ {
+  "subject": "Oliviru Natchathiram winner reward",
+  "aspect": "value",
+  "value": "₹7,500 cash-equivalent prize, formal certificate, newsletter feature, 1-month photo display",
+  "section": "3",
+  "page": 12,
+  "evidence": "வெற்றியாளருக்கு ₹7,500 மதிப்புள்ள பண சமான பரிசு, ஒரு சிறப்பு பட்டய சான்றிதழ், மற்றும் நிறுவன வாராந்திர செய்திமடலில் சிறப்பு இடம் வழங்கப்படும். மேலும், வெற்றியாளரின் புகைப்படம் அந்தந்த அலுவலக வரவேற்பறையில் உள்ள \"இந்த மாத நட்சத்திரங்கள்\" சுவரில் ஒரு மாத காலத்திற்கு காட்சிப்படுத்தப்படும்."
+ },
+ {
+  "subject": "Oliviru Natchathiram repeat performer badge",
+  "aspect": "criterion",
+  "value": "awarded after winning 3 times (non-consecutive months)",
+  "section": "3",
+  "page": 12,
+  "evidence": "தொடர்ந்து மூன்று முறை \"ஒளிர்வு நட்சத்திரம்\" விருது பெறும் பணியாளர்களுக்கு (வெவ்வேறு மாதங்களில் என்றாலும்), ஒரு சிறப்பு \"மீண்டும் மீண்டும் சிறந்தவர்\" (repeat performer) பேட்ஜ் அவர்களது \"சூர்ய இணைப்பு\" சுயவிவரத்தில் நிரந்தரமாக காட்சிப்படுத்தப்படும்."
+ },
+ {
+  "subject": "Oliviru Natchathiram eligibility",
+  "aspect": "consecutive_restriction",
+  "value": "cannot win 2 consecutive months; eligible again in 3rd month",
+  "section": "3",
+  "page": 12,
+  "evidence": "ஒரு பணியாளர் தொடர்ந்து இரண்டு மாதங்களுக்கு \"ஒளிர்வு நட்சத்திரம்\" ஆக தேர்ந்தெடுக்கப்பட முடியாது, இது வாய்ப்புகளை பரவலாக்க உதவுகிறது; மூன்றாவது மாதத்தில் மீண்டும் தகுதி பெறுவார்."
+ },
+ {
+  "subject": "Quarterly Champion",
+  "aspect": "selection_panel",
+  "value": "all department heads, HR head, and CEO",
+  "section": "3",
+  "page": 12,
+  "evidence": "இந்த தேர்வுக்கு ஒரு பரந்த குழு பொறுப்பாகும் — இதில் அனைத்து துறைத் தலைவர்களும், மனித வள தலைவரும், மற்றும் தலைமை செயல் அதிகாரியும் (CEO) அடங்குவர்."
+ },
+ {
+  "subject": "Quarterly Champion reward",
+  "aspect": "value",
+  "value": "₹20,000 cash-equivalent prize, 1 week paid extra leave, town hall recognition with 2-minute speech",
+  "section": "3",
+  "page": 12,
+  "evidence": "காலாண்டு சாம்பியனுக்கு ₹20,000 பண சமான பரிசு, ஒரு வாரம் கூடுதல் ஊதியத்துடன் கூடிய விடுப்பு, மற்றும் நிறுவனத்தின் காலாண்டு அனைவருக்குமான கூட்டத்தில் (town hall) பொதுவில் அங்கீகாரம் வழங்கப்படும். இந்த வழங்கல் நிகழ்வில், காலாண்டு சாம்பியன் மேடையில் ஏறி, இரண்டு நிமிட காலத்திற்கு தமது அனுபவத்தை அனைத்து பணியாளர்களுடனும் நேரடியாக பகிர்ந்துகொள்ளும் வாய்ப்பு வழங்கப்படுகிறது, இது பிற பணியாளர்களுக்கு ஒரு உத்வேகமூட்டும் தருணமாக அமைகிறது."
+ },
+ {
+  "subject": "Quarterly Champion eligibility",
+  "aspect": "consecutive_restriction",
+  "value": "cannot win 2 consecutive quarters",
+  "section": "3",
+  "page": 12,
+  "evidence": "இதேபோல், ஒரு பணியாளர் தொடர்ச்சியாக இரண்டு காலாண்டுகளுக்கு \"காலாண்டு சாம்பியன்\" ஆக தேர்ந்தெடுக்கப்பட முடியாது."
+ },
+ {
+  "subject": "Quarterly Champions",
+  "aspect": "annual_award_link",
+  "value": "automatically shortlisted for Annual Excellence Awards",
+  "section": "3",
+  "page": 12,
+  "evidence": "ஒவ்வொரு ஆண்டும், காலாண்டு சாம்பியன் விருது பெற்றவர்கள் தானாகவே ஆண்டு சிறப்பு விருதுகளுக்கான இறுதி பட்டியலில் (shortlist) இடம்பெறுவார்கள், இது அடுத்த பிரிவில் விரிவாக விளக்கப்பட்டுள்ளது."
+ },
+ {
+  "subject": "Suryodaya Sirappu Vidhuthukal Vizha (Annual Awards)",
+  "aspect": "timing",
+  "value": "held every year in February",
+  "section": "4",
+  "page": 13,
+  "evidence": "நிறுவனத்தின் ஆண்டு நிகழ்வுகளில் மிக முக்கியமானது \"சூர்யோதய சிறப்பு விருதுகள் விழா\" ஆகும், இது ஒவ்வொரு ஆண்டும் பிப்ரவரி மாதத்தில் நடத்தப்படுகிறது."
+ },
+ {
+  "subject": "Annual Awards categories",
+  "aspect": "list",
+  "value": "6 categories: Innovation Excellence, Customer Impact, Team Collaboration, Leadership Excellence, Rookie of the Year, Company Values Ambassador",
+  "section": "4",
+  "page": 13,
+  "evidence": "இந்த விழாவில் ஆறு முக்கிய வகைகளில் விருதுகள் வழங்கப்படுகின்றன: (அ) புதுமை சிறப்பு விருது, (ஆ) வாடிக்கையாளர் தாக்க விருது, (இ) குழு ஒத்துழைப்பு விருது, (ஈ) தலைமைத்துவ சிறப்பு விருது, (உ) ஆண்டின் புதுமுகம் விருது (புதிதாக சேர்ந்து ஒரு ஆண்டுக்குள் சிறந்து விளங்கியவர்களுக்கு), மற்றும் (ஊ) நிறுவன மதிப்புகள் தூதர் விருது."
+ },
+ {
+  "subject": "Annual Awards nomination window",
+  "aspect": "period",
+  "value": "opens first week of November, open for 4 weeks",
+  "section": "4",
+  "page": 14,
+  "evidence": "நியமன செயல்முறை நவம்பர் மாத முதல் வாரத்தில் தொடங்கி, நான்கு வாரங்கள் திறந்திருக்கும்."
+ },
+ {
+  "subject": "Annual Awards nomination",
+  "aspect": "minimum_word_count",
+  "value": "minimum 200 words justification",
+  "section": "4",
+  "page": 14,
+  "evidence": "ஒவ்வொரு நியமனத்திலும் குறைந்தபட்சம் 200 சொற்கள் கொண்ட விரிவான நியாயப்படுத்தலும், அளவிடக்கூடிய தாக்கத்தைக் காட்டும் தரவுகளும் இணைக்கப்பட வேண்டும்."
+ },
+ {
+  "subject": "Rookie of the Year",
+  "aspect": "eligibility",
+  "value": "must have joined within the past 12 months",
+  "section": "4",
+  "page": 14,
+  "evidence": "ஆண்டின் புதுமுகம் விருதுக்கு, நியமிக்கப்படும் பணியாளர் கடந்த பன்னிரண்டு மாதங்களுக்குள் நிறுவனத்தில் சேர்ந்திருக்க வேண்டும், மேலும் அவர் எதிர்பார்க்கப்பட்ட கற்றல் காலத்தை விட வேகமாக பணியில் பொருந்தி, குறிப்பிடத்தக்க பங்களிப்பை வழங்கியிருக்க வேண்டும்."
+ },
+ {
+  "subject": "Company Values Ambassador nomination",
+  "aspect": "requirement",
+  "value": "needs supporting testimonials from at least 3 different peers",
+  "section": "4",
+  "page": 14,
+  "evidence": "நிறுவன மதிப்புகள் தூதர் விருது, எந்தவொரு குறிப்பிட்ட திட்ட சாதனையையும் அடிப்படையாகக் கொள்ளாமல், ஒரு பணியாளர் தொடர்ந்து தமது அன்றாட நடத்தையில் நிறுவன மதிப்புகளை வாழ்ந்து காட்டியதற்காக வழங்கப்படுகிறது; இந்த வகைக்கான நியமனங்களில் குறைந்தபட்சம் மூன்று வெவ்வேறு சக பணியாளர்களிடமிருந்து ஆதரவு சான்றுகள் (supporting testimonials) இணைக்கப்பட வேண்டும்."
+ },
+ {
+  "subject": "Annual Awards judging",
+  "aspect": "stage_1_rubric",
+  "value": "100-point rubric: impact 40 points, innovation 25 points, role-model behaviour 20 points, comparative value 15 points; selects 5 finalists per category",
+  "section": "4",
+  "page": 15,
+  "evidence": "முதல் கட்டத்தில், ஒவ்வொரு வகைக்கும் துறைத் தலைவர்களைக் கொண்ட ஒரு திரையிடல் குழு, சமர்ப்பிக்கப்பட்ட அனைத்து நியமனங்களையும் ஒரு 100-புள்ளி தரப்படுத்தப்பட்ட மதிப்பீட்டு அட்டவணையைப் (scoring rubric) பயன்படுத்தி மதிப்பாய்வு செய்து, ஒவ்வொரு வகையிலும் ஐந்து இறுதி போட்டியாளர்களை (finalists) தேர்ந்தெடுக்கிறது. இந்த மதிப்பீட்டு அட்டவணையில் தாக்கத்தின் அளவு (40 புள்ளிகள்), புதுமைத்தன்மை (25 புள்ளிகள்), மற்றவர்களுக்கு முன்மாதிரியாக இருக்கும் தன்மை (20 புள்ளிகள்), மற்றும் ஒப்புமை மதிப்பு (15 புள்ளிகள்) ஆகியவை அடங்கும்."
+ },
+ {
+  "subject": "Annual Awards judging",
+  "aspect": "stage_2_panel",
+  "value": "CEO, HR head, CFO, and 2 external independent judges",
+  "section": "4",
+  "page": 15,
+  "evidence": "இரண்டாம் கட்டத்தில், தலைமை செயல் அதிகாரி, மனித வள தலைவர், நிதித் தலைவர், மற்றும் இரண்டு வெளி சுயாதீன நீதிபதிகள் (தொழில்துறை நிபுணர்கள்) கொண்ட உயர் குழு, இறுதி போட்டியாளர்களிடமிருந்து வெற்றியாளர்களைத் தேர்ந்தெடுக்கிறது."
+ },
+ {
+  "subject": "Annual Awards stage 2 judging",
+  "aspect": "timing",
+  "value": "3rd week of January",
+  "section": "4",
+  "page": 15,
+  "evidence": "இந்த இரண்டாம் கட்ட நீதித்துறை அமர்வு ஜனவரி மூன்றாம் வாரத்தில் நடைபெறும், மேலும் இதன் முடிவுகள் விழா நாள் வரை கண்டிப்பாக ரகசியமாக வைக்கப்படும்."
+ },
+ {
+  "subject": "Annual Awards category winner",
+  "aspect": "reward",
+  "value": "₹50,000 cash-equivalent prize, crystal trophy, website and annual report feature",
+  "section": "4",
+  "page": 15,
+  "evidence": "ஒவ்வொரு வகை வெற்றியாளருக்கும் ₹50,000 பண சமான பரிசு, ஒரு கிரிஸ்டல் நினைவுச் சின்னம், மற்றும் நிறுவன இணையதளத்திலும் ஆண்டு அறிக்கையிலும் சிறப்பு இடம் வழங்கப்படும்."
+ },
+ {
+  "subject": "2025 Annual Awards",
+  "aspect": "nomination_stats",
+  "value": "85 nominations received, 30 finalists, 6 winners",
+  "section": "4",
+  "page": 16,
+  "evidence": "2025-ஆம் ஆண்டின் விழாவில் மொத்தம் 85 நியமனங்கள் பெறப்பட்டன, இதில் இருந்து 30 இறுதி போட்டியாளர்களும், இறுதியாக 6 வெற்றியாளர்களும் தேர்ந்தெடுக்கப்பட்டனர்."
+ },
+ {
+  "subject": "Lifetime Achievement Award",
+  "aspect": "eligibility",
+  "value": "minimum 15 years of service required; rarely awarded",
+  "section": "4",
+  "page": 17,
+  "evidence": "ஆறு வருடாந்திர வகைகளுடன் சேர்த்து, நிறுவனம் ஒரு ஏழாவது, அரிதாக வழங்கப்படும் \"வாழ்நாள் சாதனையாளர் விருது\" (lifetime achievement award) என்ற சிறப்பு பிரிவையும் வைத்துள்ளது. இது ஒவ்வொரு ஆண்டும் வழங்கப்படுவதில்லை; குறைந்தபட்சம் பதினைந்து ஆண்டுகள் நிறுவனத்தில் பணியாற்றி, நிறுவனத்தின் வரலாற்றிலேயே குறிப்பிடத்தக்க, நீடித்து நிற்கும் தாக்கத்தை ஏற்படுத்திய ஒரு பணியாளருக்கு மட்டுமே இது வழங்கப்படும்."
+ },
+ {
+  "subject": "Lifetime Achievement Award",
+  "aspect": "frequency_2021_2025",
+  "value": "awarded only twice between 2021 and 2025",
+  "section": "4",
+  "page": 17,
+  "evidence": "2021 முதல் 2025 வரை இந்த விருது மொத்தம் இரண்டு முறை மட்டுமே வழங்கப்பட்டுள்ளது, இது அதன் அரிய தன்மையையும் மதிப்பையும் வலியுறுத்துகிறது."
+ },
+ {
+  "subject": "Hall of Fame (digital archive)",
+  "aspect": "history",
+  "value": "started 2019; 34 employees won an annual award category through 2025, 3 of whom won in two different years",
+  "section": "4",
+  "page": 16,
+  "evidence": "அனைத்து ஆண்டு சிறப்பு விருது வெற்றியாளர்களும் \"சூர்ய இணைப்பு\" தளத்தின் \"என்றென்றும் நினைவில்\" (hall of fame) எனப்படும் ஒரு நிரந்தர டிஜிட்டல் காப்பகப் பகுதியில் பட்டியலிடப்படுகிறார்கள், இது 2019 முதல் தொடங்கி ஒவ்வொரு ஆண்டின் வெற்றியாளர்களையும் வகை வாரியாக காலவரிசைப்படி காட்டுகிறது. இந்த காப்பகம் புதிய பணியாளர்களுக்கு நிறுவனத்தின் வெற்றிக் கதைகளை அறிமுகப்படுத்தும் ஒரு பயனுள்ள வளமாக பயன்படுகிறது, மேலும் இது ஒவ்வொரு ஆண்டும் புதிய வெற்றியாளர்களைச் சேர்த்து புதுப்பிக்கப்படுகிறது. 2019 முதல் 2025 வரை, மொத்தம் 34 பணியாளர்கள் ஆண்டு சிறப்பு விருதுகளில் ஏதேனும் ஒரு வகையில் வெற்றி பெற்றுள்ளனர், இதில் மூன்று பணியாளர்கள் இரண்டு வெவ்வேறு ஆண்டுகளில் (வெவ்வேறு வகைகளில்) வெற்றி பெற்றுள்ளனர்."
+ },
+ {
+  "subject": "Hall of Fame winners",
+  "aspect": "retention_status",
+  "value": "21 of 34 still with company, 13 have left",
+  "section": "4",
+  "page": 16,
+  "evidence": "இந்த 34 பேரில், 21 பேர் தற்போதும் நிறுவனத்தில் பணிபுரிகின்றனர், மற்றும் 13 பேர் பல்வேறு காரணங்களுக்காக நிறுவனத்தை விட்டு வெளியேறியுள்ளனர் — வெளியேறியவர்களில் பலர் இன்றும் நிறுவனத்தின் முன்னாள் பணியாளர் வலைப்பின்னல் (alumni network) மூலம் தொடர்பில் உள்ளனர்."
+ },
+ {
+  "subject": "Service milestone recognition",
+  "aspect": "milestone_years",
+  "value": "5, 10, 15, 20, and 25 years",
+  "section": "5",
+  "page": 17,
+  "evidence": "இந்த திட்டம் ஐந்து, பத்து, பதினைந்து, இருபது, மற்றும் இருபத்தைந்து ஆண்டுகள் பணிபுரிந்தவர்களுக்கு படிப்படியான பரிசு அமைப்பை வழங்குகிறது."
+ },
+ {
+  "subject": "5-year milestone reward",
+  "aspect": "value",
+  "value": "personalized memento (leather diary and pen set), 1 extra day paid leave, ₹10,000 restaurant voucher",
+  "section": "5",
+  "page": 18,
+  "evidence": "ஐந்து ஆண்டு மைல்கல்லை எட்டும் பணியாளருக்கு ஒரு தனிப்பயனாக்கப்பட்ட நினைவுச் சின்னம் (தோல் டைரி மற்றும் பேனா தொகுப்பு), ஒரு கூடுதல் வேலைநாள் ஊதியத்துடன் கூடிய விடுப்பு, மற்றும் ₹10,000 மதிப்புள்ள பரிசு உணவகக் கூப்பன் வழங்கப்படும்."
+ },
+ {
+  "subject": "10-year milestone reward",
+  "aspect": "value",
+  "value": "₹25,000 electronics voucher, 2 extra leave days, special lunch event with CEO",
+  "section": "5",
+  "page": 18,
+  "evidence": "பத்து ஆண்டு மைல்கல்லுக்கு, பணியாளருக்கு ₹25,000 மதிப்புள்ள மின்னணு சாதன கூப்பன், இரண்டு கூடுதல் விடுப்பு நாட்கள், மற்றும் நிறுவன தலைமையிடத்தில் நடைபெறும் ஒரு சிறப்பு மதிய உணவு நிகழ்வில் கலந்துகொள்ளும் வாய்ப்பு வழங்கப்படும். இந்த நிகழ்வில் அந்த காலாண்டில் பத்து ஆண்டு மைல்கல்லை எட்டிய அனைத்து பணியாளர்களும் ஒன்றாக அழைக்கப்பட்டு, தலைமை செயல் அதிகாரியுடன் நேரடியாக உரையாடும் வாய்ப்பு வழங்கப்படும்."
+ },
+ {
+  "subject": "15-year milestone reward",
+  "aspect": "value",
+  "value": "₹50,000 vacation package (with family), 3 extra leave days, engraved memento plaque",
+  "section": "5",
+  "page": 18,
+  "evidence": "பதினைந்து ஆண்டு மைல்கல்லை எட்டும் பணியாளர்களுக்கு ₹50,000 மதிப்புள்ள விடுமுறை பொதி (குடும்பத்துடன் சேர்ந்து பயணிக்கக்கூடிய), மூன்று கூடுதல் விடுப்பு நாட்கள், மற்றும் ஒரு பொறிக்கப்பட்ட நினைவுத் தட்டு வழங்கப்படும்."
+ },
+ {
+  "subject": "20-year milestone reward",
+  "aspect": "value",
+  "value": "₹75,000, 5 extra leave days, appreciation letter from CEO, optional 5-day sabbatical-style break",
+  "section": "5",
+  "page": 18,
+  "evidence": "இருபது ஆண்டு மைல்கல்லுக்கு, பரிசு தொகை ₹75,000 ஆக உயர்த்தப்பட்டு, ஐந்து கூடுதல் விடுப்பு நாட்கள், மற்றும் தலைமை செயல் அதிகாரியிடமிருந்து நேரடியாக ஒரு பாராட்டு கடிதம் வழங்கப்படும். இந்த மைல்கல்லை எட்டும் பணியாளர்களுக்கு, விரும்பினால், ஒரு கூடுதல் \"ஓய்வு வாரம்\" (sabbatical-style break) எனப்படும் ஐந்து தொடர்ச்சியான வேலை நாட்கள் கூடுதலாக வழங்கப்படும் விருப்பமும் உள்ளது, இது அவர்களது வழக்கமான ஆண்டு விடுப்பு இருப்பிலிருந்து கழிக்கப்படாமல் தனியாக வழங்கப்படும்."
+ },
+ {
+  "subject": "25-year milestone reward",
+  "aspect": "value",
+  "value": "₹1,25,000, 7 extra leave days, gold memento, name engraved on company legacy wall",
+  "section": "5",
+  "page": 19,
+  "evidence": "இருபத்தைந்து ஆண்டுகள் அல்லது அதற்கு மேல் பணிபுரிந்தவர்களுக்கு — இது நிறுவனத்தின் மிக உயர்ந்த பணிக்கால கௌரவமாகும் — ₹1,25,000 மதிப்புள்ள பரிசு, ஏழு கூடுதல் விடுப்பு நாட்கள், ஒரு தங்க நினைவுச் சின்னம், மற்றும் நிறுவன வரலாற்றுச் சுவரில் (legacy wall) அவரது பெயர் பொறிக்கப்படும் தனிச்சிறப்பு வழங்கப்படும்."
+ },
+ {
+  "subject": "Date-of-joining correction request",
+  "aspect": "processing_time",
+  "value": "verified and resolved within 15 working days",
+  "section": "5",
+  "page": 19,
+  "evidence": "ஏதேனும் ஒரு பணியாளர் தமது சேர்க்கை தேதி தவறாக பதிவு செய்யப்பட்டுள்ளது என்று நம்பினால், அவர்கள் மனித வள பதிவுகள் குழுவிடம் (HR Records team) ஆதார ஆவணங்களுடன் (எடுத்துக்காட்டாக, நியமன கடிதம்) திருத்தத்திற்கு விண்ணப்பிக்கலாம், இது 15 வேலை நாட்களுக்குள் சரிபார்க்கப்பட்டு தீர்மானிக்கப்படும்."
+ },
+ {
+  "subject": "Milestone recalculation on rejoining",
+  "aspect": "rule",
+  "value": "resets to new joining date if an employee leaves and later rejoins",
+  "section": "5",
+  "page": 19,
+  "evidence": "இடைவிடாத பணி (continuous service) என்பது நிறுவனத்தில் ஒரே தொடர்ச்சியான பணிக்காலத்தைக் குறிக்கிறது; ஒரு பணியாளர் நிறுவனத்தை விட்டு வெளியேறி பின்னர் மீண்டும் சேர்ந்தால், அவரது மைல்கல் கணக்கீடு மீண்டும் சேர்ந்த தேதியிலிருந்து புதிதாகத் தொடங்கும், இது முந்தைய பணிக்காலம் எவ்வளவு நீடித்திருந்தாலும் பொருந்தும்."
+ },
+ {
+  "subject": "Project completion bonus",
+  "aspect": "amount",
+  "value": "2 to 4 percent of total project budget",
+  "section": "6",
+  "page": 20,
+  "evidence": "திட்ட நிறைவு ஊக்கத்தொகைகள் (project-completion bonuses) திட்டத்தின் கீழ், நிர்ணயிக்கப்பட்ட காலக்கெடுவிற்கு முன்னதாகவோ அல்லது சரியான நேரத்திலோ, குறிப்பிடத்தக்க தரத்துடன் ஒரு திட்டத்தை நிறைவு செய்யும் குழுக்களுக்கு, திட்டத்தின் மொத்த பட்ஜெட்டில் 2 முதல் 4 சதவீதம் வரை ஊக்கத்தொகையாக பிரித்து வழங்கப்படும்."
+ },
+ {
+  "subject": "Project completion bonus split",
+  "aspect": "minimum_equal_share",
+  "value": "at least 60% of amount split equally among team; remaining 40% maximum for contribution-based variance",
+  "section": "6",
+  "page": 21,
+  "evidence": "எந்தவொரு சூழலிலும், ஒவ்வொரு உறுப்பினருக்கும் குறைந்தபட்சம் மொத்த தொகையில் 60 சதவீதம் வரை சமமான பங்கு உறுதி செய்யப்பட வேண்டும், இதனால் குழு ஒற்றுமை பாதிக்கப்படாது; மீதமுள்ள 40 சதவீதம் மட்டுமே பங்களிப்பு அடிப்படையிலான வேறுபாட்டுக்கு பயன்படுத்தப்படலாம்."
+ },
+ {
+  "subject": "Surya Innovation Challenge (hackathon)",
+  "aspect": "frequency",
+  "value": "held twice a year, 48-hour format",
+  "section": "6",
+  "page": 21,
+  "evidence": "நிறுவனம் ஆண்டுக்கு இருமுறை \"சூர்ய புதுமை சவால்\" (hackathon/innovation challenge) என்ற பெயரில் ஒரு உள் புதுமை போட்டியை நடத்துகிறது. இதில் குறுக்கு-செயல்பாட்டு குழுக்கள் (cross-functional teams) 48 மணி நேரத்திற்குள் ஒரு நடைமுறை சிக்கலுக்கு புதுமையான தீர்வை வடிவமைத்து வழங்க வேண்டும்."
+ },
+ {
+  "subject": "Surya Innovation Challenge team composition",
+  "aspect": "rule",
+  "value": "3 to 6 members per team, must include members from at least 2 different departments",
+  "section": "6",
+  "page": 21,
+  "evidence": "ஒவ்வொரு குழுவும் 3 முதல் 6 பேர் வரை கொண்டிருக்கலாம், மேலும் ஒவ்வொரு குழுவுக்கும் ஒரு மூத்த பணியாளர் வழிகாட்டியாக (mentor) ஒதுக்கப்படுவார், அவர் தொழில்நுட்ப ஆலோசனை அளிப்பார் ஆனால் தீர்வு வடிவமைப்பில் நேரடியாக பங்கேற்கமாட்டார். பங்கேற்பு தகுதி அனைத்து நிரந்தர பணியாளர்களுக்கும் திறந்திருக்கிறது, மேலும் குழுக்கள் கட்டாயமாக குறைந்தபட்சம் இரண்டு வெவ்வேறு துறைகளிலிருந்து உறுப்பினர்களை உள்ளடக்கியிருக்க வேண்டும் — இது ஒரே துறையினர் மட்டும் ஒரு குழுவாக பதிவு செய்வதைத் தடுக்கிறது, மேலும் குறுக்கு-செயல்பாட்டு சிந்தனையை கட்டாயமாக்குகிறது."
+ },
+ {
+  "subject": "Surya Innovation Challenge registration",
+  "aspect": "window",
+  "value": "opens 4 weeks before the event",
+  "section": "6",
+  "page": 22,
+  "evidence": "பதிவு செயல்முறை நிகழ்வுக்கு நான்கு வாரங்களுக்கு முன் தொடங்கி, குழுக்கள் தமது முன்மொழியப்படும் சிக்கல் பகுதியை (problem area) முன்கூட்டியே சமர்ப்பிக்க வேண்டும், இது நடுவர் குழுவால் பொருத்தம் மற்றும் தனித்துவத்திற்காக மதிப்பாய்வு செய்யப்படும்."
+ },
+ {
+  "subject": "Surya Innovation Challenge prizes",
+  "aspect": "amounts",
+  "value": "1st place ₹1,00,000, 2nd place ₹60,000, 3rd place ₹35,000, audience choice ₹20,000",
+  "section": "6",
+  "page": 22,
+  "evidence": "முதல் இடம் பெறும் குழுவிற்கு ₹1,00,000 பரிசு தொகையும், அவர்களது தீர்வை செயல்படுத்துவதற்கான நிதியுதவி வாய்ப்பும் வழங்கப்படும். இரண்டாம் இடத்திற்கு ₹60,000-ம், மூன்றாம் இடத்திற்கு ₹35,000-ம் பரிசுத் தொகையாக வழங்கப்படும். இவை தவிர, பார்வையாளர்களின் வாக்களிப்பின் அடிப்படையில் \"பார்வையாளர் விருப்பம்\" (audience choice) என்ற ஒரு கூடுதல் விருதும் வழங்கப்படும், இதற்கு ₹20,000 பரிசுத் தொகை உண்டு."
+ },
+ {
+  "subject": "Surya Innovation Challenge participant reward",
+  "aspect": "value",
+  "value": "participation certificate plus 100 Pirakasa Muthirai points per participant",
+  "section": "6",
+  "page": 22,
+  "evidence": "மேலும், ஒவ்வொரு பங்கேற்பாளருக்கும் பங்கேற்பிற்கான நினைவுச் சான்றிதழும் 100 பிரகாச முத்திரை புள்ளிகளும் வழங்கப்படும்."
+ },
+ {
+  "subject": "2024 Surya Innovation Challenge",
+  "aspect": "participation",
+  "value": "42 teams, 168 employees total participated; average satisfaction score 4.4/5",
+  "section": "6",
+  "page": 22,
+  "evidence": "2024-ஆம் ஆண்டில் நடந்த சூர்ய புதுமை சவாலில் 42 குழுக்கள் (மொத்தம் 168 பணியாளர்கள்) பங்கேற்றனர், மேலும் வெற்றிபெற்ற மூன்று தீர்வுகளில் இரண்டு நிறுவனத்தின் உள் செயல்முறைகளில் ஏற்கனவே செயல்படுத்தப்பட்டுள்ளன. ஒவ்வொரு சவாலுக்குப் பின்னரும், அனைத்து பங்கேற்பாளர்களிடமிருந்தும் ஒரு கட்டமைக்கப்பட்ட கணிப்பீடு சேகரிக்கப்படுகிறது, இதில் நிகழ்வு ஏற்பாடு, வழிகாட்டி ஆதரவு, மற்றும் ஒட்டுமொத்த அனுபவம் ஆகியவை 1-லிருந்து 5 வரையிலான அளவுகோலில் மதிப்பிடப்படுகின்றன; 2024-ஆம் ஆண்டின் சவாலுக்கு சராசரியாக 4.4/5 திருப்தி மதிப்பெண் பதிவாகியது."
+ },
+ {
+  "subject": "Surya Innovation Challenge implementation incentive",
+  "aspect": "amount",
+  "value": "additional ₹50,000 if winning solution implemented, assessed within 6 months of implementation",
+  "section": "6",
+  "page": 22,
+  "evidence": "வெற்றிபெற்ற தீர்வு செயல்படுத்தப்பட்டு, அளவிடக்கூடிய பலனை ஏற்படுத்தினால், அதை வடிவமைத்த குழுவிற்கு \"செயல்படுத்தல் ஊக்கத்தொகை\" என்ற பெயரில் ஒரு கூடுதல் ₹50,000 வழங்கப்படும், இது செயல்படுத்தலுக்குப் பின் ஆறு மாதங்களுக்குள் அளவிடப்பட்ட பலனின் அடிப்படையில் தீர்மானிக்கப்படும்."
+ },
+ {
+  "subject": "Surya Innovation Challenge judging rubric",
+  "aspect": "weights",
+  "value": "feasibility 30 points, business impact 30 points, originality 25 points, presentation quality 15 points",
+  "section": "6",
+  "page": 23,
+  "evidence": "சூர்ய புதுமை சவாலின் தேர்வு செயல்முறை நான்கு அளவுகோல்களைக் கொண்ட ஒரு மதிப்பீட்டு அட்டவணையை பயன்படுத்துகிறது: நடைமுறைத் தன்மை (feasibility, 30 புள்ளிகள்), வணிக தாக்கம் (business impact, 30 புள்ளிகள்), புதுமைத்தன்மை (originality, 25 புள்ளிகள்), மற்றும் விளக்கக்காட்சி தரம் (presentation quality, 15 புள்ளிகள்)."
+ },
+ {
+  "subject": "Cross-team collaboration award",
+  "aspect": "value",
+  "value": "quarterly award, ₹15,000 prize",
+  "section": "6",
+  "page": 23,
+  "evidence": "மேலும், துறைகளுக்கு இடையேயான ஒத்துழைப்பை ஊக்குவிக்க, \"குறுக்கு-குழு ஒத்துழைப்பு விருது\" என்ற ஒரு சிறிய காலாண்டு அங்கீகாரமும் உள்ளது, இது இரண்டு அல்லது அதற்கு மேற்பட்ட துறைகள் இணைந்து ஒரு பொதுவான சிக்கலை தீர்த்த சந்தர்ப்பங்களுக்கு வழங்கப்படும்; இதன் பரிசுத் தொகை ₹15,000 ஆக நிர்ணயிக்கப்பட்டுள்ளது."
+ },
+ {
+  "subject": "Project completion bonus example",
+  "aspect": "case",
+  "value": "8-member team received ₹2,80,000 (3.5% of project budget), split 70% equal / 30% contribution-based",
+  "section": "6",
+  "page": 24,
+  "evidence": "திட்ட நிறைவு ஊக்கத்தொகைகளுக்கான ஒரு நடைமுறை உதாரணமாக, ஒரு வாடிக்கையாளர் தள மாற்று திட்டத்தை (migration project) நிர்ணயிக்கப்பட்ட காலக்கெடுவிற்கு இரண்டு வாரங்கள் முன்னதாகவே, எந்த முக்கிய குறைபாடும் இல்லாமல் நிறைவு செய்த எட்டு பேர் கொண்ட குழுவிற்கு, திட்ட பட்ஜெட்டில் 3.5 சதவீதமான ₹2,80,000 ஊக்கத்தொகையாக பிரிக்கப்பட்டது. திட்ட மேலாளரின் பரிந்துரையின் பேரில், இந்தத் தொகையில் 70 சதவீதம் அனைவருக்கும் சமமாகவும், மீதமுள்ள 30 சதவீதம் பங்களிப்பு அடிப்படையில் வேறுபட்டும் பிரிக்கப்பட்டது."
+ },
+ {
+  "subject": "2023 Innovation Challenge winning team",
+  "aspect": "follow_on_reward",
+  "value": "6-month 'innovation ambassador' role plus extra 150 points per month",
+  "section": "6",
+  "page": 24,
+  "evidence": "இந்த குழுவின் நான்கு உறுப்பினர்களும், முதல் பரிசுத் தொகைக்கு கூடுதலாக, தமது தீர்வை நிறுவனம் முழுவதும் பரப்புவதற்கான ஆறு மாத \"புதுமை தூதர்\" (innovation ambassador) பொறுப்பையும் பெற்றனர், இதற்காக அவர்களுக்கு கூடுதலாக மாதந்தோறும் 150 பிரகாச முத்திரை புள்ளிகள் வழங்கப்பட்டன."
+ },
+ {
+  "subject": "Cash and cash-equivalent rewards",
+  "aspect": "tax_treatment",
+  "value": "processed through monthly payroll with applicable TDS",
+  "section": "7",
+  "page": 25,
+  "evidence": "பொருந்தக்கூடிய வருமான வரிச் சட்டங்களின் கீழ், அனைத்து பண வெகுமதிகளும் மற்றும் பண சமான (cash-equivalent) பரிசுகளும் பணியாளரின் மாத ஊதியப் பட்டியலின் (payroll) மூலமாகவே செயலாக்கப்பட வேண்டும், இதனால் பொருத்தமான மூலத்தில் வரி கழிப்பு (TDS) உறுதி செய்யப்படும்."
+ },
+ {
+  "subject": "Item-based gifts under ₹5,000",
+  "aspect": "tax_treatment",
+  "value": "generally within tax exemption limit, subject to annual tax law changes",
+  "section": "7",
+  "page": 25,
+  "evidence": "₹5,000-க்கும் குறைவான மதிப்புள்ள பொருள் அடிப்படையிலான பரிசுகள் (எடுத்துக்காட்டாக, நினைவுச் சின்னங்கள், சான்றிதழ்கள்) பொதுவாக வரி விலக்கு வரம்பிற்குள் வருகின்றன, ஆனால் இது ஒவ்வொரு ஆண்டும் மாறக்கூடிய வரிச் சட்ட திருத்தங்களுக்கு உட்பட்டது."
+ },
+ {
+  "subject": "Pirakasam Attai (e-card)",
+  "aspect": "cost_and_limit",
+  "value": "free, unlimited, no point cost",
+  "section": "8",
+  "page": 26,
+  "evidence": "\"சூர்ய இணைப்பு\" தளத்தில் \"பிரகாசம் அட்டை\" (e-card) என்ற அம்சம் உள்ளது, இதன் மூலம் எந்தவொரு பணியாளரும் எந்த நேரத்திலும், எந்த புள்ளி செலவும் இல்லாமல், ஒரு சக பணியாளருக்கு டிஜிட்டல் பாராட்டு அட்டையை அனுப்பலாம்."
+ },
+ {
+  "subject": "Pirakasam Attai content rule",
+  "aspect": "character_limit",
+  "value": "maximum 500 characters, must avoid humorous/sarcastic tone",
+  "section": "8",
+  "page": 26,
+  "evidence": "பிரகாசம் அட்டைகளின் உள்ளடக்கத்திற்கு ஒரு தெளிவான உள்ளடக்க வழிகாட்டுதல் உள்ளது: அவை நேர்மறையான, குறிப்பிட்ட, தொழில்முறை மொழியில் இருக்க வேண்டும், எந்தவொரு நகைச்சுவையான அல்லது நையாண்டி தொனியும் தவிர்க்கப்பட வேண்டும் (ஏனெனில் எழுத்து வடிவில் தொனி தவறாக புரிந்துகொள்ளப்படலாம்), மற்றும் 500 எழுத்துக்களுக்கு மிகாமல் இருக்க வேண்டும்."
+ },
+ {
+  "subject": "2024-25 e-card usage",
+  "aspect": "average_rate",
+  "value": "average 2.3 e-cards per employee per month",
+  "section": "8",
+  "page": 26,
+  "evidence": "2024-25 ஆம் ஆண்டில், சராசரியாக ஒரு பணியாளருக்கு மாதத்திற்கு 2.3 பிரகாசம் அட்டைகள் பரிமாறப்பட்டன, மேலும் இந்த எண்ணிக்கை ஒவ்வொரு காலாண்டிலும் படிப்படியாக அதிகரித்து வருகிறது."
+ },
+ {
+  "subject": "Top e-card senders",
+  "aspect": "recognition",
+  "value": "top 10 senders annually get 'community appreciation ambassador' title",
+  "section": "8",
+  "page": 26,
+  "evidence": "மிக அதிகமான பிரகாசம் அட்டைகளை அனுப்பிய பத்து பணியாளர்கள் ஆண்டுதோறும் \"சமூக பாராட்டு தூதர்\" (community appreciation ambassador) என்ற அடையாளத்துடன் சிறப்பிக்கப்படுகிறார்கள்."
+ },
+ {
+  "subject": "E-card usage by department",
+  "aspect": "customer_service_rate",
+  "value": "highest rate: customer service department at 3.6 cards/employee/month",
+  "section": "8",
+  "page": 27,
+  "evidence": "துறை வாரியான பகுப்பாய்வில், வாடிக்கையாளர் சேவை துறை மிக அதிக பிரகாசம் அட்டை பரிமாற்ற விகிதத்தை பதிவு செய்தது (மாதத்திற்கு பணியாளருக்கு சராசரியாக 3.6), இது அந்த துறையின் இயல்பான குழு சார்ந்த பணி கலாச்சாரத்தை பிரதிபலிக்கலாம் என்று மனித வள பகுப்பாய்வு குழு கருதுகிறது."
+ },
+ {
+  "subject": "E-card usage by department",
+  "aspect": "data_engineering_rate",
+  "value": "lowest rate: data engineering department at 1.4 cards/employee/month",
+  "section": "8",
+  "page": 27,
+  "evidence": "மாறாக, தனித்தனியாக ஆழமான தொழில்நுட்ப பணிகளில் ஈடுபடும் தரவு பொறியியல் துறையில் இந்த விகிதம் ஒப்பீட்டளவில் குறைவாக இருந்தது (மாதத்திற்கு 1.4), இது அந்த துறையின் மேலாளர்களுக்கு பொருத்தமான கவனத்தை ஈர்த்தது, மேலும் அவர்களுக்கு \"குறைந்த தொடர்பு சூழல்களில் அங்கீகாரம்\" (recognition in low-interaction environments) என்ற ஒரு சிறப்பு பயிற்சி பிரிவு வழங்கப்பட்டது."
+ },
+ {
+  "subject": "Town hall leadership shout-out",
+  "aspect": "average_count",
+  "value": "average 8 to 12 employees/teams recognized per town hall",
+  "section": "8",
+  "page": 27,
+  "evidence": "சராசரியாக ஒவ்வொரு town hall-லும் 8 முதல் 12 பணியாளர்கள்/குழுக்கள் இவ்வாறு பாராட்டப்படுகின்றனர்."
+ },
+ {
+  "subject": "CEO monthly note practice",
+  "aspect": "start_year",
+  "value": "started in 2021",
+  "section": "8",
+  "page": 27,
+  "evidence": "இந்த நடைமுறை 2021-ல் தொடங்கப்பட்டது, மேலும் பணியாளர் கணிப்பீடுகளில், இந்த மடலில் பெயர் குறிப்பிடப்பட்ட பணியாளர்கள் தமது ஒட்டுமொத்த பணி திருப்தியில் குறிப்பிடத்தக்க உயர்வை பதிவு செய்ததாக தெரிவிக்கப்படுகிறது."
+ },
+ {
+  "subject": "New manager recognition training",
+  "aspect": "deadline",
+  "value": "must complete 'Effective Recognition' module within first 90 days of role",
+  "section": "9",
+  "page": 28,
+  "evidence": "இதனால், அனைத்து புதிய மேலாளர்களும் தமது பதவி ஏற்ற முதல் 90 நாட்களுக்குள் \"பயனுள்ள அங்கீகாரம்\" என்ற கட்டாய பயிற்சி தொகுதியை முடிக்க வேண்டும்."
+ },
+ {
+  "subject": "New manager nomination access",
+  "aspect": "lockout_rule",
+  "value": "nomination feature disabled after 90 days if training not completed",
+  "section": "9",
+  "page": 28,
+  "evidence": "இந்த பயிற்சியை முடிக்காத மேலாளர்களுக்கு, \"சூர்ய இணைப்பு\" தளத்தில் நியமனம் சமர்ப்பிக்கும் அம்சம் 90 நாட்களுக்குப் பிறகு தற்காலிகமாக முடக்கப்படும், இது பயிற்சியை நேரத்திற்குள் முடிப்பதற்கான ஒரு நடைமுறை ஊக்கியாக செயல்படுகிறது."
+ },
+ {
+  "subject": "Effective Recognition training",
+  "aspect": "structure",
+  "value": "4 modules, approximately 45 minutes each",
+  "section": "9",
+  "page": 28,
+  "evidence": "இந்த பயிற்சி நான்கு தொகுதிகளாக கட்டமைக்கப்பட்டுள்ளது, ஒவ்வொன்றும் தோராயமாக 45 நிமிடங்கள் நீடிக்கும், மேலும் முழு தொகுதியும் தன்னிச்சையான வேகத்தில் (self-paced) அல்லது நேரடி வகுப்பறை அமர்வாக முடிக்கப்படலாம்."
+ },
+ {
+  "subject": "Effective Recognition training assessment",
+  "aspect": "passing_score",
+  "value": "must score above 80% on a 10-question quiz to be marked complete",
+  "section": "9",
+  "page": 29,
+  "evidence": "நான்காம் தொகுதியில் பணியாளர்களின் தனிப்பட்ட விருப்பங்களை எவ்வாறு அறிந்துகொள்வது, மற்றும் பிராந்திய/கலாச்சார வேறுபாடுகளை எவ்வாறு மதிப்பது என்பது விளக்கப்படுகிறது, மேலும் இந்த தொகுதி முடிவில் ஒரு குறுகிய மதிப்பீட்டு வினாடி-வினா (assessment quiz) உள்ளது, இதில் 80 சதவீதத்திற்கு மேல் மதிப்பெண் பெற்றால் மட்டுமே பயிற்சி \"முடிந்தது\" என்று பதிவு செய்யப்படும்; தேர்ச்சி பெறாத மேலாளர்கள் தொகுதியை மீண்டும் முடிக்க வேண்டும். இந்த வினாடி-வினா பத்து கேள்விகளைக் கொண்டுள்ளது, ஒவ்வொன்றும் நான்கு தொகுதிகளிலிருந்தும் சமமாக எடுக்கப்பட்டவை, மேலும் இது ஒவ்வொரு முறையும் வெவ்வேறு வரிசையில் கேள்விகளை வழங்கும் ஒரு தானியங்கி கேள்வி வங்கியிலிருந்து (question bank) உருவாக்கப்படுகிறது, இதனால் மேலாளர்கள் வெறுமனே பதில்களை மனப்பாடம் செய்வதைத் தவிர்க்கலாம்."
+ },
+ {
+  "subject": "Manager minimum recognition expectation",
+  "aspect": "frequency",
+  "value": "recognize each direct report at least once per month",
+  "section": "9",
+  "page": 29,
+  "evidence": "ஒவ்வொரு மேலாளரும் தமது நேரடி அறிக்கையாளர் (direct report) ஒவ்வொருவருக்கும் மாதத்திற்கு குறைந்தபட்சம் ஒரு முறையாவது — அது முறையான பிரகாச முத்திரை நியமனமாகவோ அல்லது வாய்மொழி பாராட்டாகவோ இருக்கலாம் — அங்கீகாரம் வழங்க வேண்டும் என்பது நிறுவனத்தின் குறைந்தபட்ச எதிர்பார்ப்பாகும்."
+ },
+ {
+  "subject": "Recognition best practices workshop",
+  "aspect": "frequency_and_attendance",
+  "value": "held twice a year, average 60% manager attendance",
+  "section": "9",
+  "page": 30,
+  "evidence": "மேலும், மனித வள குழு ஆண்டுக்கு இருமுறை \"அங்கீகார சிறந்த நடைமுறைகள்\" பட்டறையை நடத்துகிறது, இதில் சிறந்த அங்கீகார பதிவுகளைக் கொண்ட மேலாளர்கள் தமது அணுகுமுறைகளை மற்ற மேலாளர்களுடன் பகிர்ந்துகொள்கிறார்கள். இந்த பட்டறைகளுக்கான கலந்துகொள்ளுதல் விருப்பத்தேர்வு ஆனாலும், சராசரியாக ஒவ்வொரு அமர்வுக்கும் 60 சதவீத மேலாளர்கள் கலந்துகொள்கின்றனர்."
+ },
+ {
+  "subject": "Manager refresher training",
+  "aspect": "frequency",
+  "value": "mandatory once every 2 years",
+  "section": "9",
+  "page": 30,
+  "evidence": "எல்லா மேலாளர்களும் ஒவ்வொரு இரண்டு ஆண்டுகளுக்கும் ஒருமுறை புதுப்பிப்பு பயிற்சியை (refresher training) கட்டாயமாக முடிக்க வேண்டும்."
+ },
+ {
+  "subject": "Recognition champion role",
+  "aspect": "structure",
+  "value": "1 volunteer per department, rotates annually; currently 18 active across company",
+  "section": "9",
+  "page": 30,
+  "evidence": "இந்த பொறுப்பு ஆண்டுக்கு ஒருமுறை சுழற்சி முறையில் மாற்றப்படும், மேலும் அங்கீகார தூதர்களாக பணியாற்றியவர்களுக்கு ஆண்டு இறுதியில் ஒரு சிறப்பு பாராட்டு சான்றிதழ் வழங்கப்படும். தற்போது நிறுவனம் முழுவதும் 18 அங்கீகார தூதர்கள் செயல்பாட்டில் உள்ளனர்."
+ },
+ {
+  "subject": "Recognition dashboard reminder",
+  "aspect": "trigger",
+  "value": "sent to managers after 2 weeks with no recognition given",
+  "section": "9",
+  "page": 31,
+  "evidence": "இந்த பலகை ஒவ்வொரு வாரமும் தானாகவே புதுப்பிக்கப்பட்டு, இரண்டு வாரங்களுக்கு மேல் எந்த அங்கீகாரமும் வழங்காத மேலாளர்களுக்கு ஒரு மென்மையான நினைவூட்டல் அறிவிப்பை அனுப்புகிறது — இது ஒரு எச்சரிக்கையாக அல்லாமல், ஒரு உதவிகரமான நினைவூட்டலாக வடிவமைக்கப்பட்டுள்ளது."
+ },
+ {
+  "subject": "Contractual employees",
+  "aspect": "manager_budget_rate",
+  "value": "₹2,500 per employee per year (pro-rated for contract term)",
+  "section": "9அ. விதிவிலக்கு பணியாளர் பிரிவுகளுக்கான அங்கீகாரம்",
+  "page": 32,
+  "evidence": "ஒப்பந்த அடிப்படையிலான (contractual) பணியாளர்கள் பிரகாச முத்திரை திட்டத்தில் முழுமையாக பங்கேற்க தகுதியுடையவர்கள், ஆனால் அவர்களது மேலாளர் பட்ஜெட் ஆண்டுக்கு ஒரு பணியாளருக்கு ₹2,500 என்ற குறைந்த விகிதத்தில் கணக்கிடப்படுகிறது, இது அவர்களது ஒப்பந்த காலத்தின் விகிதாசாரத்தை பிரதிபலிக்கிறது."
+ },
+ {
+  "subject": "Interns/graduate trainees",
+  "aspect": "redemption_restriction",
+  "value": "limited to Silver tier catalogue only",
+  "section": "9அ. விதிவிலக்கு பணியாளர் பிரிவுகளுக்கான அங்கீகாரம்",
+  "page": 32,
+  "evidence": "அவர்கள் பிரகாச முத்திரை நியமனங்களைப் பெற தகுதியுடையவர்கள் என்றாலும், புள்ளி மீட்பு வெள்ளி அடுக்கிற்கு மட்டுமே வரையறுக்கப்பட்டுள்ளது, இது அவர்களது குறுகிய பணிக்காலத்தை கருத்தில் கொண்டு வடிவமைக்கப்பட்டுள்ளது."
+ },
+ {
+  "subject": "Best Intern award",
+  "aspect": "reward",
+  "value": "₹10,000 cash-equivalent prize plus a letter of recommendation",
+  "section": "9அ. விதிவிலக்கு பணியாளர் பிரிவுகளுக்கான அங்கீகாரம்",
+  "page": 32,
+  "evidence": "ஒவ்வொரு பயிற்சி காலத்தின் முடிவிலும், \"சிறந்த பயிற்சியாளர்\" என்ற பெயரில் ஒரு தனி அங்கீகாரம் வழங்கப்படுகிறது, இதற்கு பயிற்சியாளரின் வழிகாட்டி (mentor) மற்றும் துறைத் தலைவர் இணைந்து பரிந்துரைக்கிறார்கள்; வெற்றியாளருக்கு ₹10,000 பண சமான பரிசும் ஒரு பரிந்துரை கடிதமும் (letter of recommendation) வழங்கப்படும்."
+ },
+ {
+  "subject": "2024-25 intern cohort",
+  "aspect": "stats",
+  "value": "34 interns hired; 9 considered for Best Intern; 3 won (one per batch, 3 batches/year)",
+  "section": "9அ. விதிவிலக்கு பணியாளர் பிரிவுகளுக்கான அங்கீகாரம்",
+  "page": 32,
+  "evidence": "2024-25 ஆம் ஆண்டில், மொத்தம் 34 பயிற்சியாளர்கள் நிறுவனத்தில் பணியமர்த்தப்பட்டனர், இதில் 9 பேர் \"சிறந்த பயிற்சியாளர்\" அங்கீகாரத்திற்காக பரிசீலிக்கப்பட்டு, இறுதியாக 3 பேர் (ஒவ்வொரு பருவத்திற்கும் ஒருவர் வீதம், ஏனெனில் பயிற்சி திட்டம் ஆண்டுக்கு மூன்று தொகுதிகளாக நடத்தப்படுகிறது) இந்த அங்கீகாரத்தைப் பெற்றனர்."
+ },
+ {
+  "subject": "Part-time employees",
+  "aspect": "budget_basis",
+  "value": "Pirakasa Muthirai budget and Oliviru Natchathiram eligibility calculated pro-rata to work-time percentage",
+  "section": "9அ. விதிவிலக்கு பணியாளர் பிரிவுகளுக்கான அங்கீகாரம்",
+  "page": 33,
+  "evidence": "பகுதிநேர (part-time) பணியாளர்களுக்கு, பிரகாச முத்திரை பட்ஜெட்டும் ஒளிர்வு நட்சத்திரம் தகுதியும் அவர்களது வேலை நேர விகிதாசாரத்தின் அடிப்படையில் (pro-rata) கணக்கிடப்படுகின்றன; எடுத்துக்காட்டாக, 50 சதவீத நேரம் பணிபுரியும் ஒரு பணியாளர், முழுநேர பணியாளரின் பட்ஜெட்டில் பாதியைப் பெறுவார்."
+ },
+ {
+  "subject": "Rewards Governance Council",
+  "aspect": "composition",
+  "value": "chaired by HR head; includes one rep per major department, 1 finance rep, 2 Employee Representative Forum reps",
+  "section": "10",
+  "page": 33,
+  "evidence": "இந்த குழு மனித வள தலைவர் தலைமையில் இயங்குகிறது, மேலும் இதில் ஒவ்வொரு முக்கிய துறையிலிருந்தும் ஒரு பிரதிநிதி, நிதித் துறை பிரதிநிதி ஒருவர், மற்றும் பணியாளர் பிரதிநிதிகள் குழுவிலிருந்து (Employee Representative Forum) இருவர் அடங்குவர்."
+ },
+ {
+  "subject": "Employee Representative Forum members",
+  "aspect": "selection",
+  "value": "rotate annually, selected each March via self-nomination plus employee vote",
+  "section": "10",
+  "page": 33,
+  "evidence": "பணியாளர் பிரதிநிதிகள் ஆண்டுக்கு ஒருமுறை சுழற்சி முறையில் மாற்றப்படுவார்கள், இதனால் பல்வேறு துறைகளின் குரல்கள் இந்த குழுவில் பிரதிநிதித்துவம் பெறும். பணியாளர் பிரதிநிதிகள் குழுவின் உறுப்பினர்கள், தமது சக பணியாளர்களிடமிருந்து நேரடியாக பெறப்பட்ட முறைசாரா கருத்துகளை வெகுமதி நிர்வாக குழு கூட்டங்களில் முன்வைக்கும் பொறுப்பைக் கொண்டுள்ளனர். அவர்களை தேர்ந்தெடுக்கும் செயல்முறை, ஒவ்வொரு ஆண்டும் மார்ச் மாதத்தில், ஆர்வமுள்ள பணியாளர்களிடமிருந்து சுயவிருப்ப விண்ணப்பங்களை பெற்று, பின்னர் ஒரு எளிய பணியாளர் வாக்களிப்பு மூலம் இறுதி செய்யப்படுகிறது."
+ },
+ {
+  "subject": "Rewards Governance Council meeting",
+  "aspect": "format",
+  "value": "quarterly, ~90 minutes, standard agenda: KPI review 20 min, budget status 15 min, open complaints/appeals 15 min, new proposals 30 min, AOB 10 min",
+  "section": "10",
+  "page": 34,
+  "evidence": "வெகுமதி நிர்வாக குழு காலாண்டுதோறும் கூடி, மொத்த நிறுவன அங்கீகார பட்ஜெட் ஒதுக்கீட்டை மறுஆய்வு செய்கிறது, திட்டங்களின் பயன்பாட்டு விகிதங்களை பகுப்பாய்வு செய்கிறது, மற்றும் தேவைப்பட்டால் மீட்பு பட்டியலை புதுப்பிக்கிறது. கூட்டம் பொதுவாக 90 நிமிடங்கள் நீடிக்கும், மேலும் இதன் நடவடிக்கைகள் ஒரு நிலையான நிகழ்ச்சி நிரலை (standard agenda) பின்பற்றுகின்றன: KPI மறுஆய்வு (20 நிமிடங்கள்), பட்ஜெட் நிலை (15 நிமிடங்கள்), திறந்திருக்கும் புகார்கள் மற்றும் மேல்முறையீடுகள் (15 நிமிடங்கள்), புதிய முன்மொழிவுகள் (30 நிமிடங்கள்), மற்றும் பிற விஷயங்கள் (10 நிமிடங்கள்)."
+ },
+ {
+  "subject": "2025-26 total recognition budget",
+  "aspect": "value",
+  "value": "1.8% of payroll, a 0.3 percentage point increase over previous year",
+  "section": "10",
+  "page": 34,
+  "evidence": "2025-26 ஆம் ஆண்டுக்கான மொத்த நிறுவன அளவிலான அங்கீகார பட்ஜெட் ஊதியப் பட்டியலில் 1.8 சதவீதமாக நிர்ணயிக்கப்பட்டுள்ளது, இது முந்தைய ஆண்டை விட 0.3 சதவீத புள்ளி அதிகரிப்பாகும்."
+ },
+ {
+  "subject": "Recognition budget allocation",
+  "aspect": "breakdown",
+  "value": "45% Pirakasa Muthirai, 20% Oliviru Natchathiram/quarterly champion, 18% annual awards, 12% milestone recognition, 5% team-based/other",
+  "section": "10",
+  "page": 34,
+  "evidence": "இந்த மொத்த பட்ஜெட்டில், 45 சதவீதம் பிரகாச முத்திரை திட்டத்திற்கும், 20 சதவீதம் ஒளிர்வு நட்சத்திரம் மற்றும் காலாண்டு சாம்பியன் விருதுகளுக்கும், 18 சதவீதம் ஆண்டு சிறப்பு விருதுகள் விழாவிற்கும், 12 சதவீதம் பணிக்கால மைல்கல் அங்கீகாரங்களுக்கும், மற்றும் மீதமுள்ள 5 சதவீதம் குழு அடிப்படையிலான ஊக்கத்தொகைகள் மற்றும் பிற சிறிய முயற்சிகளுக்கும் ஒதுக்கப்பட்டுள்ளது."
+ },
+ {
+  "subject": "Recognition distribution audit",
+  "aspect": "frequency",
+  "value": "conducted twice a year by Rewards Governance Council",
+  "section": "10",
+  "page": 35,
+  "evidence": "நியாயத்தன்மையை உறுதி செய்ய, வெகுமதி நிர்வாக குழு ஆண்டுக்கு இருமுறை ஒரு \"அங்கீகார விநியோக தணிக்கை\" (recognition distribution audit) நடத்துகிறது."
+ },
+ {
+  "subject": "2024-25 distribution audit finding",
+  "aspect": "gender_gap",
+  "value": "one tech department had women's recognition rate 9 percentage points below their representation; reduced to 4 points next quarter after training",
+  "section": "10",
+  "page": 35,
+  "evidence": "2024-25 ஆம் ஆண்டின் தணிக்கையில், ஒரு தொழில்நுட்ப துறையில் பெண் பணியாளர்களின் அங்கீகார விகிதம் அவர்களது பிரதிநிதித்துவ விகிதத்தை விட 9 சதவீத புள்ளிகள் குறைவாக இருந்தது கண்டறியப்பட்டது; இதைத் தொடர்ந்து அந்த துறையின் அனைத்து மேலாளர்களுக்கும் கூடுதல் அங்கீகார பயிற்சி வழங்கப்பட்டது, மேலும் அடுத்த காலாண்டில் இந்த இடைவெளி 4 சதவீத புள்ளிகளாக குறைக்கப்பட்டது."
+ },
+ {
+  "subject": "Industry benchmark comparison 2025",
+  "aspect": "result",
+  "value": "recognition budget ratio 0.2pp better than industry average; distribution rate (85% target) 6pp better than industry average",
+  "section": "10",
+  "page": 35,
+  "evidence": "இந்த ஒப்பீட்டு பகுப்பாய்வு, ஒத்த அளவிலான தகவல் தொழில்நுட்ப சேவை நிறுவனங்களுடன் ஒப்பிடும்போது, நிறுவனத்தின் அங்கீகார பட்ஜெட் விகிதமும் (1.8 சதவீதம்) பணியாளர் அங்கீகார பரவல் விகிதமும் (85 சதவீத இலக்கு) தொழில்துறை சராசரியை விட முறையே 0.2 சதவீத புள்ளிகளும் 6 சதவீத புள்ளிகளும் சிறப்பாக உள்ளன என்பதை 2025-ஆம் ஆண்டின் அறிக்கை தெரிவித்தது."
+ },
+ {
+  "subject": "Rewards Governance Council sub-committees",
+  "aspect": "list",
+  "value": "3 sub-committees: Event & Celebration, Technology & Platform, Fairness & Audit",
+  "section": "10",
+  "page": 36,
+  "evidence": "\"நிகழ்வு மற்றும் விழா துணைக்குழு\" ஆண்டு சிறப்பு விருதுகள் விழா மற்றும் பிற பெரிய நிகழ்வுகளின் ஏற்பாடுகளை மேற்பார்வையிடுகிறது. \"தொழில்நுட்பம் மற்றும் தள துணைக்குழு\" \"சூர்ய இணைப்பு\" தளத்தின் புதிய அம்சங்கள் மற்றும் பயனர் அனுபவ மேம்பாடுகளை முன்மொழிகிறது. \"நியாயத்தன்மை மற்றும் தணிக்கை துணைக்குழு\" ஆண்டுக்கு இருமுறை நடைபெறும் விநியோக தணிக்கையை நடத்துகிறது மற்றும் புகார்களை ஆய்வு செய்கிறது."
+ },
+ {
+  "subject": "Fairness and Audit sub-committee",
+  "aspect": "composition",
+  "value": "3 members: senior HR Business Partner (chair), internal audit representative, 1 employee representative",
+  "section": "10",
+  "page": 36,
+  "evidence": "நியாயத்தன்மை மற்றும் தணிக்கை துணைக்குழுவில் மூன்று உறுப்பினர்கள் உள்ளனர் — ஒரு மூத்த மனித வள பங்குதாரர் (தலைமை), உள் தணிக்கைத் துறையின் பிரதிநிதி ஒருவர், மற்றும் பணியாளர் பிரதிநிதிகள் குழுவிலிருந்து ஒருவர்."
+ },
+ {
+  "subject": "Catalogue vendor review",
+  "aspect": "frequency_and_criteria",
+  "value": "annual review on price competitiveness, delivery reliability, employee satisfaction (equal weight each); removed if satisfaction below 6/10 for 2 consecutive years",
+  "section": "10",
+  "page": 37,
+  "evidence": "ஒவ்வொரு விற்பனையாளரும் ஆண்டுக்கு ஒருமுறை தர மற்றும் விலை மதிப்பாய்வுக்கு உட்படுத்தப்படுவார்கள், இந்த மதிப்பாய்வில் விலை போட்டித்தன்மை, டெலிவரி நம்பகத்தன்மை, மற்றும் பணியாளர் திருப்தி ஆகிய மூன்று பரிமாணங்கள் சமமான எடையுடன் (ஒவ்வொன்றும் மொத்த மதிப்பெண்ணில் மூன்றில் ஒரு பங்கு) கணக்கிடப்படுகின்றன, மேலும் தொடர்ந்து இரண்டு ஆண்டுகளுக்கு பணியாளர் திருப்தி மதிப்பெண் 6/10-க்கும் குறைவாக இருக்கும் எந்தவொரு விற்பனையாளரும் மீட்பு பட்டியலில் இருந்து நீக்கப்படுவார்கள்."
+ },
+ {
+  "subject": "Catalogue vendors",
+  "aspect": "current_count",
+  "value": "7 external vendors currently listed",
+  "section": "10",
+  "page": 37,
+  "evidence": "தற்போது மீட்பு பட்டியலில் ஏழு வெளி விற்பனையாளர்கள் பட்டியலிடப்பட்டுள்ளனர், இதில் மின்னணு பொருட்கள், பயண சேவைகள், உணவக கூட்டமைப்புகள், மற்றும் வாழ்க்கை முறை பொருட்கள் ஆகிய பிரிவுகள் அடங்கும்."
+ },
+ {
+  "subject": "Vendor SLA",
+  "aspect": "terms",
+  "value": "delivery within 7 working days, replacement within 14 days, customer service response within 24 hours",
+  "section": "10",
+  "page": 37,
+  "evidence": "ஒவ்வொரு விற்பனையாளர் ஒப்பந்தத்திலும் ஒரு சேவை நிலை ஒப்பந்தம் (Service Level Agreement) இணைக்கப்பட்டுள்ளது, இதில் பரிசு பொருட்களின் டெலிவரி காலக்கெடு (பொதுவாக ஆர்டர் செய்யப்பட்ட நாளிலிருந்து 7 வேலை நாட்களுக்குள்), குறைபாடுள்ள பொருட்களை மாற்றும் கொள்கை (14 நாட்களுக்குள்), மற்றும் வாடிக்கையாளர் சேவை பதில் நேரம் (24 மணி நேரத்திற்குள்) ஆகியவை தெளிவாக குறிப்பிடப்பட்டுள்ளன."
+ },
+ {
+  "subject": "Vendor SLA breach",
+  "aspect": "consequence",
+  "value": "contract reconsidered if SLA targets missed below 85% for 2 consecutive quarters",
+  "section": "10",
+  "page": 37,
+  "evidence": "ஒரு விற்பனையாளர் தொடர்ந்து இரண்டு காலாண்டுகளுக்கு இந்த சேவை நிலை இலக்குகளை 85 சதவீதத்திற்கும் குறைவாக எட்டினால், கொள்முதல் துறை அந்த ஒப்பந்தத்தை மறுபரிசீலனை செய்யும்."
+ },
+ {
+  "subject": "Recognition cost centre",
+  "aspect": "name",
+  "value": "\"HR - Rewards and Recognition\" dedicated cost centre",
+  "section": "10அ. நிதி கட்டுப்பாடு மற்றும் பட்ஜெட் கண்காணிப்பு",
+  "page": 38,
+  "evidence": "ஒவ்வொரு அங்கீகார செலவும் \"மனிதவள — வெகுமதிகள் மற்றும் அங்கீகாரம்\" என்ற தனி செலவு மையத்தின் (cost centre) கீழ் பதிவு செய்யப்படுகிறது, இது நிறுவனத்தின் பொதுவான பணியாளர் நலன் செலவுகளிலிருந்து தனியாக கண்காணிக்கப்படுகிறது."
+ },
+ {
+  "subject": "Department budget overuse",
+  "aspect": "threshold",
+  "value": "department head must justify next quarter's plan if quarterly budget exceeds 110%",
+  "section": "10அ. நிதி கட்டுப்பாடு மற்றும் பட்ஜெட் கண்காணிப்பு",
+  "page": 38,
+  "evidence": "இந்த அறிக்கையின் அடிப்படையில், ஏதேனும் ஒரு துறை தனது காலாண்டு பட்ஜெட்டை 110 சதவீதத்திற்கு மேல் மீறினால், அந்த துறைத் தலைவர் தமது அடுத்த காலாண்டு பட்ஜெட் திட்டமிடலை நியாயப்படுத்த வேண்டும்."
+ },
+ {
+  "subject": "Department budget underuse",
+  "aspect": "threshold",
+  "value": "budget may be reallocated if utilization stays below 60% for 3 consecutive quarters",
+  "section": "10அ. நிதி கட்டுப்பாடு மற்றும் பட்ஜெட் கண்காணிப்பு",
+  "page": 38,
+  "evidence": "மாறாக, ஒரு துறை தொடர்ந்து மூன்று காலாண்டுகளுக்கு 60 சதவீதத்திற்கும் குறைவாக பட்ஜெட்டை பயன்படுத்தினால், அந்த பட்ஜெட்டில் ஒரு பகுதி அடுத்த ஆண்டின் திட்டமிடலின்போது மறுசீரமைக்கப்படலாம்."
+ },
+ {
+  "subject": "2024-25 ROI analysis",
+  "aspect": "finding",
+  "value": "departments with high recognition distribution had voluntary attrition 3.2 percentage points lower than low-distribution departments",
+  "section": "10அ. நிதி கட்டுப்பாடு மற்றும் பட்ஜெட் கண்காணிப்பு",
+  "page": 38,
+  "evidence": "2024-25 ஆம் ஆண்டின் பகுப்பாய்வில், உயர் அங்கீகார பரவல் விகிதத்தைக் கொண்ட துறைகளில் தன்னார்வ பணி விலகல் விகிதம் (voluntary attrition) குறைந்த அங்கீகார பரவலைக் கொண்ட துறைகளை விட 3.2 சதவீத புள்ளிகள் குறைவாக இருந்தது கண்டறியப்பட்டது, இது அங்கீகார முதலீட்டின் நடைமுறை மதிப்பை உறுதிப்படுத்துகிறது."
+ },
+ {
+  "subject": "Cost per recognized employee",
+  "aspect": "pirakasa_muthirai",
+  "value": "average ₹640 per nomination (based on 80-point average)",
+  "section": "10அ. நிதி கட்டுப்பாடு மற்றும் பட்ஜெட் கண்காணிப்பு",
+  "page": 39,
+  "evidence": "பிரகாச முத்திரை திட்டத்தில் இந்த செலவு சராசரியாக ஒரு நியமனத்திற்கு ₹640 ஆகும் (80 புள்ளிகளின் சராசரி மதிப்பு அடிப்படையில்)."
+ },
+ {
+  "subject": "Cost per recognized employee",
+  "aspect": "oliviru_natchathiram",
+  "value": "₹7,500 per winner",
+  "section": "10அ. நிதி கட்டுப்பாடு மற்றும் பட்ஜெட் கண்காணிப்பு",
+  "page": 39,
+  "evidence": "\"ஒளிர்வு நட்சத்திரம்\" மாதாந்திர விருதில், ஒரு வெற்றியாளருக்கான செலவு ₹7,500 ஆகும், ஆனால் இது ஒரு துறையின் அனைத்து பணியாளர்களுக்கும் ஒரு உத்வேக விளைவை (motivational spillover effect) ஏற்படுத்துவதாக பணியாளர் கணிப்பீடுகள் தெரிவிக்கின்றன, இது நேரடி பயனாளியை தாண்டிய ஒரு மறைமுக பலனாக கருதப்படுகிறது."
+ },
+ {
+  "subject": "Cost per recognized employee",
+  "aspect": "annual_awards",
+  "value": "approximately ₹95,000 per winner (direct cost)",
+  "section": "10அ. நிதி கட்டுப்பாடு மற்றும் பட்ஜெட் கண்காணிப்பு",
+  "page": 39,
+  "evidence": "ஆண்டு சிறப்பு விருதுகளில், ஒரு வெற்றியாளருக்கான நேரடி செலவு (பரிசுத் தொகை மற்றும் விழா செலவில் அவர்களது பங்கு சேர்த்து) தோராயமாக ₹95,000 ஆக மதிப்பிடப்படுகிறது, ஆனால் இதன் பிராண்ட் மற்றும் தக்கவைப்பு தாக்கம் இதைவிட அதிகமாக இருக்கும் என்று நம்பப்படுகிறது."
+ },
+ {
+  "subject": "Surya Inaippu platform",
+  "aspect": "integrated_systems",
+  "value": "integrates with payroll system, performance management system, and employee information system",
+  "section": "10இ. தொழில்நுட்ப கட்டமைப்பு மற்றும் அமைப்பு ஒருங்கிணைப்பு",
+  "page": 39,
+  "evidence": "இது மூன்று முக்கிய அமைப்புகளுடன் தரவு பரிமாற்றம் செய்கிறது: ஊதியப் பட்டியல் அமைப்பு (பண சமான வெகுமதிகள் மற்றும் வரி தகவல்களை அனுப்ப), செயல்திறன் மேலாண்மை அமைப்பு (அங்கீகார பதிவேடு தரவை அனுப்ப), மற்றும் பணியாளர் தகவல் அமைப்பு (பணியாளர் தகுதி, பணிக்காலம், மற்றும் துறை தகவல்களை பெற)."
+ },
+ {
+  "subject": "Surya Inaippu platform",
+  "aspect": "data_centre_location",
+  "value": "located within India for data localisation compliance",
+  "section": "10இ. தொழில்நுட்ப கட்டமைப்பு மற்றும் அமைப்பு ஒருங்கிணைப்பு",
+  "page": 39,
+  "evidence": "தளத்தின் தரவு மையம் (data centre) இந்திய எல்லைக்குள் அமைந்துள்ளது, இது பணியாளர் தரவு உள்ளூர்மயமாக்கல் (data localisation) தொடர்பான ஒழுங்குமுறை தேவைகளை பூர்த்தி செய்கிறது."
+ },
+ {
+  "subject": "Surya Inaippu platform security",
+  "aspect": "features",
+  "value": "two-factor authentication, role-based access control, audit trail of admin actions",
+  "section": "10இ. தொழில்நுட்ப கட்டமைப்பு மற்றும் அமைப்பு ஒருங்கிணைப்பு",
+  "page": 40,
+  "evidence": "தளத்தின் பாதுகாப்பு அம்சங்களில், இரு-காரணி அங்கீகாரம் (two-factor authentication), பங்கு அடிப்படையிலான அணுகல் கட்டுப்பாடு (role-based access control), மற்றும் அனைத்து நிர்வாக செயல்களின் தணிக்கை பாதை (audit trail) ஆகியவை அடங்கும்."
+ },
+ {
+  "subject": "Surya Inaippu platform",
+  "aspect": "penetration_testing",
+  "value": "external security audit/penetration testing twice a year",
+  "section": "10இ. தொழில்நுட்ப கட்டமைப்பு மற்றும் அமைப்பு ஒருங்கிணைப்பு",
+  "page": 40,
+  "evidence": "தளம் ஆண்டுக்கு இருமுறை ஒரு வெளி பாதுகாப்பு தணிக்கை நிறுவனத்தால் ஊடுருவல் சோதனைக்கு (penetration testing) உட்படுத்தப்படுகிறது, மேலும் இதன் முடிவுகள் தகவல் தொழில்நுட்பத் துறையின் தலைவருக்கு நேரடியாக அறிக்கை செய்யப்படுகின்றன."
+ },
+ {
+  "subject": "Surya Inaippu platform",
+  "aspect": "uptime",
+  "value": "maintained above 99.6% over the past 3 years",
+  "section": "10இ. தொழில்நுட்ப கட்டமைப்பு மற்றும் அமைப்பு ஒருங்கிணைப்பு",
+  "page": 40,
+  "evidence": "தள செயல்பாட்டு நேரம் (uptime) கடந்த மூன்று ஆண்டுகளில் 99.6 சதவீதத்திற்கு மேல் பராமரிக்கப்பட்டு வருகிறது, மேலும் திட்டமிடப்பட்ட பராமரிப்பு பணிகள் எப்போதும் வார இறுதி நாட்களில், முன்கூட்டியே அறிவிக்கப்பட்ட சாளரங்களில் (maintenance windows) மட்டுமே மேற்கொள்ளப்படும்."
+ },
+ {
+  "subject": "Abuse prevention - self-nomination",
+  "aspect": "rule",
+  "value": "completely prohibited; auto-rejected with warning notice",
+  "section": "12",
+  "page": 41,
+  "evidence": "முதலாவதாக, சுய-நியமனம் (self-nomination) எந்தவொரு அங்கீகார திட்டத்திலும் முற்றிலும் தடைசெய்யப்பட்டுள்ளது; இந்த விதி மீறப்பட்டால், அந்த நியமனம் தானியங்கி முறையில் நிராகரிக்கப்படும் மற்றும் பணியாளருக்கு எச்சரிக்கை அறிவிப்பு அனுப்பப்படும்."
+ },
+ {
+  "subject": "Abuse prevention escalation matrix",
+  "aspect": "4_levels",
+  "value": "1st violation: automated warning email; 2nd: HRBP conversation; 3rd: 3-month nomination suspension; 4th: referred to Code of Conduct Committee",
+  "section": "12",
+  "page": 41,
+  "evidence": "மீறல்களுக்கான இந்த படிப்படியான நடவடிக்கை அமைப்பு (escalation matrix) நான்கு நிலைகளைக் கொண்டுள்ளது."
+ },
+ {
+  "subject": "Favoritism monitoring flag",
+  "aspect": "trigger",
+  "value": "manager concentrating all nominations on one employee for more than 3 consecutive months",
+  "section": "12",
+  "page": 41,
+  "evidence": "ஒரு மேலாளர் தமது குழுவில் ஒரே ஒரு பணியாளருக்கு தொடர்ந்து மூன்று மாதங்களுக்கு மேல் அனைத்து நியமனங்களையும் செறிவூட்டினால் (concentrate), இந்த வடிவம் மனித வள பங்குதாரரிடம் மதிப்பாய்வுக்காக கொடிக்கப்படும் (flagged)."
+ },
+ {
+  "subject": "2024-25 favoritism flags",
+  "aspect": "stats",
+  "value": "of 240 managers, 14 flagged at least once; 3 flagged for 2 consecutive quarters",
+  "section": "12",
+  "page": 42,
+  "evidence": "2024-25 ஆம் ஆண்டில், மொத்தம் 240 மேலாளர்களில், 14 பேர் இத்தகைய செறிவு கொடியிடலை குறைந்தபட்சம் ஒரு முறையாவது பெற்றனர், இதில் 3 பேர் தொடர்ந்து இரண்டு காலாண்டுகளுக்கு கொடியிடப்பட்டனர்; இந்த 3 பேருக்கும் கூடுதல் பயிற்சி வழங்கப்பட்டது, இதன் பின் அடுத்த காலாண்டில் அவர்கள் அனைவரும் சீரான நியமன வடிவங்களை காட்டினர்."
+ },
+ {
+  "subject": "Quarterly point cap",
+  "aspect": "value",
+  "value": "2,500 points per employee per quarter; excess automatically carried forward to next quarter",
+  "section": "12",
+  "page": 42,
+  "evidence": "மூன்றாவதாக, ஒரு பணியாளர் ஒரு காலாண்டில் பெறக்கூடிய மொத்த பிரகாச முத்திரை அங்கீகாரங்களுக்கு 2,500 புள்ளிகள் என்ற உச்சவரம்பு உள்ளது, இது அதிக மதிப்புள்ள, தொடர்ச்சியான அங்கீகாரம் ஒரு சிலருக்கு மட்டும் குவிவதைத் தடுக்கிறது. இந்த உச்சவரம்பை எட்டும் பணியாளர்களுக்கு, கூடுதல் தகுதியுள்ள நியமனங்கள் தானியங்கி முறையில் அடுத்த காலாண்டுக்கு \"முன்பதிவு\" (carried forward) செய்யப்படும், இதனால் அவர்களது உண்மையான பங்களிப்பு எந்த வகையிலும் முற்றிலும் இழக்கப்படாது, ஆனால் விநியோகம் காலப்போக்கில் சீராக்கப்படுகிறது."
+ },
+ {
+  "subject": "Confidential nomination complaint",
+  "aspect": "process",
+  "value": "reported via platform directly to HR head; investigated within 10 working days; records kept minimum 3 years",
+  "section": "12",
+  "page": 42,
+  "evidence": "இறுதியாக, எந்தவொரு பணியாளரும் ஒரு நியமனம் முறையற்றது அல்லது சார்புடையது என்று கருதினால், \"சூர்ய இணைப்பு\" தளத்தில் உள்ள ரகசிய புகார் அம்சம் மூலம் அதை தெரிவிக்கலாம், இது நேரடியாக மனித வள தலைவருக்கு மட்டுமே தெரியும். இத்தகைய புகார்கள் 10 வேலை நாட்களுக்குள் விசாரிக்கப்பட்டு, முடிவு புகார் அளித்தவருக்கு (அவர் அடையாளம் தெரிவித்திருந்தால்) தெரிவிக்கப்படும். விசாரணையின் முழு பதிவுகளும் குறைந்தபட்சம் மூன்று ஆண்டுகளுக்கு பாதுகாக்கப்படும்."
+ },
+ {
+  "subject": "2024-25 flagged nominations",
+  "aspect": "stats",
+  "value": "46 of 11,200 nominations flagged for bias/impropriety; 12 ultimately rejected (under 0.1%)",
+  "section": "12",
+  "page": 43,
+  "evidence": "2024-25 ஆம் ஆண்டில், மொத்தம் 11,200 நியமனங்களில், வெறும் 46 நியமனங்கள் மட்டுமே சார்பு நிலை அல்லது முறையற்ற தன்மை காரணமாக கொடியிடப்பட்டன, இதில் 12 நியமனங்கள் இறுதியாக நிராகரிக்கப்பட்டன — இது மொத்த நியமனங்களில் 0.1 சதவீதத்திற்கும் குறைவான விகிதமாகும், இது திட்டத்தின் ஒட்டுமொத்த நம்பகத்தன்மையை பிரதிபலிக்கிறது."
+ },
+ {
+  "subject": "Nomination rejection appeal",
+  "aspect": "process",
+  "value": "nominator submits appeal with additional explanation within 7 days; independent second reviewer decides within 5 working days",
+  "section": "12",
+  "page": 43,
+  "evidence": "மேல்முறையீட்டு செயல்முறையில், நியமிப்பவர் ஏழு நாட்களுக்குள் கூடுதல் விளக்கத்துடன் தமது வழக்கை மறுபரிசீலனைக்காக மனித வள பங்குதாரரிடம் சமர்ப்பிக்கலாம். மனித வள பங்குதாரர் அசல் ஒப்புதல் அளித்தவரிடமிருந்து சுயாதீனமான ஒரு இரண்டாம் மதிப்பாய்வாளரை நியமித்து, 5 வேலை நாட்களுக்குள் இறுதி முடிவை அறிவிப்பார்."
+ },
+ {
+  "subject": "2024-25 nomination appeals",
+  "aspect": "outcome",
+  "value": "9 appeals submitted, 4 successfully overturned the original decision",
+  "section": "12",
+  "page": 43,
+  "evidence": "2024-25 ஆம் ஆண்டில், மொத்தம் 9 மேல்முறையீடுகள் சமர்ப்பிக்கப்பட்டன, இதில் 4 மேல்முறையீடுகள் வெற்றிகரமாக அசல் முடிவை மாற்றியமைத்தன, இது மேல்முறையீட்டு செயல்முறை ஒரு உண்மையான, பயனுள்ள பாதுகாப்பு வழிமுறையாக செயல்படுகிறது என்பதை எடுத்துக்காட்டுகிறது."
+ },
+ {
+  "subject": "KPI 1 - quarterly recognition distribution rate",
+  "aspect": "target_and_actual",
+  "value": "target 85%; Q1 2025-26 actual 81%, Q2 actual 86%",
+  "section": "13",
+  "page": 44,
+  "evidence": "முதலாவதாக, \"காலாண்டு அங்கீகார பரவல் விகிதம்\" — ஒரு காலாண்டில் குறைந்தபட்சம் ஒரு முறையாவது அங்கீகரிக்கப்பட்ட பணியாளர்களின் சதவீதம் — இலக்கு 85 சதவீதமாக நிர்ணயிக்கப்பட்டுள்ளது, மேலும் இதன் பொறுப்பு மனித வள பங்குதாரர் குழுவிடம் உள்ளது. 2025-26 ஆம் ஆண்டின் முதல் காலாண்டில் இந்த விகிதம் 81 சதவீதமாக பதிவாகியது, இது இலக்கிற்கு சற்று கீழே இருந்தது, மேலும் இரண்டாம் காலாண்டில் 86 சதவீதமாக மேம்பட்டது."
+ },
+ {
+  "subject": "KPI 2 - nomination-to-delivery average time",
+  "aspect": "target",
+  "value": "within 4 working days",
+  "section": "13",
+  "page": 44,
+  "evidence": "இரண்டாவதாக, \"நியமனம்-முதல்-வழங்கல் சராசரி காலம்\" — ஒரு நியமனம் சமர்ப்பிக்கப்பட்டதில் இருந்து இறுதியாக வழங்கப்படும் வரை எடுக்கும் சராசரி நேரம் — இலக்கு 4 வேலை நாட்களுக்குள் என்று நிர்ணயிக்கப்பட்டுள்ளது, இது தள நிர்வாக குழுவால் கண்காணிக்கப்படுகிறது."
+ },
+ {
+  "subject": "KPI 3 - budget utilization rate",
+  "aspect": "target_and_actual",
+  "value": "target 90-95%; 2024-25 company-wide actual 93%",
+  "section": "13",
+  "page": 44,
+  "evidence": "மூன்றாவதாக, \"பட்ஜெட் பயன்பாட்டு விகிதம்\" — ஒதுக்கப்பட்ட மேலாளர் அங்கீகார பட்ஜெட்டில் உண்மையில் பயன்படுத்தப்பட்ட சதவீதம் — இலக்கு 90 முதல் 95 சதவீதம் வரை என்று நிர்ணயிக்கப்பட்டுள்ளது (குறைவான பயன்பாடு மேலாளர் ஈடுபாட்டின்மையைக் குறிக்கலாம்; அதிகப்படியான பயன்பாடு பட்ஜெட் கட்டுப்பாட்டு பிரச்சினைகளைக் குறிக்கலாம்). இதன் பொறுப்பு நிதித் துறையிடமும் மனித வள துறையிடமும் கூட்டாக உள்ளது. 2024-25 ஆம் ஆண்டின் ஒட்டுமொத்த நிறுவன அளவிலான பட்ஜெட் பயன்பாட்டு விகிதம் 93 சதவீதமாக இருந்தது, இது இலக்கு வரம்பிற்குள் துல்லியமாக அமைந்தது; எனினும், சில சிறிய துறைகளில் இந்த விகிதம் 70 சதவீதத்திற்கும் குறைவாக இருந்தது, இது அந்தந்த மேலாளர்களுக்கு தனிப்பட்ட கவனத்தை ஈர்த்தது."
+ },
+ {
+  "subject": "KPI 4 - recognition satisfaction score",
+  "aspect": "target_and_actual",
+  "value": "target 7.5/10; 2024-25 actual 7.8, up from 7.1 prior year",
+  "section": "13",
+  "page": 44,
+  "evidence": "நான்காவதாக, \"அங்கீகார திருப்தி மதிப்பெண்\" — பணியாளர் கணிப்பீட்டில் அங்கீகார அமைப்புகள் குறித்த திருப்தி அளவு — இலக்கு 10-ல் 7.5 மதிப்பெண் என்று நிர்ணயிக்கப்பட்டுள்ளது, மேலும் இது ஆண்டுதோறும் நடத்தப்படும் பணியாளர் ஈடுபாட்டு கணிப்பீட்டின் ஒரு துணைப் பகுதியாக அளவிடப்படுகிறது. 2024-25 ஆம் ஆண்டில் இந்த மதிப்பெண் 7.8 ஆக பதிவாகி, இலக்கை தாண்டியது, இது முந்தைய ஆண்டின் 7.1 மதிப்பெண்ணிலிருந்து ஒரு குறிப்பிடத்தக்க முன்னேற்றமாகும்."
+ },
+ {
+  "subject": "KPI 5 - gender/department distribution gap",
+  "aspect": "target",
+  "value": "maximum disparity kept below 5 percentage points",
+  "section": "13",
+  "page": 44,
+  "evidence": "ஐந்தாவதாக, \"பாலின/துறை விநியோக இடைவெளி\" — அங்கீகார விநியோகத்தில் எந்தவொரு குழுவினருக்கும் இடையேயான அதிகபட்ச ஏற்றத்தாழ்வு — இலக்கு 5 சதவீத புள்ளிகளுக்கு குறைவாக வைத்திருப்பது, இது பல்வகைமை மற்றும் உள்ளடக்கம் குழுவுடன் இணைந்து கண்காணிக்கப்படுகிறது."
+ },
+ {
+  "subject": "KPI 6 - manager compliance rate",
+  "aspect": "target_and_actual",
+  "value": "target 92%; 2024-25 actual 87%",
+  "section": "13",
+  "page": 45,
+  "evidence": "ஆறாவதாக, \"மேலாளர் இணக்க விகிதம்\" — மாதாந்திர குறைந்தபட்ச அங்கீகார எதிர்பார்ப்பை நிறைவேற்றும் மேலாளர்களின் சதவீதம் — இலக்கு 92 சதவீதம். இந்த குறியீடு, 2024-25 ஆம் ஆண்டில் 87 சதவீதமாக பதிவாகியது, இது இலக்கிற்கு அருகில் இருந்தாலும் இன்னும் எட்டப்படவில்லை; இந்த இடைவெளியை மூட, 2025-26 ஆம் ஆண்டில் \"அங்கீகார பலகை\" நினைவூட்டல் அதிர்வெண் வாரத்திற்கு ஒருமுறையாக அதிகரிக்கப்பட்டுள்ளது."
+ },
+ {
+  "subject": "KPI 7 - peer nomination rate",
+  "aspect": "target",
+  "value": "minimum 40% of total nominations should be peer-originated",
+  "section": "13",
+  "page": 45,
+  "evidence": "ஏழாவதாக, \"சக பணியாளர் நியமன விகிதம்\" — மொத்த பிரகாச முத்திரை நியமனங்களில் சக பணியாளர் தோற்றுவித்த நியமனங்களின் விகிதம் — இலக்கு குறைந்தபட்சம் 40 சதவீதம், இது அங்கீகாரம் மேலிருந்து கீழாக மட்டும் இல்லாமல் சக பணியாளர்களிடையேயும் ஆழமாக வேரூன்றியிருப்பதை உறுதி செய்கிறது."
+ },
+ {
+  "subject": "KPI 8 - annual awards nomination growth rate",
+  "aspect": "target_and_actual",
+  "value": "target minimum 10% year-on-year growth; 2025 actual 13% growth (73 to 85 nominations)",
+  "section": "13",
+  "page": 45,
+  "evidence": "எட்டாவதாக, \"ஆண்டு விருதுகள் நியமன வளர்ச்சி விகிதம்\" — முந்தைய ஆண்டோடு ஒப்பிடும்போது ஆண்டு சிறப்பு விருதுகளுக்கான நியமனங்களின் எண்ணிக்கையில் ஆண்டுவாரியான வளர்ச்சி — இலக்கு குறைந்தபட்சம் 10 சதவீத வளர்ச்சி என நிர்ணயிக்கப்பட்டுள்ளது. 2025-ஆம் ஆண்டின் விழாவுக்கு இந்த வளர்ச்சி விகிதம் 13 சதவீதமாக பதிவானது (73 நியமனங்களிலிருந்து 85 நியமனங்களாக), இது இலக்கை தாண்டிய ஒரு சாதனையாகும்."
+ },
+ {
+  "subject": "KPI 9 - mobile app adoption rate",
+  "aspect": "2024_25_actual",
+  "value": "58% of employees used the mobile app at least monthly",
+  "section": "13உ. ஒவ்வொரு KPI-யின் விரிவான அளவீட்டு முறை",
+  "page": 51,
+  "evidence": "இந்த எட்டு குறியீடுகளுடன் சேர்த்து, வெகுமதி நிர்வாக குழு ஒரு ஒன்பதாவது, துணை குறியீடாக \"மொபைல் செயலி ஏற்றுக்கொள்ளல் விகிதம்\" (mobile app adoption rate) என்பதையும் கண்காணிக்கிறது — இது \"சூர்ய இணைப்பு\" மொபைல் செயலியை நிறுவி, குறைந்தபட்சம் மாதத்திற்கு ஒருமுறை பயன்படுத்தும் பணியாளர்களின் சதவீதத்தை அளவிடுகிறது. 2024-25 ஆம் ஆண்டில் இந்த விகிதம் 58 சதவீதமாக இருந்தது, மேலும் இது தொழில்நுட்பத் துறையின் தொடர்ச்சியான பயனர் அனுபவ மேம்பாடுகளின் மூலம் அதிகரிக்க எதிர்பார்க்கப்படுகிறது."
+ },
+ {
+  "subject": "Recognition week campaign",
+  "aspect": "timing_and_incentive",
+  "value": "held 2nd week of September; nominations during the week earn 1.5x points",
+  "section": "13அ. தொடர்பு மற்றும் விழிப்புணர்வு திட்டம்",
+  "page": 46,
+  "evidence": "ஆண்டுதோறும், \"அங்கீகார வாரம்\" (recognition week) என்ற பெயரில் ஒரு சிறப்பு பிரச்சாரம் நடத்தப்படுகிறது, இது பொதுவாக செப்டம்பர் மாத இரண்டாம் வாரத்தில் நடைபெறுகிறது. இந்த வாரத்தில், ஒவ்வொரு நாளும் ஒரு குறிப்பிட்ட கருப்பொருளுடன் (எடுத்துக்காட்டாக, \"சக பணியாளர் பாராட்டு நாள்\", \"மேலாளர் பாராட்டு நாள்\", \"குழு கொண்டாட்ட நாள்\") செயல்பாடுகள் ஏற்பாடு செய்யப்படுகின்றன, மேலும் இந்த வாரத்தில் சமர்ப்பிக்கப்படும் பிரகாச முத்திரை நியமனங்களுக்கு 1.5 மடங்கு புள்ளிகள் வழங்கப்படும் என்ற சிறப்பு ஊக்கமும் உள்ளது."
+ },
+ {
+  "subject": "2025 Recognition week",
+  "aspect": "nomination_volume",
+  "value": "3.4 times the normal weekly nomination volume",
+  "section": "13அ. தொடர்பு மற்றும் விழிப்புணர்வு திட்டம்",
+  "page": 46,
+  "evidence": "2025-ஆம் ஆண்டின் அங்கீகார வாரத்தில், வழக்கமான வார சராசரியை விட 3.4 மடங்கு அதிகமான நியமனங்கள் சமர்ப்பிக்கப்பட்டன, இது இந்த சிறப்பு பிரச்சாரத்தின் தாக்கத்தை தெளிவாக எடுத்துக்காட்டுகிறது."
+ },
+ {
+  "subject": "Recognition pulse survey",
+  "aspect": "format",
+  "value": "half-yearly, 5-question survey, shorter than the full annual engagement survey",
+  "section": "13அ. தொடர்பு மற்றும் விழிப்புணர்வு திட்டம்",
+  "page": 47,
+  "evidence": "மேலும், மனித வள துறை ஒவ்வொரு அரையாண்டிலும் (half-yearly) ஒரு \"அங்கீகார நாடித் துடிப்பு கணிப்பீடு\" (recognition pulse survey) என்ற சுருக்கமான, ஐந்து கேள்விகள் கொண்ட கணிப்பீட்டை நடத்துகிறது, இது முழு ஆண்டு ஈடுபாட்டு கணிப்பீட்டை விட மிக அடிக்கடி நடைபெறுகிறது, இதனால் ஏதேனும் பிரச்சினைகள் ஆண்டு இறுதி வரை காத்திராமல் விரைவாக அடையாளம் காணப்படும்."
+ },
+ {
+  "subject": "Pirakasa Muthirai points",
+  "aspect": "portability",
+  "value": "tied to the employee, not the department; fully retained across internal transfers",
+  "section": "13ஆ. அடிக்கடி கேட்கப்படும் கேள்விகள்",
+  "page": 48,
+  "evidence": "மூன்றாவது பொதுவான கேள்வி, பிரகாச முத்திரை புள்ளிகள் பணி மாற்றத்தின்போது (ஒரு துறையிலிருந்து மற்றொரு துறைக்கு) தக்கவைக்கப்படுமா என்பதாகும் — ஆம், புள்ளிகள் பணியாளருடன் இணைக்கப்பட்டவை, துறையுடன் அல்ல, எனவே உள் பணி மாற்றங்களில் அவை முழுமையாக தக்கவைக்கப்படும்."
+ },
+ {
+  "subject": "Unredeemed points at exit",
+  "aspect": "rule",
+  "value": "cannot be converted to cash or included in full-and-final settlement; employees advised to redeem before last day",
+  "section": "13ஆ. அடிக்கடி கேட்கப்படும் கேள்விகள்",
+  "page": 49,
+  "evidence": "ஏழாவது கேள்வி, ஒரு பணியாளர் நிறுவனத்தை விட்டு வெளியேறும்போது, மீட்கப்படாத பிரகாச முத்திரை புள்ளிகளுக்கு என்ன நடக்கும் என்பதாகும் — துரதிருஷ்டவசமாக, இத்தகைய புள்ளிகள் பண மதிப்பிற்கு மாற்றப்படவோ இறுதி தீர்வில் (full and final settlement) சேர்க்கப்படவோ முடியாது; பணியாளர்கள் தமது கடைசி பணி நாளுக்கு முன் தமது அனைத்து புள்ளிகளையும் மீட்டுக்கொள்ளுமாறு பரிந்துரைக்கப்படுகிறார்கள்."
+ },
+ {
+  "subject": "Recognition record",
+  "aspect": "promotion_link",
+  "value": "not the sole basis for promotion decisions; serves only as supplementary evidence",
+  "section": "13ஆ. அடிக்கடி கேட்கப்படும் கேள்விகள்",
+  "page": 49,
+  "evidence": "ஆறாவது கேள்வி, பணியாளர்கள் அடிக்கடி கேட்பது, ஒரு அங்கீகாரம் பணி உயர்வுக்கான (promotion) தகுதியை நேரடியாக பாதிக்குமா என்பதாகும் — பதில் என்னவெனில், அங்கீகார பதிவேடு பணி உயர்வு முடிவுக்கான ஒரே அடிப்படையாக பயன்படுத்தப்படாது, ஆனால் இது ஒட்டுமொத்த செயல்திறன் சித்திரத்தின் ஒரு துணை ஆதாரமாக கருத்தில் கொள்ளப்படலாம்; பணி உயர்வு தகுதி தொடர்பான முழு அளவுகோல்கள் தமிழ் வழிகாட்டி எண்."
+ },
+ {
+  "subject": "Milestone during long leave",
+  "aspect": "rule",
+  "value": "recognition deferred until return to work; prize value is not reduced",
+  "section": "13ஆ. அடிக்கடி கேட்கப்படும் கேள்விகள்",
+  "page": 49,
+  "evidence": "ஐந்தாவது கேள்வி, ஒரு பணியாளர் நீண்ட கால விடுப்பில் (எடுத்துக்காட்டாக, மருத்துவ காரணங்களுக்காக) இருக்கும்போது பணிக்கால மைல்கல் எட்டினால் என்ன நடக்கும் என்பதாகும் — அவர்களது மைல்கல் அங்கீகாரம் அவர்கள் பணிக்குத் திரும்பும் வரை ஒத்திவைக்கப்படும், ஆனால் பரிசின் மதிப்பு எந்த வகையிலும் குறைக்கப்படாது."
+ },
+ {
+  "subject": "Implementation phase 1",
+  "aspect": "timing",
+  "value": "April-May 2025: manager communication and updated catalogue/points published",
+  "section": "14",
+  "page": 53,
+  "evidence": "முதல் கட்டத்தில் (ஏப்ரல்-மே 2025), அனைத்து மேலாளர்களுக்கும் புதுப்பிக்கப்பட்ட வழிகாட்டி குறித்த அறிமுக தகவல் தொடர்பு அனுப்பப்பட்டு, \"சூர்ய இணைப்பு\" தளத்தில் புதிய மீட்பு பட்டியல் மற்றும் புள்ளி கட்டமைப்பு புதுப்பிக்கப்பட்டது."
+ },
+ {
+  "subject": "Implementation phase 2",
+  "aspect": "timing",
+  "value": "June-August 2025: new manager training rollout and recognition dashboard introduced",
+  "section": "14",
+  "page": 53,
+  "evidence": "இரண்டாம் கட்டத்தில் (ஜூன்-ஆகஸ்ட் 2025), புதிய மேலாளர் பயிற்சி தொகுதி அனைத்து இருக்கும் மேலாளர்களுக்கும் படிப்படியாக வழங்கப்பட்டு, அங்கீகார பலகை அம்சம் அறிமுகப்படுத்தப்பட்டது."
+ },
+ {
+  "subject": "Implementation phase 3",
+  "aspect": "timing",
+  "value": "September 2025 onward: full system live, first recognition distribution audit conducted",
+  "section": "14",
+  "page": 53,
+  "evidence": "மூன்றாம் கட்டத்தில் (செப்டம்பர் 2025 முதல்), முழு அமைப்பும் செயல்பாட்டில் வந்தது, மேலும் முதல் \"அங்கீகார விநியோக தணிக்கை\" இந்த கட்டத்தின்போது நடத்தப்பட்டது."
+ },
+ {
+  "subject": "Public feed recognition at employee exit",
+  "aspect": "data_retention",
+  "value": "archived from public view after 90 days; retained in internal database for 7 years for audit",
+  "section": "14அ. தரவு தனியுரிமை மற்றும் பதிவு பராமரிப்பு",
+  "page": 54,
+  "evidence": "ஒரு பணியாளர் நிறுவனத்தை விட்டு வெளியேறும்போது, அவரது பொது தள ஊட்டத்தில் (public feed) இருந்த அங்கீகாரங்கள் 90 நாட்களுக்குப் பிறகு காப்பகப்படுத்தப்பட்டு (archived), பொது பார்வையில் இருந்து அகற்றப்படும், ஆனால் தணிக்கை நோக்கங்களுக்காக உள் தரவுத்தளத்தில் ஏழு ஆண்டுகளுக்கு பராமரிக்கப்படும்."
+ },
+ {
+  "subject": "Nomination note content rule",
+  "aspect": "restriction",
+  "value": "comparative or negative comments about other employees are prohibited and auto-flagged by content filter",
+  "section": "14அ. தரவு தனியுரிமை மற்றும் பதிவு பராமரிப்பு",
+  "page": 54,
+  "evidence": "பிரகாச முத்திரை நியமன குறிப்புகளில் வேறு எந்த பணியாளரையும் பற்றிய எதிர்மறையான அல்லது ஒப்பீட்டு கருத்துகள் (எடுத்துக்காட்டாக, \"இவர் மற்றவர்களை விட சிறப்பாக செய்தார்\") சேர்க்கப்படக்கூடாது என்பது ஒரு கட்டாய வழிகாட்டுதலாகும்; இத்தகைய நியமனங்கள் தளத்தின் தானியங்கி உரை வடிகட்டியால் (content filter) கொடியிடப்பட்டு, மனித வள பங்குதாரரால் மறுஆய்வு செய்யப்படும்."
+ },
+ {
+  "subject": "Kochi sub-office",
+  "aspect": "transition_plan",
+  "value": "opened 2024, temporarily shares Oliviru Natchathiram selection with nearby regional office; expected to move to independent process once headcount exceeds 15 (early 2026)",
+  "section": "14ஆ. பிராந்திய மற்றும் பண்பாட்டு கருத்தில்கொள்ளல்கள்",
+  "page": 54,
+  "evidence": "மேலும், புதிதாக ஒரு நகரத்தில் திறக்கப்படும் சிறிய துணை அலுவலகங்களுக்கு (10 பணியாளர்களுக்கும் குறைவாக இருக்கும் சூழல்களில்), முழு அளவிலான \"ஒளிர்வு நட்சத்திரம்\" தேர்வு செயல்முறையை நடத்துவது நடைமுறையில் சாத்தியமற்றதாக இருக்கலாம் என்பதால், அத்தகைய சிறிய அலுவலகங்கள் அவற்றின் முதல் பன்னிரண்டு மாதங்களுக்கு, அருகிலுள்ள பெரிய பிராந்திய அலுவலகத்தின் தேர்வு செயல்முறையுடன் தற்காலிகமாக இணைக்கப்படும். இந்த ஏற்பாடு, புதிய அலுவலகம் தனது சொந்த நிலையான அங்கீகார செயல்முறையை நிறுவும் வரை ஒரு இடைக்கால தீர்வாக செயல்படுகிறது. 2024-ஆம் ஆண்டில் திறக்கப்பட்ட கொச்சி துணை அலுவலகம் இந்த இடைக்கால ஏற்பாட்டின் கீழ் தற்போது செயல்பட்டு வருகிறது, மேலும் அது 2026-ஆம் ஆண்டின் தொடக்கத்தில் தனது பணியாளர் எண்ணிக்கை 15-ஐ தாண்டியவுடன் சுயாதீன தேர்வு செயல்முறைக்கு மாறும் என்று எதிர்பார்க்கப்படுகிறது."
+ },
+ {
+  "subject": "Small new office recognition arrangement",
+  "aspect": "threshold",
+  "value": "offices under 10 employees temporarily combine selection process with nearest larger regional office for first 12 months",
+  "section": "14ஆ. பிராந்திய மற்றும் பண்பாட்டு கருத்தில்கொள்ளல்கள்",
+  "page": 54,
+  "evidence": "மேலும், புதிதாக ஒரு நகரத்தில் திறக்கப்படும் சிறிய துணை அலுவலகங்களுக்கு (10 பணியாளர்களுக்கும் குறைவாக இருக்கும் சூழல்களில்), முழு அளவிலான \"ஒளிர்வு நட்சத்திரம்\" தேர்வு செயல்முறையை நடத்துவது நடைமுறையில் சாத்தியமற்றதாக இருக்கலாம் என்பதால், அத்தகைய சிறிய அலுவலகங்கள் அவற்றின் முதல் பன்னிரண்டு மாதங்களுக்கு, அருகிலுள்ள பெரிய பிராந்திய அலுவலகத்தின் தேர்வு செயல்முறையுடன் தற்காலிகமாக இணைக்கப்படும்."
+ },
+ {
+  "subject": "Pilot initiative 1",
+  "aspect": "name",
+  "value": "'peer-voted award' - winner chosen by direct employee vote instead of governance council",
+  "section": "14இ. தொடர்ச்சியான மேம்பாடு மற்றும் எதிர்கால திட்டமிடல்",
+  "page": 55,
+  "evidence": "முதலாவது, \"சகாக்கள் தேர்ந்தெடுக்கும் விருது\" (peer-voted award) என்ற ஒரு புதிய ஆண்டு வகை, இதில் வெற்றியாளர் நிர்வாக குழுவால் அல்லாமல், அனைத்து பணியாளர்களின் நேரடி வாக்களிப்பின் மூலம் தேர்ந்தெடுக்கப்படுவார்."
+ },
+ {
+  "subject": "Pilot initiative 2",
+  "aspect": "name",
+  "value": "'sustainability impact award' for environmental/social contributions",
+  "section": "14இ. தொடர்ச்சியான மேம்பாடு மற்றும் எதிர்கால திட்டமிடல்",
+  "page": 55,
+  "evidence": "இரண்டாவது, \"நிலைத்தன்மை தாக்க விருது\" (sustainability impact award), இது சுற்றுச்சூழல் அல்லது சமூக நலனுக்கான பங்களிப்புகளை கௌரவிக்கும் நோக்கில் வடிவமைக்கப்பட்டுள்ளது."
+ },
+ {
+  "subject": "Pilot initiative 3",
+  "aspect": "name",
+  "value": "option to donate Pirakasa Muthirai points to CSR/charity programs",
+  "section": "14இ. தொடர்ச்சியான மேம்பாடு மற்றும் எதிர்கால திட்டமிடல்",
+  "page": 55,
+  "evidence": "மூன்றாவது முன்னோடி முயற்சி, பிரகாச முத்திரை புள்ளிகளை நிறுவன சமூக பொறுப்புணர்வு (CSR) திட்டங்களுக்கு நன்கொடையாக வழங்கும் ஒரு விருப்பத்தை அறிமுகப்படுத்துவதாகும், இதன் மூலம் பணியாளர்கள் தமது சேகரிக்கப்பட்ட புள்ளிகளை தாங்கள் விரும்பும் ஒரு தொண்டு நிறுவனத்திற்கு மாற்றிக்கொள்ளலாம்."
+ },
+ {
+  "subject": "Pilot initiative 4",
+  "aspect": "name",
+  "value": "'family recognition' concept - small appreciation card sent to family on major milestones",
+  "section": "14இ. தொடர்ச்சியான மேம்பாடு மற்றும் எதிர்கால திட்டமிடல்",
+  "page": 55,
+  "evidence": "இந்த மூன்று முன்னோடி முயற்சிகளுடன் சேர்த்து, ஒரு நான்காவது யோசனையும் ஆரம்பகட்ட விவாதத்தில் உள்ளது: \"குடும்ப அங்கீகாரம்\" (family recognition) என்ற ஒரு கருத்து, இதில் ஒரு பணியாளரின் முக்கிய மைல்கல் சாதனைகளுக்காக அவரது குடும்ப உறுப்பினருக்கும் ஒரு சிறிய பாராட்டு அட்டை அனுப்பப்படும், இது பணியாளரின் தொழில்முறை வெற்றியில் அவர்களது குடும்பத்தின் ஆதரவையும் ஒப்புக்கொள்வதாக அமையும்."
+ },
+ {
+  "subject": "Survey - recognition improved satisfaction",
+  "aspect": "result",
+  "value": "16% fully agreed, additional 63% partially agreed",
+  "section": "15",
+  "page": 58,
+  "evidence": "இந்த வழிகாட்டியின் முந்தைய பதிப்பு அறிமுகப்படுத்தப்பட்டதில் இருந்து நடத்தப்பட்ட பின்தொடர் கணிப்பீட்டில், பதினாறு சதவீத பணியாளர்கள் \"அங்கீகாரம் எனது பணித் திருப்தியை நேரடியாக மேம்படுத்தியுள்ளது\" என்ற கூற்றுடன் முழுமையாக உடன்பட்டனர், மேலும் கூடுதலாக அறுபத்து மூன்று சதவீதம் பேர் ஓரளவு உடன்பட்டனர் — இது இந்த திட்டங்களின் மீதான ஒட்டுமொத்த நேர்மறையான வரவேற்பை எடுத்துக்காட்டுகிறது."
+ },
+ {
+  "subject": "Survey - catalogue regional options",
+  "aspect": "result",
+  "value": "21% of employees felt regional redemption options were insufficient",
+  "section": "15",
+  "page": 58,
+  "evidence": "எனினும், இருபத்தொரு சதவீத பணியாளர்கள் மீட்பு பட்டியலில் தமது பிராந்தியத்திற்கு ஏற்ற விருப்பங்கள் இன்னும் போதுமானதாக இல்லை என்று கருத்து தெரிவித்தனர், இது மேலே குறிப்பிடப்பட்ட வெளி விற்பனையாளர் விரிவாக்க திட்டங்களுக்கு ஒரு நேரடி உள்ளீடாக பயன்படுத்தப்பட்டது."
+ },
+ {
+  "subject": "Survey - annual awards nomination simplicity",
+  "aspect": "result",
+  "value": "11% felt the nomination process should be simplified",
+  "section": "15",
+  "page": 58,
+  "evidence": "மேலும், பதினொரு சதவீதம் பணியாளர்கள் ஆண்டு சிறப்பு விருதுகள் விழாவின் நியமன செயல்முறை இன்னும் எளிமையாக்கப்பட வேண்டும் என்று கருதுவதாக தெரிவித்தனர், இதன் அடிப்படையில் 2026-ஆம் ஆண்டின் விழாவிற்கான நியமன படிவம் குறுகியதாக்கப்பட்டு, கட்டாய புலங்களின் எண்ணிக்கை ஏழிலிருந்து ஐந்தாக குறைக்கப்பட்டது."
+ },
+ {
+  "subject": "2026 Annual Awards nomination form",
+  "aspect": "change",
+  "value": "mandatory fields reduced from 7 to 5",
+  "section": "15",
+  "page": 58,
+  "evidence": "மேலும், பதினொரு சதவீதம் பணியாளர்கள் ஆண்டு சிறப்பு விருதுகள் விழாவின் நியமன செயல்முறை இன்னும் எளிமையாக்கப்பட வேண்டும் என்று கருதுவதாக தெரிவித்தனர், இதன் அடிப்படையில் 2026-ஆம் ஆண்டின் விழாவிற்கான நியமன படிவம் குறுகியதாக்கப்பட்டு, கட்டாய புலங்களின் எண்ணிக்கை ஏழிலிருந்து ஐந்தாக குறைக்கப்பட்டது."
+ }
+]

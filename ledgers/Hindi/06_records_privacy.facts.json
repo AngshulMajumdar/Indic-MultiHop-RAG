@@ -1,0 +1,1082 @@
+[
+ {
+  "subject": "records_policy",
+  "aspect": "number_of_objectives",
+  "value": 5,
+  "section": "१.२",
+  "page": 3,
+  "evidence": "इस नीति के पाँच घोषित उद्देश्य हैं।"
+ },
+ {
+  "subject": "personnel_file",
+  "aspect": "number_of_sections",
+  "value": 7,
+  "section": "३.१",
+  "page": 8,
+  "evidence": "प्रत्येक कर्मचारी का कार्मिक अभिलेख सात खंडों में विभाजित रहेगा।"
+ },
+ {
+  "subject": "mandatory_documents",
+  "aspect": "number_of_qualifying_criteria",
+  "value": 3,
+  "section": "४.१",
+  "page": 10,
+  "evidence": "उसे तीन में से किसी एक कसौटी पर खरा उतरना चाहिए — या तो वह किसी विधिक अथवा सांविधिक अपेक्षा की पूर्ति करता हो, या रोजगार-अनुबंध के निर्वहन के लिए आवश्यक हो, या संगठन के किसी घोषित प्रशासनिक प्रयोजन की पूर्ति करता हो।"
+ },
+ {
+  "subject": "mandatory_documents",
+  "aspect": "filing_deadline_working_days",
+  "value": 10,
+  "section": "४.२",
+  "page": 10,
+  "evidence": "योगदान की तिथि से १० कार्यदिवस के भीतर निम्नलिखित दस्तावेज़ कार्मिक अभिलेख में सम्मिलित होने चाहिए।"
+ },
+ {
+  "subject": "mandatory_documents",
+  "aspect": "escalation_working_days",
+  "value": 30,
+  "section": "४.२",
+  "page": 11,
+  "evidence": "यदि योगदान से ३० कार्यदिवस बीत जाने पर भी कोई अनिवार्य दस्तावेज़ अप्राप्त रहता है, तो विषय मानव संसाधन प्रमुख के समक्ष प्रस्तुत किया जाएगा।"
+ },
+ {
+  "subject": "prohibited_document",
+  "aspect": "removal_working_days",
+  "value": 3,
+  "section": "४.३",
+  "page": 12,
+  "evidence": "यदि ऐसा कोई दस्तावेज़ भूलवश संचिका में आ गया हो, तो उसे पाए जाने के ३ कार्यदिवस के भीतर हटाकर नष्ट किया जाएगा और इस कार्रवाई की एक संक्षिप्त प्रविष्टि अभिलेख-सूची पत्रक में की जाएगी — दस्तावेज़ की अंतर्वस्तु दोहराए बिना।"
+ },
+ {
+  "subject": "records_custodian",
+  "aspect": "handover_working_days",
+  "value": 7,
+  "section": "५.३",
+  "page": 13,
+  "evidence": "जब कोई अभिलेख संरक्षक स्थानांतरित होता है, पदोन्नत होकर अन्य दायित्व लेता है अथवा संगठन छोड़ता है, तब कार्यभार-हस्तांतरण ७ कार्यदिवस के भीतर पूर्ण होना चाहिए।"
+ },
+ {
+  "subject": "data_collection",
+  "aspect": "number_of_principles",
+  "value": 3,
+  "section": "६.१",
+  "page": 14,
+  "evidence": "कार्मिक डेटा का संग्रह तीन सिद्धांतों से शासित होगा, और प्रत्येक नए प्रपत्र, प्रत्येक नए क्षेत्र तथा प्रत्येक नई प्रणाली को इन तीनों की कसौटी पर परखा जाएगा।"
+ },
+ {
+  "subject": "new_form_approval",
+  "aspect": "decision_working_days",
+  "value": 8,
+  "section": "६.२",
+  "page": 15,
+  "evidence": "समन्वयक ८ कार्यदिवस के भीतर निर्णय देंगे।"
+ },
+ {
+  "subject": "existing_forms",
+  "aspect": "cleanup_deadline_days",
+  "value": 180,
+  "section": "६.३",
+  "page": 15,
+  "evidence": "इस नीति के प्रभावी होने की तिथि से १८० दिन के भीतर मानव संसाधन विभाग अपने समस्त प्रचलित प्रपत्रों की समीक्षा करेगा और उन क्षेत्रों को हटाएगा जो किसी वर्तमान प्रयोजन की पूर्ति नहीं करते।"
+ },
+ {
+  "subject": "secondary_source_data",
+  "aspect": "employee_comment_working_days",
+  "value": 7,
+  "section": "६.४",
+  "page": 16,
+  "evidence": "द्वितीयक स्रोत से प्राप्त सूचना को कार्मिक अभिलेख में सम्मिलित करने से पूर्व उसकी एक प्रति कर्मचारी को उपलब्ध कराई जाएगी, और उसे उस पर टिप्पणी करने के लिए ७ कार्यदिवस का समय दिया जाएगा।"
+ },
+ {
+  "subject": "sensitive_personal_data",
+  "aspect": "number_of_categories",
+  "value": 9,
+  "section": "७.१",
+  "page": 16,
+  "evidence": "इस नीति के प्रयोजन से निम्नलिखित नौ श्रेणियों को संवेदनशील व्यक्तिगत डेटा माना जाएगा।"
+ },
+ {
+  "subject": "sensitive_personal_data",
+  "aspect": "number_of_additional_controls",
+  "value": 6,
+  "section": "७.२",
+  "page": 17,
+  "evidence": "संवेदनशील व्यक्तिगत डेटा पर सामान्य नियंत्रणों के अतिरिक्त छह विशेष नियंत्रण लागू होंगे।"
+ },
+ {
+  "subject": "biometric_template",
+  "aspect": "deletion_days_after_exit",
+  "value": 30,
+  "section": "७.४",
+  "page": 18,
+  "evidence": "बायोमेट्रिक निदर्श कर्मचारी की सेवा-समाप्ति के ३० दिन के भीतर प्रणाली से मिटाया जाएगा।"
+ },
+ {
+  "subject": "consent_form",
+  "aspect": "mandatory_disclosure_items",
+  "value": 5,
+  "section": "८.२",
+  "page": 19,
+  "evidence": "प्रत्येक सहमति एक पृथक प्रपत्र पर होगी — प्रपत्र SIS/HR/HI/06-ग — और उसमें पाँच बातें स्पष्ट रूप से अंकित होंगी: कौन-सा डेटा, किस प्रयोजन से, कितने समय तक, किसके साथ साझा होगा, और वापसी कैसे संभव है।"
+ },
+ {
+  "subject": "consent_withdrawal",
+  "aspect": "acknowledgement_working_days",
+  "value": 3,
+  "section": "८.३",
+  "page": 19,
+  "evidence": "वापसी-अनुरोध की प्राप्ति की पावती ३ कार्यदिवस के भीतर दी जाएगी।"
+ },
+ {
+  "subject": "consent_withdrawal",
+  "aspect": "effect_days",
+  "value": 14,
+  "section": "८.३",
+  "page": 19,
+  "evidence": "वापसी का प्रभाव अनुरोध प्राप्ति की तिथि से १४ दिन के भीतर पूर्ण रूप से लागू होगा — अर्थात उस अवधि के भीतर संबंधित उपयोग रोक दिया जाएगा, प्रदर्शित सामग्री हटा दी जाएगी, तथा साझा किए गए पक्षों को सूचित कर दिया जाएगा।"
+ },
+ {
+  "subject": "access_control",
+  "aspect": "number_of_levels",
+  "value": 5,
+  "section": "९.१",
+  "page": 20,
+  "evidence": "कार्मिक अभिलेखों तक पहुँच पाँच स्तरों में विभाजित है।"
+ },
+ {
+  "subject": "access_level_five",
+  "aspect": "maximum_holders",
+  "value": 6,
+  "section": "९.१",
+  "page": 21,
+  "evidence": "स्तर ५ के धारकों की संख्या किसी भी समय ६ से अधिक नहीं होगी।"
+ },
+ {
+  "subject": "access_level_review",
+  "aspect": "frequency_months",
+  "value": 6,
+  "section": "९.३",
+  "page": 23,
+  "evidence": "आवंटित पहुँच-स्तरों की समीक्षा प्रत्येक ६ माह में होगी।"
+ },
+ {
+  "subject": "unused_access",
+  "aspect": "auto_suspension_days",
+  "value": 180,
+  "section": "९.३",
+  "page": 23,
+  "evidence": "जिस धारक ने १८० दिन तक अपनी पहुँच का एक बार भी उपयोग नहीं किया, उसकी पहुँच स्वतः निलंबित कर दी जाएगी और पुनः सक्रिय करने के लिए नया अनुरोध देना होगा।"
+ },
+ {
+  "subject": "role_change",
+  "aspect": "access_revocation_working_days",
+  "value": 2,
+  "section": "९.३",
+  "page": 23,
+  "evidence": "भूमिका-परिवर्तन की स्थिति में पुरानी पहुँच २ कार्यदिवस के भीतर वापस ली जाएगी।"
+ },
+ {
+  "subject": "emergency_access",
+  "aspect": "written_ratification_hours",
+  "value": 24,
+  "section": "९.४",
+  "page": 23,
+  "evidence": "ऐसी पहुँच सूचना सुरक्षा अधिकारी की मौखिक अनुमति से आरंभ हो सकती है, किंतु उसका लिखित अनुसमर्थन २४ घंटे के भीतर आवश्यक है।"
+ },
+ {
+  "subject": "emergency_access",
+  "aspect": "maximum_duration_hours",
+  "value": 72,
+  "section": "९.४",
+  "page": 23,
+  "evidence": "आपातकालीन पहुँच की अवधि ७२ घंटे से अधिक नहीं होगी और उसका पृथक लॉग रखा जाएगा।"
+ },
+ {
+  "subject": "employee_access_request",
+  "aspect": "acknowledgement_working_days",
+  "value": 2,
+  "section": "१०.२",
+  "page": 24,
+  "evidence": "अनुरोध की प्राप्ति की पावती २ कार्यदिवस के भीतर दी जाएगी और उसमें अनुरोध-संख्या अंकित होगी, जिससे कर्मचारी आगे की स्थिति जान सके।"
+ },
+ {
+  "subject": "employee_access_request",
+  "aspect": "response_working_days",
+  "value": 10,
+  "section": "१०.३",
+  "page": 24,
+  "evidence": "पहुँच-अनुरोध का पूर्ण निपटान अनुरोध-प्राप्ति की तिथि से १० कार्यदिवस के भीतर होगा।"
+ },
+ {
+  "subject": "employee_access_request",
+  "aspect": "extension_working_days",
+  "value": 7,
+  "section": "१०.३",
+  "page": 24,
+  "evidence": "यदि अभिलेख किसी अन्य कार्यालय में रखा है अथवा अनुरोध का विस्तार असाधारण रूप से बड़ा है, तो समन्वयक इस अवधि को एक बार, अधिकतम ७ कार्यदिवस के लिए, बढ़ा सकते हैं।"
+ },
+ {
+  "subject": "employee_access_request",
+  "aspect": "hr_head_intervention_working_days",
+  "value": 5,
+  "section": "१०.३",
+  "page": 25,
+  "evidence": "यदि निर्धारित अवधि में कोई उत्तर नहीं मिलता, तो कर्मचारी विषय को सीधे मानव संसाधन प्रमुख के समक्ष ले जा सकता है, जो ५ कार्यदिवस के भीतर हस्तक्षेप करेंगे।"
+ },
+ {
+  "subject": "file_inspection",
+  "aspect": "scheduling_working_days",
+  "value": 3,
+  "section": "१०.४",
+  "page": 25,
+  "evidence": "निरीक्षण की तिथि एवं समय अनुरोध स्वीकृत होने के ३ कार्यदिवस के भीतर निश्चित कर कर्मचारी को सूचित किया जाएगा।"
+ },
+ {
+  "subject": "file_inspection",
+  "aspect": "minimum_minutes_per_sitting",
+  "value": 45,
+  "section": "१०.४",
+  "page": 25,
+  "evidence": "निरीक्षण के लिए एक बैठक में न्यूनतम ४५ मिनट का समय दिया जाएगा; यदि कर्मचारी को अधिक समय चाहिए, तो दूसरी बैठक निर्धारित की जाएगी।"
+ },
+ {
+  "subject": "record_copies",
+  "aspect": "free_pages_per_financial_year",
+  "value": 25,
+  "section": "१०.५",
+  "page": 26,
+  "evidence": "प्रत्येक वित्तीय वर्ष में पहले २५ पृष्ठ निःशुल्क दिए जाएँगे।"
+ },
+ {
+  "subject": "record_copies",
+  "aspect": "charge_per_page_rupees",
+  "value": 3,
+  "section": "१०.५",
+  "page": 26,
+  "evidence": "उसके पश्चात प्रति पृष्ठ ३ रुपये का शुल्क लिया जाएगा, जो केवल पुनरुत्पादन-लागत की वसूली है और आय का साधन नहीं।"
+ },
+ {
+  "subject": "record_copies",
+  "aspect": "delivery_working_days",
+  "value": 5,
+  "section": "१०.५",
+  "page": 26,
+  "evidence": "प्रतिलिपियाँ अनुरोध के ५ कार्यदिवस के भीतर उपलब्ध कराई जाएँगी।"
+ },
+ {
+  "subject": "access_refusal",
+  "aspect": "number_of_grounds",
+  "value": 4,
+  "section": "१०.६",
+  "page": 26,
+  "evidence": "पहुँच से इनकार अपवाद है, नियम नहीं, और केवल चार आधारों पर संभव है।"
+ },
+ {
+  "subject": "access_after_proceedings",
+  "aspect": "grant_working_days",
+  "value": 10,
+  "section": "१०.६",
+  "page": 26,
+  "evidence": "दो, जहाँ कोई जाँच अथवा विधिक कार्यवाही लंबित हो और पहुँच से उसकी अखंडता प्रभावित होती हो; ऐसा इनकार अस्थायी होगा और कार्यवाही समाप्त होने के १० कार्यदिवस के भीतर पहुँच दी जाएगी।"
+ },
+ {
+  "subject": "disclosure_statement",
+  "aspect": "lookback_months",
+  "value": 24,
+  "section": "१०.७",
+  "page": 27,
+  "evidence": "कर्मचारी वर्ष में एक बार, निःशुल्क, यह विवरणी माँग सकता है कि पिछले २४ माह में उसका व्यक्तिगत डेटा किन बाह्य पक्षों को प्रकट किया गया, किस आधार पर और किस तिथि को।"
+ },
+ {
+  "subject": "disclosure_statement",
+  "aspect": "delivery_working_days",
+  "value": 12,
+  "section": "१०.७",
+  "page": 27,
+  "evidence": "यह विवरणी प्रकटीकरण-रजिस्टर से निकाली जाएगी और अनुरोध के १२ कार्यदिवस के भीतर दी जाएगी।"
+ },
+ {
+  "subject": "clerical_correction",
+  "aspect": "completion_working_days",
+  "value": 5,
+  "section": "११.२",
+  "page": 27,
+  "evidence": "जहाँ त्रुटि स्पष्ट एवं निर्विवाद है — जैसे नाम की वर्तनी, संख्या का अंकन अथवा तिथि का लिपिकीय दोष — वहाँ अभिलेख संरक्षक स्वयं ५ कार्यदिवस के भीतर सुधार कर देंगे, ऊपर किसी अनुमोदन की प्रतीक्षा किए बिना।"
+ },
+ {
+  "subject": "disputed_correction",
+  "aspect": "decision_working_days",
+  "value": 15,
+  "section": "११.२",
+  "page": 27,
+  "evidence": "जहाँ त्रुटि विवादास्पद है अथवा जहाँ सुधार से किसी अन्य अभिलेख अथवा गणना पर प्रभाव पड़ता है, वहाँ निर्णय डेटा संरक्षण समन्वयक द्वारा १५ कार्यदिवस के भीतर दिया जाएगा।"
+ },
+ {
+  "subject": "dissent_note",
+  "aspect": "maximum_words",
+  "value": 300,
+  "section": "११.४",
+  "page": 28,
+  "evidence": "यह असहमति-टिप्पणी अधिकतम ३०० शब्दों की होगी और विवादित दस्तावेज़ के साथ ही नत्थी की जाएगी।"
+ },
+ {
+  "subject": "correction_appeal",
+  "aspect": "filing_working_days",
+  "value": 10,
+  "section": "११.५",
+  "page": 28,
+  "evidence": "सुधार-अनुरोध की अस्वीकृति के विरुद्ध कर्मचारी १० कार्यदिवस के भीतर अपील कर सकता है।"
+ },
+ {
+  "subject": "appeal_committee",
+  "aspect": "number_of_members",
+  "value": 3,
+  "section": "११.५",
+  "page": 28,
+  "evidence": "अपील की सुनवाई एक त्रि-सदस्यीय अभिलेख अपील समिति करेगी, जिसमें मानव संसाधन प्रमुख का एक नामिती, सूचना सुरक्षा अधिकारी अथवा उनका नामिती, तथा अपीलकर्ता के विभाग से बाहर का एक वरिष्ठ अधिकारी सम्मिलित होगा।"
+ },
+ {
+  "subject": "correction_appeal",
+  "aspect": "decision_working_days",
+  "value": 20,
+  "section": "११.५",
+  "page": 28,
+  "evidence": "समिति अपील प्राप्ति के २० कार्यदिवस के भीतर निर्णय देगी।"
+ },
+ {
+  "subject": "corrected_information",
+  "aspect": "third_party_lookback_months",
+  "value": 12,
+  "section": "११.६",
+  "page": 29,
+  "evidence": "यदि विवादित सूचना पिछले १२ माह में किसी बाह्य पक्ष को प्रकट की जा चुकी है, तो सुधार होने पर उस पक्ष को शुद्ध सूचना ७ कार्यदिवस के भीतर भेजी जाएगी।"
+ },
+ {
+  "subject": "corrected_information",
+  "aspect": "third_party_notice_working_days",
+  "value": 7,
+  "section": "११.६",
+  "page": 29,
+  "evidence": "यदि विवादित सूचना पिछले १२ माह में किसी बाह्य पक्ष को प्रकट की जा चुकी है, तो सुधार होने पर उस पक्ष को शुद्ध सूचना ७ कार्यदिवस के भीतर भेजी जाएगी।"
+ },
+ {
+  "subject": "third_party_disclosure",
+  "aspect": "number_of_permitted_grounds",
+  "value": 6,
+  "section": "१२.१",
+  "page": 29,
+  "evidence": "कार्मिक व्यक्तिगत डेटा किसी बाह्य पक्ष को केवल छह आधारों में से किसी एक पर प्रकट किया जा सकता है, और आधार प्रत्येक प्रकटीकरण के समय लिखित रूप में अभिलिखित किया जाएगा।"
+ },
+ {
+  "subject": "disclosure_request",
+  "aspect": "routine_decision_working_days",
+  "value": 6,
+  "section": "१२.२",
+  "page": 30,
+  "evidence": "सामान्य अनुरोधों का निपटान ६ कार्यदिवस के भीतर होगा।"
+ },
+ {
+  "subject": "disclosure_request",
+  "aspect": "legal_opinion_working_days",
+  "value": 4,
+  "section": "१२.२",
+  "page": 30,
+  "evidence": "जहाँ विधिक परामर्श आवश्यक हो, वहाँ विधि सलाहकार की राय ४ कार्यदिवस के भीतर ली जाएगी और कुल अवधि १२ कार्यदिवस से अधिक नहीं होगी।"
+ },
+ {
+  "subject": "disclosure_register",
+  "aspect": "entry_working_days",
+  "value": 3,
+  "section": "१२.३",
+  "page": 30,
+  "evidence": "प्रत्येक प्रकटीकरण की प्रविष्टि प्रकटीकरण-रजिस्टर में प्रकटीकरण के ३ कार्यदिवस के भीतर की जाएगी।"
+ },
+ {
+  "subject": "disclosure_register",
+  "aspect": "mandatory_fields",
+  "value": 9,
+  "section": "१२.३",
+  "page": 30,
+  "evidence": "प्रविष्टि में नौ विवरण अनिवार्य हैं — अनुरोध-संख्या, अनुरोध-प्राप्ति की तिथि, अनुरोधकर्ता का नाम एवं संस्था, संबंधित कर्मचारी की कर्मचारी-संख्या, प्रकट किए गए क्षेत्रों की सूची, विधिक आधार, अनुमोदनकर्ता का नाम, संप्रेषण का माध्यम, तथा कर्मचारी को सूचित किए जाने की तिथि।"
+ },
+ {
+  "subject": "disclosure_register",
+  "aspect": "retention_years",
+  "value": 10,
+  "section": "१२.३",
+  "page": 30,
+  "evidence": "प्रकटीकरण-रजिस्टर की संरक्षण अवधि १० वर्ष है।"
+ },
+ {
+  "subject": "disclosure",
+  "aspect": "employee_notification_working_days",
+  "value": 5,
+  "section": "१२.४",
+  "page": 30,
+  "evidence": "सामान्य नियम यह है कि प्रकटीकरण के पश्चात संबंधित कर्मचारी को ५ कार्यदिवस के भीतर सूचित किया जाएगा — क्या प्रकट हुआ, किसे, और किस आधार पर।"
+ },
+ {
+  "subject": "processor_contract",
+  "aspect": "mandatory_clauses",
+  "value": 7,
+  "section": "१२.५",
+  "page": 31,
+  "evidence": "अनुबंध में सात प्रावधान अनिवार्य हैं — संसाधन का सीमित प्रयोजन; आगे उप-संसाधन पर प्रतिबंध अथवा पूर्व-अनुमति की अपेक्षा; समकक्ष सुरक्षा-नियंत्रणों का वचन; उल्लंघन की स्थिति में २४ घंटे के भीतर संगठन को सूचित करने की बाध्यता; संगठन के अंकेक्षण-अधिकार; अनुबंध-समाप्ति पर ३० दिन के भीतर डेटा की वापसी अथवा प्रमाणित विनष्टीकरण; तथा उल्लंघन से उत्पन्न हानि के लिए दायित्व।"
+ },
+ {
+  "subject": "processor_contract",
+  "aspect": "breach_notification_hours",
+  "value": 24,
+  "section": "१२.५",
+  "page": 31,
+  "evidence": "अनुबंध में सात प्रावधान अनिवार्य हैं — संसाधन का सीमित प्रयोजन; आगे उप-संसाधन पर प्रतिबंध अथवा पूर्व-अनुमति की अपेक्षा; समकक्ष सुरक्षा-नियंत्रणों का वचन; उल्लंघन की स्थिति में २४ घंटे के भीतर संगठन को सूचित करने की बाध्यता; संगठन के अंकेक्षण-अधिकार; अनुबंध-समाप्ति पर ३० दिन के भीतर डेटा की वापसी अथवा प्रमाणित विनष्टीकरण; तथा उल्लंघन से उत्पन्न हानि के लिए दायित्व।"
+ },
+ {
+  "subject": "processor_list",
+  "aspect": "review_frequency_months",
+  "value": 12,
+  "section": "१२.५",
+  "page": 31,
+  "evidence": "सेवा-प्रदाताओं की सूची तथा उनके पास उपलब्ध डेटा-श्रेणियों का विवरण डेटा संरक्षण समन्वयक द्वारा संधारित किया जाएगा और प्रत्येक १२ माह में पुनरीक्षित किया जाएगा।"
+ },
+ {
+  "subject": "employment_verification",
+  "aspect": "facts_disclosable_without_consent",
+  "value": 4,
+  "section": "१३.२",
+  "page": 32,
+  "evidence": "बिना कर्मचारी की विशिष्ट सहमति के, सत्यापन-अनुरोध के उत्तर में केवल चार तथ्य दिए जा सकते हैं — कर्मचारी का नाम जैसा अभिलेख में है, वर्तमान अथवा अंतिम पदनाम, सेवा-आरंभ की तिथि, तथा सेवा की वर्तमान स्थिति अर्थात कार्यरत है अथवा नहीं।"
+ },
+ {
+  "subject": "salary_verification",
+  "aspect": "consent_validity_days",
+  "value": 180,
+  "section": "१३.३",
+  "page": 32,
+  "evidence": "वेतन-सूचना केवल कर्मचारी की उस लिखित सहमति पर दी जाएगी जो उस विशिष्ट अनुरोधकर्ता के नाम से हो और जो १८० दिन से पुरानी न हो।"
+ },
+ {
+  "subject": "employment_verification",
+  "aspect": "response_working_days",
+  "value": 5,
+  "section": "१३.४",
+  "page": 32,
+  "evidence": "सत्यापन-अनुरोध का उत्तर प्राप्ति के ५ कार्यदिवस के भीतर दिया जाएगा।"
+ },
+ {
+  "subject": "verification_agency",
+  "aspect": "administrative_fee_rupees",
+  "value": 500,
+  "section": "१३.५",
+  "page": 33,
+  "evidence": "प्रत्येक पटल-पहुँच वाली एजेंसी से प्रति अनुरोध ५०० रुपये का प्रशासनिक शुल्क लिया जाएगा।"
+ },
+ {
+  "subject": "verification_requests",
+  "aspect": "anomaly_threshold_per_year",
+  "value": 4,
+  "section": "१३.६",
+  "page": 33,
+  "evidence": "यदि किसी एक कर्मचारी के विषय में १२ माह में ४ से अधिक सत्यापन-अनुरोध प्राप्त होते हैं, तो समन्वयक इसे एक संभावित असामान्यता मानकर कर्मचारी को सूचित करेंगे।"
+ },
+ {
+  "subject": "records_room_cctv",
+  "aspect": "footage_retention_days",
+  "value": 90,
+  "section": "१४.१",
+  "page": 34,
+  "evidence": "कक्ष के द्वार पर बंद-परिपथ कैमरा लगा रहेगा और उसका अभिलेखन ९० दिन तक सुरक्षित रहेगा।"
+ },
+ {
+  "subject": "fireproof_cabinet",
+  "aspect": "minimum_rating_minutes",
+  "value": 120,
+  "section": "१४.२",
+  "page": 34,
+  "evidence": "अनुबंध, नियुक्ति-पत्र एवं सांविधिक प्रपत्रों जैसे अपूरणीय मूल दस्तावेज़ों को अग्निरोधी अलमारी में रखा जाएगा, जिसकी अग्नि-प्रतिरोध क्षमता कम-से-कम १२० मिनट प्रमाणित हो।"
+ },
+ {
+  "subject": "file_checkout",
+  "aspect": "maximum_working_days_outside",
+  "value": 3,
+  "section": "१४.३",
+  "page": 35,
+  "evidence": "कोई भी संचिका अभिलेख कक्ष से बाहर लगातार ३ कार्यदिवस से अधिक नहीं रहेगी।"
+ },
+ {
+  "subject": "clean_desk_rule",
+  "aspect": "inspections_per_month",
+  "value": 2,
+  "section": "१४.४",
+  "page": 35,
+  "evidence": "मानव संसाधन विभाग में इस नियम का औचक निरीक्षण प्रत्येक माह में कम-से-कम २ बार किया जाएगा, और निरीक्षण के निष्कर्ष अभिलेख प्रबंधन समिति के समक्ष त्रैमासिक रूप से प्रस्तुत होंगे।"
+ },
+ {
+  "subject": "records_room",
+  "aspect": "maximum_humidity_percent",
+  "value": 60,
+  "section": "१४.५",
+  "page": 36,
+  "evidence": "कक्ष में आर्द्रता ६० प्रतिशत से नीचे रखी जाएगी।"
+ },
+ {
+  "subject": "pest_control",
+  "aspect": "frequency_months",
+  "value": 6,
+  "section": "१४.५",
+  "page": 36,
+  "evidence": "कीट-नियंत्रण उपचार प्रत्येक ६ माह में कराया जाएगा और उसका प्रमाण-पत्र संरक्षक के पास रहेगा।"
+ },
+ {
+  "subject": "encryption_at_rest",
+  "aspect": "aes_key_bits",
+  "value": 256,
+  "section": "१५.२",
+  "page": 36,
+  "evidence": "विश्रामावस्था में संचित समस्त कार्मिक डेटा उन्नत कूटलेखन मानक के २५६-बिट स्तर पर कूटबद्ध रहेगा।"
+ },
+ {
+  "subject": "encryption_in_transit",
+  "aspect": "tls_version",
+  "value": 1.3,
+  "section": "१५.२",
+  "page": 36,
+  "evidence": "पारगमन में समस्त संप्रेषण परिवहन-स्तरीय सुरक्षा के १.३ संस्करण अथवा उससे उच्चतर पर होगा।"
+ },
+ {
+  "subject": "encryption_keys",
+  "aspect": "rotation_months",
+  "value": 12,
+  "section": "१५.२",
+  "page": 37,
+  "evidence": "कुंजी-प्रबंधन सूचना सुरक्षा अधिकारी के अधीन रहेगा और कुंजियों का आवर्तन प्रत्येक १२ माह में किया जाएगा।"
+ },
+ {
+  "subject": "hr_system_session",
+  "aspect": "timeout_minutes",
+  "value": 15,
+  "section": "१५.३",
+  "page": 37,
+  "evidence": "निष्क्रियता की स्थिति में सत्र १५ मिनट में स्वतः समाप्त हो जाएगा।"
+ },
+ {
+  "subject": "inactive_account",
+  "aspect": "auto_deactivation_days",
+  "value": 30,
+  "section": "१५.३",
+  "page": 37,
+  "evidence": "जो खाता लगातार ३० दिन तक प्रयुक्त नहीं होता, वह स्वतः निष्क्रिय कर दिया जाएगा।"
+ },
+ {
+  "subject": "access_log_review",
+  "aspect": "anomaly_types_examined",
+  "value": 4,
+  "section": "१५.४",
+  "page": 37,
+  "evidence": "समीक्षा में चार प्रकार की असामान्यताएँ विशेष रूप से खोजी जाएँगी — कार्य-समय के बाहर की पहुँच, किसी एक उपयोगकर्ता द्वारा असामान्य रूप से अधिक अभिलेखों का दर्शन, अपने ही विभाग से बाहर के अभिलेखों तक बार-बार पहुँच, तथा बड़े परिमाण में डेटा का निर्यात।"
+ },
+ {
+  "subject": "bulk_export",
+  "aspect": "maximum_records_without_approval",
+  "value": 50,
+  "section": "१५.४",
+  "page": 38,
+  "evidence": "कोई भी उपयोगकर्ता एक बार में ५० से अधिक कार्मिक अभिलेखों का निर्यात नहीं कर सकता।"
+ },
+ {
+  "subject": "backup",
+  "aspect": "retention_days",
+  "value": 90,
+  "section": "१५.५",
+  "page": 38,
+  "evidence": "बैकअप की संरक्षण अवधि ९० दिन है।"
+ },
+ {
+  "subject": "backup_restore_test",
+  "aspect": "frequency_months",
+  "value": 6,
+  "section": "१५.५",
+  "page": 38,
+  "evidence": "बैकअप से पुनर्स्थापन का परीक्षण प्रत्येक ६ माह में किया जाएगा, और परीक्षण का प्रतिवेदन सूचना सुरक्षा अधिकारी के पास अभिलिखित रहेगा।"
+ },
+ {
+  "subject": "personnel_file_section_ka",
+  "aspect": "retention_years_after_exit",
+  "value": 8,
+  "section": "१६.२",
+  "page": 40,
+  "evidence": "| मुख्य कार्मिक अभिलेख (खंड क) | ८ वर्ष | सेवा-समाप्ति | मानव संसाधन प्रमुख |"
+ },
+ {
+  "subject": "employment_contract",
+  "aspect": "retention_years_after_exit",
+  "value": 10,
+  "section": "१६.२",
+  "page": 40,
+  "evidence": "| नियुक्ति-प्रस्ताव एवं रोजगार-अनुबंध (खंड ख) | १० वर्ष | सेवा-समाप्ति | मानव संसाधन प्रमुख |"
+ },
+ {
+  "subject": "education_certificate_copies",
+  "aspect": "retention_years_after_exit",
+  "value": 3,
+  "section": "१६.२",
+  "page": 40,
+  "evidence": "| शैक्षणिक प्रमाणपत्रों की प्रतिलिपियाँ (खंड ग) | ३ वर्ष | सेवा-समाप्ति | डेटा संरक्षण समन्वयक |"
+ },
+ {
+  "subject": "background_verification_report",
+  "aspect": "retention_years_after_exit",
+  "value": 6,
+  "section": "१६.२",
+  "page": 40,
+  "evidence": "| पृष्ठभूमि-सत्यापन प्रतिवेदन | ६ वर्ष | सेवा-समाप्ति | डेटा संरक्षण समन्वयक |"
+ },
+ {
+  "subject": "identity_proof_copies",
+  "aspect": "retention_years_after_exit",
+  "value": 2,
+  "section": "१६.२",
+  "page": 40,
+  "evidence": "| पहचान-प्रमाणों की प्रतिलिपियाँ | २ वर्ष | सेवा-समाप्ति | अभिलेख संरक्षक |"
+ },
+ {
+  "subject": "payroll_records",
+  "aspect": "retention_years_after_fiscal_year",
+  "value": 9,
+  "section": "१६.२",
+  "page": 40,
+  "evidence": "| वेतन एवं पारिश्रमिक अभिलेख (खंड घ) | ९ वर्ष | वित्तीय वर्ष का अंत | वित्त नियंत्रक |"
+ },
+ {
+  "subject": "provident_fund_records",
+  "aspect": "retention_years_after_fiscal_year",
+  "value": 12,
+  "section": "१६.२",
+  "page": 40,
+  "evidence": "| भविष्य निधि एवं सांविधिक अंशदान | १२ वर्ष | वित्तीय वर्ष का अंत | वित्त नियंत्रक |"
+ },
+ {
+  "subject": "gratuity_pension_records",
+  "aspect": "retention_years_after_payment",
+  "value": 14,
+  "section": "१६.२",
+  "page": 40,
+  "evidence": "| उपदान एवं पेंशन भुगतान के अभिलेख | १४ वर्ष | भुगतान की तिथि | वित्त नियंत्रक |"
+ },
+ {
+  "subject": "nomination_forms",
+  "aspect": "retention_years_after_exit",
+  "value": 11,
+  "section": "१६.२",
+  "page": 40,
+  "evidence": "| नामांकन एवं उत्तराधिकार प्रपत्र | ११ वर्ष | सेवा-समाप्ति | मानव संसाधन प्रमुख |"
+ },
+ {
+  "subject": "leave_attendance_records",
+  "aspect": "retention_years_after_leave_year",
+  "value": 8,
+  "section": "१६.२",
+  "page": 40,
+  "evidence": "| अवकाश एवं उपस्थिति अभिलेख (खंड ङ) | ८ वर्ष | अवकाश वर्ष का अंत | अभिलेख संरक्षक |"
+ },
+ {
+  "subject": "training_records",
+  "aspect": "retention_years_after_creation",
+  "value": 6,
+  "section": "१६.२",
+  "page": 40,
+  "evidence": "| प्रशिक्षण एवं प्रमाणन अभिलेख (खंड च) | ६ वर्ष | दस्तावेज़ का सृजन | अभिलेख संरक्षक |"
+ },
+ {
+  "subject": "occupational_health_records",
+  "aspect": "retention_years_after_exit",
+  "value": 5,
+  "section": "१६.२",
+  "page": 40,
+  "evidence": "| व्यावसायिक स्वास्थ्य-जाँच के निष्कर्ष (खंड छ) | ५ वर्ष | सेवा-समाप्ति | सूचना सुरक्षा अधिकारी |"
+ },
+ {
+  "subject": "accident_compensation_records",
+  "aspect": "retention_years_after_incident",
+  "value": 15,
+  "section": "१६.२",
+  "page": 40,
+  "evidence": "| दुर्घटना एवं क्षतिपूर्ति अभिलेख | १५ वर्ष | घटना की तिथि | विधि सलाहकार |"
+ },
+ {
+  "subject": "consent_records",
+  "aspect": "retention_years_after_withdrawal",
+  "value": 7,
+  "section": "१६.२",
+  "page": 40,
+  "evidence": "| सहमति एवं सहमति-वापसी के अभिलेख | ७ वर्ष | सहमति-वापसी | डेटा संरक्षण समन्वयक |"
+ },
+ {
+  "subject": "disclosure_register_table",
+  "aspect": "retention_years_after_entry",
+  "value": 10,
+  "section": "१६.२",
+  "page": 40,
+  "evidence": "| प्रकटीकरण-रजिस्टर | १० वर्ष | प्रविष्टि की तिथि | डेटा संरक्षण समन्वयक |"
+ },
+ {
+  "subject": "access_logs",
+  "aspect": "retention_years",
+  "value": 3,
+  "section": "१६.२",
+  "page": 40,
+  "evidence": "| पहुँच-लॉग एवं अंकेक्षण-पथ | ३ वर्ष | लॉग की तिथि | सूचना सुरक्षा अधिकारी |"
+ },
+ {
+  "subject": "destruction_certificate",
+  "aspect": "retention_years",
+  "value": 25,
+  "section": "१६.२",
+  "page": 40,
+  "evidence": "| विनष्टीकरण प्रमाणपत्र | २५ वर्ष | प्रमाणन की तिथि | मानव संसाधन प्रमुख |"
+ },
+ {
+  "subject": "overseas_deployment_records",
+  "aspect": "retention_years_after_repatriation",
+  "value": 7,
+  "section": "१६.२",
+  "page": 40,
+  "evidence": "| विदेशी नियोजन एवं वीज़ा दस्तावेज़ | ७ वर्ष | प्रत्यावर्तन | विधि सलाहकार |"
+ },
+ {
+  "subject": "legal_hold",
+  "aspect": "extra_retention_years_after_closure",
+  "value": 3,
+  "section": "१६.३",
+  "page": 41,
+  "evidence": "यदि किसी कर्मचारी से संबंधित कोई विवाद, जाँच अथवा विधिक कार्यवाही लंबित है, तो उससे संबंधित समस्त अभिलेखों की संरक्षण अवधि स्वतः निलंबित हो जाएगी और वे कार्यवाही की अंतिम समाप्ति के ३ वर्ष बाद तक रखे जाएँगे।"
+ },
+ {
+  "subject": "legal_hold",
+  "aspect": "custodian_notification_working_days",
+  "value": 3,
+  "section": "१६.३",
+  "page": 41,
+  "evidence": "विधिक निलंबन का आदेश विधि सलाहकार द्वारा लिखित रूप में दिया जाएगा और उसकी सूचना अभिलेख संरक्षक को ३ कार्यदिवस के भीतर पहुँचेगी।"
+ },
+ {
+  "subject": "destruction_list",
+  "aspect": "approval_working_days",
+  "value": 7,
+  "section": "१७.१",
+  "page": 42,
+  "evidence": "प्राधिकारी को ७ कार्यदिवस के भीतर निर्णय देना है।"
+ },
+ {
+  "subject": "destruction",
+  "aspect": "completion_working_days_after_approval",
+  "value": 20,
+  "section": "१७.१",
+  "page": 42,
+  "evidence": "अनुमोदन के पश्चात विनष्टीकरण उसी तिमाही में, अनुमोदन की तिथि से २० कार्यदिवस के भीतर पूर्ण होगा।"
+ },
+ {
+  "subject": "paper_shredding",
+  "aspect": "maximum_particle_area_sq_mm",
+  "value": 4,
+  "section": "१७.२",
+  "page": 42,
+  "evidence": "कागज़ के दस्तावेज़ प्रति-लंबकोणीय कर्तन-यंत्र से नष्ट किए जाएँगे, जिसमें कण का क्षेत्रफल ४ वर्ग मिलीमीटर से अधिक न हो।"
+ },
+ {
+  "subject": "electronic_deletion",
+  "aspect": "number_of_stages",
+  "value": 3,
+  "section": "१७.३",
+  "page": 43,
+  "evidence": "इलेक्ट्रॉनिक अभिलेखों का विलोपन तीन चरणों में होगा — मुख्य डेटाबेस से तार्किक विलोपन, उसके पश्चात भंडारण-माध्यम पर अधिलेखन, तथा अंत में बैकअप-चक्र से स्वतः निष्कासन।"
+ },
+ {
+  "subject": "electronic_deletion",
+  "aspect": "backup_purge_days",
+  "value": 90,
+  "section": "१७.३",
+  "page": 43,
+  "evidence": "तीसरा चरण पूर्ण होने में ९० दिन तक लग सकते हैं, और तब तक विलोपन को पूर्ण नहीं माना जाएगा।"
+ },
+ {
+  "subject": "destruction",
+  "aspect": "minimum_witnesses",
+  "value": 2,
+  "section": "१७.४",
+  "page": 43,
+  "evidence": "प्रत्येक विनष्टीकरण के समय कम-से-कम २ साक्षी उपस्थित रहेंगे, जिनमें से एक मानव संसाधन विभाग के बाहर का होगा।"
+ },
+ {
+  "subject": "destruction_certificate",
+  "aspect": "issue_working_days",
+  "value": 15,
+  "section": "१७.४",
+  "page": 43,
+  "evidence": "प्रमाणपत्र विनष्टीकरण के १५ कार्यदिवस के भीतर जारी होगा और उस पर अभिलेख संरक्षक, दोनों साक्षियों तथा अनुमोदक प्राधिकारी के हस्ताक्षर होंगे।"
+ },
+ {
+  "subject": "data_breach",
+  "aspect": "reporting_hours_to_security_officer",
+  "value": 2,
+  "section": "१८.२",
+  "page": 44,
+  "evidence": "जिस किसी कर्मचारी को उल्लंघन की जानकारी हो, वह जानकारी होने के २ घंटे के भीतर सूचना सुरक्षा अधिकारी को सूचित करेगा।"
+ },
+ {
+  "subject": "data_breach",
+  "aspect": "initial_assessment_hours",
+  "value": 6,
+  "section": "१८.२",
+  "page": 44,
+  "evidence": "सूचना सुरक्षा अधिकारी ६ घंटे के भीतर एक प्रारंभिक आकलन करेंगे, जिसमें चार प्रश्नों के उत्तर खोजे जाएँगे — कौन-सा डेटा प्रभावित हुआ, कितने व्यक्तियों का, क्या वह कूटबद्ध था, और क्या वह अब भी अनधिकृत पहुँच में है।"
+ },
+ {
+  "subject": "breach_response_committee",
+  "aspect": "convening_hours",
+  "value": 24,
+  "section": "१८.२",
+  "page": 44,
+  "evidence": "यदि आकलन में उल्लंघन की पुष्टि होती है, तो उल्लंघन प्रतिक्रिया समिति २४ घंटे के भीतर बैठेगी।"
+ },
+ {
+  "subject": "breach_response_committee",
+  "aspect": "number_of_members",
+  "value": 4,
+  "section": "१८.२",
+  "page": 44,
+  "evidence": "समिति में ४ सदस्य होंगे — सूचना सुरक्षा अधिकारी, मानव संसाधन प्रमुख, विधि सलाहकार तथा प्रभावित कार्यक्षेत्र का विभागाध्यक्ष।"
+ },
+ {
+  "subject": "data_breach",
+  "aspect": "affected_employee_notification_hours",
+  "value": 48,
+  "section": "१८.२",
+  "page": 45,
+  "evidence": "प्रभावित कर्मचारियों को उल्लंघन की पुष्टि से ४८ घंटे के भीतर सूचित किया जाएगा।"
+ },
+ {
+  "subject": "data_breach",
+  "aspect": "regulator_notification_hours",
+  "value": 72,
+  "section": "१८.२",
+  "page": 45,
+  "evidence": "जहाँ विधि द्वारा अपेक्षित हो, वहाँ सक्षम प्राधिकरण को सूचना उल्लंघन की पुष्टि से ७२ घंटे के भीतर भेजी जाएगी।"
+ },
+ {
+  "subject": "data_breach",
+  "aspect": "root_cause_report_working_days",
+  "value": 20,
+  "section": "१८.३",
+  "page": 45,
+  "evidence": "इसका अंतिम प्रतिवेदन घटना की सूचना से २० कार्यदिवस के भीतर प्रस्तुत होगा और उसमें घटना-क्रम, मूल कारण, तात्कालिक उपाय, दीर्घकालिक सुधार तथा उत्तरदायित्व का निर्धारण सम्मिलित होगा।"
+ },
+ {
+  "subject": "data_breach",
+  "aspect": "remediation_review_days",
+  "value": 45,
+  "section": "१८.३",
+  "page": 45,
+  "evidence": "सुधारात्मक उपायों के कार्यान्वयन की समीक्षा घटना के ४५ दिन बाद की जाएगी।"
+ },
+ {
+  "subject": "internal_audit",
+  "aspect": "frequency_months",
+  "value": 6,
+  "section": "१९.१",
+  "page": 46,
+  "evidence": "आंतरिक अंकेक्षण विभाग इस नीति के अनुपालन का अंकेक्षण प्रत्येक ६ माह में करेगा।"
+ },
+ {
+  "subject": "internal_audit",
+  "aspect": "sample_percent",
+  "value": 5,
+  "section": "१९.१",
+  "page": 46,
+  "evidence": "अंकेक्षण में कार्मिक अभिलेखों का नमूना लिया जाएगा — कुल अभिलेखों का ५ प्रतिशत अथवा ४० अभिलेख, इनमें से जो अधिक हो।"
+ },
+ {
+  "subject": "internal_audit",
+  "aspect": "checkpoints",
+  "value": 8,
+  "section": "१९.१",
+  "page": 46,
+  "evidence": "अंकेक्षण में आठ बिंदु जाँचे जाएँगे — अभिलेख-सूची पत्रक की पूर्णता; अनिवार्य दस्तावेज़ों की उपलब्धता; निषिद्ध दस्तावेज़ों की अनुपस्थिति; पहुँच-स्तरों का भूमिका से मेल; अवधि-पार दस्तावेज़ों की उपस्थिति; निर्गम-रजिस्टर की नियमितता; सहमति-रजिस्टर की पूर्णता; तथा प्रकटीकरण-रजिस्टर में आधार का अभिलेखन।"
+ },
+ {
+  "subject": "audit_report",
+  "aspect": "issue_working_days",
+  "value": 15,
+  "section": "१९.१",
+  "page": 46,
+  "evidence": "अंकेक्षण प्रतिवेदन क्षेत्र-कार्य की समाप्ति के १५ कार्यदिवस के भीतर जारी होगा।"
+ },
+ {
+  "subject": "audit_finding",
+  "aspect": "action_plan_days",
+  "value": 30,
+  "section": "१९.१",
+  "page": 46,
+  "evidence": "प्रत्येक निष्कर्ष के विरुद्ध संबंधित इकाई को ३० दिन के भीतर सुधारात्मक कार्य-योजना प्रस्तुत करनी होगी।"
+ },
+ {
+  "subject": "external_audit",
+  "aspect": "frequency_months",
+  "value": 24,
+  "section": "१९.२",
+  "page": 47,
+  "evidence": "एक स्वतंत्र बाह्य अंकेक्षक द्वारा गोपनीयता-अनुपालन का विस्तृत अंकेक्षण प्रत्येक २४ माह में कराया जाएगा।"
+ },
+ {
+  "subject": "surprise_inspection",
+  "aspect": "minimum_per_year",
+  "value": 3,
+  "section": "१९.३",
+  "page": 47,
+  "evidence": "निर्धारित अंकेक्षणों के अतिरिक्त डेटा संरक्षण समन्वयक प्रत्येक वर्ष कम-से-कम ३ औचक निरीक्षण करेंगे, जिनकी पूर्व-सूचना संबंधित कार्यालय को नहीं दी जाएगी।"
+ },
+ {
+  "subject": "critical_audit_finding",
+  "aspect": "resolution_working_days",
+  "value": 10,
+  "section": "१९.४",
+  "page": 47,
+  "evidence": "*गंभीर* वे हैं जिनमें डेटा की हानि अथवा अनधिकृत प्रकटीकरण हुआ हो अथवा हो सकता था; इनका समाधान १० कार्यदिवस में अपेक्षित है।"
+ },
+ {
+  "subject": "significant_audit_finding",
+  "aspect": "resolution_working_days",
+  "value": 30,
+  "section": "१९.४",
+  "page": 47,
+  "evidence": "*महत्वपूर्ण* वे हैं जिनमें नियंत्रण अस्तित्व में तो है किंतु प्रभावी नहीं; इनका समाधान ३० कार्यदिवस में। *सामान्य* वे हैं जो अभिलेखन अथवा प्रक्रिया की शुद्धता से संबंधित हैं; इनका समाधान ६० कार्यदिवस में।"
+ },
+ {
+  "subject": "general_audit_finding",
+  "aspect": "resolution_working_days",
+  "value": 60,
+  "section": "१९.४",
+  "page": 47,
+  "evidence": "*सामान्य* वे हैं जो अभिलेखन अथवा प्रक्रिया की शुद्धता से संबंधित हैं; इनका समाधान ६० कार्यदिवस में। किसी भी कोटि का निष्कर्ष तब तक बंद नहीं माना जाएगा जब तक आंतरिक अंकेक्षण विभाग उसके समाधान का सत्यापन न कर ले।"
+ },
+ {
+  "subject": "policy_violation",
+  "aspect": "number_of_categories",
+  "value": 4,
+  "section": "२०.१",
+  "page": 47,
+  "evidence": "इस नीति के उल्लंघनों को उनकी गंभीरता के अनुसार चार श्रेणियों में रखा गया है।"
+ },
+ {
+  "subject": "records_management_committee",
+  "aspect": "number_of_members",
+  "value": 5,
+  "section": "२१.१",
+  "page": 49,
+  "evidence": "समिति में ५ सदस्य होंगे — मानव संसाधन प्रमुख (अध्यक्ष), सूचना सुरक्षा अधिकारी, विधि सलाहकार, आंतरिक अंकेक्षण प्रमुख तथा एक ऐसा विभागाध्यक्ष जो आवर्तन-क्रम से मनोनीत होगा।"
+ },
+ {
+  "subject": "records_management_committee",
+  "aspect": "rotating_member_term_months",
+  "value": 18,
+  "section": "२१.१",
+  "page": 49,
+  "evidence": "मनोनीत सदस्य का कार्यकाल १८ माह का होगा।"
+ },
+ {
+  "subject": "records_management_committee",
+  "aspect": "quorum_members",
+  "value": 3,
+  "section": "२१.१",
+  "page": 49,
+  "evidence": "समिति की बैठक प्रत्येक तिमाही में होगी, और गणपूर्ति के लिए ३ सदस्यों की उपस्थिति आवश्यक है।"
+ },
+ {
+  "subject": "records_management_committee",
+  "aspect": "standing_agenda_items",
+  "value": 4,
+  "section": "२१.१",
+  "page": 49,
+  "evidence": "समिति के समक्ष चार स्थायी विषय रहेंगे — अंकेक्षण-निष्कर्षों की स्थिति, उल्लंघन-रजिस्टर की विवरणी, स्तर ५ के पहुँच-लॉग, तथा लंबित पहुँच एवं सुधार अनुरोध।"
+ },
+ {
+  "subject": "employee",
+  "aspect": "detail_update_notification_working_days",
+  "value": 10,
+  "section": "२१.७",
+  "page": 50,
+  "evidence": "अपना विवरण अद्यतन रखता है; परिवर्तन की सूचना १० कार्यदिवस के भीतर देता है; जिस सूचना तक उसकी पहुँच है उसका दुरुपयोग नहीं करता; तथा किसी भी संदिग्ध घटना की सूचना देता है।"
+ },
+ {
+  "subject": "induction_training",
+  "aspect": "deadline_days_after_joining",
+  "value": 30,
+  "section": "२१.८",
+  "page": 50,
+  "evidence": "प्रत्येक नए कर्मचारी को योगदान के ३० दिन के भीतर इस नीति का परिचयात्मक प्रशिक्षण दिया जाएगा।"
+ },
+ {
+  "subject": "refresher_training",
+  "aspect": "annual_hours",
+  "value": 2,
+  "section": "२१.८",
+  "page": 50,
+  "evidence": "समस्त कर्मचारियों के लिए वार्षिक पुनश्चर्या सत्र २ घंटे का होगा।"
+ },
+ {
+  "subject": "advanced_training",
+  "aspect": "annual_hours_for_level_four_and_five",
+  "value": 4,
+  "section": "२१.८",
+  "page": 50,
+  "evidence": "स्तर ४ एवं स्तर ५ के पहुँच-धारकों के लिए विस्तृत वार्षिक प्रशिक्षण ४ घंटे का होगा, जिसमें उल्लंघन-प्रतिक्रिया का अभ्यास भी सम्मिलित रहेगा।"
+ },
+ {
+  "subject": "training_default",
+  "aspect": "access_suspension_days",
+  "value": 21,
+  "section": "२१.८",
+  "page": 50,
+  "evidence": "प्रशिक्षण में अनुपस्थित रहने वाले पहुँच-धारक की पहुँच निर्धारित तिथि के २१ दिन बाद तक प्रशिक्षण पूर्ण न होने पर निलंबित कर दी जाएगी।"
+ },
+ {
+  "subject": "policy_amendment",
+  "aspect": "advance_notice_working_days",
+  "value": 10,
+  "section": "२४.३",
+  "page": 56,
+  "evidence": "किसी संशोधन की सूचना समस्त कर्मचारियों को उसके प्रभावी होने से कम-से-कम १० कार्यदिवस पूर्व दी जाएगी, सिवाय अंतरिम संशोधन के, जिसकी सूचना उसी दिन दी जाएगी।"
+ },
+ {
+  "subject": "scenario_record_dispute",
+  "aspect": "decision_working_day",
+  "value": 11,
+  "section": "२२.१",
+  "page": 51,
+  "evidence": "समन्वयक ने अनुरोध प्राप्ति के ११वें कार्यदिवस पर निर्णय दिया कि प्रभावी तिथि १ मई २०२३ की जाएगी।"
+ },
+ {
+  "subject": "scenario_bank_verification",
+  "aspect": "four_facts_response_working_day",
+  "value": 4,
+  "section": "२२.२",
+  "page": 52,
+  "evidence": "नियुक्ति की पुष्टि, पदनाम, सेवा-आरंभ की तिथि तथा सेवा की वर्तमान स्थिति — ये चार तथ्य बिना सहमति के, शीर्ष-पत्र पर, अनुरोध प्राप्ति के चौथे कार्यदिवस पर भेज दिए गए।"
+ },
+ {
+  "subject": "scenario_laptop_loss",
+  "aspect": "affected_employees",
+  "value": 312,
+  "section": "२२.३",
+  "page": 53,
+  "evidence": "उन्हें स्मरण था कि दो दिन पूर्व उन्होंने एक सांविधिक विवरणी तैयार करने के लिए ३१२ कर्मचारियों का वेतन एवं भविष्य निधि विवरण एक स्थानीय गणकपत्रक में निकाला था।"
+ },
+ {
+  "subject": "scenario_laptop_loss",
+  "aspect": "reporting_delay_minutes",
+  "value": 90,
+  "section": "२२.३",
+  "page": 53,
+  "evidence": "देवराज ने चोरी की जानकारी होने के लगभग ९० मिनट के भीतर सूचना सुरक्षा अधिकारी को दूरभाष से सूचित किया।"
+ }
+]

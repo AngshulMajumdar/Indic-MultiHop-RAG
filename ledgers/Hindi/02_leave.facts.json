@@ -1,0 +1,978 @@
+[
+ {
+  "subject": "leave_year",
+  "aspect": "start_date",
+  "value": "१ अप्रैल",
+  "section": "३.१",
+  "page": 7,
+  "evidence": "प्रतिष्ठान का अवकाश वर्ष प्रत्येक वर्ष १ अप्रैल से आरंभ होकर आगामी वर्ष के ३१ मार्च को समाप्त होता है।"
+ },
+ {
+  "subject": "leave_account",
+  "aspect": "opening_deadline_working_days",
+  "value": 3,
+  "section": "३.२",
+  "page": 8,
+  "evidence": "प्रत्येक कर्मचारी के लिए सेवा आरंभ होने के ३ कार्यदिवसों के भीतर अवकाश प्रबंधन प्रणाली में एक अवकाश खाता खोला जाता है।"
+ },
+ {
+  "subject": "mid_year_joiner",
+  "aspect": "full_month_cutoff_date",
+  "value": 15,
+  "section": "३.३",
+  "page": 8,
+  "evidence": "इस अनुपात की गणना के लिए एक सरल नियम प्रयुक्त होता है: यदि सेवा का आरंभ किसी मास की १५ तारीख को अथवा उससे पूर्व हुआ है तो वह मास पूर्ण मास गिना जाएगा; यदि १५ तारीख के पश्चात् हुआ है तो वह मास गणना से बाहर रहेगा।"
+ },
+ {
+  "subject": "casual_leave",
+  "aspect": "minimum_unit_days",
+  "value": 0.5,
+  "section": "४.२",
+  "page": 10,
+  "evidence": "आकस्मिक अवकाश की न्यूनतम इकाई आधा दिवस है।"
+ },
+ {
+  "subject": "earned_leave",
+  "aspect": "minimum_unit_days",
+  "value": 1,
+  "section": "४.२",
+  "page": 10,
+  "evidence": "अर्जित अवकाश की न्यूनतम इकाई एक पूर्ण दिवस है।"
+ },
+ {
+  "subject": "casual_leave",
+  "aspect": "entitlement_days_per_year",
+  "value": 12,
+  "section": "५.१",
+  "page": 11,
+  "evidence": "प्रत्येक पूर्ण अवकाश वर्ष के लिए कर्मचारी की आकस्मिक अवकाश पात्रता १२ दिवस है।"
+ },
+ {
+  "subject": "casual_leave",
+  "aspect": "quarterly_credit_days",
+  "value": 3,
+  "section": "५.२",
+  "page": 12,
+  "evidence": "अर्थात् १ अप्रैल, १ जुलाई, १ अक्टूबर तथा १ जनवरी को — खाते में ३ दिवस जमा किए जाते हैं।"
+ },
+ {
+  "subject": "casual_leave",
+  "aspect": "pro_rata_accrual_days_per_month",
+  "value": 1,
+  "section": "५.३",
+  "page": 12,
+  "evidence": "जो कर्मचारी वर्ष के मध्य में आते हैं, उनके खाते में सेवा-आरंभ के समय शेषावधि के प्रत्येक पूर्ण मास के लिए १ दिवस की दर से आकस्मिक अवकाश एकमुश्त जमा किया जाता है, और उसके पश्चात् वे सामान्य त्रैमासिक चक्र में सम्मिलित हो जाते हैं।"
+ },
+ {
+  "subject": "casual_leave",
+  "aspect": "max_consecutive_days",
+  "value": 3,
+  "section": "५.४",
+  "page": 12,
+  "evidence": "एक आवेदन में अधिकतम ३ दिवस का ही आकस्मिक अवकाश माँगा जा सकता है।"
+ },
+ {
+  "subject": "casual_leave",
+  "aspect": "holiday_combination_max_per_year",
+  "value": 6,
+  "section": "५.५",
+  "page": 13,
+  "evidence": "आकस्मिक अवकाश को साप्ताहिक अवकाश अथवा सार्वजनिक अवकाश के साथ जोड़ा जा सकता है, किंतु ऐसा संयोजन एक अवकाश वर्ष में अधिकतम ६ बार अनुमत है।"
+ },
+ {
+  "subject": "casual_leave",
+  "aspect": "unused_transfer_to_earned_leave_max_days",
+  "value": 4,
+  "section": "५.६",
+  "page": 14,
+  "evidence": "जिस कर्मचारी ने पूरे अवकाश वर्ष में ४ अथवा उससे कम आकस्मिक अवकाश का उपभोग किया हो, उसके अप्रयुक्त शेष में से अधिकतम ४ दिवस उसके अर्जित अवकाश खाते में अंतरित कर दिए जाते हैं।"
+ },
+ {
+  "subject": "casual_leave",
+  "aspect": "transfer_completion_date",
+  "value": "१० अप्रैल",
+  "section": "५.६",
+  "page": 14,
+  "evidence": "यह अंतरण १० अप्रैल तक स्वतः संपन्न होता है और उसके लिए किसी आवेदन की आवश्यकता नहीं।"
+ },
+ {
+  "subject": "earned_leave",
+  "aspect": "accrual_days_per_month",
+  "value": 1.75,
+  "section": "६.१",
+  "page": 15,
+  "evidence": "अर्जित अवकाश की उपार्जन दर पूर्ण सेवा के प्रत्येक मास के लिए १.७५ दिवस है।"
+ },
+ {
+  "subject": "earned_leave",
+  "aspect": "accrual_days_per_year",
+  "value": 21,
+  "section": "६.१",
+  "page": 15,
+  "evidence": "इस दर से एक पूर्ण अवकाश वर्ष में कुल २१ दिवस का उपार्जन होता है।"
+ },
+ {
+  "subject": "earned_leave",
+  "aspect": "min_paid_days_for_monthly_accrual",
+  "value": 15,
+  "section": "६.२",
+  "page": 15,
+  "evidence": "किसी मास को उपार्जन के लिए पूर्ण मास तभी माना जाता है जब उस मास में कर्मचारी कम-से-कम १५ दिवस वेतन-सहित सेवा में रहा हो।"
+ },
+ {
+  "subject": "earned_leave",
+  "aspect": "waiting_period_months",
+  "value": 6,
+  "section": "६.३",
+  "page": 16,
+  "evidence": "अर्जित अवकाश का उपार्जन सेवा के प्रथम मास से ही आरंभ हो जाता है, किंतु उसका उपभोग निरंतर ६ मास की सेवा पूर्ण होने के पश्चात् ही संभव है।"
+ },
+ {
+  "subject": "earned_leave",
+  "aspect": "waiting_period_exception_max_days",
+  "value": 5,
+  "section": "६.४",
+  "page": 16,
+  "evidence": "प्रतीक्षा अवधि पूर्ण होने से पूर्व भी, अनिवार्य एवं अपरिहार्य परिस्थिति में, मानव संसाधन प्रमुख की लिखित अनुमति से अधिकतम ५ दिवस का अर्जित अवकाश स्वीकृत किया जा सकता है, बशर्ते उतना शेष उपार्जित हो चुका हो।"
+ },
+ {
+  "subject": "earned_leave",
+  "aspect": "max_consecutive_working_days",
+  "value": 15,
+  "section": "७.१",
+  "page": 17,
+  "evidence": "सामान्य परिस्थिति में एक खंड में अधिकतम १५ कार्यदिवस का अर्जित अवकाश लिया जा सकता है।"
+ },
+ {
+  "subject": "earned_leave",
+  "aspect": "max_consecutive_days_with_hr_approval",
+  "value": 20,
+  "section": "७.१",
+  "page": 17,
+  "evidence": "इससे अधिक किंतु २० कार्यदिवस तक का खंड तभी स्वीकृत होगा जब उस पर विभागाध्यक्ष के अतिरिक्त मानव संसाधन प्रमुख की भी सहमति प्राप्त हो।"
+ },
+ {
+  "subject": "earned_leave",
+  "aspect": "max_blocks_per_year",
+  "value": 8,
+  "section": "७.२",
+  "page": 17,
+  "evidence": "एक अवकाश वर्ष में कर्मचारी अधिकतम ८ पृथक् खंडों में अर्जित अवकाश ले सकता है।"
+ },
+ {
+  "subject": "earned_leave",
+  "aspect": "notice_working_days_upto_three_days",
+  "value": 5,
+  "section": "७.३",
+  "page": 18,
+  "evidence": "१ से ३ दिवस तक के खंड के लिए आवेदन अवकाश के प्रथम दिवस से कम-से-कम ५ कार्यदिवस पूर्व प्रस्तुत होना चाहिए।"
+ },
+ {
+  "subject": "earned_leave",
+  "aspect": "notice_working_days_four_to_ten_days",
+  "value": 10,
+  "section": "७.३",
+  "page": 18,
+  "evidence": "४ से १० दिवस तक के खंड के लिए यह अवधि १० कार्यदिवस है।"
+ },
+ {
+  "subject": "earned_leave",
+  "aspect": "notice_working_days_eleven_days_or_more",
+  "value": 20,
+  "section": "७.३",
+  "page": 18,
+  "evidence": "११ दिवस अथवा उससे अधिक के खंड के लिए यह अवधि २० कार्यदिवस है।"
+ },
+ {
+  "subject": "earned_leave",
+  "aspect": "date_change_notice_working_days",
+  "value": 2,
+  "section": "७.५",
+  "page": 19,
+  "evidence": "तिथि-परिवर्तन का आवेदन मूल अवकाश के आरंभ से कम-से-कम २ कार्यदिवस पूर्व प्रस्तुत होना चाहिए और उस पर वही प्राधिकारी निर्णय लेगा जिसने मूल स्वीकृति दी थी।"
+ },
+ {
+  "subject": "earned_leave",
+  "aspect": "date_change_max_times",
+  "value": 2,
+  "section": "७.५",
+  "page": 19,
+  "evidence": "एक ही अवकाश खंड की तिथियाँ अधिकतम २ बार परिवर्तित की जा सकती हैं।"
+ },
+ {
+  "subject": "advance_earned_leave",
+  "aspect": "min_service_months",
+  "value": 12,
+  "section": "७.६",
+  "page": 20,
+  "evidence": "कर्मचारी की निरंतर सेवा कम-से-कम १२ मास की हो चुकी हो।"
+ },
+ {
+  "subject": "advance_earned_leave",
+  "aspect": "max_days",
+  "value": 5,
+  "section": "७.६",
+  "page": 20,
+  "evidence": "अग्रिम की मात्रा ५ दिवस से अधिक न हो।"
+ },
+ {
+  "subject": "leave_plan",
+  "aspect": "annual_declaration_deadline",
+  "value": "३० अप्रैल",
+  "section": "७.७",
+  "page": 20,
+  "evidence": "प्रत्येक कर्मचारी से यह अपेक्षा की जाती है कि वह अवकाश वर्ष के आरंभ में, ३० अप्रैल तक, अपने उस अवकाश की अनुमानित तिथियाँ दल के साझा कैलेंडर में अंकित करे जो उसने वर्ष भर के लिए मन में सोच रखा है।"
+ },
+ {
+  "subject": "leave_application",
+  "aspect": "handover_note_threshold_days",
+  "value": 3,
+  "section": "८.४",
+  "page": 23,
+  "evidence": "३ दिवस से अधिक के प्रत्येक अवकाश के लिए कार्य-हस्तांतरण टिप्पण अनिवार्य है।"
+ },
+ {
+  "subject": "leave_application",
+  "aspect": "handover_note_submission_working_days",
+  "value": 1,
+  "section": "८.४",
+  "page": 23,
+  "evidence": "यह टिप्पण अवकाश के आरंभ से कम-से-कम १ कार्यदिवस पूर्व प्रणाली में संलग्न होना चाहिए।"
+ },
+ {
+  "subject": "delegate",
+  "aspect": "consent_response_working_days",
+  "value": 1,
+  "section": "८.३",
+  "page": 22,
+  "evidence": "प्रत्यायोजी को सहमति देने या अस्वीकार करने के लिए १ कार्यदिवस का समय मिलता है।"
+ },
+ {
+  "subject": "leave_application",
+  "aspect": "max_advance_submission_days",
+  "value": 180,
+  "section": "८.५",
+  "page": 24,
+  "evidence": "कोई भी आवेदन अवकाश के आरंभ से १८० दिवस से अधिक पूर्व प्रस्तुत नहीं किया जा सकता।"
+ },
+ {
+  "subject": "approval",
+  "aspect": "sla_casual_leave_working_days",
+  "value": 2,
+  "section": "१०.१",
+  "page": 26,
+  "evidence": "आकस्मिक अवकाश के प्रत्येक आवेदन पर २ कार्यदिवस के भीतर।"
+ },
+ {
+  "subject": "approval",
+  "aspect": "sla_earned_leave_upto_ten_days_working_days",
+  "value": 3,
+  "section": "१०.१",
+  "page": 26,
+  "evidence": "१० दिवस अथवा उससे कम के अर्जित अवकाश पर ३ कार्यदिवस के भीतर।"
+ },
+ {
+  "subject": "approval",
+  "aspect": "sla_earned_leave_above_ten_days_working_days",
+  "value": 5,
+  "section": "१०.१",
+  "page": 26,
+  "evidence": "१० दिवस से अधिक के अर्जित अवकाश पर ५ कार्यदिवस के भीतर।"
+ },
+ {
+  "subject": "approval",
+  "aspect": "sla_dual_approval_working_days",
+  "value": 7,
+  "section": "१०.१",
+  "page": 26,
+  "evidence": "जहाँ दो प्राधिकारियों की सहमति आवश्यक है, वहाँ दोनों स्वीकृतियों के लिए कुल ७ कार्यदिवस की सीमा है, जिसमें प्रथम प्राधिकारी के पास अधिकतम ३ कार्यदिवस रहेंगे।"
+ },
+ {
+  "subject": "approval",
+  "aspect": "substitute_auto_transfer_working_days",
+  "value": 2,
+  "section": "९.२",
+  "page": 25,
+  "evidence": "प्राधिकारी अपने अवकाश पर जाने से पूर्व प्रणाली में इस प्रतिस्थापन को अंकित करेगा; ऐसा न करने पर प्रणाली २ कार्यदिवस के पश्चात् लंबित आवेदनों को स्वतः वरिष्ठ के समक्ष अंतरित कर देगी।"
+ },
+ {
+  "subject": "approval",
+  "aspect": "escalation_working_days_after_reminder",
+  "value": 2,
+  "section": "१०.२",
+  "page": 26,
+  "evidence": "स्मारक के पश्चात् २ कार्यदिवस और बीत जाने पर आवेदन स्वतः अगले उच्चतर स्तर के समक्ष अंतरित हो जाता है, और मूल प्राधिकारी को उसकी सूचना दी जाती है।"
+ },
+ {
+  "subject": "approval",
+  "aspect": "higher_level_decision_working_days",
+  "value": 3,
+  "section": "१०.२",
+  "page": 27,
+  "evidence": "उच्चतर स्तर को उस आवेदन पर ३ कार्यदिवस के भीतर निर्णय देना होगा।"
+ },
+ {
+  "subject": "approval",
+  "aspect": "urgent_decision_working_days_before_start",
+  "value": 1,
+  "section": "१०.३",
+  "page": 27,
+  "evidence": "यदि अवकाश की आरंभ तिथि निर्धारित समय-सीमा से पहले ही आ रही हो, तो प्राधिकारी को अवकाश के आरंभ से १ कार्यदिवस पूर्व तक निर्णय देना होगा, भले ही सामान्य सेवा-मानक की अवधि तब तक पूरी न हुई हो।"
+ },
+ {
+  "subject": "approval",
+  "aspect": "quarterly_compliance_threshold_percent",
+  "value": 85,
+  "section": "१०.४",
+  "page": 27,
+  "evidence": "जिस प्राधिकारी का अनुपालन किसी तिमाही में ८५ प्रतिशत से नीचे रहेगा, उसे लिखित रूप में सूचित किया जाएगा, और लगातार दो तिमाहियों तक ऐसा रहने पर विषय उसके वरिष्ठ के वार्षिक मूल्यांकन-विचार में सम्मिलित होगा।"
+ },
+ {
+  "subject": "team_absence",
+  "aspect": "simultaneous_limit_percent",
+  "value": 30,
+  "section": "११.३",
+  "page": 29,
+  "evidence": "किसी भी दल के कुल सदस्यों में से एक समय पर अधिकतम ३० प्रतिशत सदस्य अवकाश पर रह सकते हैं।"
+ },
+ {
+  "subject": "team_absence",
+  "aspect": "small_team_simultaneous_limit_count",
+  "value": 1,
+  "section": "११.३",
+  "page": 29,
+  "evidence": "पाँच या उससे कम सदस्यों वाले दल में यह सीमा एक समय पर १ सदस्य है।"
+ },
+ {
+  "subject": "rejection",
+  "aspect": "review_threshold_percent",
+  "value": 20,
+  "section": "११.४",
+  "page": 30,
+  "evidence": "किसी भी स्वीकृति प्राधिकारी द्वारा एक अवकाश वर्ष में अस्वीकृत आवेदनों का अनुपात यदि २० प्रतिशत से अधिक हो, तो मानव संसाधन विभाग उन अस्वीकृतियों की समीक्षा करेगा और यह देखेगा कि दिए गए कारण वास्तव में सूचीबद्ध आधारों के अनुरूप थे या नहीं।"
+ },
+ {
+  "subject": "rejection",
+  "aspect": "authority_suspension_months",
+  "value": 3,
+  "section": "११.४",
+  "page": 30,
+  "evidence": "यदि समीक्षा में यह पाया जाए कि अस्वीकृतियाँ अवैध आधारों पर दी गई थीं, तो संबंधित प्राधिकारी का स्वीकृति-अधिकार ३ मास के लिए निलंबित किया जा सकता है और उस अवधि में उसके दल के आवेदन एक स्तर ऊपर निर्णीत होंगे।"
+ },
+ {
+  "subject": "rejection",
+  "aspect": "reconsideration_request_working_days",
+  "value": 3,
+  "section": "११.५",
+  "page": 30,
+  "evidence": "अस्वीकृत कर्मचारी अस्वीकृति की सूचना मिलने के ३ कार्यदिवस के भीतर पुनर्विचार का अनुरोध कर सकता है।"
+ },
+ {
+  "subject": "rejection",
+  "aspect": "reconsideration_response_working_days",
+  "value": 2,
+  "section": "११.५",
+  "page": 30,
+  "evidence": "यह अनुरोध उसी प्राधिकारी के समक्ष जाता है, जिसे २ कार्यदिवस में उत्तर देना होता है।"
+ },
+ {
+  "subject": "emergency_leave",
+  "aspect": "notification_hours",
+  "value": 4,
+  "section": "१२.२",
+  "page": 31,
+  "evidence": "कर्मचारी को अपने निर्धारित कार्यारंभ समय के ४ घंटे के भीतर अपने तात्कालिक पर्यवेक्षक को दूरभाष अथवा संदेश द्वारा सूचित करना अनिवार्य है।"
+ },
+ {
+  "subject": "emergency_leave",
+  "aspect": "regularisation_working_days",
+  "value": 2,
+  "section": "१२.३",
+  "page": 31,
+  "evidence": "कर्मचारी को कार्य पर लौटने के २ कार्यदिवसों के भीतर पूर्वप्रभावी आवेदन प्रस्तुत करना होगा, जिसमें कारण का संक्षिप्त उल्लेख अनिवार्य है।"
+ },
+ {
+  "subject": "emergency_leave",
+  "aspect": "max_instances_per_year",
+  "value": 4,
+  "section": "१२.४",
+  "page": 31,
+  "evidence": "एक अवकाश वर्ष में पूर्वानुमति-रहित अवकाश के अधिकतम ४ अवसर स्वीकार्य हैं।"
+ },
+ {
+  "subject": "emergency_leave",
+  "aspect": "recontact_after_days",
+  "value": 3,
+  "section": "१२.५",
+  "page": 32,
+  "evidence": "पूर्वानुमति के बिना ली गई अनुपस्थिति यदि ३ दिवस से अधिक चलती है, तो चौथे दिवस से कर्मचारी को अपने पर्यवेक्षक से पुनः संपर्क करके स्थिति बतानी होगी।"
+ },
+ {
+  "subject": "unreported_absence",
+  "aspect": "written_notice_after_working_days",
+  "value": 5,
+  "section": "१२.५",
+  "page": 32,
+  "evidence": "यदि कर्मचारी लगातार ५ कार्यदिवस तक बिना किसी सूचना के अनुपस्थित रहता है, तो मानव संसाधन विभाग उसके पंजीकृत पते पर लिखित सूचना भेजेगा।"
+ },
+ {
+  "subject": "carry_forward",
+  "aspect": "max_days",
+  "value": 45,
+  "section": "१३.२",
+  "page": 33,
+  "evidence": "एक अवकाश वर्ष से अगले अवकाश वर्ष में अधिकतम ४५ दिवस का अर्जित अवकाश अग्रनीत किया जा सकता है।"
+ },
+ {
+  "subject": "carry_forward",
+  "aspect": "forecast_notice_date",
+  "value": "१५ जनवरी",
+  "section": "१३.३",
+  "page": 33,
+  "evidence": "प्रत्येक वर्ष १५ जनवरी को प्रणाली प्रत्येक कर्मचारी को एक पूर्वानुमान-सूचना भेजती है, जिसमें यह दर्शाया जाता है कि यदि वह शेष तीन मासों में कोई अवकाश न ले, तो ३१ मार्च को उसका शेष कितना होगा और उसमें से कितना अग्रनयन-सीमा से अधिक होकर समाप्त हो जाएगा।"
+ },
+ {
+  "subject": "lapse",
+  "aspect": "statement_date",
+  "value": "१५ अप्रैल",
+  "section": "१४.२",
+  "page": 35,
+  "evidence": "प्रत्येक वर्ष १५ अप्रैल तक प्रत्येक कर्मचारी को एक समापन-विवरण भेजा जाता है, जिसमें प्रारंभिक शेष, वर्ष भर का उपार्जन, उपभोग, नकदीकरण, अग्रनीत मात्रा और समाप्त मात्रा अलग-अलग पंक्तियों में दर्शाई जाती है।"
+ },
+ {
+  "subject": "lapse",
+  "aspect": "objection_window_days",
+  "value": 30,
+  "section": "१४.३",
+  "page": 36,
+  "evidence": "कर्मचारी समापन-विवरण प्राप्त होने के ३० दिवसों के भीतर उस पर आपत्ति प्रस्तुत कर सकता है।"
+ },
+ {
+  "subject": "lapse",
+  "aspect": "objection_resolution_working_days",
+  "value": 10,
+  "section": "१४.३",
+  "page": 36,
+  "evidence": "मानव संसाधन विभाग आपत्ति का निपटारा १० कार्यदिवसों में करेगा।"
+ },
+ {
+  "subject": "lapse",
+  "aspect": "protected_balance_max_days",
+  "value": 7,
+  "section": "१४.४",
+  "page": 36,
+  "evidence": "यदि किसी कर्मचारी ने जनवरी-मार्च तिमाही में अवकाश का आवेदन किया था और वह आवेदन अपरिहार्य कार्य-आवश्यकता के आधार पर अस्वीकृत हुआ था, तो उतनी मात्रा — अधिकतम ७ दिवस तक — समापन से मुक्त रहेगी और अग्रनयन-सीमा के अतिरिक्त अग्रनीत होगी।"
+ },
+ {
+  "subject": "lapse",
+  "aspect": "protected_balance_use_within_months",
+  "value": 6,
+  "section": "१४.४",
+  "page": 36,
+  "evidence": "ऐसी संरक्षित मात्रा का उपभोग अगले अवकाश वर्ष के प्रथम ६ मासों के भीतर करना अनिवार्य है; उसके पश्चात् वह बिना किसी अपवाद के समाप्त हो जाएगी।"
+ },
+ {
+  "subject": "encashment",
+  "aspect": "min_service_years",
+  "value": 3,
+  "section": "१५.१",
+  "page": 37,
+  "evidence": "सेवाकाल के दौरान अर्जित अवकाश का नकदीकरण उन्हीं कर्मचारियों के लिए उपलब्ध है जिनकी निरंतर सेवा ३ वर्ष पूर्ण हो चुकी है।"
+ },
+ {
+  "subject": "encashment",
+  "aspect": "frequency_per_year",
+  "value": 1,
+  "section": "१५.२",
+  "page": 37,
+  "evidence": "एक अवकाश वर्ष में नकदीकरण का केवल १ अवसर उपलब्ध है।"
+ },
+ {
+  "subject": "encashment",
+  "aspect": "max_days_per_instance",
+  "value": 10,
+  "section": "१५.२",
+  "page": 37,
+  "evidence": "एक अवसर पर अधिकतम १० दिवस का नकदीकरण किया जा सकता है।"
+ },
+ {
+  "subject": "encashment",
+  "aspect": "min_residual_balance_days",
+  "value": 20,
+  "section": "१५.२",
+  "page": 37,
+  "evidence": "नकदीकरण के पश्चात् कर्मचारी के खाते में कम-से-कम २० दिवस का शेष बचा रहना चाहिए।"
+ },
+ {
+  "subject": "encashment",
+  "aspect": "application_window",
+  "value": "१ जनवरी से ३१ जनवरी",
+  "section": "१५.३",
+  "page": 38,
+  "evidence": "नकदीकरण का आवेदन प्रत्येक वर्ष १ जनवरी से ३१ जनवरी के बीच ही प्रस्तुत किया जा सकता है।"
+ },
+ {
+  "subject": "encashment",
+  "aspect": "formula_divisor",
+  "value": 30,
+  "section": "१५.४",
+  "page": 38,
+  "evidence": "नकदीकरण राशि = (मूल वेतन + महँगाई भत्ता) ÷ ३० × नकदीकृत दिवसों की संख्या सूत्र में मूल वेतन एवं महँगाई भत्ता वे लिए जाते हैं जो आवेदन की तिथि को प्रभावी थे।"
+ },
+ {
+  "subject": "encashment",
+  "aspect": "approval_sla_working_days",
+  "value": 10,
+  "section": "१५.५",
+  "page": 39,
+  "evidence": "दोनों स्वीकृतियों के लिए कुल १० कार्यदिवसों की सीमा है।"
+ },
+ {
+  "subject": "recall",
+  "aspect": "max_times_per_year",
+  "value": 2,
+  "section": "१६.३",
+  "page": 41,
+  "evidence": "एक अवकाश वर्ष में किसी एक कर्मचारी को अधिकतम २ बार अवकाश से वापस बुलाया जा सकता है।"
+ },
+ {
+  "subject": "recall",
+  "aspect": "travel_reimbursement_cap_rupees",
+  "value": 8000,
+  "section": "१६.४",
+  "page": 41,
+  "evidence": "यदि वह कार्यस्थल के नगर से बाहर था, तो वापसी यात्रा का वास्तविक व्यय अधिकतम ₹८,००० तक प्रतिदेय होगा, और यदि उसके परिवार के सदस्य उसके साथ यात्रा पर थे तो उनकी वापसी का व्यय भी उसी सीमा के भीतर गिना जाएगा।"
+ },
+ {
+  "subject": "recall",
+  "aspect": "short_notice_hours",
+  "value": 24,
+  "section": "१६.४",
+  "page": 41,
+  "evidence": "यदि वापस बुलाने की सूचना कार्य पर उपस्थित होने की अपेक्षित तिथि से २४ घंटे से कम पूर्व दी गई हो, तो कर्मचारी को २ प्रतिकर दिवस दिए जाएँगे, जो उसके अर्जित अवकाश खाते में जुड़ते हैं और अग्रनयन-सीमा की गणना से बाहर रहते हैं।"
+ },
+ {
+  "subject": "recall",
+  "aspect": "compensatory_days_for_short_notice",
+  "value": 2,
+  "section": "१६.४",
+  "page": 41,
+  "evidence": "यदि वापस बुलाने की सूचना कार्य पर उपस्थित होने की अपेक्षित तिथि से २४ घंटे से कम पूर्व दी गई हो, तो कर्मचारी को २ प्रतिकर दिवस दिए जाएँगे, जो उसके अर्जित अवकाश खाते में जुड़ते हैं और अग्रनयन-सीमा की गणना से बाहर रहते हैं।"
+ },
+ {
+  "subject": "recall",
+  "aspect": "claim_submission_working_days",
+  "value": 10,
+  "section": "१६.४",
+  "page": 42,
+  "evidence": "व्यय का दावा कार्य पर लौटने के १० कार्यदिवसों के भीतर प्रमाणपत्रों सहित प्रस्तुत करना होगा और वित्त विभाग उसका भुगतान १५ कार्यदिवसों में करेगा।"
+ },
+ {
+  "subject": "recall",
+  "aspect": "reimbursement_payment_working_days",
+  "value": 15,
+  "section": "१६.४",
+  "page": 42,
+  "evidence": "व्यय का दावा कार्य पर लौटने के १० कार्यदिवसों के भीतर प्रमाणपत्रों सहित प्रस्तुत करना होगा और वित्त विभाग उसका भुगतान १५ कार्यदिवसों में करेगा।"
+ },
+ {
+  "subject": "contact_during_leave",
+  "aspect": "max_contacts_per_block",
+  "value": 2,
+  "section": "१७.२",
+  "page": 43,
+  "evidence": "ऐसा संपर्क एक ही अवकाश खंड में अधिकतम २ बार किया जा सकता है और प्रत्येक बार की अवधि ३० मिनट से अधिक नहीं होनी चाहिए।"
+ },
+ {
+  "subject": "contact_during_leave",
+  "aspect": "max_minutes_per_contact",
+  "value": 30,
+  "section": "१७.२",
+  "page": 43,
+  "evidence": "ऐसा संपर्क एक ही अवकाश खंड में अधिकतम २ बार किया जा सकता है और प्रत्येक बार की अवधि ३० मिनट से अधिक नहीं होनी चाहिए।"
+ },
+ {
+  "subject": "contact_during_leave",
+  "aspect": "restoration_threshold_hours",
+  "value": 4,
+  "section": "१७.३",
+  "page": 43,
+  "evidence": "यदि किसी एक अवकाश खंड में कुल संपर्क-अवधि ४ घंटे से अधिक हो जाए, तो उस खंड का १ दिवस कर्मचारी के खाते में पुनःस्थापित कर दिया जाएगा।"
+ },
+ {
+  "subject": "public_holiday",
+  "aspect": "count_per_year",
+  "value": 12,
+  "section": "१८.१",
+  "page": 44,
+  "evidence": "प्रत्येक अवकाश वर्ष में प्रतिष्ठान १२ सार्वजनिक अवकाश घोषित करता है।"
+ },
+ {
+  "subject": "restricted_holiday",
+  "aspect": "count_per_year",
+  "value": 3,
+  "section": "१८.२",
+  "page": 44,
+  "evidence": "सार्वजनिक अवकाश के अतिरिक्त प्रत्येक कर्मचारी को वर्ष में ३ प्रतिबंधित अवकाश चुनने का अधिकार है।"
+ },
+ {
+  "subject": "restricted_holiday",
+  "aspect": "minimum_options_in_list",
+  "value": 10,
+  "section": "१८.२",
+  "page": 44,
+  "evidence": "ये अवकाश एक घोषित सूची में से चुने जाते हैं, जिसमें प्रतिवर्ष कम-से-कम १० विकल्प रखे जाते हैं।"
+ },
+ {
+  "subject": "holiday_list",
+  "aspect": "publication_deadline",
+  "value": "२८ फरवरी",
+  "section": "१८.३",
+  "page": 45,
+  "evidence": "आगामी अवकाश वर्ष की सार्वजनिक एवं प्रतिबंधित अवकाश सूची प्रत्येक वर्ष २८ फरवरी तक प्रकाशित की जाती है।"
+ },
+ {
+  "subject": "restricted_holiday",
+  "aspect": "selection_change_notice_days",
+  "value": 7,
+  "section": "१८.३",
+  "page": 45,
+  "evidence": "चयन के पश्चात् उसमें परिवर्तन वर्ष में अधिकतम १ बार किया जा सकता है, और वह भी संबंधित तिथि से कम-से-कम ७ दिवस पूर्व।"
+ },
+ {
+  "subject": "public_holiday",
+  "aspect": "compensatory_days_for_working",
+  "value": 1,
+  "section": "१८.५",
+  "page": 46,
+  "evidence": "यदि परिचालन की आवश्यकता से किसी कर्मचारी को सार्वजनिक अवकाश के दिवस कार्य करना पड़े, तो उसे उसके बदले १ प्रतिकर दिवस दिया जाएगा, जिसका उपभोग उसी तिमाही में करना होगा।"
+ },
+ {
+  "subject": "unpaid_leave",
+  "aspect": "max_days_per_year",
+  "value": 20,
+  "section": "२०.२",
+  "page": 48,
+  "evidence": "एक अवकाश वर्ष में अधिकतम २० दिवस का अवैतनिक अवकाश स्वीकृत किया जा सकता है।"
+ },
+ {
+  "subject": "unpaid_leave",
+  "aspect": "approval_sla_working_days",
+  "value": 5,
+  "section": "२०.३",
+  "page": 48,
+  "evidence": "स्वीकृति के निर्णय के लिए ५ कार्यदिवसों की सीमा है।"
+ },
+ {
+  "subject": "relocation",
+  "aspect": "special_leave_days",
+  "value": 3,
+  "section": "२१.३",
+  "page": 50,
+  "evidence": "स्थानांतरण पर नगर बदलने वाले कर्मचारी को गृह-स्थानांतरण हेतु ३ दिवस का विशेष अवकाश दिया जाता है, जो किसी खाते से नामे नहीं होता।"
+ },
+ {
+  "subject": "relocation",
+  "aspect": "special_leave_window_days",
+  "value": 15,
+  "section": "२१.३",
+  "page": 50,
+  "evidence": "यह अवकाश स्थानांतरण की तिथि के आगे-पीछे १५ दिवसों की अवधि में लिया जाना चाहिए।"
+ },
+ {
+  "subject": "examination_leave",
+  "aspect": "protected_days_per_year",
+  "value": 6,
+  "section": "२१.४",
+  "page": 51,
+  "evidence": "इस विशेष संरक्षण के लिए परीक्षा-प्रवेशपत्र की प्रति आवेदन के साथ संलग्न करनी होगी, और एक अवकाश वर्ष में इस प्रकार संरक्षित दिवसों की संख्या ६ से अधिक नहीं होगी।"
+ },
+ {
+  "subject": "blackout_period",
+  "aspect": "quarter_end_working_days",
+  "value": 5,
+  "section": "२१.५",
+  "page": 51,
+  "evidence": "प्रत्येक तिमाही के अंतिम ५ कार्यदिवस प्रतिबंधित अवधि घोषित हैं।"
+ },
+ {
+  "subject": "blackout_period",
+  "aspect": "additional_department_days_per_year",
+  "value": 10,
+  "section": "२१.५",
+  "page": 51,
+  "evidence": "विभागाध्यक्ष अपने विभाग के लिए वर्ष में अधिकतम १० कार्यदिवस की अतिरिक्त प्रतिबंधित अवधि घोषित कर सकता है, किंतु उसकी घोषणा कम-से-कम ४५ दिवस पूर्व करनी होगी, जिससे कर्मचारी अपनी योजना उसके अनुसार बना सकें।"
+ },
+ {
+  "subject": "blackout_period",
+  "aspect": "announcement_notice_days",
+  "value": 45,
+  "section": "२१.५",
+  "page": 51,
+  "evidence": "विभागाध्यक्ष अपने विभाग के लिए वर्ष में अधिकतम १० कार्यदिवस की अतिरिक्त प्रतिबंधित अवधि घोषित कर सकता है, किंतु उसकी घोषणा कम-से-कम ४५ दिवस पूर्व करनी होगी, जिससे कर्मचारी अपनी योजना उसके अनुसार बना सकें।"
+ },
+ {
+  "subject": "misuse",
+  "aspect": "reduced_emergency_instances",
+  "value": 2,
+  "section": "२२.२",
+  "page": 53,
+  "evidence": "जहाँ दुरुपयोग सिद्ध हो जाता है, वहाँ संबंधित दिवस अवैतनिक अवकाश के रूप में पुनर्वर्गीकृत किए जा सकते हैं और कर्मचारी का उस अवकाश वर्ष के लिए पूर्वानुमति-रहित अवकाश का अधिकार ४ अवसरों से घटाकर २ अवसर किया जा सकता है।"
+ },
+ {
+  "subject": "misuse",
+  "aspect": "employee_response_working_days",
+  "value": 5,
+  "section": "२२.३",
+  "page": 53,
+  "evidence": "कर्मचारी को लिखित रूप में यह बताया जाएगा कि किस तिथि के किस आवेदन के संबंध में क्या आपत्ति है, और उसे उत्तर देने के लिए ५ कार्यदिवसों का समय मिलेगा।"
+ },
+ {
+  "subject": "leave_appeal",
+  "aspect": "filing_working_days",
+  "value": 7,
+  "section": "२३.२",
+  "page": 54,
+  "evidence": "अपील पुनर्विचार के निर्णय की सूचना मिलने के ७ कार्यदिवसों के भीतर प्रस्तुत करनी होगी।"
+ },
+ {
+  "subject": "leave_appeal",
+  "aspect": "decision_working_days",
+  "value": 10,
+  "section": "२३.२",
+  "page": 54,
+  "evidence": "अपील प्राधिकारी को १० कार्यदिवसों के भीतर निर्णय देना होगा।"
+ },
+ {
+  "subject": "leave_appeal",
+  "aspect": "final_decision_working_days",
+  "value": 15,
+  "section": "२३.३",
+  "page": 54,
+  "evidence": "यह निवेदन अपील-निर्णय की तिथि से ७ कार्यदिवसों के भीतर प्रस्तुत करना होगा और उस पर निर्णय १५ कार्यदिवसों में दिया जाएगा।"
+ },
+ {
+  "subject": "leave_statement",
+  "aspect": "quarterly_dispatch_working_days",
+  "value": 10,
+  "section": "२४.१",
+  "page": 55,
+  "evidence": "प्रत्येक तिमाही की समाप्ति के १० कार्यदिवसों के भीतर प्रत्येक कर्मचारी को उसकी अवकाश विवरणी भेजी जाती है।"
+ },
+ {
+  "subject": "leave_statement",
+  "aspect": "error_reporting_days",
+  "value": 30,
+  "section": "२४.१",
+  "page": 55,
+  "evidence": "कर्मचारी विवरणी प्राप्त होने के ३० दिवसों के भीतर उसमें किसी त्रुटि की सूचना दे सकता है।"
+ },
+ {
+  "subject": "leave_records",
+  "aspect": "retention_years",
+  "value": 8,
+  "section": "२४.२",
+  "page": 56,
+  "evidence": "संबंधित अवकाश वर्ष की समाप्ति से ८ वर्ष तक सुरक्षित रखे जाते हैं।"
+ },
+ {
+  "subject": "audit",
+  "aspect": "sample_percent",
+  "value": 5,
+  "section": "२४.४",
+  "page": 56,
+  "evidence": "अंकेक्षण में कुल लेनदेनों में से ५ प्रतिशत अथवा १५० लेनदेन, जो भी अधिक हो, का नमूना लिया जाता है।"
+ },
+ {
+  "subject": "audit",
+  "aspect": "report_submission_deadline",
+  "value": "३० जून",
+  "section": "२४.४",
+  "page": 57,
+  "evidence": "अंकेक्षण प्रतिवेदन प्रत्येक वर्ष ३० जून तक प्रबंधन मंडल के समक्ष प्रस्तुत किया जाता है।"
+ },
+ {
+  "subject": "audit",
+  "aspect": "error_correction_working_days",
+  "value": 30,
+  "section": "२४.४",
+  "page": 57,
+  "evidence": "पाई गई त्रुटियों का सुधार ३० कार्यदिवसों के भीतर करना अनिवार्य है।"
+ },
+ {
+  "subject": "system_failure",
+  "aspect": "backlog_entry_working_days",
+  "value": 3,
+  "section": "२४.५",
+  "page": 57,
+  "evidence": "प्रणाली पुनः चालू होने के ३ कार्यदिवसों के भीतर मानव संसाधन विभाग उन आवेदनों को प्रणाली में अंकित कराएगा, और उनकी प्रभावी तिथि मुद्रित आवेदन की तिथि ही मानी जाएगी।"
+ },
+ {
+  "subject": "exceptions",
+  "aspect": "review_trigger_count",
+  "value": 10,
+  "section": "२७.४",
+  "page": 69,
+  "evidence": "यदि किसी एक प्रावधान में एक वर्ष के भीतर १० से अधिक अपवाद दिए गए हों, तो उस प्रावधान की समीक्षा अनिवार्य हो जाती है।"
+ },
+ {
+  "subject": "metrics",
+  "aspect": "leave_utilisation_target_percent",
+  "value": 75,
+  "section": "२८.१",
+  "page": 69,
+  "evidence": "अवकाश उपभोग अनुपात का लक्ष्य ७५ प्रतिशत अथवा उससे अधिक है।"
+ },
+ {
+  "subject": "metrics",
+  "aspect": "sla_compliance_target_percent",
+  "value": 95,
+  "section": "२८.१",
+  "page": 70,
+  "evidence": "सेवा-मानक अनुपालन का लक्ष्य ९५ प्रतिशत है।"
+ },
+ {
+  "subject": "metrics",
+  "aspect": "lapse_ratio_target_percent",
+  "value": 5,
+  "section": "२८.१",
+  "page": 70,
+  "evidence": "समापन अनुपात को ५ प्रतिशत से नीचे रखना अभीष्ट है।"
+ },
+ {
+  "subject": "metrics",
+  "aspect": "escalation_ratio_target_percent",
+  "value": 3,
+  "section": "२८.१",
+  "page": 70,
+  "evidence": "उत्प्रेषण अनुपात का लक्ष्य ३ प्रतिशत से कम है।"
+ },
+ {
+  "subject": "governance",
+  "aspect": "policy_review_cycle_years",
+  "value": 3,
+  "section": "२८.२",
+  "page": 70,
+  "evidence": "नीति के पाठ की पूर्ण समीक्षा प्रत्येक ३ वर्ष में होती है; वर्तमान संस्करण की अगली पूर्ण समीक्षा की तिथि आवरण-पृष्ठ पर अंकित है।"
+ },
+ {
+  "subject": "governance",
+  "aspect": "department_head_consultation_working_days",
+  "value": 10,
+  "section": "२८.३",
+  "page": 71,
+  "evidence": "अंतरिम संशोधन का प्रस्ताव मानव संसाधन प्रमुख तैयार करता है, उस पर विभागाध्यक्षों से १० कार्यदिवसों के भीतर मत लिए जाते हैं, और अंतिम अनुमोदन प्रबंधन मंडल देता है।"
+ },
+ {
+  "subject": "governance",
+  "aspect": "amendment_effective_notice_days",
+  "value": 30,
+  "section": "२८.३",
+  "page": 71,
+  "evidence": "प्रत्येक संशोधन की प्रभावी तिथि उसके प्रकाशन से कम-से-कम ३० दिवस बाद की होगी, जिससे कर्मचारियों को अपनी योजनाएँ समायोजित करने का अवसर मिले।"
+ },
+ {
+  "subject": "governance",
+  "aspect": "version_retention_years",
+  "value": 10,
+  "section": "२८.४",
+  "page": 71,
+  "evidence": "प्रत्येक संस्करण का पृथक् क्रमांक होगा और पूर्व संस्करण मानव संसाधन विभाग के अभिलेखागार में १० वर्ष तक सुरक्षित रहेंगे।"
+ },
+ {
+  "subject": "governance",
+  "aspect": "induction_briefing_days",
+  "value": 30,
+  "section": "२८.४",
+  "page": 71,
+  "evidence": "नवनियुक्त कर्मचारियों को सेवा-आरंभ के ३० दिवसों के भीतर इस नीति का संक्षिप्त परिचय दिया जाएगा, और स्वीकृति प्राधिकारी के रूप में नामित प्रत्येक अधिकारी को वर्ष में एक बार पुनश्चर्या सत्र में सम्मिलित होना होगा।"
+ },
+ {
+  "subject": "example_priya",
+  "aspect": "earned_leave_accrued_days",
+  "value": 14,
+  "section": "२५.१",
+  "page": 58,
+  "evidence": "प्रति मास १.७५ दिवस की दर से आठ मासों में कुल चौदह दिवस।"
+ },
+ {
+  "subject": "example_rajesh",
+  "aspect": "opening_balance_days",
+  "value": 38,
+  "section": "२५.२",
+  "page": 59,
+  "evidence": "१ अप्रैल २०२५ को उनके अर्जित अवकाश का प्रारंभिक शेष ३८ दिवस था।"
+ },
+ {
+  "subject": "example_rajesh",
+  "aspect": "balance_on_31_january",
+  "value": 46.5,
+  "section": "२५.२",
+  "page": 60,
+  "evidence": "प्रारंभिक ३८ में यह जोड़कर और सितंबर के नौ दिवस घटाकर शेष बनता है ३८ + १७.५० − ९ = ४६.५० दिवस।"
+ },
+ {
+  "subject": "example_rajesh",
+  "aspect": "year_end_balance_after_encashment",
+  "value": 45.0,
+  "section": "२५.२",
+  "page": 61,
+  "evidence": "फरवरी और मार्च के दो मासों का उपार्जन ३.५० दिवस जुड़ने पर ३१ मार्च २०२६ को शेष ठीक ४५.०० दिवस बनता है, जो अग्रनयन-सीमा के बराबर है।"
+ },
+ {
+  "subject": "example_sunita",
+  "aspect": "per_day_value_rupees",
+  "value": 2020,
+  "section": "२५.३",
+  "page": 62,
+  "evidence": "इस योग को तीस से विभाजित करने पर एक दिवस का मूल्य निकलता है: ₹६०,६०० ÷ ३० = ₹२,०२०।"
+ },
+ {
+  "subject": "example_sunita",
+  "aspect": "encashment_amount_rupees",
+  "value": 20200,
+  "section": "२५.३",
+  "page": 62,
+  "evidence": "इसे नकदीकृत दिवसों से गुणा करने पर: ₹२,०२० × १० = ₹२०,२००।"
+ },
+ {
+  "subject": "example_sunita",
+  "aspect": "reduced_encashment_amount_rupees",
+  "value": 16160,
+  "section": "२५.३",
+  "page": 62,
+  "evidence": "यदि सुनीता का शेष ३१ के स्थान पर २८ दिवस होता, तो दस दिवस के नकदीकरण पर शेष अठारह दिवस रह जाता, जो न्यूनतम से कम है; ऐसी स्थिति में उनका आवेदन आठ दिवस तक ही स्वीकृत होता और राशि ₹१६,१६० बनती।"
+ },
+ {
+  "subject": "example_anurag",
+  "aspect": "days_debited",
+  "value": 4,
+  "section": "२५.४",
+  "page": 63,
+  "evidence": "अतः खाते से नामे होने वाले दिवस चार हैं — ३, ६, ७ और ८ अक्टूबर।"
+ },
+ {
+  "subject": "example_meera",
+  "aspect": "annual_accrual_days",
+  "value": 19.25,
+  "section": "२५.५",
+  "page": 64,
+  "evidence": "शेष ग्यारह मासों में उपार्जन सामान्य दर से हुआ, अर्थात् १.७५ × ११ = १९.२५ दिवस।"
+ },
+ {
+  "subject": "example_rajan",
+  "aspect": "casual_leave_entitlement_days",
+  "value": 7.5,
+  "section": "२५.६",
+  "page": 65,
+  "evidence": "धारा २१.१ के अनुसार यह निकटतम आधे दिवस तक ऊपर की ओर पूर्णांकित होकर ७.५ दिवस हो जाती है।"
+ },
+ {
+  "subject": "example_rajan",
+  "aspect": "earned_leave_entitlement_days",
+  "value": 13.0,
+  "section": "२५.६",
+  "page": 65,
+  "evidence": "अर्जित अवकाश की पात्रता २१ × ०.६ = १२.६ दिवस बनती है, जो ऊपर की ओर पूर्णांकित होकर १३.० दिवस हो जाती है।"
+ }
+]

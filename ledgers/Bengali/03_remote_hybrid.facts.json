@@ -1,0 +1,1234 @@
+[
+ {
+  "subject": "role_eligibility_assessment",
+  "aspect": "score_range_per_criterion",
+  "value": "0-5",
+  "section": "৩.২",
+  "page": 7,
+  "evidence": "প্রতিটি পদের ক্ষেত্রে নিম্নলিখিত ছয়টি মাপকাঠি বিচার করা হয় এবং প্রতিটিতে ০ থেকে ৫ পর্যন্ত নম্বর প্রদান করা হয়:"
+ },
+ {
+  "subject": "role_eligibility_assessment",
+  "aspect": "maximum_total_score",
+  "value": 30,
+  "section": "৩.২",
+  "page": 8,
+  "evidence": "ছয়টি মাপকাঠির সম্মিলিত সর্বোচ্চ নম্বর ৩০।"
+ },
+ {
+  "subject": "role_eligibility_assessment",
+  "aspect": "threshold_fully_remote",
+  "value": 24,
+  "section": "৩.২",
+  "page": 8,
+  "evidence": "সম্মিলিত নম্বর ২৪ বা তদূর্ধ্ব হলে ভূমিকাটি সম্পূর্ণ দূরবর্তী পদ্ধতির যোগ্য বিবেচিত হয়।"
+ },
+ {
+  "subject": "role_eligibility_assessment",
+  "aspect": "score_band_hybrid",
+  "value": "15-23",
+  "section": "৩.২",
+  "page": 8,
+  "evidence": "১৫ থেকে ২৩ নম্বরের মধ্যে থাকলে ভূমিকাটি হাইব্রিড পদ্ধতির যোগ্য।"
+ },
+ {
+  "subject": "role_eligibility_assessment",
+  "aspect": "threshold_office_based_max",
+  "value": 14,
+  "section": "৩.২",
+  "page": 8,
+  "evidence": "১৪ বা তার কম হলে ভূমিকাটি কার্যালয়কেন্দ্রিক হিসেবে চিহ্নিত হয়।"
+ },
+ {
+  "subject": "role_eligibility_assessment",
+  "aspect": "absolute_bar_score_on_criteria_gha_nga",
+  "value": "0 or 1",
+  "section": "৩.২",
+  "page": 8,
+  "evidence": "তবে একটি বাধ্যতামূলক শর্ত রয়েছে: মাপকাঠি 'ঘ' বা মাপকাঠি 'ঙ'-এ যদি কোনো ভূমিকা ১ বা ০ নম্বর পায়, তবে সম্মিলিত নম্বর যত উচ্চই হোক, সেই ভূমিকা সম্পূর্ণ দূরবর্তী পদ্ধতির যোগ্য বিবেচিত হবে না।"
+ },
+ {
+  "subject": "role_eligibility_assessment",
+  "aspect": "reassessment_interval_years",
+  "value": 2,
+  "section": "৩.৩",
+  "page": 9,
+  "evidence": "বিদ্যমান সমস্ত পদের নিরূপণ প্রতি ২ বছরে অন্তত একবার পুনর্বিবেচনা করতে হবে।"
+ },
+ {
+  "subject": "role_reclassification",
+  "aspect": "notice_days_on_downgrade",
+  "value": 45,
+  "section": "৩.৩",
+  "page": 9,
+  "evidence": "পুনর্বিবেচনার ফলে যদি কোনো ভূমিকার শ্রেণি অবনমিত হয়, তবে সেই ভূমিকায় কর্মরত কর্মীদের ৪৫ দিনের লিখিত পূর্বসূচনা দিতে হবে।"
+ },
+ {
+  "subject": "new_joiner",
+  "aspect": "office_based_days_after_joining",
+  "value": 90,
+  "section": "৩.৪",
+  "page": 10,
+  "evidence": "প্রতিষ্ঠানে যোগদানের প্রথম ৯০ দিন প্রত্যেক নবনিযুক্ত কর্মীর কর্মপদ্ধতি কার্যালয়কেন্দ্রিক থাকবে, ভূমিকার শ্রেণি যাই হোক।"
+ },
+ {
+  "subject": "internal_transfer",
+  "aspect": "office_based_days_after_transfer",
+  "value": 30,
+  "section": "৩.৪",
+  "page": 10,
+  "evidence": "যে কর্মী কোনো ভিন্ন বিভাগে বদলি হয়ে আসেন, তাঁর ক্ষেত্রে নতুন দলে যোগদানের পর ৩০ দিন কার্যালয়কেন্দ্রিক থাকা আবশ্যক, যদি নতুন ভূমিকার ব্যবস্থাপক ভিন্ন হন।"
+ },
+ {
+  "subject": "employee_eligibility",
+  "aspect": "minimum_service_months",
+  "value": 6,
+  "section": "৪.২",
+  "page": 11,
+  "evidence": "ক. চাকরিকাল। প্রতিষ্ঠানে অবিচ্ছিন্ন কর্মকাল অন্তত ৬ মাস হতে হবে এবং শিক্ষানবিশকাল সমাপ্ত ও নিশ্চিতকৃত হতে হবে।"
+ },
+ {
+  "subject": "employee_eligibility",
+  "aspect": "minimum_weeks_under_current_manager",
+  "value": 12,
+  "section": "৪.২",
+  "page": 11,
+  "evidence": "খ. বর্তমান দলে স্থিতিকাল। বর্তমান ব্যবস্থাপকের অধীনে অন্তত ১২ সপ্তাহ কাজ করা থাকতে হবে, যাতে ব্যবস্থাপক কর্মীর স্বনির্ভরতা সম্পর্কে অবহিত মত দিতে পারেন।"
+ },
+ {
+  "subject": "employee_eligibility",
+  "aspect": "clean_disciplinary_record_months",
+  "value": 12,
+  "section": "৪.২",
+  "page": 12,
+  "evidence": "ঘ. শৃঙ্খলাগত অবস্থান। আবেদনের তারিখে কর্মীর বিরুদ্ধে কোনো শৃঙ্খলাভঙ্গের তদন্ত বিচারাধীন থাকা চলবে না, এবং পূর্ববর্তী ১২ মাসে কোনো লিখিত তিরস্কার বা তদূর্ধ্ব দণ্ড আরোপিত থাকা চলবে না।"
+ },
+ {
+  "subject": "employee_eligibility",
+  "aspect": "minimum_download_speed_mbps",
+  "value": 50,
+  "section": "৪.২",
+  "page": 12,
+  "evidence": "ঙ. সংযোগ সক্ষমতা। অনুমোদিত গৃহকর্মস্থলে অন্তত ৫০ এমবিপিএস অবরোহী গতিসম্পন্ন একটি স্থির বেতার-বিহীন বা তন্তুভিত্তিক সংযোগ থাকতে হবে, এবং কর্মীকে ধারা ১৬-এ বর্ণিত পদ্ধতিতে গতিপরীক্ষার ফল জমা দিতে হবে।"
+ },
+ {
+  "subject": "employee_eligibility",
+  "aspect": "backup_power_hours",
+  "value": 4,
+  "section": "৪.২",
+  "page": 12,
+  "evidence": "এছাড়া বিদ্যুৎ বিচ্ছেদকালে অন্তত ৪ ঘণ্টা কার্যক্ষমতা রক্ষার একটি বিকল্প ব্যবস্থা — যন্ত্রের নিজস্ব বিদ্যুৎকোষ ব্যতীত — থাকার ঘোষণা দিতে হবে।"
+ },
+ {
+  "subject": "employee_eligibility",
+  "aspect": "minimum_training_score_percent",
+  "value": 80,
+  "section": "৪.২",
+  "page": 12,
+  "evidence": "ছ. প্রশিক্ষণ সমাপ্তি। 'দূরবর্তী কর্মপদ্ধতিতে তথ্যসুরক্ষা' শীর্ষক বাধ্যতামূলক অন্তর্জাল পাঠক্রম সম্পূর্ণ করতে হবে এবং তার মূল্যায়নে অন্তত ৮০ শতাংশ নম্বর অর্জন করতে হবে।"
+ },
+ {
+  "subject": "security_training",
+  "aspect": "validity_months",
+  "value": 18,
+  "section": "৪.২",
+  "page": 12,
+  "evidence": "এই প্রশিক্ষণের বৈধতা ১৮ মাস; মেয়াদান্তে পুনরাবৃত্তি আবশ্যক।"
+ },
+ {
+  "subject": "special_consideration",
+  "aspect": "post_maternity_relaxation_days",
+  "value": 120,
+  "section": "৪.৪",
+  "page": 13,
+  "evidence": "নিবন্ধিত চিকিৎসকের প্রত্যয়নপত্র অনুসারে এমন কোনো শারীরিক অবস্থা যা দৈনিক যাতায়াতকে চিকিৎসাগতভাবে অনুপযুক্ত করে; গর্ভাবস্থার তৃতীয় ত্রৈমাসিক এবং প্রসূতিকালীন ছুটির পরবর্তী ১২০ দিন; পরিবারের কোনো নির্ভরশীল সদস্যের গুরুতর অসুস্থতা, যা চিকিৎসাগত নথি দ্বারা প্রমাণিত; এবং প্রতিবন্ধিতা প্রত্যয়নপত্রধারী কর্মীর ক্ষেত্রে যুক্তিসঙ্গত অভিযোজনের অংশ হিসেবে দূরবর্তী কর্মপদ্ধতির প্রয়োজন।"
+ },
+ {
+  "subject": "special_consideration",
+  "aspect": "alternative_proposal_working_days",
+  "value": 10,
+  "section": "৪.৪",
+  "page": 13,
+  "evidence": "তখন বিকল্প হিসেবে ভূমিকা পরিবর্তন, অস্থায়ী দায়িত্ব পুনর্বিন্যাস বা ছুটির বিধান প্রযোজ্য হবে এবং মানবসম্পদ বিভাগ কর্মীর সঙ্গে আলোচনা করে ১০ কার্যদিবসের মধ্যে একটি বিকল্প প্রস্তাব উপস্থাপন করবে।"
+ },
+ {
+  "subject": "security_training",
+  "aspect": "reminder_days_before_expiry",
+  "value": 30,
+  "section": "৪.৫",
+  "page": 13,
+  "evidence": "শর্ত 'ছ'-এর ক্ষেত্রে প্রশিক্ষণের মেয়াদ উত্তীর্ণ হওয়ার ৩০ দিন আগে ব্যবস্থাটি স্বয়ংক্রিয় স্মারক পাঠায়, এবং মেয়াদ উত্তীর্ণ হওয়ার পর ১৫ দিনের মধ্যে পুনঃপ্রশিক্ষণ সম্পন্ন না হলে ব্যবস্থা স্থগিত হয়।"
+ },
+ {
+  "subject": "security_training",
+  "aspect": "grace_days_after_expiry",
+  "value": 15,
+  "section": "৪.৫",
+  "page": 13,
+  "evidence": "শর্ত 'ছ'-এর ক্ষেত্রে প্রশিক্ষণের মেয়াদ উত্তীর্ণ হওয়ার ৩০ দিন আগে ব্যবস্থাটি স্বয়ংক্রিয় স্মারক পাঠায়, এবং মেয়াদ উত্তীর্ণ হওয়ার পর ১৫ দিনের মধ্যে পুনঃপ্রশিক্ষণ সম্পন্ন না হলে ব্যবস্থা স্থগিত হয়।"
+ },
+ {
+  "subject": "application_process",
+  "aspect": "completeness_check_working_days",
+  "value": 2,
+  "section": "৫.২",
+  "page": 15,
+  "evidence": "ধাপ ২ — সম্পূর্ণতা যাচাই। মানবসম্পদ পরিষেবা কেন্দ্র ২ কার্যদিবসের মধ্যে আবেদনটি সম্পূর্ণ কি না যাচাই করে।"
+ },
+ {
+  "subject": "application_process",
+  "aspect": "defect_correction_working_days",
+  "value": 5,
+  "section": "৫.২",
+  "page": 15,
+  "evidence": "অসম্পূর্ণ হলে তা ফেরত পাঠানো হয় এবং কর্মী ৫ কার্যদিবসের মধ্যে ত্রুটি সংশোধন করবেন; এই সময়ে সংশোধন না হলে আবেদন বাতিল বলে গণ্য হবে এবং নতুন করে দাখিল করতে হবে।"
+ },
+ {
+  "subject": "application_process",
+  "aspect": "manager_recommendation_working_days",
+  "value": 5,
+  "section": "৫.২",
+  "page": 15,
+  "evidence": "তিনি ৫ কার্যদিবসের মধ্যে সুপারিশ বা অসুপারিশ লিপিবদ্ধ করবেন।"
+ },
+ {
+  "subject": "application_process",
+  "aspect": "it_verification_working_days",
+  "value": 3,
+  "section": "৫.২",
+  "page": 15,
+  "evidence": "ধাপ ৫ — কারিগরি যাচাই। তথ্যপ্রযুক্তি বিভাগ সংযোগ, যন্ত্রের অবস্থা ও প্রয়োজনীয় সুরক্ষা উপাদানের উপস্থিতি ৩ কার্যদিবসের মধ্যে যাচাই করে।"
+ },
+ {
+  "subject": "application_process",
+  "aspect": "agreement_signing_working_days",
+  "value": 7,
+  "section": "৫.২",
+  "page": 16,
+  "evidence": "কর্মীকে ৭ কার্যদিবসের মধ্যে তা বিদ্যুৎবার্তায় স্বাক্ষর করতে হবে।"
+ },
+ {
+  "subject": "application_process",
+  "aspect": "end_to_end_maximum_working_days",
+  "value": 15,
+  "section": "৫.২",
+  "page": 16,
+  "evidence": "সমগ্র প্রক্রিয়ার লক্ষ্যমাত্রা: দাখিল থেকে সিদ্ধান্ত পর্যন্ত সর্বাধিক ১৫ কার্যদিবস।"
+ },
+ {
+  "subject": "temporary_remote",
+  "aspect": "manager_decision_working_days",
+  "value": 1,
+  "section": "৫.৩",
+  "page": 16,
+  "evidence": "এখানে কর্মী ব্যবস্থাপকের কাছে সরাসরি সংক্ষিপ্ত আবেদন করেন এবং ব্যবস্থাপক ১ কার্যদিবসের মধ্যে সিদ্ধান্ত জানান।"
+ },
+ {
+  "subject": "temporary_remote",
+  "aspect": "max_consecutive_and_annual_days",
+  "value": "10 consecutive / 25 per year",
+  "section": "৫.৩",
+  "page": 16,
+  "evidence": "অস্থায়ী ব্যবস্থার সীমা: একবারে সর্বাধিক ১০ পরপর কর্মদিবস, এবং এক অর্থবর্ষে সর্বমোট সর্বাধিক ২৫ কর্মদিবস।"
+ },
+ {
+  "subject": "emergency_remote_declaration",
+  "aspect": "hr_notification_hours",
+  "value": 4,
+  "section": "৫.৩",
+  "page": 17,
+  "evidence": "এই ঘোষণার কর্তৃপক্ষ সংশ্লিষ্ট কার্যালয়ের প্রশাসনিক প্রধান, এবং তিনি মানবসম্পদ প্রধানকে ৪ ঘণ্টার মধ্যে অবহিত করবেন।"
+ },
+ {
+  "subject": "application_rejection",
+  "aspect": "reapplication_cooling_off_days",
+  "value": 60,
+  "section": "৫.৪",
+  "page": 17,
+  "evidence": "প্রত্যাখ্যানের পর কর্মী ৬০ দিন অতিবাহিত না হওয়া পর্যন্ত একই প্রকার কর্মপদ্ধতির জন্য পুনরাবেদন করতে পারবেন না, যদি না প্রত্যাখ্যানের ভিত্তি হওয়া পরিস্থিতির বস্তুগত পরিবর্তন ঘটে থাকে।"
+ },
+ {
+  "subject": "approval_authority",
+  "aspect": "decision_working_days",
+  "value": 5,
+  "section": "৬.২",
+  "page": 18,
+  "evidence": "প্রত্যেক অনুমোদনকারীকে তাঁর কাছে আবেদন পৌঁছানোর ৫ কার্যদিবসের মধ্যে সিদ্ধান্ত জানাতে হবে।"
+ },
+ {
+  "subject": "approval_authority",
+  "aspect": "second_reminder_working_days",
+  "value": 3,
+  "section": "৬.২",
+  "page": 18,
+  "evidence": "আরও ৩ কার্যদিবস অতিবাহিত হলে দ্বিতীয় স্মারক যায় এবং অনুমোদনকারীর ঊর্ধ্বতনকে অনুলিপি দেওয়া হয়।"
+ },
+ {
+  "subject": "approval_authority",
+  "aspect": "escalation_after_working_days",
+  "value": 2,
+  "section": "৬.২",
+  "page": 18,
+  "evidence": "তারপরও ২ কার্যদিবস নীরবতা থাকলে আবেদন পরবর্তী উচ্চতর স্তরে স্বয়ংক্রিয়ভাবে উপস্থাপিত হয়।"
+ },
+ {
+  "subject": "approval_authority",
+  "aspect": "sla_compliance_discussion_threshold_percent",
+  "value": 75,
+  "section": "৬.২",
+  "page": 19,
+  "evidence": "যে অনুমোদনকারীর ক্ষেত্রে সময়সীমা-পালনের হার ৭৫ শতাংশের নিচে নামে, তাঁর সঙ্গে আলোচনা বাধ্যতামূলক।"
+ },
+ {
+  "subject": "fully_remote_arrangement",
+  "aspect": "initial_term_months",
+  "value": 12,
+  "section": "৬.৩",
+  "page": 19,
+  "evidence": "সম্পূর্ণ দূরবর্তী ব্যবস্থার প্রাথমিক মেয়াদ ১২ মাস।"
+ },
+ {
+  "subject": "hybrid_arrangement",
+  "aspect": "initial_term_months",
+  "value": 24,
+  "section": "৬.৩",
+  "page": 19,
+  "evidence": "হাইব্রিড ব্যবস্থার প্রাথমিক মেয়াদ ২৪ মাস।"
+ },
+ {
+  "subject": "arrangement_term",
+  "aspect": "expiry_notice_weeks",
+  "value": 6,
+  "section": "৬.৩",
+  "page": 19,
+  "evidence": "মেয়াদ শেষ হওয়ার ৬ সপ্তাহ আগে ব্যবস্থা কর্মী ও ব্যবস্থাপক উভয়কে সূচনা পাঠায়।"
+ },
+ {
+  "subject": "arrangement_term",
+  "aspect": "grace_days_after_expiry",
+  "value": 30,
+  "section": "৬.৩",
+  "page": 19,
+  "evidence": "পর্যালোচনা সম্পন্ন না হয়ে মেয়াদ অতিক্রান্ত হলে ব্যবস্থাটি সর্বাধিক আরও ৩০ দিন চলমান থাকবে; তারপর তা স্থগিত বলে গণ্য হবে।"
+ },
+ {
+  "subject": "address_registration",
+  "aspect": "advance_notice_days",
+  "value": 21,
+  "section": "৭.২",
+  "page": 20,
+  "evidence": "কর্মস্থলের ঠিকানা পরিবর্তনের অভিপ্রায় হলে কর্মীকে অন্তত ২১ দিন পূর্বে ব্যবস্থায় সূচনা দাখিল করতে হবে।"
+ },
+ {
+  "subject": "address_registration",
+  "aspect": "post_facto_notice_days_emergency",
+  "value": 7,
+  "section": "৭.২",
+  "page": 20,
+  "evidence": "আকস্মিক স্থানান্তরের ক্ষেত্রে — যেমন বাড়িওয়ালার নোটিশ বা প্রাকৃতিক দুর্যোগ — স্থানান্তরের ৭ দিনের মধ্যে সূচনা দিলেই চলবে, তবে বিলম্বের কারণ লিখিতভাবে জানাতে হবে।"
+ },
+ {
+  "subject": "alternate_location",
+  "aspect": "annual_limit_days_and_notice",
+  "value": "20 days per year / 3 working days notice",
+  "section": "৭.৩",
+  "page": 21,
+  "evidence": "এক অর্থবর্ষে সর্বাধিক ২০ কর্মদিবস কর্মী একটি ঘোষিত বিকল্প অবস্থান থেকে কাজ করতে পারেন, শর্ত থাকে যে অবস্থানটি ভারতের ভূখণ্ডের মধ্যে, সেখানে ধারা ৪.২-এর সংযোগ ও কর্মপরিসরের শর্ত পূরিত, এবং কর্মী কাজ শুরুর অন্তত ৩ কার্যদিবস আগে ব্যবস্থায় অবস্থান-ঘোষণা দাখিল করেছেন।"
+ },
+ {
+  "subject": "alternate_location",
+  "aspect": "max_consecutive_days_without_extra_approval",
+  "value": 10,
+  "section": "৭.৩",
+  "page": 21,
+  "evidence": "একটানা ১০ কর্মদিবসের বেশি একই বিকল্প অবস্থানে থাকতে হলে ব্যবস্থাপকের পৃথক অনুমোদন লাগবে।"
+ },
+ {
+  "subject": "address_registration",
+  "aspect": "max_registered_addresses",
+  "value": 2,
+  "section": "৭.৪",
+  "page": 21,
+  "evidence": "কোনো কর্মী একই সঙ্গে সর্বাধিক ২টি ঠিকানা কর্মস্থল হিসেবে নিবন্ধিত রাখতে পারেন, যদি তিনি নিয়মিতভাবে দুই স্থানে বসবাস করেন।"
+ },
+ {
+  "subject": "different_city_same_state",
+  "aspect": "max_one_way_commute_hours_for_hybrid",
+  "value": 3,
+  "section": "৮.২",
+  "page": 22,
+  "evidence": "একমুখী যাতায়াতকাল যদি ৩ ঘণ্টার বেশি হয়, তবে হাইব্রিড ব্যবস্থা অনুমোদনযোগ্য নয় — সেক্ষেত্রে হয় সম্পূর্ণ দূরবর্তী ব্যবস্থার আবেদন করতে হবে, নয় কার্যালয়কেন্দ্রিক থাকতে হবে।"
+ },
+ {
+  "subject": "fully_remote_different_city",
+  "aspect": "office_visits_per_quarter",
+  "value": 1,
+  "section": "৮.২",
+  "page": 22,
+  "evidence": "সম্পূর্ণ দূরবর্তী কর্মী যিনি ভিন্ন নগরে থাকেন, তাঁকে ত্রৈমাসিকে অন্তত ১ বার নিবন্ধিত কার্যালয়ে সশরীর উপস্থিত হতে হবে।"
+ },
+ {
+  "subject": "different_state",
+  "aspect": "statutory_verification_working_days",
+  "value": 10,
+  "section": "৮.৩",
+  "page": 23,
+  "evidence": "এই যাচাইয়ের জন্য নির্ধারিত সময় ১০ কার্যদিবস।"
+ },
+ {
+  "subject": "different_state",
+  "aspect": "max_pending_days_for_registration",
+  "value": 90,
+  "section": "৮.৩",
+  "page": 23,
+  "evidence": "যাচাইয়ের ফলে যদি কোনো নতুন নিবন্ধনের প্রয়োজন দেখা দেয়, তবে সেই নিবন্ধন সম্পন্ন না হওয়া পর্যন্ত আবেদন মুলতুবি থাকবে; এই মুলতুবিকাল সর্বাধিক ৯০ দিন, তারপর আবেদন প্রত্যাখ্যাত বলে গণ্য হবে এবং কর্মী চাইলে পুনরায় দাখিল করতে পারবেন।"
+ },
+ {
+  "subject": "prohibited_locations",
+  "aspect": "list_review_interval_months",
+  "value": 6,
+  "section": "৮.৪",
+  "page": 23,
+  "evidence": "নিষিদ্ধ অঞ্চলের হালনাগাদ তালিকা তথ্যসুরক্ষা বিভাগ রক্ষণ করে এবং প্রতি ৬ মাসে পুনর্বিবেচিত হয়।"
+ },
+ {
+  "subject": "work_from_abroad",
+  "aspect": "max_consecutive_days_and_advance_notice",
+  "value": "15 days / 30 days notice",
+  "section": "৮.৫",
+  "page": 24,
+  "evidence": "ব্যতিক্রম হিসেবে, ব্যক্তিগত ভ্রমণকালে এক অর্থবর্ষে সর্বাধিক ১৫ পরপর দিন বিদেশ থেকে কাজ অনুমোদিত হতে পারে, শর্ত থাকে যে: কর্মী অন্তত ৩০ দিন পূর্বে আবেদন করেছেন; মানবসম্পদ প্রধান, অর্থ নিয়ন্ত্রক ও তথ্যসুরক্ষা আধিকারিক তিনজনেই সম্মতি দিয়েছেন; সংশ্লিষ্ট গ্রাহক চুক্তিতে কোনো বাধা নেই; এবং কর্মী তাঁর যন্ত্রে সীমান্ত-অতিক্রমী তথ্যপ্রবাহের জন্য নির্ধারিত অতিরিক্ত নিয়ন্ত্রণ সক্রিয় করেছেন।"
+ },
+ {
+  "subject": "core_hours",
+  "aspect": "daily_window",
+  "value": "11:00-16:00",
+  "section": "৯.১",
+  "page": 25,
+  "evidence": "প্রতিষ্ঠানের কেন্দ্রীয় সময় প্রতি কর্মদিবসে বেলা ১১টা থেকে বিকাল ৪টা পর্যন্ত।"
+ },
+ {
+  "subject": "core_hours",
+  "aspect": "lunch_break_hours",
+  "value": 1,
+  "section": "৯.১",
+  "page": 25,
+  "evidence": "কেন্দ্রীয় সময়ের মধ্যে ভোজনবিরতির জন্য সর্বাধিক ১ ঘণ্টা অনুপস্থিতি স্বাভাবিক বলে গণ্য এবং তার জন্য পৃথক সূচনার প্রয়োজন নেই, তবে দলের পঞ্জিকায় তা চিহ্নিত রাখা বাঞ্ছনীয়।"
+ },
+ {
+  "subject": "core_hours",
+  "aspect": "advance_announcement_days_for_variation",
+  "value": 30,
+  "section": "৯.২",
+  "page": 25,
+  "evidence": "এমন ভিন্নতা কার্যকারী প্রধানের অনুমোদনসাপেক্ষ এবং বিভাগের সমস্ত কর্মীর কাছে অন্তত ৩০ দিন আগে ঘোষিত হতে হবে।"
+ },
+ {
+  "subject": "core_hours",
+  "aspect": "maximum_length_hours",
+  "value": 5,
+  "section": "৯.২",
+  "page": 25,
+  "evidence": "কোনো বিভাগে কেন্দ্রীয় সময়ের দৈর্ঘ্য ৫ ঘণ্টার বেশি নির্ধারণ করা যাবে না।"
+ },
+ {
+  "subject": "availability_breach",
+  "aspect": "tolerated_unreachable_minutes_and_monthly_count",
+  "value": "90 minutes / up to 3 per month",
+  "section": "৯.৩",
+  "page": 26,
+  "evidence": "যদি কোনো কর্মী কেন্দ্রীয় সময়ের একটানা ৯০ মিনিট অগম্য থাকেন এবং পরে কারণ জানান, তবে তা নথিভুক্ত হয় কিন্তু কোনো পরিণাম হয় না, যদি না তা এক ক্যালেন্ডার মাসে ৩ বারের বেশি ঘটে।"
+ },
+ {
+  "subject": "availability_breach",
+  "aspect": "monthly_count_triggering_discussion",
+  "value": 4,
+  "section": "৯.৩",
+  "page": 26,
+  "evidence": "এক ক্যালেন্ডার মাসে ৪ বা তার বেশি ঘটলে ব্যবস্থাপক কর্মীর সঙ্গে আলোচনা করবেন এবং আলোচনার সারাংশ নথিভুক্ত করবেন।"
+ },
+ {
+  "subject": "availability_breach",
+  "aspect": "consecutive_months_triggering_review",
+  "value": 2,
+  "section": "৯.৩",
+  "page": 26,
+  "evidence": "পরপর ২ মাস এই সীমা অতিক্রান্ত হলে ব্যবস্থাটি ধারা ২১ অনুসারে পর্যালোচনার আওতায় আসে।"
+ },
+ {
+  "subject": "availability_breach",
+  "aspect": "outage_notification_minutes",
+  "value": 30,
+  "section": "৯.৪",
+  "page": 26,
+  "evidence": "এই সূচনা বিচ্ছেদ শুরুর ৩০ মিনিটের মধ্যে দিতে হবে।"
+ },
+ {
+  "subject": "availability_breach",
+  "aspect": "hours_before_alternate_contact_used",
+  "value": 4,
+  "section": "৯.৪",
+  "page": 26,
+  "evidence": "সেই কারণেই প্রত্যেক দূরবর্তী কর্মীকে যোগদানের সময় একটি বিকল্প যোগাযোগ সংখ্যা নিবন্ধিত করতে হয়, যা সাধারণত পরিবারের কোনো সদস্যের হয়, এবং যা কেবল একটানা ৪ ঘণ্টা অগম্যতার পরেই ব্যবহৃত হয়।"
+ },
+ {
+  "subject": "response_standards",
+  "aspect": "instant_message_minutes",
+  "value": 45,
+  "section": "১০.২",
+  "page": 28,
+  "evidence": "তাৎক্ষণিক বার্তালাপে প্রাপ্ত সাধারণ বার্তার সাড়া ৪৫ মিনিটের মধ্যে প্রত্যাশিত।"
+ },
+ {
+  "subject": "response_standards",
+  "aspect": "urgent_message_minutes",
+  "value": 20,
+  "section": "১০.২",
+  "page": 28,
+  "evidence": "'জরুরি' চিহ্নিত বার্তার সাড়া ২০ মিনিটের মধ্যে।"
+ },
+ {
+  "subject": "response_standards",
+  "aspect": "email_working_days",
+  "value": 1,
+  "section": "১০.২",
+  "page": 28,
+  "evidence": "বিদ্যুৎবার্তার সাড়া ১ কার্যদিবসের মধ্যে।"
+ },
+ {
+  "subject": "response_standards",
+  "aspect": "client_message_hours",
+  "value": 3,
+  "section": "১০.২",
+  "page": 28,
+  "evidence": "গ্রাহকের কাছ থেকে সরাসরি প্রাপ্ত বার্তার সাড়া ৩ ঘণ্টার মধ্যে, যদি না সংশ্লিষ্ট গ্রাহক চুক্তিতে ভিন্ন ও কঠোরতর শর্ত থাকে।"
+ },
+ {
+  "subject": "planned_absence",
+  "aspect": "advance_marking_working_days",
+  "value": 1,
+  "section": "১০.৩",
+  "page": 28,
+  "evidence": "কর্মী যদি কেন্দ্রীয় সময়ের কোনো অংশে পূর্বপরিকল্পিতভাবে অনুপস্থিত থাকবেন, তবে অন্তত ১ কার্যদিবস আগে দলীয় পঞ্জিকায় তা চিহ্নিত করতে হবে এবং স্বয়ংক্রিয় অনুপস্থিতি-বার্তা সক্রিয় করতে হবে।"
+ },
+ {
+  "subject": "planned_absence",
+  "aspect": "days_requiring_named_backup",
+  "value": 2,
+  "section": "১০.৩",
+  "page": 29,
+  "evidence": "অনুপস্থিতি ২ কর্মদিবস বা তার বেশি হলে বার্তায় একজন বিকল্প যোগাযোগকারীর নাম উল্লেখ করা বাধ্যতামূলক, যাতে জরুরি বিষয় থেমে না থাকে।"
+ },
+ {
+  "subject": "manager_conduct",
+  "aspect": "max_daily_progress_reports",
+  "value": 1,
+  "section": "১০.৪",
+  "page": 29,
+  "evidence": "কোনো ব্যবস্থাপক দূরবর্তী কর্মীর কাছে দিনে ১ বারের বেশি নিয়মিত অগ্রগতি প্রতিবেদন দাবি করতে পারবেন না।"
+ },
+ {
+  "subject": "meetings",
+  "aspect": "advance_invitation_hours",
+  "value": 12,
+  "section": "১১.১",
+  "page": 30,
+  "evidence": "সভার আহ্বান অন্তত ১২ ঘণ্টা আগে পাঠাতে হবে, যদি না বিষয়টি প্রকৃতই জরুরি।"
+ },
+ {
+  "subject": "meetings",
+  "aspect": "minutes_after_which_break_required",
+  "value": 50,
+  "section": "১১.১",
+  "page": 30,
+  "evidence": "কোনো নিয়মিত সভার দৈর্ঘ্য ৫০ মিনিটের বেশি হলে তার মধ্যে অন্তত ১টি বিরতি রাখতে হবে।"
+ },
+ {
+  "subject": "meetings",
+  "aspect": "recommended_gap_minutes",
+  "value": 10,
+  "section": "১১.১",
+  "page": 30,
+  "evidence": "পরপর সভার মধ্যে অন্তত ১০ মিনিটের ব্যবধান রাখা বাঞ্ছনীয়, যাতে কর্মী শারীরিকভাবে উঠে দাঁড়াতে পারেন — অবিচ্ছিন্ন সচিত্র সভা শারীরিক ও মানসিক ক্লান্তির একটি প্রমাণিত উৎস।"
+ },
+ {
+  "subject": "meetings",
+  "aspect": "remote_participant_check_in_minutes",
+  "value": 15,
+  "section": "১১.২",
+  "page": 30,
+  "evidence": "সভার সঞ্চালক প্রতি ১৫ মিনিটে অন্তত একবার দূরবর্তী অংশগ্রহণকারীদের নাম ধরে মতামত আহ্বান করবেন।"
+ },
+ {
+  "subject": "meetings",
+  "aspect": "minutes_circulation_hours",
+  "value": 24,
+  "section": "১১.৩",
+  "page": 31,
+  "evidence": "প্রতিটি সিদ্ধান্তমূলক সভার সংক্ষিপ্ত নথি সভা শেষ হওয়ার ২৪ ঘণ্টার মধ্যে প্রচারিত হতে হবে।"
+ },
+ {
+  "subject": "collaboration",
+  "aspect": "weekly_reserved_open_hours",
+  "value": 2,
+  "section": "১১.৪",
+  "page": 31,
+  "evidence": "প্রতিটি দল সপ্তাহে অন্তত ২ ঘণ্টা এমন একটি সময়খণ্ড সংরক্ষিত রাখবে যেখানে কোনো নির্ধারিত সভা থাকবে না এবং সদস্যরা পরস্পরকে অনানুষ্ঠানিকভাবে প্রশ্ন করতে পারবেন।"
+ },
+ {
+  "subject": "collaboration",
+  "aspect": "meeting_free_days_per_week",
+  "value": 1,
+  "section": "১১.৪",
+  "page": 31,
+  "evidence": "সপ্তাহে অন্তত ১ দিন সম্পূর্ণ সভাবিহীন রাখার চেষ্টা করা হবে, যাতে গভীর মনোযোগ প্রয়োজন এমন কাজ নির্বিঘ্নে সম্পন্ন হতে পারে।"
+ },
+ {
+  "subject": "hybrid_arrangement",
+  "aspect": "minimum_office_days_per_month",
+  "value": 8,
+  "section": "১২.১",
+  "page": 32,
+  "evidence": "হাইব্রিড কর্মপদ্ধতিতে থাকা কর্মীকে প্রতি ক্যালেন্ডার মাসে অন্তত ৮ কর্মদিবস নিবন্ধিত কার্যালয়ে উপস্থিত থেকে কাজ করতে হবে।"
+ },
+ {
+  "subject": "hybrid_arrangement",
+  "aspect": "minimum_office_days_per_month_manager_grade",
+  "value": 10,
+  "section": "১২.১",
+  "page": 32,
+  "evidence": "ব্যবস্থাপক স্তর ও তদূর্ধ্ব পদে হাইব্রিড কর্মপদ্ধতিতে থাকা কর্মীর ক্ষেত্রে এই সংখ্যা প্রতি মাসে ১০ কর্মদিবস, কারণ দলগঠন, পথনির্দেশ ও পরোক্ষ তত্ত্বাবধানের দায়িত্ব সশরীর উপস্থিতির উপর অধিক নির্ভরশীল।"
+ },
+ {
+  "subject": "office_attendance_counting",
+  "aspect": "minimum_hours_for_a_counted_day",
+  "value": 4,
+  "section": "১২.২",
+  "page": 32,
+  "evidence": "কোনো দিন কার্যালয়ে উপস্থিত দিন হিসেবে গণ্য হবে যদি কর্মী সেই দিনে কার্যালয়ে অন্তত ৪ ঘণ্টা কর্মরত থাকেন।"
+ },
+ {
+  "subject": "worked_example_attendance",
+  "aspect": "total_working_days_in_month",
+  "value": 22,
+  "section": "১২.২",
+  "page": 33,
+  "evidence": "ধরা যাক কোনো মাসে মোট কর্মদিবস ২২।"
+ },
+ {
+  "subject": "worked_example_attendance",
+  "aspect": "leave_days_and_client_site_days",
+  "value": "5 leave / 2 client site",
+  "section": "১২.২",
+  "page": 33,
+  "evidence": "কর্মী ৫ দিন অনুমোদিত ছুটিতে ছিলেন এবং ২ দিন গ্রাহকের প্রাঙ্গণে কাজ করেছেন।"
+ },
+ {
+  "subject": "worked_example_attendance",
+  "aspect": "excluded_days_and_remainder",
+  "value": "7 excluded / 15 remaining",
+  "section": "১২.২",
+  "page": 33,
+  "evidence": "তাহলে বাদযোগ্য দিন ৭, অবশিষ্ট ১৫।"
+ },
+ {
+  "subject": "worked_example_attendance",
+  "aspect": "prorated_minimum_office_days",
+  "value": 6,
+  "section": "১২.২",
+  "page": 33,
+  "evidence": "অর্থাৎ সেই মাসে ওই কর্মীকে কার্যালয়ে ৬ দিন উপস্থিত থাকতে হবে।"
+ },
+ {
+  "subject": "office_attendance_counting",
+  "aspect": "shortfall_notification_day_of_next_month",
+  "value": 5,
+  "section": "১২.৩",
+  "page": 33,
+  "evidence": "কোনো মাসে ন্যূনতম পূরিত না হলে ব্যবস্থা স্বয়ংক্রিয়ভাবে কর্মী ও ব্যবস্থাপককে পরবর্তী মাসের ৫ তারিখের মধ্যে অবহিত করে।"
+ },
+ {
+  "subject": "anchor_days",
+  "aspect": "minimum_per_month",
+  "value": 2,
+  "section": "১৩.২",
+  "page": 34,
+  "evidence": "প্রতিটি দল প্রতি মাসে অন্তত ২টি সমাবেশ দিবস নির্ধারণ করবে, যেদিন দলের সমস্ত সদস্য — সম্পূর্ণ দূরবর্তী কর্মীরা যদি একই নগরে থাকেন তাঁরাও — নির্দিষ্ট কার্যালয়ে উপস্থিত থাকবেন।"
+ },
+ {
+  "subject": "anchor_days",
+  "aspect": "minimum_per_year_for_out_of_city_remote",
+  "value": 2,
+  "section": "১৩.২",
+  "page": 34,
+  "evidence": "ভিন্ন নগরে অবস্থানকারী সম্পূর্ণ দূরবর্তী কর্মীর ক্ষেত্রে বছরে অন্তত ২টি সমাবেশ দিবসে সশরীর উপস্থিতি বাধ্যতামূলক, এবং সেই দিনগুলি ধারা ৮.২-এর ত্রৈমাসিক উপস্থিতির সঙ্গে একত্রিত করা যেতে পারে।"
+ },
+ {
+  "subject": "anchor_days",
+  "aspect": "advance_announcement_days",
+  "value": 14,
+  "section": "১৩.২",
+  "page": 34,
+  "evidence": "সমাবেশ দিবসের তারিখ পরবর্তী ত্রৈমাসিকের জন্য আগের ত্রৈমাসিক শেষ হওয়ার অন্তত ১৪ দিন আগে ঘোষিত হতে হবে, যাতে কর্মীরা যাতায়াত ও ব্যক্তিগত ব্যবস্থাপনার পরিকল্পনা করতে পারেন।"
+ },
+ {
+  "subject": "anchor_days",
+  "aspect": "rescheduling_notice_days",
+  "value": 7,
+  "section": "১৩.২",
+  "page": 34,
+  "evidence": "ঘোষিত তারিখ পরিবর্তন করতে হলে অন্তত ৭ দিনের সূচনা দিতে হবে।"
+ },
+ {
+  "subject": "anchor_days",
+  "aspect": "absence_approval_working_days_in_advance",
+  "value": 2,
+  "section": "১৩.২",
+  "page": 34,
+  "evidence": "সমাবেশ দিবসে যে কর্মী অনুপস্থিত থাকবেন, তাঁকে অন্তত ২ কার্যদিবস আগে ব্যবস্থাপকের অনুমোদন নিতে হবে; আকস্মিক অসুস্থতা বা জরুরি পরিস্থিতিতে এই পূর্বানুমোদনের শর্ত শিথিল।"
+ },
+ {
+  "subject": "anchor_days",
+  "aspect": "minimum_collaborative_hours",
+  "value": 2,
+  "section": "১৩.৩",
+  "page": 35,
+  "evidence": "প্রতিটি সমাবেশ দিবসে অন্তত ২ ঘণ্টা এমন কার্যক্রম থাকবে যা প্রকৃতিগতভাবে সশরীর উপস্থিতির দাবি রাখে — যেমন যৌথ পরিকল্পনা, সমস্যা-সমাধান কর্মশালা, নতুন সদস্যের সঙ্গে পরিচয়, প্রশিক্ষণ, অথবা কাজের পর্যালোচনা।"
+ },
+ {
+  "subject": "team_calendar",
+  "aspect": "advance_completion_weeks",
+  "value": 1,
+  "section": "১৩.৪",
+  "page": 35,
+  "evidence": "কর্মী তাঁর নিজের অংশ অন্তত ১ সপ্তাহ অগ্রিম পূরণ করবেন।"
+ },
+ {
+  "subject": "equipment",
+  "aspect": "furniture_reimbursement_cap_rupees_fully_remote",
+  "value": 18000,
+  "section": "১৪.১",
+  "page": 36,
+  "evidence": "সম্পূর্ণ দূরবর্তী কর্মপদ্ধতিতে থাকা কর্মীকে অতিরিক্তভাবে একটি কর্মাসন-উপযোগী আসন এবং একটি কর্মটেবিল সরবরাহ করা হয়, অথবা কর্মীর পছন্দে এই দুটি সামগ্রী নিজে ক্রয়ের জন্য সর্বোচ্চ ১৮,০০০ টাকা পর্যন্ত এককালীন প্রতিদান দেওয়া হয়।"
+ },
+ {
+  "subject": "equipment",
+  "aspect": "furniture_reimbursement_interval_months",
+  "value": 60,
+  "section": "১৪.১",
+  "page": 36,
+  "evidence": "এককালীন এই প্রতিদান প্রতি ৬০ মাসে একবার প্রাপ্য।"
+ },
+ {
+  "subject": "equipment",
+  "aspect": "furniture_reimbursement_cap_rupees_hybrid",
+  "value": 9000,
+  "section": "১৪.১",
+  "page": 36,
+  "evidence": "হাইব্রিড কর্মপদ্ধতিতে থাকা কর্মী আসন ও টেবিলের জন্য সর্বোচ্চ ৯,০০০ টাকা পর্যন্ত এককালীন প্রতিদান পেতে পারেন, একই শর্তে।"
+ },
+ {
+  "subject": "equipment",
+  "aspect": "delivery_working_days",
+  "value": 7,
+  "section": "১৪.৩",
+  "page": 37,
+  "evidence": "কর্মপদ্ধতি সম্মতিপত্র স্বাক্ষরের পর তথ্যপ্রযুক্তি বিভাগ ৭ কার্যদিবসের মধ্যে সরঞ্জাম কর্মীর নিবন্ধিত ঠিকানায় পৌঁছে দেবে।"
+ },
+ {
+  "subject": "equipment",
+  "aspect": "receipt_confirmation_working_days",
+  "value": 2,
+  "section": "১৪.৩",
+  "page": 37,
+  "evidence": "কর্মী প্রাপ্তির ২ কার্যদিবসের মধ্যে ব্যবস্থায় প্রাপ্তি নিশ্চিত করবেন এবং কোনো ক্ষতি থাকলে তা সেই সময়েই জানাবেন।"
+ },
+ {
+  "subject": "equipment",
+  "aspect": "replacement_working_days_metro_and_other",
+  "value": "3 metro / 6 other",
+  "section": "১৪.৪",
+  "page": 37,
+  "evidence": "সরঞ্জাম প্রতিস্থাপনের লক্ষ্যমাত্রা: মহানগর অঞ্চলে ৩ কার্যদিবস, অন্যান্য অঞ্চলে ৬ কার্যদিবস।"
+ },
+ {
+  "subject": "equipment",
+  "aspect": "loss_reporting_hours_and_police_report_hours",
+  "value": "24 hours report / 72 hours FIR",
+  "section": "১৪.৫",
+  "page": 38,
+  "evidence": "সরঞ্জাম চুরি হলে বা হারিয়ে গেলে কর্মী ২৪ ঘণ্টার মধ্যে তথ্যপ্রযুক্তি সহায়তা কেন্দ্র ও ব্যবস্থাপককে জানাবেন এবং ৭২ ঘণ্টার মধ্যে স্থানীয় থানায় লিখিত অভিযোগ দাখিল করে তার অনুলিপি জমা দেবেন।"
+ },
+ {
+  "subject": "equipment",
+  "aspect": "second_damage_recovery",
+  "value": "50 percent or max 5000 rupees within 24 months",
+  "section": "১৪.৫",
+  "page": 38,
+  "evidence": "একই কর্মীর ক্ষেত্রে ২৪ মাসের মধ্যে দ্বিতীয়বার এমন ঘটলে মেরামত ব্যয়ের ৫০ শতাংশ অথবা সর্বাধিক ৫,০০০ টাকা — এর মধ্যে যেটি কম — কর্মীর কাছ থেকে আদায়যোগ্য।"
+ },
+ {
+  "subject": "equipment_return",
+  "aspect": "long_leave_days_triggering_return",
+  "value": 90,
+  "section": "১৫.১",
+  "page": 38,
+  "evidence": "নিম্নলিখিত যে কোনো পরিস্থিতিতে সরঞ্জাম ফেরত দিতে হবে: কর্মপদ্ধতি কার্যালয়কেন্দ্রিকে পরিবর্তিত হলে; ব্যবস্থা স্থগিত বা প্রত্যাহৃত হলে; কর্মী প্রতিষ্ঠান ত্যাগ করলে; দীর্ঘমেয়াদি ছুটিতে গেলে, যদি ছুটির মেয়াদ ৯০ দিন অতিক্রম করে; এবং সরঞ্জামের নির্ধারিত প্রতিস্থাপন চক্র সম্পূর্ণ হলে।"
+ },
+ {
+  "subject": "equipment_return",
+  "aspect": "return_working_days_after_change",
+  "value": 10,
+  "section": "১৫.২",
+  "page": 38,
+  "evidence": "কর্মপদ্ধতি পরিবর্তন বা প্রত্যাহারের ক্ষেত্রে ফেরতের সময়সীমা পরিবর্তন কার্যকর হওয়ার তারিখ থেকে ১০ কার্যদিবস।"
+ },
+ {
+  "subject": "equipment_return",
+  "aspect": "collection_working_days_after_last_day",
+  "value": 5,
+  "section": "১৫.২",
+  "page": 38,
+  "evidence": "দূরবর্তী কর্মীর ক্ষেত্রে, যিনি শেষ দিনে কার্যালয়ে আসতে পারছেন না, প্রতিষ্ঠান সংগ্রহের ব্যবস্থা করবে এবং সংগ্রহ শেষ কর্মদিবসের পরবর্তী ৫ কার্যদিবসের মধ্যে সম্পন্ন হবে।"
+ },
+ {
+  "subject": "equipment_return",
+  "aspect": "second_reminder_working_days",
+  "value": 5,
+  "section": "১৫.৩",
+  "page": 39,
+  "evidence": "আরও ৫ কার্যদিবস পর দ্বিতীয় স্মারক যায় এবং ব্যবস্থাপককে অনুলিপি দেওয়া হয়।"
+ },
+ {
+  "subject": "equipment_return",
+  "aspect": "working_days_before_recovery_from_dues",
+  "value": 10,
+  "section": "১৫.৩",
+  "page": 39,
+  "evidence": "তারপরও ১০ কার্যদিবস অতিক্রান্ত হলে সরঞ্জামের অবচয়িত মূল্য কর্মীর প্রাপ্য অর্থ থেকে সমন্বয় করা হয়।"
+ },
+ {
+  "subject": "equipment_return",
+  "aspect": "depreciation_useful_life_months",
+  "value": "48 computers / 84 furniture",
+  "section": "১৫.৩",
+  "page": 39,
+  "evidence": "অবচয় গণনার জন্য সঙ্গণক জাতীয় সরঞ্জামের উপযোগী জীবনকাল ধরা হয় ৪৮ মাস এবং আসবাবের ক্ষেত্রে ৮৪ মাস, সরলরৈখিক পদ্ধতিতে।"
+ },
+ {
+  "subject": "connectivity_reimbursement",
+  "aspect": "monthly_rupees_fully_remote",
+  "value": 1500,
+  "section": "১৬.২",
+  "page": 40,
+  "evidence": "সম্পূর্ণ দূরবর্তী কর্মপদ্ধতিতে থাকা কর্মী মাসিক ১,৫০০ টাকা প্রতিদান পাবেন।"
+ },
+ {
+  "subject": "connectivity_reimbursement",
+  "aspect": "monthly_rupees_hybrid",
+  "value": 850,
+  "section": "১৬.২",
+  "page": 40,
+  "evidence": "হাইব্রিড কর্মপদ্ধতিতে থাকা কর্মী মাসিক ৮৫০ টাকা প্রতিদান পাবেন।"
+ },
+ {
+  "subject": "connectivity_reimbursement",
+  "aspect": "daily_rupees_and_monthly_cap_temporary",
+  "value": "40 per day / 600 cap",
+  "section": "১৬.২",
+  "page": 40,
+  "evidence": "অস্থায়ী দূরবর্তী পদ্ধতিতে কাজ করলে প্রতি দিনের জন্য ৪০ টাকা হারে প্রতিদান প্রাপ্য, যা মাসিক সর্বাধিক ৬০০ টাকা পর্যন্ত সীমাবদ্ধ।"
+ },
+ {
+  "subject": "connectivity_reimbursement",
+  "aspect": "rate_review_interval_years",
+  "value": 2,
+  "section": "১৬.২",
+  "page": 40,
+  "evidence": "এই হারগুলি প্রতি ২ বছরে পুনর্বিবেচিত হয়।"
+ },
+ {
+  "subject": "connectivity_reimbursement",
+  "aspect": "minimum_home_working_days_for_full_rate",
+  "value": 10,
+  "section": "১৬.৩",
+  "page": 40,
+  "evidence": "কোনো মাসে কর্মী যদি ১০ দিনের কম গৃহ থেকে কাজ করেন, তবে সেই মাসে পূর্ণ প্রতিদান প্রাপ্য নয়; সেক্ষেত্রে অস্থায়ী পদ্ধতির দৈনিক হার প্রযোজ্য হবে।"
+ },
+ {
+  "subject": "connectivity_reimbursement",
+  "aspect": "annual_declaration_due_date",
+  "value": "30 April",
+  "section": "১৬.৪",
+  "page": 40,
+  "evidence": "ঘোষণাপত্র দাখিলের শেষ তারিখ প্রতি বছরের ৩০ এপ্রিল।"
+ },
+ {
+  "subject": "connectivity",
+  "aspect": "speed_test_interval_months",
+  "value": 6,
+  "section": "১৬.৫",
+  "page": 41,
+  "evidence": "কর্মীকে প্রতি ৬ মাসে একবার সংযোগের গতিপরীক্ষার ফল ব্যবস্থায় দাখিল করতে হবে।"
+ },
+ {
+  "subject": "connectivity",
+  "aspect": "upgrade_days_after_two_failed_tests",
+  "value": 30,
+  "section": "১৬.৫",
+  "page": 41,
+  "evidence": "পরপর দুইবার ফল নির্ধারিত ন্যূনতমের নিচে থাকলে কর্মীকে ৩০ দিনের মধ্যে সংযোগ উন্নয়ন করতে হবে।"
+ },
+ {
+  "subject": "connectivity",
+  "aspect": "one_time_installation_reimbursement_rupees",
+  "value": 2500,
+  "section": "১৬.৫",
+  "page": 41,
+  "evidence": "উন্নয়নের ব্যয় কর্মীর, তবে সংযোগ স্থাপনের এককালীন ব্যয়ের ক্ষেত্রে কর্মী সর্বাধিক ২,৫০০ টাকা পর্যন্ত এককালীন প্রতিদানের আবেদন করতে পারেন, জীবনে একবার।"
+ },
+ {
+  "subject": "home_workstation",
+  "aspect": "minimum_screen_distance_cm",
+  "value": 50,
+  "section": "১৭.১",
+  "page": 42,
+  "evidence": "প্রদর্শনী পটের উপরিভাগ চোখের সমতলে বা তার সামান্য নিচে থাকতে হবে এবং পট থেকে চোখের দূরত্ব অন্তত ৫০ সেন্টিমিটার হতে হবে।"
+ },
+ {
+  "subject": "ergonomics",
+  "aspect": "self_assessment_interval_months",
+  "value": 12,
+  "section": "১৭.২",
+  "page": 43,
+  "evidence": "প্রত্যেক দূরবর্তী ও হাইব্রিড কর্মীকে প্রতি ১২ মাসে একবার একটি কর্মাসন স্বমূল্যায়ন তালিকা পূরণ করতে হবে।"
+ },
+ {
+  "subject": "ergonomics",
+  "aspect": "assessment_meeting_working_days",
+  "value": 20,
+  "section": "১৭.২",
+  "page": 43,
+  "evidence": "তালিকার ফল যদি নির্দিষ্ট ঝুঁকিসূচক প্রান্তিক অতিক্রম করে, তবে প্রতিষ্ঠানের নিযুক্ত পরামর্শদাতা কর্মীর সঙ্গে একটি দূরবর্তী মূল্যায়ন সভা করবেন, যার জন্য নির্ধারিত সময় ২০ কার্যদিবস।"
+ },
+ {
+  "subject": "ergonomics",
+  "aspect": "support_equipment_cap_rupees",
+  "value": 4000,
+  "section": "১৭.২",
+  "page": 43,
+  "evidence": "মূল্যায়নের সুপারিশ অনুসারে যদি কোনো বিশেষ সহায়ক সামগ্রীর প্রয়োজন হয় — যেমন পাদপীঠ, কটিসহায়ক বালিশ, বা বিশেষ নির্দেশক যন্ত্র — তবে প্রতিষ্ঠান সর্বাধিক ৪,০০০ টাকা পর্যন্ত তার ব্যয় বহন করবে।"
+ },
+ {
+  "subject": "ergonomics",
+  "aspect": "break_guidance",
+  "value": "5 minutes every 50 minutes; 20 second distance gaze every 2 hours",
+  "section": "১৭.৩",
+  "page": 43,
+  "evidence": "প্রতিষ্ঠান সুপারিশ করে যে প্রতি ৫০ মিনিট কাজের পর অন্তত ৫ মিনিটের জন্য কর্মী আসন ত্যাগ করবেন, এবং প্রতি ২ ঘণ্টায় অন্তত একবার দৃষ্টি দূরবর্তী কোনো বস্তুর উপর ২০ সেকেন্ডের জন্য স্থাপন করবেন।"
+ },
+ {
+  "subject": "manager_conduct",
+  "aspect": "quiet_hours",
+  "value": "21:00 to 07:00",
+  "section": "১৭.৪",
+  "page": 44,
+  "evidence": "রাত ৯টার পর ও সকাল ৭টার আগে কোনো ব্যবস্থাপক দল-সদস্যকে বার্তা পাঠাবেন না, যদি না বিষয়টি প্রকৃত জরুরি অবস্থা সংক্রান্ত।"
+ },
+ {
+  "subject": "home_printing",
+  "aspect": "shredding_hours_after_use",
+  "value": 24,
+  "section": "১৮.৪",
+  "page": 46,
+  "evidence": "ব্যতিক্রমী প্রয়োজনে — যেমন কোনো নথিতে হস্তাক্ষর প্রয়োজন — তথ্যসুরক্ষা আধিকারিকের পূর্বানুমোদন নিতে হবে, এবং অনুমোদিত হলে মুদ্রিত কাগজ ব্যবহারের ২৪ ঘণ্টার মধ্যে যান্ত্রিকভাবে খণ্ডিত করে বিনষ্ট করতে হবে।"
+ },
+ {
+  "subject": "home_network_security",
+  "aspect": "router_password_change_interval_months",
+  "value": 6,
+  "section": "১৮.৫",
+  "page": 46,
+  "evidence": "কর্মী প্রতি ৬ মাসে অন্তত একবার এই পাসকথা পরিবর্তন করবেন।"
+ },
+ {
+  "subject": "device_security",
+  "aspect": "auto_lock_minutes",
+  "value": 5,
+  "section": "১৮.৬",
+  "page": 47,
+  "evidence": "যন্ত্রে স্বয়ংক্রিয় তালাবদ্ধকরণের সময় ৫ মিনিটে নির্ধারিত এবং কর্মী তা পরিবর্তন করতে পারবেন না।"
+ },
+ {
+  "subject": "data_breach",
+  "aspect": "reporting_hours",
+  "value": 1,
+  "section": "১৮.৭",
+  "page": 47,
+  "evidence": "কোনো তথ্যভঙ্গ ঘটেছে বা ঘটতে পারে বলে সন্দেহ হলে কর্মী তা ১ ঘণ্টার মধ্যে তথ্যসুরক্ষা আধিকারিককে জানাবেন।"
+ },
+ {
+  "subject": "security_audit",
+  "aspect": "annual_sample_percent",
+  "value": 5,
+  "section": "১৮.৮",
+  "page": 47,
+  "evidence": "তথ্যসুরক্ষা বিভাগ প্রতি অর্থবর্ষে দূরবর্তী কর্মীদের মধ্য থেকে অন্তত ৫ শতাংশের কর্মপরিসরের একটি দূরবর্তী নিরীক্ষা পরিচালনা করে।"
+ },
+ {
+  "subject": "security_audit",
+  "aspect": "advance_notice_working_days",
+  "value": 3,
+  "section": "১৮.৮",
+  "page": 47,
+  "evidence": "নিরীক্ষা পূর্বসূচনাসহ হয় এবং সূচনা অন্তত ৩ কার্যদিবস আগে দেওয়া হয়।"
+ },
+ {
+  "subject": "accident",
+  "aspect": "reporting_hours",
+  "value": 48,
+  "section": "১৯.২",
+  "page": 48,
+  "evidence": "দুর্ঘটনার সূচনা ঘটনার ৪৮ ঘণ্টার মধ্যে দিতে হবে।"
+ },
+ {
+  "subject": "performance_interface",
+  "aspect": "minimum_midpoint_checks_per_goal",
+  "value": 2,
+  "section": "২০.৩",
+  "page": 51,
+  "evidence": "প্রতিটি দূরবর্তী কর্মীর ক্ষেত্রে ব্যবস্থাপক নিশ্চিত করবেন যে প্রতিটি লক্ষ্যের বিপরীতে সাফল্যের একটি পর্যবেক্ষণযোগ্য বিবরণ লিখিত আছে এবং মধ্যবর্তী পরীক্ষণের অন্তত ২টি বিন্দু নির্ধারিত আছে।"
+ },
+ {
+  "subject": "one_to_one",
+  "aspect": "frequency_and_minimum_minutes",
+  "value": "every 2 weeks / 30 minutes",
+  "section": "২০.৪",
+  "page": 51,
+  "evidence": "প্রত্যেক দূরবর্তী ও হাইব্রিড কর্মীর সঙ্গে ব্যবস্থাপক অন্তত প্রতি ২ সপ্তাহে একবার একান্ত আলোচনা করবেন, যার ন্যূনতম দৈর্ঘ্য ৩০ মিনিট।"
+ },
+ {
+  "subject": "one_to_one",
+  "aspect": "rescheduling_window_days",
+  "value": 7,
+  "section": "২০.৪",
+  "page": 51,
+  "evidence": "এই আলোচনা বাতিল করা যাবে না; পুনর্নির্ধারণ করা যাবে, তবে ৭ দিনের মধ্যেই।"
+ },
+ {
+  "subject": "equity_analysis",
+  "aspect": "promotion_gap_investigation_threshold_percentage_points",
+  "value": 10,
+  "section": "২০.৫",
+  "page": 52,
+  "evidence": "যদি কোনো শ্রেণির কর্মীর হার অন্য শ্রেণির তুলনায় ১০ শতাংশ বিন্দুর বেশি পার্থক্যে নিম্নতর হয়, তবে সেই বিভাগে কারণ অনুসন্ধান বাধ্যতামূলক।"
+ },
+ {
+  "subject": "arrangement_review",
+  "aspect": "maximum_working_days",
+  "value": 20,
+  "section": "২১.২",
+  "page": 53,
+  "evidence": "পর্যালোচনা শুরুর পর সিদ্ধান্ত পর্যন্ত সর্বাধিক ২০ কার্যদিবস।"
+ },
+ {
+  "subject": "suspension",
+  "aspect": "maximum_days",
+  "value": 60,
+  "section": "২১.৩",
+  "page": 53,
+  "evidence": "স্থগিতকরণের সর্বোচ্চ মেয়াদ ৬০ দিন; এই সময়ের মধ্যে চূড়ান্ত সিদ্ধান্ত না হলে ব্যবস্থা স্বয়ংক্রিয়ভাবে পুনরুজ্জীবিত হয়।"
+ },
+ {
+  "subject": "withdrawal",
+  "aspect": "notice_days",
+  "value": 30,
+  "section": "২১.৪",
+  "page": 54,
+  "evidence": "প্রত্যাহারের ক্ষেত্রে কর্মীকে ৩০ দিনের লিখিত সূচনা দিতে হবে, যাতে তিনি যাতায়াত ও ব্যক্তিগত ব্যবস্থাপনা পুনর্বিন্যস্ত করতে পারেন।"
+ },
+ {
+  "subject": "employee_initiated_change",
+  "aspect": "notice_days",
+  "value": 15,
+  "section": "২১.৫",
+  "page": 54,
+  "evidence": "এই অনুরোধে ১৫ দিনের সূচনা যথেষ্ট এবং তা প্রত্যাখ্যানের কোনো সঙ্গত কারণ সাধারণত থাকে না।"
+ },
+ {
+  "subject": "employee_initiated_change",
+  "aspect": "changes_per_year_before_extra_approval",
+  "value": 2,
+  "section": "২১.৫",
+  "page": 54,
+  "evidence": "তবে কোনো কর্মী যদি একই অর্থবর্ষে ২ বারের বেশি কর্মপদ্ধতি পরিবর্তনের অনুরোধ করেন, তবে তৃতীয় ও পরবর্তী অনুরোধের জন্য বিভাগীয় প্রধানের অনুমোদন লাগবে, কারণ প্রতিটি পরিবর্তনের সঙ্গে সরঞ্জাম, আসন-ব্যবস্থা ও দলীয় পরিকল্পনার প্রশাসনিক ব্যয় যুক্ত।"
+ },
+ {
+  "subject": "collective_change",
+  "aspect": "notice_days_and_consultation_working_days",
+  "value": "90 days notice / consultation within 10 working days",
+  "section": "২১.৬",
+  "page": 55,
+  "evidence": "সামূহিক পরিবর্তনের ক্ষেত্রে সূচনাকাল ৯০ দিন এবং সংশ্লিষ্ট কর্মীদের সঙ্গে একটি পরামর্শ সভা বাধ্যতামূলক, যা সিদ্ধান্ত ঘোষণার ১০ কার্যদিবসের মধ্যে অনুষ্ঠিত হবে।"
+ },
+ {
+  "subject": "appeal",
+  "aspect": "filing_working_days",
+  "value": 15,
+  "section": "২২.২",
+  "page": 55,
+  "evidence": "আলোচনায় নিষ্পত্তি না হলে কর্মী সিদ্ধান্ত প্রাপ্তির ১৫ কার্যদিবসের মধ্যে মানবসম্পদ ব্যবস্থায় আনুষ্ঠানিক আপিল দাখিল করতে পারেন।"
+ },
+ {
+  "subject": "appeal",
+  "aspect": "hearing_and_decision_working_days",
+  "value": "15 hearing / 5 decision",
+  "section": "২২.২",
+  "page": 56,
+  "evidence": "মণ্ডলী আপিল প্রাপ্তির ১৫ কার্যদিবসের মধ্যে শুনানি সম্পন্ন করবে এবং তার পরবর্তী ৫ কার্যদিবসের মধ্যে লিখিত সিদ্ধান্ত জানাবে।"
+ },
+ {
+  "subject": "appeal",
+  "aspect": "final_appeal_filing_working_days",
+  "value": 10,
+  "section": "২২.৩",
+  "page": 56,
+  "evidence": "মণ্ডলীর সিদ্ধান্তে অসন্তুষ্ট হলে কর্মী ১০ কার্যদিবসের মধ্যে মানবসম্পদ প্রধানের কাছে চূড়ান্ত আবেদন করতে পারেন।"
+ },
+ {
+  "subject": "appeal",
+  "aspect": "final_decision_working_days",
+  "value": 10,
+  "section": "২২.৩",
+  "page": 56,
+  "evidence": "মানবসম্পদ প্রধানের সিদ্ধান্ত প্রতিষ্ঠানের অভ্যন্তরে চূড়ান্ত এবং তা ১০ কার্যদিবসের মধ্যে জানানো হবে।"
+ },
+ {
+  "subject": "worked_example_relocation",
+  "aspect": "notice_filed_date",
+  "value": "2 June",
+  "section": "২৩.১",
+  "page": 57,
+  "evidence": "ধাপ ১ — সূচনা। ঋতুপর্ণা ২ জুন ব্যবস্থায় ঠিকানা পরিবর্তনের সূচনা দাখিল করেন এবং একই সঙ্গে সম্পূর্ণ দূরবর্তী কর্মপদ্ধতির নতুন আবেদন করেন।"
+ },
+ {
+  "subject": "worked_example_relocation",
+  "aspect": "role_score_and_criteria_scores",
+  "value": "26 total; 4 and 4 on criteria gha and nga",
+  "section": "২৩.১",
+  "page": 57,
+  "evidence": "ধাপ ২ — ভূমিকা যাচাই। ঋতুপর্ণার ভূমিকার নিরূপণে সম্মিলিত নম্বর ২৬, এবং মাপকাঠি 'ঘ' ও 'ঙ'-এ যথাক্রমে ৪ ও ৪।"
+ },
+ {
+  "subject": "worked_example_relocation",
+  "aspect": "relocation_date",
+  "value": "14 July",
+  "section": "২৩.১",
+  "page": 58,
+  "evidence": "ধাপ ৫ — মাসের হিসাব। ঋতুপর্ণা ১৪ জুলাই স্থানান্তরিত হন।"
+ },
+ {
+  "subject": "worked_example_relocation",
+  "aspect": "decision_working_days_taken",
+  "value": 11,
+  "section": "২৩.১",
+  "page": 59,
+  "evidence": "ফল। সমগ্র প্রক্রিয়ায় ঋতুপর্ণার আবেদন দাখিল থেকে শর্তসাপেক্ষ অনুমোদন পর্যন্ত সময় লাগে ১১ কার্যদিবস, যা ধারা ৫.২-এর লক্ষ্যমাত্রার মধ্যেই।"
+ },
+ {
+  "subject": "worked_example_relocation",
+  "aspect": "speed_test_submission_date",
+  "value": "28 July",
+  "section": "২৩.১",
+  "page": 59,
+  "evidence": "সংযোগ স্থাপনের পর তিনি ২৮ জুলাই গতিপরীক্ষার ফল দাখিল করেন এবং পরবর্তী সোমবার থেকে নতুন কর্মপদ্ধতি কার্যকর হয়।"
+ },
+ {
+  "subject": "worked_example_withdrawal",
+  "aspect": "manager_discussion_date",
+  "value": "5 February",
+  "section": "২৩.২",
+  "page": 60,
+  "evidence": "ব্যবস্থাপক ৫ ফেব্রুয়ারি আলোচনা করেন।"
+ },
+ {
+  "subject": "worked_example_withdrawal",
+  "aspect": "review_notice_date",
+  "value": "3 March",
+  "section": "২৩.২",
+  "page": 60,
+  "evidence": "পর্যালোচনা। ৩ মার্চ মানবসম্পদ ব্যবসায়িক সহযোগী পর্যালোচনা শুরুর লিখিত সূচনা পাঠান, কারণ হিসেবে উপলভ্যতার শর্ত পুনঃপুন অপূর্ণ থাকার উল্লেখসহ।"
+ },
+ {
+  "subject": "worked_example_withdrawal",
+  "aspect": "remediation_days_and_raised_office_minimum",
+  "value": "45 days / raised to 12 office days",
+  "section": "২৩.২",
+  "page": 61,
+  "evidence": "সঞ্জীবকে ৪৫ দিন সময় দেওয়া হয় বিকল্প বিদ্যুৎ ব্যবস্থা স্থাপনের জন্য, এবং সেই সময়ে তাঁর মাসিক কার্যালয় উপস্থিতির ন্যূনতম বাড়িয়ে ১২ দিন করা হয়।"
+ },
+ {
+  "subject": "worked_example_withdrawal",
+  "aspect": "withdrawal_decision_date",
+  "value": "20 May",
+  "section": "২৩.২",
+  "page": 61,
+  "evidence": "মূল অনুমোদনকারী বিভাগীয় প্রধান ২০ মে প্রত্যাহারের সিদ্ধান্ত জানান, ধারা ২১.৪ অনুসারে সূচনাকাল দিয়ে।"
+ },
+ {
+  "subject": "worked_example_withdrawal",
+  "aspect": "reapplication_allowed_after_months",
+  "value": 6,
+  "section": "২৩.২",
+  "page": 61,
+  "evidence": "মণ্ডলী শুনানি করে সিদ্ধান্ত বহাল রাখে, তবে একটি সংশোধনী যুক্ত করে: সঞ্জীব ৬ মাস পর পুনরায় আবেদন করতে পারবেন, যদি বিদ্যুৎ ব্যবস্থার প্রমাণ দাখিল করেন।"
+ },
+ {
+  "subject": "worked_example_reclassification",
+  "aspect": "revised_scores",
+  "value": "0 on criterion nga; total dropped to 13",
+  "section": "২৩.৩",
+  "page": 62,
+  "evidence": "মাপকাঠি 'ঙ'-এ নম্বর নেমে দাঁড়ায় ০, ফলে ধারা ৩.২-এর নিরঙ্কুশ শর্ত অনুসারে ভূমিকাগুলি আর সম্পূর্ণ দূরবর্তী পদ্ধতির যোগ্য নয়; সম্মিলিত নম্বরও নেমে ১৩ হওয়ায় ভূমিকা কার্যালয়কেন্দ্রিক শ্রেণিতে পড়ে।"
+ },
+ {
+  "subject": "measurement",
+  "aspect": "target_indicators",
+  "value": "9 working days avg; 90% SLA; 95% equipment SLA; 100% ergonomic assessment; 15% appeal overturn ceiling; 5 percentage point attrition gap",
+  "section": "২৬.১",
+  "page": 71,
+  "evidence": "আবেদন থেকে সিদ্ধান্ত পর্যন্ত গড় সময়, লক্ষ্যমাত্রা ৯ কার্যদিবস; সময়সীমার মধ্যে নিষ্পন্ন আবেদনের হার, লক্ষ্যমাত্রা ৯০ শতাংশ; সরঞ্জাম সরবরাহের সময়সীমা পালনের হার, লক্ষ্যমাত্রা ৯৫ শতাংশ; বার্ষিক কর্মাসন স্বমূল্যায়ন সম্পন্নকরণের হার, লক্ষ্যমাত্রা ১০০ শতাংশ; প্রত্যাহারের পর আপিলে পরিবর্তিত সিদ্ধান্তের হার, যার ঊর্ধ্বসীমা ১৫ শতাংশ — এর বেশি হলে বুঝতে হবে প্রাথমিক সিদ্ধান্তের গুণগত মান অপর্যাপ্ত; এবং দূরবর্তী কর্মীদের মধ্যে স্বেচ্ছায় প্রতিষ্ঠান ত্যাগের হার, যা কার্যালয়কেন্দ্রিক কর্মীদের হারের তুলনায় ৫ শতাংশ বিন্দুর বেশি পার্থক্যে থাকা উচিত নয়।"
+ },
+ {
+  "subject": "internal_audit",
+  "aspect": "interval_months",
+  "value": 18,
+  "section": "২৬.৩",
+  "page": 72,
+  "evidence": "অভ্যন্তরীণ নিরীক্ষা বিভাগ প্রতি ১৮ মাসে একবার এই নির্দেশিকার প্রয়োগ নিরীক্ষা করে।"
+ },
+ {
+  "subject": "internal_audit",
+  "aspect": "sample_percent_of_decisions",
+  "value": 10,
+  "section": "২৬.৩",
+  "page": 72,
+  "evidence": "নিরীক্ষার নমুনা আকার সংশ্লিষ্ট সময়কালে গৃহীত সমস্ত সিদ্ধান্তের অন্তত ১০ শতাংশ।"
+ },
+ {
+  "subject": "employee_feedback",
+  "aspect": "publication_days",
+  "value": 60,
+  "section": "২৬.৪",
+  "page": 72,
+  "evidence": "মতামত সংগ্রহের ফল ৬০ দিনের মধ্যে সমস্ত কর্মীর কাছে সংক্ষিপ্ত আকারে প্রকাশিত হবে, এবং যেসব বিষয়ে পদক্ষেপ নেওয়া হবে তা নির্দিষ্টভাবে উল্লিখিত থাকবে।"
+ },
+ {
+  "subject": "policy_amendment",
+  "aspect": "days_before_effect",
+  "value": 14,
+  "section": "২৬.৫",
+  "page": 73,
+  "evidence": "সংশোধিত সংস্করণ প্রকাশের পর তা কার্যকর হতে অন্তত ১৪ দিন সময় দেওয়া হবে, যাতে কর্মীরা পরিবর্তন সম্পর্কে অবহিত হতে পারেন।"
+ }
+]

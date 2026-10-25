@@ -1,0 +1,978 @@
+[
+ {
+  "subject": "bonus_plan_benchmarking",
+  "aspect": "cycle",
+  "value": "benchmarked every 3 years via independent compensation consultancy vs similarly-sized IT companies; first implemented 2019, revised 3 times since",
+  "section": "1",
+  "page": 3,
+  "evidence": "ಕಂಪನಿ ಪ್ರತಿ ಮೂರು ವರ್ಷಗಳಿಗೊಮ್ಮೆ ಸ್ವತಂತ್ರ ಸಂಭಾವನೆ ಸಲಹಾ ಸಂಸ್ಥೆಯ ಮೂಲಕ ತನ್ನ ಬೋನಸ್ ಯೋಜನೆಯನ್ನು ಮಾಹಿತಿ ತಂತ್ರಜ್ಞಾನ ಮತ್ತು ಸಂಬಂಧಿತ ಸೇವಾ ವಲಯದ ಸಮಾನ ಗಾತ್ರದ ಕಂಪನಿಗಳೊಂದಿಗೆ ಬೆಂಚ್‌ಮಾರ್ಕ್ ಮಾಡುತ್ತದೆ. ಈ ಬೆಂಚ್‌ಮಾರ್ಕಿಂಗ್ ಫಲಿತಾಂಶ ಗ್ರೇಡ್-ಬ್ಯಾಂಡ್ ಗುರಿ ಬೋನಸ್ ಶೇಕಡಾವಾರು ಪ್ರಮಾಣಗಳ ಪರಿಷ್ಕರಣೆಗೆ ಪ್ರಮುಖ ಇನ್‌ಪುಟ್ ಆಗಿ ಕಾರ್ಯನಿರ್ವಹಿಸುತ್ತದೆ, ಇದನ್ನು ವಿಭಾಗ 13.3ರಲ್ಲಿ ವಿವರಿಸಲಾಗಿದೆ. ಕಂಪನಿ ಈ ಯೋಜನೆಯನ್ನು 2019ರಲ್ಲಿ ಮೊದಲ ಬಾರಿಗೆ ಜಾರಿಗೆ ತಂದಿತ್ತು, ಅಂದಿನಿಂದ ಮೂರು ಬಾರಿ ಗಮನೀಯ ಪರಿಷ್ಕರಣೆಗೆ ಒಳಗಾಗಿದೆ — ಪ್ರತಿ ಬಾರಿಯೂ ಹೆಚ್ಚಿನ ಪಾರದರ್ಶಕತೆ ಮತ್ತು ಸರಳತೆಯ ದಿಕ್ಕಿನಲ್ಲಿ."
+ },
+ {
+  "subject": "historical_multiplier_example",
+  "aspect": "five_year_illustration",
+  "value": "Year1 95%, Year2 130%, Year3 60%, Year4 110%, Year5 140%; 5-year average 107%",
+  "section": "1.2",
+  "page": 3,
+  "evidence": "ಉದ್ಯೋಗಿಗಳಿಗೆ ಕಂಪನಿ ಗುಣಕ ಹೇಗೆ ವಾಸ್ತವಿಕವಾಗಿ ಏರಿಳಿತಗೊಳ್ಳಬಹುದು ಎಂಬುದರ ಪ್ರಜ್ಞೆ ನೀಡಲು, ಕೆಳಗಿನ ವಿವರಣಾತ್ಮಕ (ಕಾಲ್ಪನಿಕ) ಐದು-ವರ್ಷದ ಮಾದರಿಯನ್ನು ಪರಿಗಣಿಸೋಣ: ವರ್ಷ 1ರಲ್ಲಿ ಗುಣಕ 95% (ಮಧ್ಯಮ ಸಾಧನೆ), ವರ್ಷ 2ರಲ್ಲಿ 130% (ಬಲವಾದ ಬೆಳವಣಿಗೆ), ವರ್ಷ 3ರಲ್ಲಿ 60% (ಮಾರುಕಟ್ಟೆ ಹಿಂಜರಿತ), ವರ್ಷ 4ರಲ್ಲಿ 110% (ಚೇತರಿಕೆ), ಮತ್ತು ವರ್ಷ 5ರಲ್ಲಿ 140% (ಅಸಾಧಾರಣ ವರ್ಷ). ಈ ಐದು ವರ್ಷಗಳ ಸರಾಸರಿ ಗುಣಕ 107% ಆಗುತ್ತದೆ, ಇದು ದೀರ್ಘಕಾಲದಲ್ಲಿ ಗುರಿ ಬೋನಸ್ ಮೊತ್ತಕ್ಕೆ ಹತ್ತಿರವಾಗಿ ಕೇಂದ್ರೀಕೃತವಾಗಿರುತ್ತದೆ ಎಂಬುದನ್ನು ವಿವರಿಸುತ್ತದೆ, ಆದರೂ ಪ್ರತ್ಯೇಕ ವರ್ಷಗಳ ನಡುವೆ ಗಮನೀಯ ಏರಿಳಿತ ಇರುತ್ತದೆ."
+ },
+ {
+  "subject": "bonus_market_positioning",
+  "aspect": "target_percentile",
+  "value": "targets 50th percentile of IT services industry, aspiring to 65th-70th percentile for high-demand technical skills",
+  "section": "1.4",
+  "page": 4,
+  "evidence": "ಕಂಪನಿಯ ಗುರಿ ಬೋನಸ್ ಶೇಕಡಾವಾರು ಪ್ರಮಾಣಗಳನ್ನು ಮಾಹಿತಿ ತಂತ್ರಜ್ಞಾನ ಸೇವಾ ವಲಯದ \"50ನೇ ಪರ್ಸೆಂಟೈಲ್\" (ಅಂದರೆ ಮಧ್ಯಮ ಮಾರುಕಟ್ಟೆ ಸ್ಥಾನ) ಗುರಿಯಾಗಿಟ್ಟುಕೊಂಡು ವಿನ್ಯಾಸಗೊಳಿಸಲಾಗಿದೆ, ಆದರೆ ಕಂಪನಿಯ ಆಶಯ ಈ ಸ್ಥಾನವನ್ನು ಕ್ರಮೇಣ 65-70ನೇ ಪರ್ಸೆಂಟೈಲ್‌ಗೆ ಏರಿಸುವುದು, ವಿಶೇಷವಾಗಿ ಹೆಚ್ಚು ಬೇಡಿಕೆಯಿರುವ ತಾಂತ್ರಿಕ ಕೌಶಲ್ಯಗಳಿಗೆ."
+ },
+ {
+  "subject": "grade_band_target_bonus_table",
+  "aspect": "eight_bands",
+  "value": "Band1 8%, Band2 10%, Band3 12%, Band4 15%, Band5 18%, Band6 25%, Band7 32%, Band8 42%",
+  "section": "2.1",
+  "page": 6,
+  "evidence": "| ಬ್ಯಾಂಡ್ 1 (ಜೂನಿಯರ್) | ಟ್ರೈನೀ, ಅಸೋಸಿಯೇಟ್ | 8% | | ಬ್ಯಾಂಡ್ 2 (ಜೂನಿಯರ್ ಹಿರಿಯ) | ಸೀನಿಯರ್ ಅಸೋಸಿಯೇಟ್, ಅನಾಲಿಸ್ಟ್ | 10% | | ಬ್ಯಾಂಡ್ 3 (ಮಧ್ಯಮ-ಕಿರಿಯ) | ಎಕ್ಸಿಕ್ಯುಟಿವ್, ಟೀಮ್ ಲೀಡ್ | 12% |"
+ },
+ {
+  "subject": "ote_concept",
+  "aspect": "definition_and_examples",
+  "value": "OTE = base salary + target bonus amount; Band4 Manager base Rs 12,00,000 at 15% = Rs 1,80,000 target bonus, OTE Rs 13,80,000; Band6 GM base Rs 35,00,000 at 25% = Rs 8,75,000, OTE Rs 43,75,000",
+  "section": "2.2",
+  "page": 6,
+  "evidence": "ಗುರಿ ಬೋನಸ್ ಶೇಕಡಾವಾರು 15%. ಹಾಗಾಗಿ, ಗುರಿ ಬೋನಸ್ ಮೊತ್ತ = ₹12,00,000 × 15% = ₹1,80,000. OTE = ₹12,00,000 + ₹1,80,000 = ₹13,80,000."
+ },
+ {
+  "subject": "nikhil_promotion_example",
+  "aspect": "mid_year_band_change",
+  "value": "Executive (Band3 12%) promoted to Manager (Band4 15%) Oct 1 2025; target % time-weighted blended across 183/182 days",
+  "section": "2.3",
+  "page": 7,
+  "evidence": "ಉದಾಹರಣೆ: ನಿಖಿಲ್ ಎಂಬ ಎಕ್ಸಿಕ್ಯುಟಿವ್ (ಬ್ಯಾಂಡ್ 3, ಗುರಿ % 12%) 1 ಅಕ್ಟೋಬರ್ 2025ರಂದು ಮ್ಯಾನೇಜರ್ (ಬ್ಯಾಂಡ್ 4, ಗುರಿ % 15%) ಆಗಿ ಪ್ರೊಮೋಷನ್ ಪಡೆದರು. ಅವರ ಪರಿಶೀಲನಾ ವರ್ಷದ ಮೊದಲ ಅರ್ಧ (183 ದಿನ) ಬ್ಯಾಂಡ್ 3ರ ಗುರಿ %ಗೆ, ಎರಡನೇ ಅರ್ಧ (182 ದಿನ) ಬ್ಯಾಂಡ್ 4ರ ಗುರಿ %ಗೆ ಅನ್ವಯಿಸಲಾಗುತ್ತದೆ."
+ },
+ {
+  "subject": "band_contextual_notes",
+  "aspect": "rationale",
+  "value": "Bands 1-2 emphasize stability; Bands 3-4 largest employee category bulk of bonus cost; Bands 5-6 higher % for strategy role; Bands 7-8 highest % plus deferred component",
+  "section": "2.4",
+  "page": 7,
+  "evidence": "ಬ್ಯಾಂಡ್ 1 ಮತ್ತು 2ರಲ್ಲಿರುವ (ಟ್ರೈನೀ, ಅಸೋಸಿಯೇಟ್, ಸೀನಿಯರ್ ಅಸೋಸಿಯೇಟ್) ಉದ್ಯೋಗಿಗಳಿಗೆ, ಗುರಿ ಬೋನಸ್ % ಕಡಿಮೆ ಇದ್ದರೂ, ಮೂಲ ವೇತನದ ಅನುಪಾತದಲ್ಲಿ ಸ್ಥಿರತೆಗೆ ಹೆಚ್ಚಿನ ಆದ್ಯತೆ ನೀಡಲಾಗಿದೆ ಎಂಬ ತತ್ವದ ಅಡಿಯಲ್ಲಿ ಈ ಶೇಕಡಾವಾರು ಪ್ರಮಾಣ ನಿಗದಿಪಡಿಸಲಾಗಿದೆ — ಈ ಹಂತದ ಉದ್ಯೋಗಿಗಳಿಗೆ ಊಹಿಸಬಹುದಾದ ಆದಾಯ ಹೆಚ್ಚು ಮುಖ್ಯವಾಗಿರುತ್ತದೆ ಎಂಬ ಅಧ್ಯಯನ ಫಲಿತಾಂಶದ ಆಧಾರದ ಮೇಲೆ. ಬ್ಯಾಂಡ್ 3 ಮತ್ತು 4 (ಎಕ್ಸಿಕ್ಯುಟಿವ್, ಟೀಮ್ ಲೀಡ್, ಮ್ಯಾನೇಜರ್) ಮಧ್ಯಮ ವ್ಯಾಪ್ತಿಯ ಗುರಿ % ಹೊಂದಿದ್ದು, ಇದು ಕಂಪನಿಯ ಅತಿದೊಡ್ಡ ಉದ್ಯೋಗಿ ವರ್ಗವಾಗಿರುವ ಕಾರಣ ಒಟ್ಟು ಬೋನಸ್ ವೆಚ್ಚದ ಬಹುಪಾಲು ಇಲ್ಲಿಂದಲೇ ಬರುತ್ತದೆ. ಬ್ಯಾಂಡ್ 5 ಮತ್ತು 6 (ಸೀನಿಯರ್ ಮ್ಯಾನೇಜರ್, ಜನರಲ್ ಮ್ಯಾನೇಜರ್) ಕಂಪನಿಯ ಕಾರ್ಯತಂತ್ರ ಅನುಷ್ಠಾನದಲ್ಲಿ ನೇರ ಪಾತ್ರ ಹೊಂದಿರುವುದರಿಂದ ಹೆಚ್ಚಿನ ಗುರಿ % ಹೊಂದಿದ್ದಾರೆ. ಬ್ಯಾಂಡ್ 7 ಮತ್ತು 8 (ವೈಸ್ ಪ್ರೆಸಿಡೆಂಟ್ ಮತ್ತು ಮೇಲಿನವರು) ಕಂಪನಿಯ ಒಟ್ಟಾರೆ ಫಲಿತಾಂಶಕ್ಕೆ ನೇರ ಹೊಣೆಗಾರಿಕೆ ಹೊಂದಿರುವ ಕಾರಣ, ಅತಿ ಹೆಚ್ಚಿನ ಗುರಿ % ಮಾತ್ರವಲ್ಲದೆ ಮುಂದೂಡಿದ ಘಟಕವನ್ನೂ (ವಿಭಾಗ 9) ಹೊಂದಿದ್ದಾರೆ, ಇದರಿಂದ ಅವರ ಸಂಭಾವನೆ ದೀರ್ಘಕಾಲೀನ ಕಂಪನಿ ಆರೋಗ್ಯದೊಂದಿಗೆ ಹೆಚ್ಚು ಬಿಗಿಯಾಗಿ ಜೋಡಿಸಲ್ಪಟ್ಟಿದೆ."
+ },
+ {
+  "subject": "double_leverage_effect",
+  "aspect": "example",
+  "value": "promotion from Band4 to Band5 raises target % from 15% to 18% in addition to base salary increase, compounding bonus amount growth",
+  "section": "2.5",
+  "page": 8,
+  "evidence": "ಆದರೆ ಪ್ರೊಮೋಷನ್ ಜೊತೆಗೆ ಗ್ರೇಡ್ ಬ್ಯಾಂಡ್ ಬದಲಾದರೆ (ಉದಾ: ಬ್ಯಾಂಡ್ 4ರಿಂದ ಬ್ಯಾಂಡ್ 5ಗೆ), ಗುರಿ % ಕೂಡ 15%ದಿಂದ 18%ಗೆ ಏರುತ್ತದೆ, ಇದರಿಂದ ಒಟ್ಟು OTE ಬೆಳವಣಿಗೆ ಕೇವಲ ಮೂಲ ವೇತನ ಹೆಚ್ಚಳಕ್ಕಿಂತ ಗಣನೀಯವಾಗಿ ಹೆಚ್ಚಾಗುತ್ತದೆ (ಡಬಲ್ ಲಿವರೇಜ್ ಎಫೆಕ್ಟ್, ವಿಭಾಗ 2.2ರಲ್ಲಿ ಉಲ್ಲೇಖಿಸಲಾಗಿದೆ)."
+ },
+ {
+  "subject": "grade_assignment_criteria",
+  "aspect": "summary",
+  "value": "Band1-2 defined tasks under supervision; Band3-4 independent project/small team management; Band5-6 multiple teams/functional area; Band7-8 entire business unit/strategic area",
+  "section": "2.5",
+  "page": 8,
+  "evidence": "ಈ ಗ್ರೇಡಿಂಗ್ ವಿಧಾನದ ಸಂಪೂರ್ಣ ಮಾನದಂಡಗಳನ್ನು ತಮಿಳು ಮಾರ್ಗದರ್ಶಿ ಸಂಖ್ಯೆ 02ರಲ್ಲಿ ವಿವರಿಸಲಾಗಿದ್ದರೂ, ಇಲ್ಲಿ ಸಂಕ್ಷಿಪ್ತವಾಗಿ ಹೇಳುವುದಾದರೆ: ಬ್ಯಾಂಡ್ 1-2 ಉದ್ಯೋಗಿಗಳು ಸಾಮಾನ್ಯವಾಗಿ ಮೇಲ್ವಿಚಾರಣೆಯ ಅಡಿಯಲ್ಲಿ ವ್ಯಾಖ್ಯಾನಿತ ಕಾರ್ಯಗಳನ್ನು ನಿರ್ವಹಿಸುತ್ತಾರೆ; ಬ್ಯಾಂಡ್ 3-4 ಉದ್ಯೋಗಿಗಳು ಸ್ವತಂತ್ರವಾಗಿ ಯೋಜನೆ ಅಥವಾ ಸಣ್ಣ ತಂಡ ನಿರ್ವಹಿಸುತ್ತಾರೆ; ಬ್ಯಾಂಡ್ 5-6 ಉದ್ಯೋಗಿಗಳು ಬಹು ತಂಡ ಅಥವಾ ಕಾರ್ಯಕ್ಷೇತ್ರ ನಿರ್ವಹಿಸುತ್ತಾರೆ; ಬ್ಯಾಂಡ್ 7-8 ಉದ್ಯೋಗಿಗಳು ಒಂದು ಸಂಪೂರ್ಣ ವ್ಯಾಪಾರ ಘಟಕ ಅಥವಾ ಕಾರ್ಯತಂತ್ರಿಕ ಕ್ಷೇತ್ರಕ್ಕೆ ಹೊಣೆಗಾರರಾಗಿರುತ್ತಾರೆ."
+ },
+ {
+  "subject": "company_multiplier_table",
+  "aspect": "achievement_bands",
+  "value": "<70% to 0%; 70-79% to 40%; 80-89% to 65%; 90-99% to 85%; 100% to 100%; 101-110% to 115%; 111-120% to 130%; ≥121% to 150% cap",
+  "section": "3.1",
+  "page": 9,
+  "evidence": "| 70% ಕ್ಕಿಂತ ಕಡಿಮೆ | 0% (ಬೋನಸ್ ಪೂಲ್ ಇಲ್ಲ) | | 70% – 79% | 40% | | 80% – 89% | 65% |"
+ },
+ {
+  "subject": "company_multiplier_weighting",
+  "aspect": "revenue_profit_split",
+  "value": "revenue achievement and profit achievement equally weighted at 50% each",
+  "section": "3.1",
+  "page": 8,
+  "evidence": "ಇದಕ್ಕೆ ಪ್ರಮುಖ ಮೆಟ್ರಿಕ್ ಆಗಿ ಆದಾಯ (ರೆವೆನ್ಯೂ) ಸಾಧನೆ ಮತ್ತು ಲಾಭ (ಪ್ರಾಫಿಟ್) ಸಾಧನೆ ಎರಡನ್ನೂ ಸಮಾನ ತೂಕದೊಂದಿಗೆ (ತಲಾ 50%) ಬಳಸಲಾಗುತ್ತದೆ."
+ },
+ {
+  "subject": "support_function_multiplier_blend",
+  "aspect": "weighting",
+  "value": "support function employees get corporate multiplier 70% + relevant business unit multiplier 30%; direct BU employees get unit 70% + corporate 30%",
+  "section": "3.1",
+  "page": 9,
+  "evidence": "ಬಹು ವ್ಯಾಪಾರ ಘಟಕಗಳನ್ನು ಹೊಂದಿರುವ ಕಂಪನಿಯಾದ್ದರಿಂದ, ಕಾರ್ಪೊರೇಟ್ ಹಂತದ ಗುಣಕ (ಒಟ್ಟಾರೆ ಕಂಪನಿಯ ಫಲಿತಾಂಶ) ಮತ್ತು ವ್ಯಾಪಾರ ಘಟಕ-ಮಟ್ಟದ ಗುಣಕ (ಆ ನಿರ್ದಿಷ್ಟ ಘಟಕದ ಫಲಿತಾಂಶ) ಎರಡನ್ನೂ ಪ್ರತ್ಯೇಕವಾಗಿ ಗಣಿಸಲಾಗುತ್ತದೆ; ಬೆಂಬಲ ಕಾರ್ಯಗಳಲ್ಲಿ (ಹ್ಯೂಮನ್ ರಿಸೋರ್ಸ್, ಫೈನಾನ್ಸ್, ಐಟಿ) ಕೆಲಸ ಮಾಡುವ ಉದ್ಯೋಗಿಗಳಿಗೆ ಕಾರ್ಪೊರೇಟ್ ಗುಣಕ 70%, ಸಂಬಂಧಿತ ವ್ಯಾಪಾರ ಘಟಕ ಗುಣಕ 30% ತೂಕದೊಂದಿಗೆ ಮಿಶ್ರಣಗೊಳ್ಳುತ್ತದೆ, ಆದರೆ ನೇರ ವ್ಯಾಪಾರ ಘಟಕದ ಉದ್ಯೋಗಿಗಳಿಗೆ ಅದರ ಘಟಕದ ಗುಣಕಕ್ಕೆ 70% ಮತ್ತು ಕಾರ್ಪೊರೇಟ್ ಗುಣಕಕ್ಕೆ 30% ತೂಕ ನೀಡಲಾಗುತ್ತದೆ."
+ },
+ {
+  "subject": "bonus_pool_cascade_example",
+  "aspect": "digital_solutions_case",
+  "value": "total target pool Rs 50,00,00,000, company multiplier 115% = actual pool Rs 57,50,00,000; Digital Solutions unit target 20% = Rs 10,00,00,000, unit multiplier 130%, blended 30:70 = 125.5%, unit actual pool Rs 12,55,00,000",
+  "section": "3.2",
+  "page": 10,
+  "evidence": "ಈ ಘಟಕ ತನ್ನ ಸ್ವಂತ ಬಜೆಟ್‌ಗೆ 125% ಸಾಧನೆ ಮಾಡಿದ್ದರಿಂದ, ಅದರ ಘಟಕ ಗುಣಕ 130%. ಕಾರ್ಪೊರೇಟ್ ಮತ್ತು ಘಟಕ ಗುಣಕಗಳನ್ನು 30:70 ಅನುಪಾತದಲ್ಲಿ (ನೇರ ವ್ಯಾಪಾರ ಘಟಕ ಉದ್ಯೋಗಿಗಳಿಗೆ) ಮಿಶ್ರಣ ಮಾಡಿದಾಗ: (115% × 30%) + (130% × 70%) = 34.5% + 91% = 125.5%. ಹಾಗಾಗಿ ಈ ಘಟಕದ ವಾಸ್ತವಿಕ ಪೂಲ್ = ₹10,00,00,000 × 125.5% = ₹12,55,00,000."
+ },
+ {
+  "subject": "cloud_operations_team_example",
+  "aspect": "individual_distribution",
+  "value": "team pool Rs 1,00,40,000; Member A target Rs1,20,000 rating4(125%) = Rs1,88,250; Member B target Rs1,50,000 rating3(100%) = Rs1,88,250; Member C target Rs1,80,000 rating5(150%) = Rs3,38,850",
+  "section": "3.2.1",
+  "page": 10,
+  "evidence": "\"ಕ್ಲೌಡ್ ಆಪರೇಷನ್ಸ್\" ತಂಡದ ಪೂಲ್ ₹1,00,40,000 (ವಿಭಾಗ 3.2ರಲ್ಲಿ ಗಣಿಸಲಾಗಿದೆ) ಎಂದಿಟ್ಟುಕೊಂಡು, ಈ ತಂಡದ ಮೂವರು ಸದಸ್ಯರ ಗುರಿ ಬೋನಸ್ ಮೊತ್ತ ಮತ್ತು ವೈಯಕ್ತಿಕ ಗುಣಕ ಹೀಗಿದೆ ಎಂದಿಟ್ಟುಕೊಳ್ಳೋಣ: ಸದಸ್ಯ A — ಗುರಿ ಮೊತ್ತ ₹1,20,000, ರೇಟಿಂಗ್ 4 (125%); ಸದಸ್ಯ B — ಗುರಿ ಮೊತ್ತ ₹1,50,000, ರೇಟಿಂಗ್ 3 (100%); ಸದಸ್ಯ C — ಗುರಿ ಮೊತ್ತ ₹1,80,000, ರೇಟಿಂಗ್ 5 (150%). ಘಟಕ-ಮಟ್ಟದ ಮಿಶ್ರ ಗುಣಕ 125.5% (ವಿಭಾಗ 3.2ರಲ್ಲಿ ಗಣಿಸಲಾಗಿದೆ) ಎಂದಿಟ್ಟುಕೊಂಡು, ಪ್ರತಿ ಸದಸ್ಯನ ಬೋನಸ್ = ಗುರಿ ಮೊತ್ತ × 125.5% × ವೈಯಕ್ತಿಕ ಗುಣಕ: ಸದಸ್ಯ A = ₹1,20,000 × 1.255 × 1.25 = ₹1,88,250; ಸದಸ್ಯ B = ₹1,50,000 × 1.255 × 1.00 = ₹1,88,250; ಸದಸ್ಯ C = ₹1,80,000 × 1.255 × 1.50 = ₹3,38,850."
+ },
+ {
+  "subject": "multi_year_smoothing_formula",
+  "aspect": "weighting",
+  "value": "current year raw achievement 85% weight + previous year final multiplier 15% weight; zero floor exempt from smoothing",
+  "section": "3.3",
+  "page": 11,
+  "evidence": "ಒಂದೇ ವರ್ಷದ ಹಣಕಾಸು ಫಲಿತಾಂಶದ ತೀವ್ರ ಏರಿಳಿತಗಳಿಂದ ಬೋನಸ್ ಪೂಲ್ ಅತಿಯಾಗಿ ವ್ಯತ್ಯಾಸಗೊಳ್ಳುವುದನ್ನು ತಪ್ಪಿಸಲು, ಕಂಪನಿ ಕಂಪನಿ ಗುಣಕ ಗಣನೆಯಲ್ಲಿ ಒಂದು ಸಣ್ಣ ಸುಗಮೀಕರಣ ಅಂಶವನ್ನು ಅಳವಡಿಸಿದೆ: ಅಂತಿಮ ಕಂಪನಿ ಗುಣಕವನ್ನು ಪ್ರಸಕ್ತ ವರ್ಷದ ಸಾಧನೆಯ 85% ತೂಕ ಮತ್ತು ಹಿಂದಿನ ವರ್ಷದ ಗುಣಕದ 15% ತೂಕದೊಂದಿಗೆ ಮಿಶ್ರಣ ಮಾಡಲಾಗುತ್ತದೆ."
+ },
+ {
+  "subject": "smoothing_example",
+  "aspect": "calculation",
+  "value": "current raw 140%, previous final 100% -> smoothed = (140x0.85)+(100x0.15) = 134%",
+  "section": "3.3",
+  "page": 11,
+  "evidence": "ಉದಾಹರಣೆ: ಪ್ರಸಕ್ತ ವರ್ಷದ ಕಚ್ಚಾ ಗುಣಕ 140% ಆಗಿದ್ದರೆ ಮತ್ತು ಹಿಂದಿನ ವರ್ಷದ ಅಂತಿಮ ಗುಣಕ 100% ಆಗಿದ್ದರೆ, ಸುಗಮೀಕೃತ ಅಂತಿಮ ಗುಣಕ = (140% × 85%) + (100% × 15%) = 119% + 15% = 134%."
+ },
+ {
+  "subject": "smoothing_introduction",
+  "aspect": "origin",
+  "value": "introduced 2021 after severe 2020-21 economic downturn caused extreme bonus volatility in recovery year",
+  "section": "3.3.1",
+  "page": 11,
+  "evidence": "ಈ ಬಹು-ವರ್ಷದ ಸುಗಮೀಕರಣ ಕಾರ್ಯವಿಧಾನವನ್ನು ಕಂಪನಿ 2021ರಲ್ಲಿ, ಒಂದು ತೀವ್ರ ಆರ್ಥಿಕ ಹಿಂಜರಿತ ವರ್ಷದ ಬಳಿಕ ಪರಿಚಯಿಸಿತು. ಆ ವರ್ಷಕ್ಕಿಂತ ಮೊದಲು, ಕಂಪನಿ ಗುಣಕವನ್ನು ಸಂಪೂರ್ಣವಾಗಿ ಆ ಒಂದು ವರ್ಷದ ಫಲಿತಾಂಶದ ಮೇಲೆ ಮಾತ್ರ ಆಧರಿಸುತ್ತಿತ್ತು, ಇದರಿಂದ ಒಂದು ಕೆಟ್ಟ ವರ್ಷದ ಬಳಿಕದ ಚೇತರಿಕೆ ವರ್ಷದಲ್ಲಿ ಉದ್ಯೋಗಿಗಳ ಬೋನಸ್ ಅತಿ ತೀವ್ರವಾಗಿ ಏರಿಳಿತಗೊಳ್ಳುತ್ತಿತ್ತು."
+ },
+ {
+  "subject": "business_units_list",
+  "aspect": "five_units",
+  "value": "Digital Solutions, Enterprise Systems, Cloud & Infrastructure, Data & Analytics, Customer Support Services",
+  "section": "3.4",
+  "page": 12,
+  "evidence": "ಕಂಪನಿಯಲ್ಲಿ ಪ್ರಸ್ತುತ ಐದು ಪ್ರಮುಖ ವ್ಯಾಪಾರ ಘಟಕಗಳಿವೆ: ಡಿಜಿಟಲ್ ಸೊಲ್ಯೂಷನ್ಸ್, ಎಂಟರ್‌ಪ್ರೈಸ್ ಸಿಸ್ಟಮ್ಸ್, ಕ್ಲೌಡ್ ಆಂಡ್ ಇನ್ಫ್ರಾಸ್ಟ್ರಕ್ಚರ್, ಡೇಟಾ ಆಂಡ್ ಅನಾಲಿಟಿಕ್ಸ್, ಮತ್ತು ಗ್ರಾಹಕ ಬೆಂಬಲ ಸೇವೆಗಳು."
+ },
+ {
+  "subject": "employee_distribution_by_unit",
+  "aspect": "representative_percentages",
+  "value": "Digital Solutions ~22%, Enterprise Systems ~20%, Cloud & Infrastructure ~18%, Data & Analytics ~15%, Customer Support Services ~17%, Support Functions ~8%",
+  "section": "3.4",
+  "page": 12,
+  "evidence": "ಪ್ರಾತಿನಿಧಿಕ ಉದ್ಯೋಗಿ ವಿತರಣೆ: ಡಿಜಿಟಲ್ ಸೊಲ್ಯೂಷನ್ಸ್ (~22%), ಎಂಟರ್‌ಪ್ರೈಸ್ ಸಿಸ್ಟಮ್ಸ್ (~20%), ಕ್ಲೌಡ್ ಆಂಡ್ ಇನ್ಫ್ರಾಸ್ಟ್ರಕ್ಚರ್ (~18%), ಡೇಟಾ ಆಂಡ್ ಅನಾಲಿಟಿಕ್ಸ್ (~15%), ಗ್ರಾಹಕ ಬೆಂಬಲ ಸೇವೆಗಳು (~17%), ಮತ್ತು ಬೆಂಬಲ ಕಾರ್ಯಗಳು (~8%)."
+ },
+ {
+  "subject": "underperforming_unit_example",
+  "aspect": "enterprise_systems_case",
+  "value": "unit achieved 82% of budget (65% multiplier), target pool Rs 8,00,00,000, blended (115x0.3)+(65x0.7)=80%, actual pool Rs 6,40,00,000, Rs 1,60,00,000 less than target",
+  "section": "3.5",
+  "page": 12,
+  "evidence": "ಕಾರ್ಪೊರೇಟ್ ಗುಣಕ (ಅದೇ ವರ್ಷದ) 115% ಎಂದು ಈಗಾಗಲೇ ಗಣಿಸಲಾಗಿದೆ. ಮಿಶ್ರ ಗುಣಕ = (115% × 30%) + (65% × 70%) = 34.5% + 45.5% = 80%. ಈ ಘಟಕದ ವಾಸ್ತವಿಕ ಪೂಲ್ = ₹8,00,00,000 × 80% = ₹6,40,00,000 — ಅಂದರೆ ಗುರಿ ಪೂಲ್‌ಗಿಂತ ₹1,60,00,000 ಕಡಿಮೆ."
+ },
+ {
+  "subject": "individual_performance_multiplier_table",
+  "aspect": "five_ratings",
+  "value": "Rating5 Exceptional 150%; Rating4 Exceeds Expectations 125%; Rating3 Meets Expectations 100%; Rating2 Partially Meets 60%; Rating1 Below Expectations 0%",
+  "section": "4",
+  "page": 13,
+  "evidence": "| 5 — ಅಸಾಧಾರಣ (Exceptional) | ಗುರಿಗಿಂತ ಗಮನೀಯವಾಗಿ ಮೀರಿದ ಸಾಧನೆ, ಸಂಸ್ಥೆಗೆ ಅಸಾಧಾರಣ ಪ್ರಭಾವ | 150% | | 4 — ಗುರಿ ಮೀರಿದ (Exceeds Expectations) | ಹೆಚ್ಚಿನ ಗುರಿಗಳನ್ನು ಮೀರಿ ಸಾಧಿಸಿದ, ಉತ್ತಮ ಗುಣಮಟ್ಟ | 125% | | 3 — ಗುರಿ ಸಾಧಿಸಿದ (Meets Expectations) | ನಿಗದಿತ ಎಲ್ಲಾ ಗುರಿಗಳನ್ನು ಸಾಧಿಸಿದ | 100% | | 2 — ಭಾಗಶಃ ಸಾಧಿಸಿದ (Partially Meets) | ಕೆಲವು ಗುರಿಗಳಲ್ಲಿ ಕೊರತೆ, ಸುಧಾರಣೆ ಅಗತ್ಯ | 60% | | 1 — ಗುರಿ ಸಾಧಿಸದ (Below Expectations) | ಹೆಚ್ಚಿನ ಗುರಿಗಳಲ್ಲಿ ಗಮನೀಯ ಕೊರತೆ | 0% |"
+ },
+ {
+  "subject": "forced_distribution_guideline",
+  "aspect": "team_over_15_members",
+  "value": "Rating5 max 10% of team; Rating4 max 25%; Rating3 ~50%; Rating2+1 combined remaining 15%",
+  "section": "4.1",
+  "page": 14,
+  "evidence": "ದೊಡ್ಡ ತಂಡಗಳಲ್ಲಿ ರೇಟಿಂಗ್ ಹಣದುಬ್ಬರ (Rating Inflation) ತಡೆಯಲು, ಕಂಪನಿ ಪ್ರತಿ 15ಕ್ಕಿಂತ ಹೆಚ್ಚು ಸದಸ್ಯರಿರುವ ತಂಡಗಳಿಗೆ ಒಂದು ಮಾರ್ಗದರ್ಶಿ ವಿತರಣಾ ಕರ್ವ್ ಅನ್ವಯಿಸುತ್ತದೆ (ಕಟ್ಟುನಿಟ್ಟಾದ ಬಲವಂತದ ರ್‍ಯಾಂಕಿಂಗ್ ಅಲ್ಲ, ಕೇವಲ ಮಾರ್ಗದರ್ಶಿ): ರೇಟಿಂಗ್ 5 — ಗರಿಷ್ಠ 10% ತಂಡ; ರೇಟಿಂಗ್ 4 — ಗರಿಷ್ಠ 25% ತಂಡ; ರೇಟಿಂಗ್ 3 — ಸುಮಾರು 50% ತಂಡ; ರೇಟಿಂಗ್ 2 ಮತ್ತು 1 — ಉಳಿದ 15%."
+ },
+ {
+  "subject": "new_employee_rating",
+  "aspect": "simplified_tiers",
+  "value": "employees with less than 6 months service get 3-tier evaluation (Exceeds/Meets/Below) mapped to 125%/100%/60%",
+  "section": "4.2",
+  "page": 14,
+  "evidence": "6 ತಿಂಗಳಿಗಿಂತ ಕಡಿಮೆ ಅವಧಿ ಕಾರ್ಯನಿರ್ವಹಿಸಿದ ಉದ್ಯೋಗಿಗಳಿಗೆ ಪೂರ್ಣ ಐದು-ಹಂತದ ರೇಟಿಂಗ್ ನೀಡುವ ಬದಲು, ಅವರ ಮ್ಯಾನೇಜರ್ ಒಂದು ಸರಳೀಕೃತ ಮೂರು-ಹಂತದ ಮೌಲ್ಯಮಾಪನ (ಗುರಿ ಮೀರಿದ / ಗುರಿ ಸಾಧಿಸಿದ / ಗುರಿ ಸಾಧಿಸದ) ನೀಡಬಹುದು, ಇದನ್ನು ಕ್ರಮವಾಗಿ 125%, 100% ಮತ್ತು 60% ವೈಯಕ್ತಿಕ ಗುಣಕಕ್ಕೆ ಮ್ಯಾಪ್ ಮಾಡಲಾಗುತ್ತದೆ."
+ },
+ {
+  "subject": "calibration_meeting",
+  "aspect": "purpose",
+  "value": "all managers and unit heads meet to equalize strict vs lenient managers; ratings final only after calibration",
+  "section": "4.3",
+  "page": 14,
+  "evidence": "ಈ ಸಭೆಯ ಉದ್ದೇಶ, ಒಂದೇ ಮಟ್ಟದ ಕಾರ್ಯಕ್ಷಮತೆಗೆ ವಿವಿಧ ಮ್ಯಾನೇಜರ್‌ಗಳು ವಿಭಿನ್ನ ರೇಟಿಂಗ್ ನೀಡದಂತೆ ಖಾತ್ರಿಪಡಿಸುವುದು — ಅಂದರೆ \"ಕಟ್ಟುನಿಟ್ಟಾದ\" ಮ್ಯಾನೇಜರ್ ಮತ್ತು \"ಮೃದುವಾದ\" ಮ್ಯಾನೇಜರ್ ನಡುವಿನ ವ್ಯತ್ಯಾಸವನ್ನು ಸಮೀಕರಿಸುವುದು. ಪ್ರತಿ ಮ್ಯಾನೇಜರ್ ತಮ್ಮ ಪ್ರಸ್ತಾಪಿತ ರೇಟಿಂಗ್‌ಗಳನ್ನು ನಿರ್ದಿಷ್ಟ ಉದಾಹರಣೆ ಮತ್ತು ದತ್ತಾಂಶದೊಂದಿಗೆ ಸಮರ್ಥಿಸಬೇಕು, ಮತ್ತು ಘಟಕ ಮುಖ್ಯಸ್ಥರು ಅಂತಿಮ ನಿರ್ಣಯ ತೆಗೆದುಕೊಳ್ಳುವ ಮೊದಲು ಈ ಎಲ್ಲಾ ಇನ್‌ಪುಟ್‌ಗಳನ್ನು ಪರಿಗಣಿಸುತ್ತಾರೆ. ಕ್ಯಾಲಿಬ್ರೇಷನ್ ಸಭೆ ಪೂರ್ಣಗೊಂಡ ಬಳಿಕವೇ ರೇಟಿಂಗ್‌ಗಳನ್ನು \"ಅಂತಿಮ\" ಎಂದು ಪರಿಗಣಿಸಲಾಗುತ್ತದೆ ಮತ್ತು ಬೋನಸ್ ಗಣನೆಗೆ ಇನ್‌ಪುಟ್ ಆಗಿ ಬಳಸಲಾಗುತ್ತದೆ."
+ },
+ {
+  "subject": "mid_year_manager_change",
+  "aspect": "rule",
+  "value": "each manager gives input for their supervision period; current manager compiles final recommendation",
+  "section": "4.4",
+  "page": 15,
+  "evidence": "ಒಬ್ಬ ಉದ್ಯೋಗಿ ಪರಿಶೀಲನಾ ವರ್ಷದಲ್ಲಿ ಒಂದಕ್ಕಿಂತ ಹೆಚ್ಚು ಮ್ಯಾನೇಜರ್‌ಗಳ ಅಡಿಯಲ್ಲಿ ಕಾರ್ಯನಿರ್ವಹಿಸಿದ್ದರೆ (ಮ್ಯಾನೇಜರ್ ಬದಲಾವಣೆಯಾದ ಕಾರಣ, ಉದ್ಯೋಗಿ ಸ್ವತಃ ಘಟಕ ಬದಲಾಯಿಸದಿದ್ದರೂ), ಪ್ರತಿ ಮ್ಯಾನೇಜರ್ ತಾವು ಮೇಲ್ವಿಚಾರಣೆ ನಡೆಸಿದ ಅವಧಿಗೆ ಅನುಗುಣವಾದ ಕಾರ್ಯಕ್ಷಮತೆ ಇನ್‌ಪುಟ್ ನೀಡುತ್ತಾರೆ. ಹಾಲಿ ಮ್ಯಾನೇಜರ್ (ಪರಿಶೀಲನಾ ವರ್ಷದ ಕೊನೆಯಲ್ಲಿ) ಈ ಎಲ್ಲಾ ಇನ್‌ಪುಟ್‌ಗಳನ್ನು ಸಂಕಲಿಸಿ ಅಂತಿಮ ಶಿಫಾರಸು ಸಲ್ಲಿಸುವ ಹೊಣೆ ಹೊರುತ್ತಾರೆ ಮತ್ತು ಕ್ಯಾಲಿಬ್ರೇಷನ್ ಸಭೆಯಲ್ಲಿ ಅದನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತಾರೆ."
+ },
+ {
+  "subject": "final_bonus_formula",
+  "aspect": "formula",
+  "value": "Final Bonus = Bonus Base x Target Bonus % x Combined Company Multiplier x Individual Multiplier x Service-period Proration Factor (multiplicative design)",
+  "section": "5.1",
+  "page": 15,
+  "evidence": "ಅಂತಿಮ ಬೋನಸ್ = ಬೋನಸ್ ಬೇಸ್ (ವಾರ್ಷಿಕ ಮೂಲ ವೇತನ) × ಗುರಿ ಬೋನಸ್ % × ಸಂಯೋಜಿತ ಕಂಪನಿ ಗುಣಕ × ವೈಯಕ್ತಿಕ ಗುಣಕ × ಸೇವಾ ಅವಧಿ ಪ್ರೋ-ರೇಶನ್ ಅಂಶ"
+ },
+ {
+  "subject": "bonus_base_definition",
+  "aspect": "definition",
+  "value": "annual base salary applicable as of March 31 of review year; prorated average if mid-year increase",
+  "section": "5.1",
+  "page": 15,
+  "evidence": "ಇಲ್ಲಿ \"ಬೋನಸ್ ಬೇಸ್\" ಎಂದರೆ ಪರಿಶೀಲನಾ ವರ್ಷದ 31 ಮಾರ್ಚ್‌ಗೆ ಅನ್ವಯವಾಗುವ ವಾರ್ಷಿಕ ಮೂಲ ವೇತನ (ಯಾವುದೇ ವರ್ಷದ ಮಧ್ಯೆ ವೇತನ ಹೆಚ್ಚಳವಾಗಿದ್ದರೆ, ಪ್ರೋ-ರೇಟೆಡ್ ಸರಾಸರಿ ಬೇಸ್ ಬಳಸಲಾಗುತ್ತದೆ)."
+ },
+ {
+  "subject": "example1_kavya",
+  "aspect": "calculation",
+  "value": "Associate Band1, base Rs6,00,000, target8%, company115%, individual150%, proration1.0 = Rs82,800 (172.5% of target)",
+  "section": "5.2",
+  "page": 16,
+  "evidence": "ಗಣನೆ: ₹6,00,000 × 8% × 115% × 150% × 1.0 = ₹6,00,000 × 0.08 × 1.15 × 1.50 = ₹82,800. ಹಾಗಾಗಿ ಕಾವ್ಯಾರ ಗುರಿ ಬೋನಸ್ ಮೊತ್ತ ₹48,000 ಇದ್ದರೂ (₹6,00,000 × 8%), ಕಂಪನಿಯ ಉತ್ತಮ ಫಲಿತಾಂಶ ಮತ್ತು ಅವರ ಅಸಾಧಾರಣ ವೈಯಕ್ತಿಕ ಸಾಧನೆಯಿಂದಾಗಿ ಅವರು ₹82,800 ಪಡೆಯುತ್ತಾರೆ — ಗುರಿ ಮೊತ್ತದ 172.5%."
+ },
+ {
+  "subject": "example2_rohit",
+  "aspect": "calculation",
+  "value": "Manager Band4, base Rs15,00,000, target15%, company100%, individual100%, proration1.0 = Rs2,25,000 (equals target)",
+  "section": "5.3",
+  "page": 16,
+  "evidence": "ಗಣನೆ: ₹15,00,000 × 15% × 100% × 100% × 1.0 = ₹2,25,000 × 1.0 × 1.0 = ₹2,25,000. ರೋಹಿತ್‌ಗೆ ಗುರಿ ಬೋನಸ್ ಮೊತ್ತವೇ ಅವರ ಅಂತಿಮ ಬೋನಸ್ ಆಗಿದೆ, ಏಕೆಂದರೆ ಕಂಪನಿ ಮತ್ತು ಅವರ ವೈಯಕ್ತಿಕ ಸಾಧನೆ ಎರಡೂ ನಿಖರವಾಗಿ \"ಗುರಿ\" ಮಟ್ಟದಲ್ಲಿದೆ."
+ },
+ {
+  "subject": "example3_anita",
+  "aspect": "calculation",
+  "value": "GM Band6, base Rs40,00,000, target25%, company130%, individual60%, proration1.0 = Rs7,80,000 (78% of target)",
+  "section": "5.4",
+  "page": 16,
+  "evidence": "ಗಣನೆ: ₹40,00,000 × 25% × 130% × 60% × 1.0 = ₹10,00,000 × 1.30 × 0.60 = ₹7,80,000. ಗುರಿ ಬೋನಸ್ ಮೊತ್ತ ₹10,00,000 ಆಗಿದ್ದರೂ, ಅನಿತಾರ ಕಡಿಮೆ ವೈಯಕ್ತಿಕ ರೇಟಿಂಗ್‌ನಿಂದಾಗಿ ಅವರ ಅಂತಿಮ ಬೋನಸ್ ₹7,80,000ಗೆ ಇಳಿದಿದೆ — ಗುರಿ ಮೊತ್ತದ 78%."
+ },
+ {
+  "subject": "example4_priyanka",
+  "aspect": "calculation",
+  "value": "Senior Associate Band2, joined Nov1 2025, worked151days proration0.4137, base Rs7,20,000, target10%, company85%, individual125% = approx Rs31,634",
+  "section": "5.5",
+  "page": 17,
+  "evidence": "ಗಣನೆ: ₹7,20,000 × 10% × 85% × 125% × 0.4137 = ₹72,000 × 0.85 × 1.25 × 0.4137 = ₹31,634 (ಸುಮಾರು)."
+ },
+ {
+  "subject": "sensitivity_analysis",
+  "aspect": "compounding_effect",
+  "value": "two factors going 100%->150% simultaneously gives 2.25x total, not 3x, due to multiplicative formula",
+  "section": "5.6",
+  "page": 17,
+  "evidence": "ಉದಾಹರಣೆಗೆ, ಕಂಪನಿ ಗುಣಕ 100%ದಿಂದ 150%ಗೆ (1.5 ಪಟ್ಟು) ಮತ್ತು ವೈಯಕ್ತಿಕ ಗುಣಕ 100%ದಿಂದ 150%ಗೆ (1.5 ಪಟ್ಟು) ಏರಿದರೆ, ಒಟ್ಟು ಬೋನಸ್ ಮೊತ್ತ 2.25 ಪಟ್ಟು (1.5 × 1.5) ಹೆಚ್ಚಾಗುತ್ತದೆ, 3 ಪಟ್ಟು ಅಲ್ಲ."
+ },
+ {
+  "subject": "minimum_service_eligibility",
+  "aspect": "threshold",
+  "value": "minimum 90 days service in review year required for prorated bonus; below 90 days = zero bonus",
+  "section": "6.1",
+  "page": 17,
+  "evidence": "ಪ್ರೋ-ರೇಟೆಡ್ ಬೋನಸ್‌ಗೆ ಅರ್ಹರಾಗಲು, ಉದ್ಯೋಗಿ ಪರಿಶೀಲನಾ ವರ್ಷದಲ್ಲಿ (1 ಏಪ್ರಿಲ್ – 31 ಮಾರ್ಚ್) ಕನಿಷ್ಠ 90 ದಿನಗಳ ಸೇವೆ ಪೂರ್ಣಗೊಳಿಸಿರಬೇಕು. 90 ದಿನಗಳಿಗಿಂತ ಕಡಿಮೆ ಸೇವೆ ಇರುವ ಉದ್ಯೋಗಿಗಳಿಗೆ ಆ ವರ್ಷಕ್ಕೆ ಯಾವುದೇ ಕಾರ್ಯಕ್ಷಮತೆ ಬೋನಸ್ ಪಾವತಿಯಾಗುವುದಿಲ್ಲ (ಅವರ ಕಾರ್ಯಕ್ಷಮತೆ ಮೌಲ್ಯಮಾಪನಕ್ಕೆ ಸಾಕಷ್ಟು ದತ್ತಾಂಶ ಇರುವುದಿಲ್ಲ ಎಂಬ ಕಾರಣಕ್ಕೆ)."
+ },
+ {
+  "subject": "mid_year_joiner_proration_table",
+  "aspect": "examples",
+  "value": "Apr1 full year 1.000; Jul1 274 days 0.7507; Oct1 182 days 0.4986; Jan1 90 days 0.2466; Feb1 59 days 0.1616(ineligible); Dec15 107 days 0.2932",
+  "section": "6.2",
+  "page": 18,
+  "evidence": "| 1 ಏಪ್ರಿಲ್ 2025 (ಪೂರ್ಣ ವರ್ಷ) | 365 | 1.000 | | 1 ಜುಲೈ 2025 | 274 | 0.7507 | | 1 ಅಕ್ಟೋಬರ್ 2025 | 182 | 0.4986 |"
+ },
+ {
+  "subject": "long_leave_proration",
+  "aspect": "rule",
+  "value": "continuous leave >60 days (maternity, sick, sabbatical) prorated by days actually worked; rating based only on worked period",
+  "section": "6.3",
+  "page": 18,
+  "evidence": "ಪರಿಶೀಲನಾ ವರ್ಷದಲ್ಲಿ 60 ದಿನಗಳಿಗಿಂತ ಹೆಚ್ಚು ಸತತ ದೀರ್ಘಾವಧಿ ರಜೆಯಲ್ಲಿದ್ದ ಉದ್ಯೋಗಿಗಳಿಗೆ (ಉದಾಹರಣೆಗೆ ಹೆರಿಗೆ ರಜೆ, ವಿಸ್ತೃತ ಅನಾರೋಗ್ಯ ರಜೆ, ಅಥವಾ ಸ್ಯಾಬ್ಯಾಟಿಕಲ್) ಬೋನಸ್ ಅನ್ನು ಅವರ ಕಾರ್ಯನಿರ್ವಹಣಾ ದಿನಗಳ ಅನುಪಾತದಲ್ಲಿ ಪ್ರೋ-ರೇಟ್ ಮಾಡಲಾಗುತ್ತದೆ, ಅಂದರೆ ರಜೆಯ ಅವಧಿಯನ್ನು ಬೋನಸ್ ಗಣನೆಯ \"ದಿನಗಳ ಜನಸಂಖ್ಯೆ\"ಯಿಂದ ಹೊರಗಿಡಲಾಗುತ್ತದೆ, ಆದರೆ ಅವರ ಕಾರ್ಯಕ್ಷಮತೆ ರೇಟಿಂಗ್ ಅನ್ನು ಕಾರ್ಯನಿರ್ವಹಿಸಿದ ಅವಧಿಯ ಆಧಾರದ ಮೇಲೆ ಮಾತ್ರ ಮೌಲ್ಯಮಾಪನ ಮಾಡಲಾಗುತ್ತದೆ."
+ },
+ {
+  "subject": "deepika_maternity_example",
+  "aspect": "case",
+  "value": "maternity leave June1-Nov30 2025 (183 days), worked182 of365 days, proration0.4986, rating based only on 182 worked days",
+  "section": "6.3",
+  "page": 19,
+  "evidence": "ಉದಾಹರಣೆ: ದೀಪಿಕಾ ಎಂಬ ಹಿರಿಯ ಕಾರ್ಯನಿರ್ವಾಹಕ ಹೆರಿಗೆ ರಜೆಯ ಮೇಲೆ 1 ಜೂನ್ 2025ರಿಂದ 30 ನವೆಂಬರ್ 2025ರವರೆಗೆ (183 ದಿನಗಳು) ರಜೆಯಲ್ಲಿದ್ದರು. ಪರಿಶೀಲನಾ ವರ್ಷದ 365 ದಿನಗಳಲ್ಲಿ 182 ದಿನಗಳು ಅವರು ಕಾರ್ಯನಿರ್ವಹಿಸಿದ್ದಾರೆ. ಪ್ರೋ-ರೇಶನ್ ಅಂಶ = 182/365 = 0.4986."
+ },
+ {
+  "subject": "exit_before_payment_rule",
+  "aspect": "ineligibility",
+  "value": "no bonus for voluntary resignation or performance-dismissal before payment date, regardless of days worked, with 3 exceptions",
+  "section": "6.4",
+  "page": 19,
+  "evidence": "ಕಂಪನಿಯ ಸ್ಪಷ್ಟ ನಿಯಮವೇನೆಂದರೆ: ಬೋನಸ್ ಪಾವತಿ ದಿನಾಂಕದ ಮೊದಲು (ಸಾಮಾನ್ಯವಾಗಿ ಮೇ ಅಂತ್ಯ, ವಿಭಾಗ 7ರಲ್ಲಿ ವಿವರಿಸಲಾಗಿದೆ) ಸ್ವಯಂ ನಿರ್ಗಮನ ಮಾಡಿದ ಅಥವಾ ಪ್ರದರ್ಶನ-ಸಂಬಂಧಿತ ಕಾರಣಗಳಿಗಾಗಿ ಸೇವೆಯಿಂದ ವಜಾಗೊಳಿಸಲ್ಪಟ್ಟ ಉದ್ಯೋಗಿಗಳಿಗೆ ಯಾವುದೇ ಕಾರ್ಯಕ್ಷಮತೆ ಬೋನಸ್ ಪಾವತಿಯಾಗುವುದಿಲ್ಲ, ಅವರು ಎಷ್ಟೇ ದಿನಗಳ ಕಾಲ ಆ ಪರಿಶೀಲನಾ ವರ್ಷದಲ್ಲಿ ಕಾರ್ಯನಿರ್ವಹಿಸಿದ್ದರೂ ಸಹ. ಇದಕ್ಕೆ ಮೂರು ಸ್ಪಷ್ಟ ವಿನಾಯಿತಿಗಳಿವೆ: (1) ನಿವೃತ್ತಿ (Retirement) — ಕಂಪನಿಯ ನಿವೃತ್ತಿ ವಯಸ್ಸನ್ನು ತಲುಪಿ ನಿವೃತ್ತರಾದ ಉದ್ಯೋಗಿಗಳಿಗೆ ಪ್ರೋ-ರೇಟೆಡ್ ಬೋನಸ್ ಪಾವತಿಯಾಗುತ್ತದೆ; (2) ಸೇವೆಯಲ್ಲಿ ಮರಣ (Death-in-Service) — ಅಂತಹ ಪ್ರಕರಣಗಳಲ್ಲಿ, ಪ್ರೋ-ರೇಟೆಡ್ ಬೋನಸ್ ಮೊತ್ತವನ್ನು ನಾಮನಿರ್ದೇಶಿತ ವ್ಯಕ್ತಿ ಅಥವಾ ಕಾನೂನುಬದ್ಧ ಉತ್ತರಾಧಿಕಾರಿಗೆ ಪಾವತಿಸಲಾಗುತ್ತದೆ; (3) ಕಂಪನಿ-ಪ್ರಾಯೋಜಿತ ಮರುಸಂಘಟನೆ (Redundancy/Restructuring) — ಕಂಪನಿಯ ಸಾಂಸ್ಥಿಕ ಪುನರ್ರಚನೆಯಿಂದಾಗಿ ಹುದ್ದೆ ರದ್ದಾದ ಉದ್ಯೋಗಿಗಳಿಗೆ, ಪ್ರೋ-ರೇಟೆಡ್ ಬೋನಸ್ ಅವರ ವಿಚ್ಛೇದನ ಪ್ಯಾಕೇಜ್‌ನ ಭಾಗವಾಗಿ ಪರಿಗಣಿಸಲಾಗುತ್ತದೆ."
+ },
+ {
+  "subject": "exit_eligibility_exceptions",
+  "aspect": "three_cases",
+  "value": "retirement gets prorated bonus; death-in-service prorated bonus to nominee/legal heir; company-sponsored restructuring/redundancy prorated bonus as part of severance",
+  "section": "6.4",
+  "page": 19,
+  "evidence": "ಇದಕ್ಕೆ ಮೂರು ಸ್ಪಷ್ಟ ವಿನಾಯಿತಿಗಳಿವೆ: (1) ನಿವೃತ್ತಿ (Retirement) — ಕಂಪನಿಯ ನಿವೃತ್ತಿ ವಯಸ್ಸನ್ನು ತಲುಪಿ ನಿವೃತ್ತರಾದ ಉದ್ಯೋಗಿಗಳಿಗೆ ಪ್ರೋ-ರೇಟೆಡ್ ಬೋನಸ್ ಪಾವತಿಯಾಗುತ್ತದೆ; (2) ಸೇವೆಯಲ್ಲಿ ಮರಣ (Death-in-Service) — ಅಂತಹ ಪ್ರಕರಣಗಳಲ್ಲಿ, ಪ್ರೋ-ರೇಟೆಡ್ ಬೋನಸ್ ಮೊತ್ತವನ್ನು ನಾಮನಿರ್ದೇಶಿತ ವ್ಯಕ್ತಿ ಅಥವಾ ಕಾನೂನುಬದ್ಧ ಉತ್ತರಾಧಿಕಾರಿಗೆ ಪಾವತಿಸಲಾಗುತ್ತದೆ; (3) ಕಂಪನಿ-ಪ್ರಾಯೋಜಿತ ಮರುಸಂಘಟನೆ (Redundancy/Restructuring) — ಕಂಪನಿಯ ಸಾಂಸ್ಥಿಕ ಪುನರ್ರಚನೆಯಿಂದಾಗಿ ಹುದ್ದೆ ರದ್ದಾದ ಉದ್ಯೋಗಿಗಳಿಗೆ, ಪ್ರೋ-ರೇಟೆಡ್ ಬೋನಸ್ ಅವರ ವಿಚ್ಛೇದನ ಪ್ಯಾಕೇಜ್‌ನ ಭಾಗವಾಗಿ ಪರಿಗಣಿಸಲಾಗುತ್ತದೆ."
+ },
+ {
+  "subject": "death_in_service_payment",
+  "aspect": "process",
+  "value": "HR coordinates with family, verifies death certificate and nomination form, prioritizes payment within 30 days if possible, combined with gratuity/F&F",
+  "section": "6.4",
+  "page": 19,
+  "evidence": "ಸೇವೆಯಲ್ಲಿ ಮರಣ ಪ್ರಕರಣಗಳಲ್ಲಿ, ಹ್ಯೂಮನ್ ರಿಸೋರ್ಸ್ ವಿಭಾಗ ಕುಟುಂಬದೊಂದಿಗೆ ನೇರ ಸಂಪರ್ಕದಲ್ಲಿ, ಅಗತ್ಯ ದಾಖಲೆಗಳ (ಮರಣ ಪ್ರಮಾಣಪತ್ರ, ನಾಮನಿರ್ದೇಶನ ಫಾರ್ಮ್) ಪರಿಶೀಲನೆಯ ಬಳಿಕ, ಪ್ರೋ-ರೇಟೆಡ್ ಬೋನಸ್ ಮೊತ್ತವನ್ನು ಗ್ರಾಚ್ಯುಟಿ ಮತ್ತು ಇತರ ಅಂತಿಮ ಇತ್ಯರ್ಥ (Full and Final Settlement) ಮೊತ್ತದೊಂದಿಗೆ ಒಟ್ಟಾಗಿ, ಸಾಮಾನ್ಯ ಪ್ರಕ್ರಿಯೆಗಿಂತ ಶೀಘ್ರವಾಗಿ (ಸಾಧ್ಯವಾದಲ್ಲಿ 30 ದಿನಗಳ ಒಳಗೆ) ಪಾವತಿಸಲು ಆದ್ಯತೆ ನೀಡಲಾಗುತ್ತದೆ."
+ },
+ {
+  "subject": "internal_transfer_blended_multiplier",
+  "aspect": "mohan_example",
+  "value": "transferred Data & Analytics to Digital Solutions July1 2025; unit1 multiplier90%(91 days), unit2 multiplier120%(274 days); blended=(90x91/365)+(120x274/365)=112.4%",
+  "section": "6.5",
+  "page": 20,
+  "evidence": "ಮೊದಲ ಘಟಕದ ಗುಣಕ 90%, ಎರಡನೆಯ ಘಟಕದ ಗುಣಕ 120% ಎಂದಿಟ್ಟುಕೊಳ್ಳೋಣ. ಮೋಹನ್ 91 ದಿನ ಮೊದಲ ಘಟಕದಲ್ಲಿ ಮತ್ತು 274 ದಿನ ಎರಡನೆಯ ಘಟಕದಲ್ಲಿ ಕಾರ್ಯನಿರ್ವಹಿಸಿದ್ದಾರೆ. ಮಿಶ್ರ ಗುಣಕ = (90% × 91/365) + (120% × 274/365) = 22.4% + 90.0% = 112.4%."
+ },
+ {
+  "subject": "rejoiner_rule",
+  "aspect": "service_treatment",
+  "value": "prior service not counted for bonus eligibility; treated as new employee from rejoin date, mid-year proration applies",
+  "section": "6.6",
+  "page": 20,
+  "evidence": "ಈ ಹಿಂದೆ ಕಂಪನಿ ಬಿಟ್ಟು ಮರಳಿ ಸೇರ್ಪಡೆಗೊಂಡ ಉದ್ಯೋಗಿಗಳಿಗೆ, ಅವರ ಹಿಂದಿನ ಸೇವಾ ಅವಧಿಯನ್ನು ಬೋನಸ್ ಅರ್ಹತೆಗಾಗಿ ಪರಿಗಣಿಸಲಾಗುವುದಿಲ್ಲ — ಅವರನ್ನು ಹೊಸ ಸೇರ್ಪಡೆ ದಿನಾಂಕದಿಂದ ಹೊಸ ಉದ್ಯೋಗಿಯಂತೆಯೇ ಪರಿಗಣಿಸಿ, ಮಧ್ಯ-ವರ್ಷದ ಸೇರ್ಪಡೆದಾರರ ಪ್ರೋ-ರೇಶನ್ ನಿಯಮವನ್ನೇ (ವಿಭಾಗ 6.2) ಅನ್ವಯಿಸಲಾಗುತ್ತದೆ."
+ },
+ {
+  "subject": "notice_period_garden_leave",
+  "aspect": "rule",
+  "value": "notice period employee with last working day before payment date ineligible; garden leave employees eligible until garden leave start date",
+  "section": "6.75",
+  "page": 20,
+  "evidence": "ರಾಜೀನಾಮೆ ನೀಡಿ ನೋಟಿಸ್ ಅವಧಿಯಲ್ಲಿ ಕಾರ್ಯನಿರ್ವಹಿಸುತ್ತಿರುವ ಉದ್ಯೋಗಿ, ಬೋನಸ್ ಪಾವತಿ ದಿನಾಂಕದ ಮೊದಲೇ ಕೊನೆಯ ಕಾರ್ಯದಿನ (Last Working Day) ಹೊಂದಿದ್ದರೆ, ವಿಭಾಗ 6.4ರ ನಿಯಮದಂತೆ ಬೋನಸ್‌ಗೆ ಅನರ್ಹರಾಗುತ್ತಾರೆ, ಅವರ ನೋಟಿಸ್ ಅವಧಿ ಎಷ್ಟೇ ಉದ್ದವಿದ್ದರೂ. \"ಗಾರ್ಡನ್ ಲೀವ್\" ಮೇಲಿರುವ ಉದ್ಯೋಗಿಗಳಿಗೆ (ಅಂದರೆ ನೋಟಿಸ್ ಅವಧಿಯಲ್ಲಿ ಕಚೇರಿಗೆ ಬರದಂತೆ ಕಂಪನಿ ಸೂಚಿಸಿದ್ದರೂ ವೇತನ ಪಾವತಿ ಮುಂದುವರಿಸಿದ ಸಂದರ್ಭ), ಅವರ ಕೊನೆಯ ಕಾರ್ಯದಿನವೇ (ಅಂದರೆ ಗಾರ್ಡನ್ ಲೀವ್ ಪ್ರಾರಂಭವಾಗುವ ದಿನಾಂಕ) ಬೋನಸ್ ಅರ್ಹತೆಯ ಅಂತಿಮ ದಿನಾಂಕವೆಂದು ಪರಿಗಣಿಸಲಾಗುತ್ತದೆ."
+ },
+ {
+  "subject": "bonus_pf_gratuity_exclusion",
+  "aspect": "rule",
+  "value": "performance bonus not considered part of salary for PF or Gratuity calculation, as variable non-guaranteed payment",
+  "section": "6.76",
+  "page": 20,
+  "evidence": "ಕಾರ್ಯಕ್ಷಮತೆ ಬೋನಸ್ ಮೊತ್ತವನ್ನು ನೌಕರರ ಭವಿಷ್ಯ ನಿಧಿ (Employees' Provident Fund) ಅಥವಾ ಗ್ರಾಚ್ಯುಟಿ ಗಣನೆಗೆ \"ವೇತನ\"ದ ಭಾಗವಾಗಿ ಪರಿಗಣಿಸಲಾಗುವುದಿಲ್ಲ, ಏಕೆಂದರೆ ಇದು ಒಂದು ವ್ಯತ್ಯಯಶೀಲ, ಖಾತ್ರಿ ಇಲ್ಲದ ಪಾವತಿಯಾಗಿದ್ದು, ಸಂಬಂಧಿತ ಕಾನೂನುಗಳ ಅಡಿಯಲ್ಲಿ \"ಮೂಲ ವೇತನ\" ಅಥವಾ \"ಮೂಲ ವೇತನ+ಡಿಎ\" ವ್ಯಾಖ್ಯಾನದ ಹೊರಗೆ ಬರುತ್ತದೆ."
+ },
+ {
+  "subject": "international_assignment_bonus",
+  "aspect": "rule",
+  "value": "calculated on Indian payroll base salary only, paid via standard India process; foreign allowance not included in calculation",
+  "section": "6.7",
+  "page": 21,
+  "evidence": "ಕಂಪನಿಯ ವಿದೇಶಿ ಗ್ರಾಹಕ ಸ್ಥಳ ಅಥವಾ ಅಂಗಸಂಸ್ಥೆಗೆ ತಾತ್ಕಾಲಿಕ ನಿಯೋಜನೆಯ ಮೇಲೆ ಕಳುಹಿಸಲಾದ ಉದ್ಯೋಗಿಗಳಿಗೆ, ಅವರ ಭಾರತೀಯ ವೇತನ ಪಟ್ಟಿಯಲ್ಲಿ ಇರುವ ಮೂಲ ವೇತನದ ಆಧಾರದ ಮೇಲೆಯೇ ಬೋನಸ್ ಗಣಿಸಲಾಗುತ್ತದೆ ಮತ್ತು ಭಾರತದ ಪ್ರಮಾಣಿತ ಪ್ರಕ್ರಿಯೆಯ ಮೂಲಕವೇ ಪಾವತಿಸಲಾಗುತ್ತದೆ."
+ },
+ {
+  "subject": "eligibility_scenarios_summary",
+  "aspect": "table_overview",
+  "value": "<90 days ineligible; 90+ days day-proportion prorated; >60 days leave worked-days-proportion prorated; voluntary exit before payment ineligible; retirement/death/restructuring prorated; internal transfer blended; rejoining prorated as new; garden leave eligible until start",
+  "section": "6.8",
+  "page": 21,
+  "evidence": "| 90 ದಿನಕ್ಕಿಂತ ಕಡಿಮೆ ಸೇವೆ | ಅನರ್ಹ | | ಮಧ್ಯ-ವರ್ಷದ ಸೇರ್ಪಡೆ (90+ ದಿನ) | ದಿನಗಳ ಅನುಪಾತದಲ್ಲಿ ಪ್ರೋ-ರೇಟ್ | | 60 ದಿನಕ್ಕಿಂತ ಹೆಚ್ಚು ದೀರ್ಘಾವಧಿ ರಜೆ | ಕಾರ್ಯನಿರ್ವಹಣಾ ದಿನಗಳ ಅನುಪಾತದಲ್ಲಿ ಪ್ರೋ-ರೇಟ್ |"
+ },
+ {
+  "subject": "rounding_convention",
+  "aspect": "rule",
+  "value": "final bonus rounded to nearest rupee (50 paise and above rounds up); multipliers kept to 4 decimal places intermediate",
+  "section": "6.9",
+  "page": 21,
+  "evidence": "ಅಂತಿಮ ಬೋನಸ್ ಮೊತ್ತವನ್ನು ಹತ್ತಿರದ ರೂಪಾಯಿಗೆ ಸುತ್ತಿಸಲಾಗುತ್ತದೆ (50 ಪೈಸೆ ಮತ್ತು ಮೇಲ್ಪಟ್ಟು ಮೇಲಕ್ಕೆ, ಕೆಳಗಿದ್ದರೆ ಕೆಳಕ್ಕೆ). ಗುಣಕಗಳನ್ನು ಮಧ್ಯಂತರ ಗಣನೆಯಲ್ಲಿ ನಾಲ್ಕು ದಶಮಾಂಶ ಸ್ಥಾನಗಳವರೆಗೆ (ಉದಾ: 112.4%) ನಿಖರವಾಗಿ ಬಳಸಲಾಗುತ್ತದೆ, ಇದರಿಂದ ಸುತ್ತಿಸುವಿಕೆ ದೋಷ ಕಡಿಮೆಗೊಳಿಸಲಾಗುತ್ತದೆ."
+ },
+ {
+  "subject": "payment_timeline_calendar",
+  "aspect": "schedule",
+  "value": "fiscal year ends March31; audited results by end-April; company multiplier approved 1st week May; ratings finalized April; portal publication by May25; payment before June1",
+  "section": "7.1",
+  "page": 22,
+  "evidence": "ಲೆಕ್ಕಪರಿಶೋಧಿತ ಹಣಕಾಸು ಫಲಿತಾಂಶಗಳು ಸಾಮಾನ್ಯವಾಗಿ ಏಪ್ರಿಲ್ ಅಂತ್ಯದ ವೇಳೆಗೆ ಅಂತಿಮಗೊಳ್ಳುತ್ತವೆ, ಇದರ ಆಧಾರದ ಮೇಲೆ ಕಂಪನಿ ಗುಣಕವನ್ನು ಮೇ ಮೊದಲ ವಾರದಲ್ಲಿ ಕಾಂಪೆನ್ಸೇಷನ್ ಕಮಿಟಿ ಅನುಮೋದಿಸುತ್ತದೆ. ವೈಯಕ್ತಿಕ ಕಾರ್ಯಕ್ಷಮತೆ ರೇಟಿಂಗ್‌ಗಳನ್ನು ಏಪ್ರಿಲ್ ತಿಂಗಳಲ್ಲಿ ಪೂರ್ಣಗೊಳಿಸಲಾಗಿರುತ್ತದೆ (ಕ್ಯಾಲಿಬ್ರೇಷನ್ ಸೇರಿ). ಈ ಎರಡೂ ಇನ್‌ಪುಟ್‌ಗಳ ಆಧಾರದ ಮೇಲೆ, ಹ್ಯೂಮನ್ ರಿಸೋರ್ಸ್ ಮತ್ತು ಫೈನಾನ್ಸ್ ವಿಭಾಗಗಳು ಜಂಟಿಯಾಗಿ ಎಲ್ಲಾ ಅರ್ಹ ಉದ್ಯೋಗಿಗಳ ಬೋನಸ್ ಗಣನೆಯನ್ನು ಪೂರ್ಣಗೊಳಿಸುತ್ತವೆ, ಮತ್ತು ಅಂತಿಮ ಬೋನಸ್ ಮೊತ್ತಗಳನ್ನು ಮೇ 25ರ ವೇಳೆಗೆ ಪ್ರತಿ ಉದ್ಯೋಗಿಗೆ ಅವರ ಉದ್ಯೋಗಿ ಪೋರ್ಟಲ್‌ನಲ್ಲಿ ಪ್ರಕಟಿಸಲಾಗುತ್ತದೆ."
+ },
+ {
+  "subject": "payment_route",
+  "aspect": "method",
+  "value": "paid entirely in cash via bank transfer, no stock-based or in-kind payment",
+  "section": "7.2",
+  "page": 22,
+  "evidence": "ಕಾರ್ಯಕ್ಷಮತೆ ಬೋನಸ್ ಅನ್ನು ಸಂಪೂರ್ಣವಾಗಿ ನಗದು ರೂಪದಲ್ಲಿ, ಬ್ಯಾಂಕ್ ವರ್ಗಾವಣೆಯ ಮೂಲಕ, ಉದ್ಯೋಗಿಯ ನೇರ ಜಮಾ ಖಾತೆಗೆ ಪಾವತಿಸಲಾಗುತ್ತದೆ (ಬ್ಯಾಂಡ್ 7 ಮತ್ತು ಬ್ಯಾಂಡ್ 8ಕ್ಕೆ ಅನ್ವಯವಾಗುವ ಮುಂದೂಡಿದ ಘಟಕವನ್ನು ಹೊರತುಪಡಿಸಿ, ಇದನ್ನು ವಿಭಾಗ 9ರಲ್ಲಿ ವಿವರಿಸಲಾಗಿದೆ). ಕಂಪನಿ ಯಾವುದೇ ರೀತಿಯ ಷೇರು-ಆಧಾರಿತ ಅಥವಾ ಇನ್-ಕೈಂಡ್ ಪಾವತಿಯನ್ನು ಬೋನಸ್‌ಗೆ ಅನ್ವಯಿಸುವುದಿಲ್ಲ."
+ },
+ {
+  "subject": "tds_example_suresh",
+  "aspect": "calculation",
+  "value": "base Rs18,00,000, bonus Rs2,70,000, effective rate28%, TDS Rs75,600, net bonus Rs1,94,400",
+  "section": "7.3",
+  "page": 22,
+  "evidence": "ಬೋನಸ್ ಸೇರ್ಪಡೆಯಾದ ಬಳಿಕ ಅವರ ಅಂದಾಜಿತ ಒಟ್ಟು ವಾರ್ಷಿಕ ಆದಾಯ (ಹಳೆಯ ಅಥವಾ ಹೊಸ ತೆರಿಗೆ ಪದ್ಧತಿಯಲ್ಲಿ ಅವರ ಆಯ್ಕೆಗೆ ಅನುಗುಣವಾಗಿ) ₹20,70,000 ಆಗಿ ಬದಲಾದಾಗ, ಅವರು ಅನ್ವಯವಾಗುವ ಉನ್ನತ ಸ್ಲ್ಯಾಬ್‌ಗೆ ಅಂದಾಜಿತ ಪರಿಣಾಮಕಾರಿ ಸರಾಸರಿ ತೆರಿಗೆ ದರ 28% ಎಂದಿಟ್ಟುಕೊಳ್ಳೋಣ. ಆ ಪ್ರಕಾರ, ಬೋನಸ್ ಪಾವತಿಯ ಮೇಲೆ TDS ಕಡಿತ = ₹2,70,000 × 28% = ₹75,600. ಹಾಗಾಗಿ ಸುರೇಶ್‌ಗೆ ವಾಸ್ತವಿಕವಾಗಿ ಕೈಗೆ ಬರುವ ನಿವ್ವಳ ಬೋನಸ್ ಮೊತ್ತ = ₹2,70,000 − ₹75,600 = ₹1,94,400."
+ },
+ {
+  "subject": "tax_regime_impact",
+  "aspect": "rule",
+  "value": "effective TDS rate differs by chosen tax regime; old regime with 80C/80D deductions may give lower effective rate than new regime",
+  "section": "7.4",
+  "page": 23,
+  "evidence": "ಉದ್ಯೋಗಿ ಹಳೆಯ ತೆರಿಗೆ ಪದ್ಧತಿ ಅಥವಾ ಹೊಸ ತೆರಿಗೆ ಪದ್ಧತಿಯಲ್ಲಿ ಯಾವುದನ್ನು ಆಯ್ಕೆ ಮಾಡಿದ್ದಾರೆ ಎಂಬುದರ ಆಧಾರದ ಮೇಲೆ ಬೋನಸ್ ಮೇಲಿನ ಪರಿಣಾಮಕಾರಿ TDS ದರ ಭಿನ್ನವಾಗಬಹುದು. ಹಳೆಯ ಪದ್ಧತಿಯಲ್ಲಿ ಉದ್ಯೋಗಿ ವಿಭಾಗ 80C, 80D ಮುಂತಾದ ಕಡಿತಗಳನ್ನು ಘೋಷಿಸಿದ್ದರೆ, ಪೇರೋಲ್ ವ್ಯವಸ್ಥೆ ಆ ಕಡಿತಗಳನ್ನು ಗಣನೆಗೆ ತೆಗೆದುಕೊಂಡು ಕಡಿಮೆ ಪರಿಣಾಮಕಾರಿ ದರದಲ್ಲಿ TDS ಕಡಿತಗೊಳಿಸಬಹುದು; ಹೊಸ ಪದ್ಧತಿಯಲ್ಲಿ ಇಂತಹ ಕಡಿತಗಳ ಸೌಲಭ್ಯ ಇಲ್ಲದ ಕಾರಣ, ಸ್ಲ್ಯಾಬ್ ದರವೇ ನೇರವಾಗಿ ಅನ್ವಯಿಸುತ್ತದೆ."
+ },
+ {
+  "subject": "communication_calendar",
+  "aspect": "annual_schedule",
+  "value": "1st week April townhall FY closure; mid-April rating calibration; end-April financial finalization; 1st week May multiplier approval; 2nd-3rd week May bonus calc/review; May25 portal publication; before June1 payment",
+  "section": "7.5",
+  "page": 23,
+  "evidence": "ಬೋನಸ್ ಚಕ್ರದ ಪಾರದರ್ಶಕತೆ ಹೆಚ್ಚಿಸಲು, ಹ್ಯೂಮನ್ ರಿಸೋರ್ಸ್ ವಿಭಾಗ ಪ್ರತಿ ವರ್ಷ ಒಂದು ಸ್ಪಷ್ಟ ಸಂವಹನ ಕ್ಯಾಲೆಂಡರ್ ಅನುಸರಿಸುತ್ತದೆ: ಏಪ್ರಿಲ್ ಮೊದಲ ವಾರ — ಹಣಕಾಸು ವರ್ಷ ಮುಕ್ತಾಯದ ಬಗ್ಗೆ ಟೌನ್‌ಹಾಲ್ ಪ್ರಕಟಣೆ; ಏಪ್ರಿಲ್ ಮಧ್ಯ — ಕಾರ್ಯಕ್ಷಮತೆ ರೇಟಿಂಗ್ ಕ್ಯಾಲಿಬ್ರೇಷನ್ ಪೂರ್ಣಗೊಳಿಸುವಿಕೆ; ಏಪ್ರಿಲ್ ಅಂತ್ಯ — ಲೆಕ್ಕಪರಿಶೋಧಿತ ಹಣಕಾಸು ಫಲಿತಾಂಶ ಅಂತಿಮಗೊಳಿಸುವಿಕೆ; ಮೇ ಮೊದಲ ವಾರ — ಕಂಪನಿ ಗುಣಕ ಅನುಮೋದನೆ ಮತ್ತು ಪ್ರಕಟಣೆ; ಮೇ ಎರಡನೇ-ಮೂರನೇ ವಾರ — ವೈಯಕ್ತಿಕ ಬೋನಸ್ ಗಣನೆ ಮತ್ತು ಆಂತರಿಕ ಗುಣಮಟ್ಟ ಪರಿಶೀಲನೆ; ಮೇ 25 — ಪ್ರತಿ ಉದ್ಯೋಗಿಗೆ ಪೋರ್ಟಲ್‌ನಲ್ಲಿ ಬ್ರೇಕ್‌ಡೌನ್ ಪ್ರಕಟಣೆ; ಜೂನ್ 1ಕ್ಕಿಂತ ಮೊದಲು — ವಾಸ್ತವಿಕ ಪಾವತಿ."
+ },
+ {
+  "subject": "tds_example_lakshmi",
+  "aspect": "calculation",
+  "value": "base Rs5,50,000, bonus Rs45,000, effective rate5%, TDS Rs2,250, net Rs42,750",
+  "section": "7.6",
+  "page": 23,
+  "evidence": "ಮೊದಲನೆಯದು: ಲಕ್ಷ್ಮಿ ಎಂಬ ಜೂನಿಯರ್ ಉದ್ಯೋಗಿಯ ವಾರ್ಷಿಕ ಮೂಲ ವೇತನ ₹5,50,000, ಬೋನಸ್ ₹45,000. ಇವರ ಬೋನಸ್ ಸೇರ್ಪಡೆಯಾದ ಬಳಿಕವೂ ಒಟ್ಟು ಆದಾಯ ಕಡಿಮೆ ಸ್ಲ್ಯಾಬ್‌ನಲ್ಲಿಯೇ ಉಳಿಯುವುದರಿಂದ ಪರಿಣಾಮಕಾರಿ ದರ ಕೇವಲ 5% ಎಂದಿಟ್ಟುಕೊಳ್ಳೋಣ: TDS = ₹45,000 × 5% = ₹2,250, ನಿವ್ವಳ ಬೋನಸ್ = ₹42,750."
+ },
+ {
+  "subject": "tds_example_arjun",
+  "aspect": "calculation",
+  "value": "Band7 base Rs55,00,000, bonus Rs12,50,000 (immediate 70% portion), effective rate35%, TDS Rs4,37,500, net Rs8,12,500",
+  "section": "7.6",
+  "page": 23,
+  "evidence": "ಎರಡನೆಯದು: ಅರ್ಜುನ್ ಎಂಬ ಹಿರಿಯ ಕಾರ್ಯನಿರ್ವಾಹಕನ (ಬ್ಯಾಂಡ್ 7) ವಾರ್ಷಿಕ ಮೂಲ ವೇತನ ₹55,00,000, ಬೋನಸ್ ₹12,50,000 (ಮುಂದೂಡಿದ ಭಾಗ ಕಳೆದ ಬಳಿಕ, ಕೇವಲ ತಕ್ಷಣ ಪಾವತಿಯಾಗುವ 70% ಭಾಗ). ಇವರ ಆದಾಯ ಅತ್ಯುನ್ನತ ಸ್ಲ್ಯಾಬ್‌ನಲ್ಲಿರುವ ಕಾರಣ ಪರಿಣಾಮಕಾರಿ ದರ 35% ಎಂದಿಟ್ಟುಕೊಳ್ಳೋಣ: TDS = ₹12,50,000 × 35% = ₹4,37,500, ನಿವ್ವಳ ಬೋನಸ್ = ₹8,12,500."
+ },
+ {
+  "subject": "sales_roles_exclusion",
+  "aspect": "rule",
+  "value": "performance bonus plan does not apply to Sales/BD/Account Management roles; separate commission-based incentive plan applies; sales get 15-20% tied to non-sales org-level goals",
+  "section": "8",
+  "page": 24,
+  "evidence": "ಮಾರಾಟ, ಬಿಸಿನೆಸ್ ಡೆವಲಪ್‌ಮೆಂಟ್ ಮತ್ತು ಗ್ರಾಹಕ ಖಾತೆ ನಿರ್ವಹಣೆ ಪಾತ್ರಗಳಲ್ಲಿ ಕಾರ್ಯನಿರ್ವಹಿಸುವ ಉದ್ಯೋಗಿಗಳಿಗೆ, ಈ ದಾಖಲೆಯಲ್ಲಿ ವಿವರಿಸಲಾದ ಕಾರ್ಯಕ್ಷಮತೆ ಬೋನಸ್ ಯೋಜನೆ ಅನ್ವಯಿಸುವುದಿಲ್ಲ. ಬದಲಿಗೆ, ಅವರಿಗೆ ಪ್ರತ್ಯೇಕವಾದ, ಕಮಿಷನ್-ಆಧಾರಿತ ವೇರಿಯಬಲ್ ಇನ್ಸೆಂಟಿವ್ ಯೋಜನೆ ಅನ್ವಯಿಸುತ್ತದೆ, ಇದು ಮಾರಾಟ ಗುರಿ ಸಾಧನೆ, ಹೊಸ ಗ್ರಾಹಕ ಸ್ವಾಧೀನ ಮತ್ತು ಆದಾಯ ಉಳಿಸಿಕೆಯ ಆಧಾರದ ಮೇಲೆ ತ್ರೈಮಾಸಿಕ ಅಥವಾ ಮಾಸಿಕ ಆಧಾರದ ಮೇಲೆ ಗಣಿಸಲ್ಪಡುತ್ತದೆ. ಆ ಪಾತ್ರಗಳಲ್ಲಿರುವ ಉದ್ಯೋಗಿಗಳಿಗೆ, ಮಾರಾಟ ಅಲ್ಲದ, ಸಾಂಸ್ಥಿಕ-ಮಟ್ಟದ ಗುರಿಗಳಿಗೆ ಸಂಬಂಧಿಸಿದ ಒಂದು ಸಣ್ಣ ಪ್ರಮಾಣದ (ಸಾಮಾನ್ಯವಾಗಿ ಒಟ್ಟು ಗುರಿ ಇನ್ಸೆಂಟಿವ್‌ನ 15–20%) ಅಂಶ ಮಾತ್ರ ಈ ದಾಖಲೆಯಲ್ಲಿ ವಿವರಿಸಲಾದ ಕಂಪನಿ ಗುಣಕದಿಂದ ಪ್ರಭಾವಿತವಾಗಬಹುದು; ಈ ಮಿಶ್ರ ಅಂಶದ ವಿವರ ಆ ಪ್ರತ್ಯೇಕ ಇನ್ಸೆಂಟಿವ್ ಯೋಜನೆ ದಾಖಲೆಯಲ್ಲಿಯೇ ಇದೆ."
+ },
+ {
+  "subject": "deferred_bonus_structure",
+  "aspect": "rule",
+  "value": "Band7 and Band8 get 70% paid immediately, remaining 30% deferred in 2 equal installments (15% each) vesting after 1 and 2 years",
+  "section": "9.1",
+  "page": 24,
+  "evidence": "ಬ್ಯಾಂಡ್ 7 (ವೈಸ್ ಪ್ರೆಸಿಡೆಂಟ್) ಮತ್ತು ಬ್ಯಾಂಡ್ 8 (ಸೀನಿಯರ್ ವೈಸ್ ಪ್ರೆಸಿಡೆಂಟ್ ಮತ್ತು ಮೇಲಿನವರು) ಹುದ್ದೆಗಳಲ್ಲಿರುವ ಉದ್ಯೋಗಿಗಳಿಗೆ, ಅವರ ಅಂತಿಮ ಗಣಿಸಿದ ಕಾರ್ಯಕ್ಷಮತೆ ಬೋನಸ್‌ನ ಒಂದು ಭಾಗವನ್ನು ಮುಂದೂಡಲಾಗುತ್ತದೆ. ನಿರ್ದಿಷ್ಟ ರಚನೆ: ಗಣಿಸಿದ ಒಟ್ಟು ಬೋನಸ್‌ನ 70% ಅನ್ನು ಸಾಮಾನ್ಯ ಪಾವತಿ ಟೈಮ್‌ಲೈನ್‌ನಲ್ಲಿ (ವಿಭಾಗ 7ರಲ್ಲಿ ವಿವರಿಸಿದಂತೆ) ತಕ್ಷಣ ಪಾವತಿಸಲಾಗುತ್ತದೆ, ಮತ್ತು ಉಳಿದ 30% ಅನ್ನು ಎರಡು ಸಮಾನ ಕಂತುಗಳಲ್ಲಿ (ತಲಾ 15%) ಮುಂದಿನ ಎರಡು ವರ್ಷಗಳಲ್ಲಿ ಮುಂದೂಡಲಾಗುತ್ತದೆ — ಮೊದಲ ಕಂತು ಒಂದು ವರ್ಷದ ಬಳಿಕ (vest), ಎರಡನೆಯ ಕಂತು ಎರಡು ವರ್ಷಗಳ ಬಳಿಕ ವೆಸ್ಟ್ ಆಗುತ್ತದೆ."
+ },
+ {
+  "subject": "vikram_deferral_example",
+  "aspect": "case",
+  "value": "VP, 2025-26 total bonus Rs20,00,000; 70%=Rs14,00,000 immediate June2026; 30%=Rs6,00,000 split into two Rs3,00,000 installments vesting June2027 and June2028, no interest added",
+  "section": "9.2",
+  "page": 25,
+  "evidence": "ಈ ಮೊತ್ತದ 70%, ಅಂದರೆ ₹14,00,000, ಜೂನ್ 2026ರಲ್ಲಿ (ಪ್ರಮಾಣಿತ ಪಾವತಿ ಟೈಮ್‌ಲೈನ್‌ನಂತೆ) ತಕ್ಷಣ ಪಾವತಿಯಾಗುತ್ತದೆ. ಉಳಿದ ₹6,00,000 (30%) ಎರಡು ಕಂತುಗಳಾಗಿ ವಿಭಜನೆಗೊಳ್ಳುತ್ತದೆ: ಮೊದಲ ಕಂತು ₹3,00,000 ಜೂನ್ 2027ರಲ್ಲಿ ವೆಸ್ಟ್ ಆಗುತ್ತದೆ (ಸಾಮಾನ್ಯ ವೇತನ ಚಕ್ರದೊಂದಿಗೆ ಪಾವತಿ), ಮತ್ತು ಎರಡನೆಯ ಕಂತು ₹3,00,000 ಜೂನ್ 2028ರಲ್ಲಿ ವೆಸ್ಟ್ ಆಗುತ್ತದೆ. ಈ ಮುಂದೂಡಿದ ಕಂತುಗಳ ಮೇಲೆ ಯಾವುದೇ ಹೆಚ್ಚುವರಿ ಬಡ್ಡಿ ಸೇರಿಸಲಾಗುವುದಿಲ್ಲ — ಇದು ಕೇವಲ ಮೊತ್ತದ ಮುಂದೂಡಿಕೆಯಾಗಿದೆ, ಹೂಡಿಕೆ ಸಾಧನವಲ್ಲ."
+ },
+ {
+  "subject": "clawback_conditions",
+  "aspect": "three_cases",
+  "value": "voluntary exit/dismissal forfeits unvested installments; proven fraud/misconduct allows clawback of already-paid installments; restated financial results adjust deferred amount",
+  "section": "9.3",
+  "page": 25,
+  "evidence": "ಮುಂದೂಡಿದ ಭಾಗಕ್ಕೆ ಈ ಕೆಳಗಿನ ಕ್ಲಾಬ್‌ಬ್ಯಾಕ್ ನಿಯಮಗಳು ಅನ್ವಯಿಸುತ್ತವೆ: (1) ಉದ್ಯೋಗಿ ಸ್ವಯಂ ನಿರ್ಗಮನ ಮಾಡಿದರೆ ಅಥವಾ ದುರ್ವರ್ತನೆಗಾಗಿ ವಜಾಗೊಳಿಸಲ್ಪಟ್ಟರೆ, ವೆಸ್ಟ್ ಆಗದ ಎಲ್ಲಾ ಮುಂದೂಡಿದ ಕಂತುಗಳು ಸಂಪೂರ್ಣವಾಗಿ ರದ್ದಾಗುತ್ತವೆ (forfeiture, ಕ್ಲಾಬ್‌ಬ್ಯಾಕ್ ಅಲ್ಲ, ಏಕೆಂದರೆ ಪಾವತಿಯಾಗಿಲ್ಲ); (2) ಉದ್ಯೋಗಿಯ ವಿರುದ್ಧ ಆಡಿಟ್ ಅಥವಾ ತನಿಖೆಯ ಮೂಲಕ ಹಣಕಾಸು ಅಕ್ರಮ, ವಂಚನೆ ಅಥವಾ ಗಮನೀಯ ನೀತಿ ಉಲ್ಲಂಘನೆ ಸಾಬೀತಾದರೆ, ಈಗಾಗಲೇ ಪಾವತಿಯಾದ ಮುಂದೂಡಿದ ಕಂತುಗಳನ್ನು ಸಹ ಕಂಪನಿ ಹಿಂಪಡೆಯುವ ಹಕ್ಕು ಕಾಯ್ದಿರಿಸಿಕೊಳ್ಳುತ್ತದೆ; (3) ಪರಿಶೀಲನಾ ವರ್ಷದ ಹಣಕಾಸು ಫಲಿತಾಂಶಗಳನ್ನು ನಂತರ ಪುನಃ ಹೇಳಿಕೆ (restatement) ಮಾಡಬೇಕಾಗಿ ಬಂದರೆ (ಅಂದರೆ ಮೂಲ ಕಂಪನಿ ಗುಣಕ ಗಣನೆ ತಪ್ಪಾಗಿದ್ದಿತು ಎಂದು ಕಂಡುಬಂದರೆ), ಆ ದೋಷಕ್ಕೆ ಅನುಗುಣವಾಗಿ ಮುಂದೂಡಿದ ಮೊತ್ತವನ್ನು ಸರಿಹೊಂದಿಸಲಾಗುತ್ತದೆ."
+ },
+ {
+  "subject": "prateek_clawback_example",
+  "aspect": "case",
+  "value": "SVP, 2024-25 bonus Rs30,00,000, Rs9,00,000 deferred; first installment Rs4,50,000 paid 2026; fraud discovered mid-2026, company clawed back paid installment and cancelled second Rs4,50,000",
+  "section": "9.3",
+  "page": 25,
+  "evidence": "ಮೊದಲ ಕಂತು ₹4,50,000 2026ರಲ್ಲಿ ಪಾವತಿಯಾಗಿತ್ತು. ಆದರೆ 2026ರ ಮಧ್ಯದಲ್ಲಿ, ಆಂತರಿಕ ಆಡಿಟ್‌ನಲ್ಲಿ ಪ್ರತೀಕ್ 2024–25ರಲ್ಲಿ ಗ್ರಾಹಕ ಒಪ್ಪಂದದ ಆದಾಯವನ್ನು ಉದ್ದೇಶಪೂರ್ವಕವಾಗಿ ತಪ್ಪಾಗಿ ವರದಿ ಮಾಡಿದ್ದರು ಎಂದು ಸಾಬೀತಾಯಿತು. ಈ ಪ್ರಕರಣದಲ್ಲಿ, ಕಂಪನಿ ಈಗಾಗಲೇ ಪಾವತಿಯಾದ ₹4,50,000 ಅನ್ನು ಸಂಪೂರ್ಣವಾಗಿ ಕ್ಲಾಬ್‌ಬ್ಯಾಕ್ ಮಾಡಿತು (ಮುಂದಿನ ಸಂಬಳದಿಂದ ಕಡಿತ ಅಥವಾ ನೇರ ಮರುಪಾವತಿಯ ಮೂಲಕ), ಮತ್ತು ಎರಡನೆಯ ಬಾಕಿ ಇರುವ ಕಂತು ₹4,50,000 ಅನ್ನು ಸಂಪೂರ್ಣವಾಗಿ ರದ್ದುಗೊಳಿಸಲಾಯಿತು."
+ },
+ {
+  "subject": "meenakshi_svp_example",
+  "aspect": "deferral_case",
+  "value": "Band8, bonus Rs45,00,000; 70%=Rs31,50,000 immediate; 30%=Rs13,50,000 split into two Rs6,75,000 installments over 2 years",
+  "section": "9.3.2",
+  "page": 26,
+  "evidence": "ಮೀನಾಕ್ಷಿ ಎಂಬ ಸೀನಿಯರ್ ವೈಸ್ ಪ್ರೆಸಿಡೆಂಟ್‌ಗೆ (ಬ್ಯಾಂಡ್ 8) 2025-26ಕ್ಕೆ ₹45,00,000 ಗಣಿಸಿದ ಬೋನಸ್ ಇದೆ ಎಂದಿಟ್ಟುಕೊಳ್ಳೋಣ. ಇದರ 70% (₹31,50,000) ತಕ್ಷಣ ಪಾವತಿಯಾಗುತ್ತದೆ, ಉಳಿದ 30% (₹13,50,000) ಎರಡು ಕಂತುಗಳಾಗಿ (ತಲಾ ₹6,75,000) ಮುಂದಿನ ಎರಡು ವರ್ಷಗಳಲ್ಲಿ ವೆಸ್ಟ್ ಆಗುತ್ತದೆ."
+ },
+ {
+  "subject": "deferred_bonus_statement",
+  "aspect": "annual_requirement",
+  "value": "senior employees with pending deferred balance get separate statement by end of May each year",
+  "section": "9.7",
+  "page": 26,
+  "evidence": "ಮುಂದೂಡಿದ ಬೋನಸ್ ಬಾಕಿ ಹೊಂದಿರುವ ಪ್ರತಿ ಹಿರಿಯ ಉದ್ಯೋಗಿಗೆ, ಪ್ರತಿ ವರ್ಷ ಮೇ ಅಂತ್ಯದಲ್ಲಿ ಒಂದು ಪ್ರತ್ಯೇಕ \"ಮುಂದೂಡಿದ ಬೋನಸ್ ಹೇಳಿಕೆ\" ಒದಗಿಸಲಾಗುತ್ತದೆ, ಇದರಲ್ಲಿ ಪ್ರತಿ ಹಿಂದಿನ ವರ್ಷದ ಮೂಲ ಮುಂದೂಡಿದ ಮೊತ್ತ, ಈಗಾಗಲೇ ವೆಸ್ಟ್ ಆಗಿ ಪಾವತಿಯಾದ ಕಂತುಗಳು, ಮತ್ತು ಬಾಕಿ ಇರುವ ಭವಿಷ್ಯದ ವೆಸ್ಟಿಂಗ್ ದಿನಾಂಕಗಳು ಹಾಗೂ ಮೊತ್ತಗಳ ಸಂಪೂರ್ಣ ಪಟ್ಟಿ ಇರುತ್ತದೆ."
+ },
+ {
+  "subject": "raghu_discretionary_example",
+  "aspect": "case",
+  "value": "VP standard bonus Rs18,00,000 (70%=Rs12,60,000 immediate, 30%=Rs5,40,000 deferred) plus independent Rs1,50,000 spot discretionary bonus not subject to deferral rule; received Rs14,10,000 immediately",
+  "section": "9.6",
+  "page": 26,
+  "evidence": "ಇದೇ ವರ್ಷದಲ್ಲಿ, ಅವರು ಒಂದು ಪ್ರಮುಖ ಆಯಕಟ್ಟಿನ ಒಪ್ಪಂದ ಮುಕ್ತಾಯಗೊಳಿಸುವಲ್ಲಿ ಅಸಾಧಾರಣ ಕೊಡುಗೆ ನೀಡಿದ ಕಾರಣ, ₹1,50,000 ಸ್ಪಾಟ್ ವಿವೇಚನಾ ಬೋನಸ್ ಪ್ರತ್ಯೇಕವಾಗಿ ಅನುಮೋದಿಸಲಾಯಿತು. ಈ ಎರಡು ಬೋನಸ್ ಮೊತ್ತಗಳನ್ನು ಸಂಪೂರ್ಣವಾಗಿ ಸ್ವತಂತ್ರವಾಗಿ ಗಣಿಸಲಾಗುತ್ತದೆ ಮತ್ತು ಸ್ವತಂತ್ರವಾಗಿ ಪಾವತಿಸಲಾಗುತ್ತದೆ — ವಿವೇಚನಾ ಬೋನಸ್ ಮುಂದೂಡಿಕೆ ನಿಯಮಕ್ಕೆ ಒಳಪಡುವುದಿಲ್ಲ (ಅದು ಪ್ರಮಾಣಿತ ಕಾರ್ಯಕ್ಷಮತೆ ಬೋನಸ್‌ಗೆ ಮಾತ್ರ ಅನ್ವಯಿಸುತ್ತದೆ, ವಿಭಾಗ 9.1). ಹಾಗಾಗಿ ರಘು ಆ ವರ್ಷ ಒಟ್ಟು ₹12,60,000 + ₹1,50,000 = ₹14,10,000 ತಕ್ಷಣ ಪಡೆದರು, ಮತ್ತು ₹5,40,000 ಮುಂದಿನ ಎರಡು ವರ್ಷಗಳಲ್ಲಿ ಮುಂದೂಡಲ್ಪಟ್ಟಿತು."
+ },
+ {
+  "subject": "deferred_tax_treatment",
+  "aspect": "rule",
+  "value": "TDS on deferred installments applies in year actually paid (receipt basis), not original earning year",
+  "section": "9.3.1",
+  "page": 27,
+  "evidence": "ಮುಂದೂಡಿದ ಬೋನಸ್ ಕಂತುಗಳ ಮೇಲೆ TDS, ಆ ಕಂತು ನಿಜವಾಗಿ ಪಾವತಿಯಾಗುವ ವರ್ಷದಲ್ಲಿಯೇ ಅನ್ವಯಿಸುತ್ತದೆ (ಅಂದರೆ \"ಸ್ವೀಕೃತಿ ಆಧಾರಿತ\" ತೆರಿಗೆ ಚಿಕಿತ್ಸೆ, ಗಳಿಕೆಯ ಮೂಲ ವರ್ಷ ಅಲ್ಲ)."
+ },
+ {
+  "subject": "promotion_during_deferral",
+  "aspect": "rule",
+  "value": "already-calculated deferred installments continue per original rules; new band's deferral structure applies only from next review year after promotion",
+  "section": "9.4",
+  "page": 27,
+  "evidence": "ಒಂದು ಉದ್ಯೋಗಿ ಮುಂದೂಡಿದ ಕಂತು ಬಾಕಿ ಇರುವಾಗಲೇ ಇನ್ನೂ ಹಿರಿಯ ಬ್ಯಾಂಡ್‌ಗೆ ಪ್ರೊಮೋಷನ್ ಪಡೆದರೆ, ಈಗಾಗಲೇ ಗಣಿಸಲಾದ ಮುಂದೂಡಿದ ಕಂತುಗಳ ಮೊತ್ತ ಮತ್ತು ವೆಸ್ಟಿಂಗ್ ದಿನಾಂಕದಲ್ಲಿ ಯಾವುದೇ ಬದಲಾವಣೆಯಾಗುವುದಿಲ್ಲ — ಅವು ಮೂಲ ಪರಿಶೀಲನಾ ವರ್ಷದ ಗಣನೆಯ ಆಧಾರದ ಮೇಲೆ ಹಾಗೆಯೇ ಮುಂದುವರಿಯುತ್ತವೆ. ಆದರೆ, ಪ್ರೊಮೋಷನ್ ಪಡೆದ ಬಳಿಕದ ಮುಂದಿನ ಪರಿಶೀಲನಾ ವರ್ಷದಿಂದ, ಹೊಸ ಬ್ಯಾಂಡ್‌ಗೆ ಅನ್ವಯವಾಗುವ ಮುಂದೂಡಿಕೆ ರಚನೆ (70:30, ಎರಡು ವರ್ಷ) ಹೊಸದಾಗಿ ಅನ್ವಯಿಸಲು ಪ್ರಾರಂಭವಾಗುತ್ತದೆ."
+ },
+ {
+  "subject": "deferral_rationale",
+  "aspect": "two_reasons",
+  "value": "retention (senior talent replacement costly) and risk alignment (ties compensation to long-term outcome, discourages short-term risky decisions)",
+  "section": "9.5",
+  "page": 27,
+  "evidence": "ಮೊದಲನೆಯದು, ಉಳಿಸಿಕೆ (Retention): ಹಿರಿಯ ಪ್ರತಿಭೆಗಳನ್ನು ಬದಲಾಯಿಸುವುದು ಕಂಪನಿಗೆ ಹೆಚ್ಚು ವೆಚ್ಚದಾಯಕ ಮತ್ತು ಸಮಯ ತೆಗೆದುಕೊಳ್ಳುವ ಪ್ರಕ್ರಿಯೆ, ಆದ್ದರಿಂದ ಬೋನಸ್‌ನ ಒಂದು ಭಾಗವನ್ನು ಭವಿಷ್ಯಕ್ಕೆ ಮುಂದೂಡುವುದರಿಂದ ಅವರು ಸಂಸ್ಥೆಯಲ್ಲಿ ಮುಂದುವರಿಯಲು ಹೆಚ್ಚುವರಿ ಪ್ರೋತ್ಸಾಹ ಸಿಗುತ್ತದೆ. ಎರಡನೆಯದು, ಅಪಾಯ ಜೋಡಣೆ (Risk Alignment): ಹಿರಿಯ ಉದ್ಯೋಗಿಗಳ ನಿರ್ಧಾರಗಳ ಪರಿಣಾಮ ಸಾಮಾನ್ಯವಾಗಿ ಒಂದೇ ವರ್ಷದಲ್ಲಿ ಸಂಪೂರ್ಣವಾಗಿ ಕಾಣಿಸಿಕೊಳ್ಳುವುದಿಲ್ಲ — ಒಂದು ದೊಡ್ಡ ಕಾರ್ಯತಂತ್ರಿಕ ನಿರ್ಧಾರದ ನಿಜವಾದ ಪ್ರಭಾವ ಎರಡು-ಮೂರು ವರ್ಷಗಳ ಬಳಿಕವೇ ಸ್ಪಷ್ಟವಾಗಬಹುದು."
+ },
+ {
+  "subject": "discretionary_bonus_scenarios",
+  "aspect": "two_types",
+  "value": "Spot Exceptional Contribution and Retention Bonus",
+  "section": "10",
+  "page": 28,
+  "evidence": "ಇದು ಎರಡು ಪ್ರಮುಖ ಸಂದರ್ಭಗಳಲ್ಲಿ ಅನ್ವಯಿಸುತ್ತದೆ: (1) ಸ್ಪಾಟ್ ಅಸಾಧಾರಣ ಕೊಡುಗೆ (Spot Exceptional Contribution) — ಒಂದು ನಿರ್ದಿಷ್ಟ ಯೋಜನೆ ಅಥವಾ ಸಂದರ್ಭದಲ್ಲಿ ಉದ್ಯೋಗಿಯ ಅಸಾಧಾರಣ ಕೊಡುಗೆಯನ್ನು ತಕ್ಷಣ ಮಾನ್ಯಗೊಳಿಸಲು; (2) ಉಳಿಸಿಕೆ ಬೋನಸ್ (Retention Bonus) — ಪ್ರಮುಖ ಟ್ಯಾಲೆಂಟ್ ಅನ್ನು ಉಳಿಸಿಕೊಳ್ಳಲು, ವಿಶೇಷವಾಗಿ ಪ್ರಮುಖ ಯೋಜನೆ ಅಥವಾ ಪರಿವರ್ತನಾ ಅವಧಿಯಲ್ಲಿ."
+ },
+ {
+  "subject": "discretionary_approval_tiers",
+  "aspect": "thresholds",
+  "value": "up to Rs50,000 manager+BU head; Rs50,000-Rs2,00,000 HR Head; >Rs2,00,000 CEO mandatory",
+  "section": "10.1",
+  "page": 28,
+  "evidence": "ವಿವೇಚನಾ ಬೋನಸ್‌ಗಳಿಗೆ ಮೊತ್ತಕ್ಕೆ ಅನುಗುಣವಾಗಿ ಹಂತ-ಹಂತದ ಅನುಮೋದನಾ ಅಧಿಕಾರ ಇದೆ: ₹50,000ದ ವರೆಗೆ ನೇರ ಮ್ಯಾನೇಜರ್ ಮತ್ತು ವ್ಯಾಪಾರ ಘಟಕ ಮುಖ್ಯಸ್ಥರ ಜಂಟಿ ಅನುಮೋದನೆ ಸಾಕಾಗುತ್ತದೆ; ₹50,000 – ₹2,00,000 ವ್ಯಾಪ್ತಿಗೆ ಮಾನವ ಸಂಪನ್ಮೂಲ ಮುಖ್ಯಸ್ಥರ ಅನುಮೋದನೆ ಅಗತ್ಯ; ₹2,00,000ಗಿಂತ ಹೆಚ್ಚಿನ ಯಾವುದೇ ಮೊತ್ತಕ್ಕೆ ಮುಖ್ಯ ಕಾರ್ಯನಿರ್ವಾಹಕ ಅಧಿಕಾರಿ (CEO) ಅನುಮೋದನೆ ಕಡ್ಡಾಯ."
+ },
+ {
+  "subject": "discretionary_budget_cap",
+  "aspect": "rule",
+  "value": "each business unit's annual discretionary budget capped at 3% of its target bonus pool",
+  "section": "10.1",
+  "page": 28,
+  "evidence": "ಪ್ರತಿ ವ್ಯಾಪಾರ ಘಟಕಕ್ಕೆ ವಾರ್ಷಿಕ ವಿವೇಚನಾ ಬೋನಸ್ ಬಜೆಟ್ ಅದರ ಗುರಿ ಬೋನಸ್ ಪೂಲ್‌ನ 3%ಕ್ಕೆ ಮಿತಿಗೊಳಿಸಲಾಗಿದೆ, ಇದರಿಂದ ಈ ವಿವೇಚನಾ ಕಾರ್ಯವಿಧಾನ ಪ್ರಮಾಣಿತ ಬೋನಸ್ ಯೋಜನೆಯ ಸಮಗ್ರತೆಯನ್ನು ದುರ್ಬಲಗೊಳಿಸುವುದಿಲ್ಲ."
+ },
+ {
+  "subject": "digital_solutions_discretionary_cap_example",
+  "aspect": "calculation",
+  "value": "target pool Rs10,00,00,000 -> annual discretionary budget capped at max Rs30,00,000",
+  "section": "10.1",
+  "page": 28,
+  "evidence": "ಉದಾಹರಣೆಗೆ, \"ಡಿಜಿಟಲ್ ಸೊಲ್ಯೂಷನ್ಸ್\" ಘಟಕದ ಗುರಿ ಬೋನಸ್ ಪೂಲ್ ₹10,00,00,000 ಆಗಿದ್ದರೆ, ಅದರ ವಾರ್ಷಿಕ ವಿವೇಚನಾ ಬಜೆಟ್ ಗರಿಷ್ಠ ₹30,00,000ಕ್ಕೆ ಸೀಮಿತವಾಗಿರುತ್ತದೆ; ಈ ಮಿತಿ ಮೀರಿದ ಯಾವುದೇ ಹೆಚ್ಚುವರಿ ಪ್ರಸ್ತಾಪಕ್ಕೆ ಮುಂದಿನ ಹಣಕಾಸು ವರ್ಷದ ಬಜೆಟ್‌ನಿಂದ ಮುಂಗಡ ಪಡೆಯಲು ವಿಶೇಷ CEO ಅನುಮೋದನೆ ಅಗತ್ಯ."
+ },
+ {
+  "subject": "data_engineering_spot_bonus_example",
+  "aspect": "case",
+  "value": "engineer resolved crisis saving Rs2-crore contract; Rs1,50,000 spot bonus required HR Head approval (within 50k-2L range)",
+  "section": "10.1",
+  "page": 28,
+  "evidence": "ಉದಾಹರಣೆ: \"ಡೇಟಾ ಎಂಜಿನಿಯರಿಂಗ್\" ತಂಡದ ಒಬ್ಬ ಹಿರಿಯ ಇಂಜಿನಿಯರ್ ಒಂದು ನಿರ್ಣಾಯಕ ಗ್ರಾಹಕ ಗಡುವಿನ ಬಿಕ್ಕಟ್ಟನ್ನು ಕೇವಲ ಎರಡು ವಾರಗಳಲ್ಲಿ ಪರಿಹರಿಸಿ, ₹2 ಕೋಟಿ ಮೌಲ್ಯದ ಒಪ್ಪಂದವನ್ನು ಉಳಿಸಿದರು. ಅವರ ಮ್ಯಾನೇಜರ್ ₹1,50,000 ಸ್ಪಾಟ್ ಬೋನಸ್ ಪ್ರಸ್ತಾಪಿಸಿದರು; ಇದು ₹50,000-₹2,00,000 ವ್ಯಾಪ್ತಿಯಲ್ಲಿರುವುದರಿಂದ ಮಾನವ ಸಂಪನ್ಮೂಲ ಮುಖ್ಯಸ್ಥರ ಅನುಮೋದನೆಯೊಂದಿಗೆ, ಇದನ್ನು ಆ ತ್ರೈಮಾಸಿಕದ ಸಂಬಳದೊಂದಿಗೆ ಪಾವತಿಸಲಾಯಿತು."
+ },
+ {
+  "subject": "retention_bonus_lock_in",
+  "aspect": "rule",
+  "value": "typically comes with lock-in clause; if employee exits within 12 months of payment, must repay on pro-rata basis",
+  "section": "10.2",
+  "page": 28,
+  "evidence": "ಉಳಿಸಿಕೆ ಬೋನಸ್ ಸಾಮಾನ್ಯವಾಗಿ ಒಂದು \"ಬಂಧನ ಅವಧಿ\" (Lock-in Period) ಷರತ್ತಿನೊಂದಿಗೆ ಬರುತ್ತದೆ — ಉದಾಹರಣೆಗೆ, ಪಾವತಿಯ ಬಳಿಕ 12 ತಿಂಗಳ ಒಳಗೆ ಉದ್ಯೋಗಿ ಸ್ವಯಂ ನಿರ್ಗಮಿಸಿದರೆ, ಪಡೆದ ಉಳಿಸಿಕೆ ಬೋನಸ್ ಮೊತ್ತವನ್ನು ಪ್ರೋ-ರೇಟೆಡ್ ಆಧಾರದ ಮೇಲೆ ಹಿಂದಿರುಗಿಸಬೇಕಾಗುತ್ತದೆ."
+ },
+ {
+  "subject": "retention_bonus_example",
+  "aspect": "case",
+  "value": "key architect offered Rs3,00,000 retention bonus with 12-month lock-in, exceeded 2L needing CEO approval (completed in 4 working days), split into two Rs1,50,000 installments at 6 and 12 months",
+  "section": "10.3",
+  "page": 29,
+  "evidence": "ಈ ಮೊತ್ತ ₹2,00,000ಗಿಂತ ಹೆಚ್ಚಿರುವುದರಿಂದ, ಇದಕ್ಕೆ CEO ಅನುಮೋದನೆ ಅಗತ್ಯವಾಗಿತ್ತು, ಇದನ್ನು ವ್ಯಾಪಾರ ಘಟಕ ಮುಖ್ಯಸ್ಥರ ಶಿಫಾರಸಿನೊಂದಿಗೆ ಪಡೆಯಲಾಯಿತು. ಈ ಅನುಮೋದನೆ ಪ್ರಕ್ರಿಯೆ ಕೇವಲ 4 ಕಾರ್ಯ ದಿನಗಳಲ್ಲಿ ಪೂರ್ಣಗೊಂಡಿತು, ಇದು ತುರ್ತು ಉಳಿಸಿಕೆ ಸಂದರ್ಭಗಳಲ್ಲಿ ಕಂಪನಿ ವೇಗವಾಗಿ ಕಾರ್ಯನಿರ್ವಹಿಸಬಲ್ಲದು ಎಂಬುದನ್ನು ತೋರಿಸುತ್ತದೆ. ಈ ಉಳಿಸಿಕೆ ಬೋನಸ್ ಅನ್ನು ಎರಡು ಸಮಾನ ಕಂತುಗಳಾಗಿ (ತಲಾ ₹1,50,000) ವಿಭಜಿಸಿ, ಆರು ತಿಂಗಳ ಮತ್ತು ಹನ್ನೆರಡು ತಿಂಗಳ ಅಂತ್ಯದಲ್ಲಿ ಪಾವತಿಸಲಾಯಿತು, ಇದರಿಂದ ಉದ್ಯೋಗಿ ಇಡೀ ಯೋಜನೆಯ ಅವಧಿಯಲ್ಲಿ ಸಂಸ್ಥೆಯಲ್ಲಿ ಉಳಿಯಲು ಹೆಚ್ಚುವರಿ ಪ್ರೋತ್ಸಾಹ ಸಿಕ್ಕಿತು."
+ },
+ {
+  "subject": "discretionary_documentation",
+  "aspect": "requirement",
+  "value": "formal Justification Note documenting situation, measurable impact, and rationale, stored in HR portal",
+  "section": "10.4",
+  "page": 29,
+  "evidence": "ಪ್ರತಿ ವಿವೇಚನಾ ಬೋನಸ್ ಪ್ರಸ್ತಾಪಕ್ಕೂ, ಪ್ರಸ್ತಾಪಿಸುವ ಮ್ಯಾನೇಜರ್ ಒಂದು ಔಪಚಾರಿಕ ಸಮರ್ಥನಾ ಟಿಪ್ಪಣಿ (Justification Note) ಸಲ್ಲಿಸಬೇಕು, ಇದರಲ್ಲಿ ನಿರ್ದಿಷ್ಟ ಸಂದರ್ಭ, ಕೊಡುಗೆಯ ಅಳೆಯಬಹುದಾದ ಪ್ರಭಾವ (ಸಾಧ್ಯವಾದಲ್ಲಿ), ಮತ್ತು ಪ್ರಸ್ತಾಪಿತ ಮೊತ್ತದ ತಾರ್ಕಿಕತೆ ಸ್ಪಷ್ಟವಾಗಿ ದಾಖಲಿಸಲಾಗಿರಬೇಕು. ಈ ಟಿಪ್ಪಣಿಗಳನ್ನು ಹ್ಯೂಮನ್ ರಿಸೋರ್ಸ್ ಪೋರ್ಟಲ್‌ನಲ್ಲಿ ಸಂರಕ್ಷಿಸಲಾಗುತ್ತದೆ ಮತ್ತು ವಿಭಾಗ 13.3.1ರ ವಾರ್ಷಿಕ ಆಡಿಟ್ ಪ್ರಕ್ರಿಯೆಯ ಭಾಗವಾಗಿ ಪರಿಶೀಲಿಸಲಾಗುತ್ತದೆ."
+ },
+ {
+  "subject": "zero_bonus_floor",
+  "aspect": "rule",
+  "value": "no guaranteed minimum bonus floor; if achievement <70% of budget, company multiplier is zero, every employee gets zero bonus that year",
+  "section": "11",
+  "page": 29,
+  "evidence": "ಕಂಪನಿ ಯಾವುದೇ ಕನಿಷ್ಠ ಖಾತ್ರಿ ಬೋನಸ್ ಮಿತಿಯನ್ನು (guaranteed minimum bonus floor) ಒದಗಿಸುವುದಿಲ್ಲ ಎಂಬುದನ್ನು ಸ್ಪಷ್ಟವಾಗಿ ಹೇಳಬೇಕು. ಕಂಪನಿ ಗುಣಕ ಟೇಬಲ್‌ನಲ್ಲಿ ವಿಭಾಗ 3.1ರಲ್ಲಿ ತೋರಿಸಿದಂತೆ, ಬಜೆಟ್‌ಗೆ ಹೋಲಿಸಿ ಸಾಧನೆ 70%ಕ್ಕಿಂತ ಕಡಿಮೆಯಾದರೆ, ಕಂಪನಿ ಗುಣಕವೇ ಶೂನ್ಯಕ್ಕೆ ಇಳಿಯುತ್ತದೆ. ಇದರ ಅರ್ಥ, ಆ ವರ್ಷ ಪ್ರತಿ ಉದ್ಯೋಗಿಗೆ — ಅವರ ವೈಯಕ್ತಿಕ ಕಾರ್ಯಕ್ಷಮತೆ ಎಷ್ಟೇ ಅಸಾಧಾರಣವಾಗಿದ್ದರೂ — ಕಾರ್ಯಕ್ಷಮತೆ ಬೋನಸ್ ಶೂನ್ಯವಾಗುತ್ತದೆ, ಏಕೆಂದರೆ ಸೂತ್ರದಲ್ಲಿ ಯಾವುದೇ ಅಂಶ ಶೂನ್ಯವಾದರೆ ಒಟ್ಟು ಫಲಿತಾಂಶ ಶೂನ್ಯವೇ ಆಗುತ್ತದೆ."
+ },
+ {
+  "subject": "meera_zero_bonus_example",
+  "aspect": "case",
+  "value": "hypothetical based on 2020-21 downturn, actual revenue 62% of budget, multiplier0%; Rating5 Analyst calculation Rs8,00,000x10%x0%x150%x1.0=Rs0",
+  "section": "11.1",
+  "page": 29,
+  "evidence": "2020–21ರ ಮಾದರಿಯ ಒಂದು ತೀವ್ರ ಆರ್ಥಿಕ ಹಿಂಜರಿತ ವರ್ಷದ ಸನ್ನಿವೇಶವನ್ನು ಕಲ್ಪಿಸೋಣ: ಕಂಪನಿಯ ವಾಸ್ತವಿಕ ಆದಾಯ ಬಜೆಟ್‌ನ 62% ಮಾತ್ರ ಆಗಿದೆ. ಹಾಗಾಗಿ ಕಂಪನಿ ಗುಣಕ 0%. ಮೀರಾ ಎಂಬ ಅನಾಲಿಸ್ಟ್ ಆ ವರ್ಷ ರೇಟಿಂಗ್ 5 (ಅಸಾಧಾರಣ) ಪಡೆದಿದ್ದರೂ, ಅವರ ಬೋನಸ್ ಗಣನೆ: ₹8,00,000 (ಬೇಸ್) × 10% (ಗುರಿ %) × 0% (ಕಂಪನಿ ಗುಣಕ) × 150% (ವೈಯಕ್ತಿಕ ಗುಣಕ) × 1.0 = ₹0."
+ },
+ {
+  "subject": "partial_downturn_example",
+  "aspect": "ajay_case",
+  "value": "company achieved 75% of budget (multiplier40%); Senior Manager Band5 base Rs22,00,000, target18%, rating4(125%): bonus Rs1,98,000, only 50% of target Rs3,96,000",
+  "section": "11.2",
+  "page": 30,
+  "evidence": "ಸಂಪೂರ್ಣ ಶೂನ್ಯ ಮತ್ತು ಗುರಿ ಸಾಧನೆಯ ನಡುವಿನ ಭಾಗಶಃ ಕುಸಿತದ ಸನ್ನಿವೇಶವನ್ನೂ ಪರಿಗಣಿಸೋಣ: ಕಂಪನಿ ಬಜೆಟ್‌ನ 75% ಸಾಧಿಸಿದಾಗ (ಕಂಪನಿ ಗುಣಕ 40%), ಅಜಯ್ ಎಂಬ ಸೀನಿಯರ್ ಮ್ಯಾನೇಜರ್ (ಬ್ಯಾಂಡ್ 5, ಬೇಸ್ ₹22,00,000, ಗುರಿ % 18%) ರೇಟಿಂಗ್ 4 (ವೈಯಕ್ತಿಕ ಗುಣಕ 125%) ಪಡೆದಿದ್ದರೆ: ಬೋನಸ್ = ₹22,00,000 × 18% × 40% × 125% × 1.0 = ₹3,96,000 × 0.40 × 1.25 = ₹1,98,000. ಗುರಿ ಮೊತ್ತ ₹3,96,000 ಆಗಿದ್ದರೂ, ಅಂತಿಮ ಮೊತ್ತ ಕೇವಲ 50%ಕ್ಕೆ ಇಳಿದಿದೆ, ಇದು ಅಸಾಧಾರಣ ವೈಯಕ್ತಿಕ ಸಾಧನೆಯೂ ಕಂಪನಿಯ ಕಳಪೆ ವರ್ಷದ ಪರಿಣಾಮವನ್ನು ಸಂಪೂರ್ಣವಾಗಿ ಸರಿದೂಗಿಸಲಾರದು ಎಂಬುದನ್ನು ತೋರಿಸುತ್ತದೆ."
+ },
+ {
+  "subject": "historical_zero_occurrence",
+  "aspect": "frequency",
+  "value": "since 2019 launch, company multiplier dropped to zero only once; 70-100% range occurs roughly one-third of years",
+  "section": "11.3",
+  "page": 30,
+  "evidence": "2019ರಲ್ಲಿ ಈ ಯೋಜನೆ ಜಾರಿಗೆ ಬಂದಾಗಿನಿಂದ, ಕಂಪನಿ ಗುಣಕ ಶೂನ್ಯಕ್ಕೆ ಇಳಿದ ಸಂದರ್ಭ ಕೇವಲ ಒಂದು ಬಾರಿ ಮಾತ್ರ ಸಂಭವಿಸಿದೆ — ಇದನ್ನು ಕಂಪನಿ ಆಂತರಿಕ ಸಂವಹನದಲ್ಲಿ \"ಅಪರೂಪದ ಆದರೆ ಸಾಧ್ಯ\" ಸನ್ನಿವೇಶವೆಂದು ವಿವರಿಸುತ್ತದೆ. 70%-100% ವ್ಯಾಪ್ತಿಯ ಕಂಪನಿ ಗುಣಕ (ಅಂದರೆ ಗುರಿ ಮೊತ್ತಕ್ಕಿಂತ ಕಡಿಮೆ, ಆದರೆ ಶೂನ್ಯಕ್ಕಿಂತ ಹೆಚ್ಚು) ಹೆಚ್ಚು ಸಾಮಾನ್ಯವಾಗಿ ಕಂಡುಬಂದಿದೆ, ಸುಮಾರು ಮೂರನೇ ಒಂದು ಭಾಗದಷ್ಟು ವರ್ಷಗಳಲ್ಲಿ."
+ },
+ {
+  "subject": "query_ticket_submission",
+  "aspect": "deadline",
+  "value": "within 15 working days of bonus publication",
+  "section": "12.1",
+  "page": 30,
+  "evidence": "ಯಾವುದೇ ಉದ್ಯೋಗಿ ತಮ್ಮ ಬೋನಸ್ ಗಣನೆಯ ಬಗ್ಗೆ ಪ್ರಶ್ನೆ ಅಥವಾ ಭಿನ್ನಾಭಿಪ್ರಾಯ ಹೊಂದಿದ್ದರೆ, ಬೋನಸ್ ಪ್ರಕಟಣೆಯ 15 ಕಾರ್ಯ ದಿನಗಳ ಒಳಗೆ ಹ್ಯೂಮನ್ ರಿಸೋರ್ಸ್ ಪೋರ್ಟಲ್‌ನಲ್ಲಿ ಔಪಚಾರಿಕ ಪ್ರಶ್ನೆ ಟಿಕೆಟ್ ಸಲ್ಲಿಸಬಹುದು."
+ },
+ {
+  "subject": "query_review_timeline",
+  "aspect": "process",
+  "value": "HR Compensation team responds within 5 working days; if unsatisfied, escalate to HR Head within 5 additional working days (final)",
+  "section": "12.2",
+  "page": 30,
+  "evidence": "ಹ್ಯೂಮನ್ ರಿಸೋರ್ಸ್ ಕಾಂಪೆನ್ಸೇಷನ್ ತಂಡ 5 ಕಾರ್ಯ ದಿನಗಳ ಒಳಗೆ ಗಣನೆಯನ್ನು ಮರುಪರಿಶೀಲಿಸಿ ಪ್ರಾಥಮಿಕ ಪ್ರತಿಕ್ರಿಯೆ ನೀಡುತ್ತದೆ."
+ },
+ {
+  "subject": "harsha_dispute_example",
+  "aspect": "resolved_case",
+  "value": "Team Lead claimed old base salary used due to Jan2026 increment not reflected; HR recalculated within 3 working days, bonus increased by Rs8,200",
+  "section": "12.3",
+  "page": 31,
+  "evidence": "ಹರ್ಷ ಎಂಬ ಟೀಮ್ ಲೀಡ್ ತಮ್ಮ ಬೋನಸ್ ಗಣನೆಯಲ್ಲಿ ಬೇಸ್ ವೇತನ ಹಳೆಯ (ಕಡಿಮೆ) ಮೊತ್ತವನ್ನು ಬಳಸಲಾಗಿದೆ ಎಂದು ಟಿಕೆಟ್ ಸಲ್ಲಿಸಿದರು — ಅವರಿಗೆ ಜನವರಿ 2026ರಲ್ಲಿ ವಾರ್ಷಿಕ ವೇತನ ಹೆಚ್ಚಳ (ಇಂಕ್ರಿಮೆಂಟ್) ಆಗಿದ್ದರೂ, ಗಣನೆಯ ವ್ಯವಸ್ಥೆಯಲ್ಲಿ ಇದು ಪ್ರತಿಫಲಿತವಾಗಿರಲಿಲ್ಲ. ಹ್ಯೂಮನ್ ರಿಸೋರ್ಸ್ ಕಾಂಪೆನ್ಸೇಷನ್ ತಂಡ 3 ಕಾರ್ಯ ದಿನಗಳಲ್ಲಿ ಪರಿಶೀಲಿಸಿ, ಇಂಕ್ರಿಮೆಂಟ್ ಪರಿಣಾಮವನ್ನು ಸೇರಿಸಿ ಪ್ರೋ-ರೇಟೆಡ್ ಬೇಸ್ ಅನ್ನು ಮರು-ಗಣಿಸಿತು (ಜನವರಿ-ಮಾರ್ಚ್ ಅವಧಿಗೆ ಹೊಸ ಬೇಸ್, ಉಳಿದ ಅವಧಿಗೆ ಹಳೆಯ ಬೇಸ್). ಇದರಿಂದ ಹರ್ಷ ಅವರ ಬೋನಸ್ ಮೊತ್ತ ₹8,200 ಹೆಚ್ಚಿತು, ಮತ್ತು ಈ ಹೆಚ್ಚುವರಿ ಮೊತ್ತವನ್ನು ಮುಂದಿನ ಮಾಸಿಕ ವೇತನದೊಂದಿಗೆ ಪಾವತಿಸಲಾಯಿತು."
+ },
+ {
+  "subject": "swati_dispute_example",
+  "aspect": "escalated_case",
+  "value": "claimed wrong unit multiplier applied; initial review found correct, escalated to HR Head, re-reviewed with Finance, confirmed original calc correct",
+  "section": "12.3",
+  "page": 31,
+  "evidence": "ಪ್ರಾಥಮಿಕ ಪರಿಶೀಲನೆಯಲ್ಲಿ, ಹ್ಯೂಮನ್ ರಿಸೋರ್ಸ್ ತಂಡ ಗುಣಕ ಸರಿಯಾಗಿಯೇ ಅನ್ವಯವಾಗಿದೆ ಎಂದು ಕಂಡುಕೊಂಡು, ಸ್ವಾತಿಗೆ ಗಣನಾ ವಿಧಾನದ ವಿವರಣೆ ನೀಡಿತು. ಸ್ವಾತಿ ಇದರಿಂದ ತೃಪ್ತರಾಗದೆ, ಹ್ಯೂಮನ್ ರಿಸೋರ್ಸ್ ಮುಖ್ಯಸ್ಥರಿಗೆ ಎಸ್ಕಲೇಟ್ ಮಾಡಿದರು. ಹ್ಯೂಮನ್ ರಿಸೋರ್ಸ್ ಮುಖ್ಯಸ್ಥರು ಫೈನಾನ್ಸ್ ವಿಭಾಗದೊಂದಿಗೆ ಮರುಪರಿಶೀಲಿಸಿ, ಮೂಲ ಗಣನೆ ಸರಿಯಾಗಿದೆ ಎಂದು ದೃಢಪಡಿಸಿ, ಸ್ವಾತಿಗೆ ಹೆಚ್ಚು ವಿವರವಾದ ಗಣನಾ ಹಾಳೆ (calculation sheet) ಒದಗಿಸಿ ಅಂತಿಮ ವಿವರಣೆ ನೀಡಿದರು."
+ },
+ {
+  "subject": "dispute_categorization",
+  "aspect": "four_categories",
+  "value": "data errors (HR corrects directly), calculation formula errors (Finance+HR jointly), rating disagreements (redirected to appeal), policy interpretation (HR Policy team)",
+  "section": "12.4",
+  "page": 31,
+  "evidence": "ಹ್ಯೂಮನ್ ರಿಸೋರ್ಸ್ ವಿಭಾಗ ಬೋನಸ್ ಪ್ರಶ್ನೆಗಳನ್ನು ನಾಲ್ಕು ವಿಭಾಗಗಳಾಗಿ ವರ್ಗೀಕರಿಸುತ್ತದೆ, ಪ್ರತಿಯೊಂದಕ್ಕೂ ಪ್ರತ್ಯೇಕ ನಿರ್ವಹಣಾ ಮಾರ್ಗ: (1) ದತ್ತಾಂಶ ದೋಷಗಳು (ಬೇಸ್ ವೇತನ, ಸೇವಾ ದಿನಾಂಕ, ಗ್ರೇಡ್ ತಪ್ಪಾಗಿ ದಾಖಲಾಗಿರುವುದು) — ಇವುಗಳನ್ನು ಹ್ಯೂಮನ್ ರಿಸೋರ್ಸ್ ಕಾಂಪೆನ್ಸೇಷನ್ ತಂಡ ನೇರವಾಗಿ ಸರಿಪಡಿಸುತ್ತದೆ; (2) ಗಣನಾ ಸೂತ್ರ ದೋಷಗಳು (ಗುಣಕ ತಪ್ಪಾಗಿ ಅನ್ವಯಿಸಿರುವುದು) — ಇವುಗಳನ್ನು ಫೈನಾನ್ಸ್ ಮತ್ತು ಹ್ಯೂಮನ್ ರಿಸೋರ್ಸ್ ಜಂಟಿಯಾಗಿ ಪರಿಶೀಲಿಸುತ್ತವೆ; (3) ರೇಟಿಂಗ್-ಸಂಬಂಧಿತ ಭಿನ್ನಾಭಿಪ್ರಾಯಗಳು — ಇವುಗಳನ್ನು ಮೇಲ್ಮನವಿ ಪ್ರಕ್ರಿಯೆಗೆ ಮರುನಿರ್ದೇಶಿಸಲಾಗುತ್ತದೆ; (4) ನೀತಿ ವ್ಯಾಖ್ಯಾನ ಪ್ರಶ್ನೆಗಳು (ಉದಾ: ಪ್ರೋ-ರೇಶನ್ ನಿಯಮ ಹೇಗೆ ಅನ್ವಯಿಸುತ್ತದೆ ಎಂಬ ಸ್ಪಷ್ಟೀಕರಣ) — ಇವುಗಳನ್ನು ಹ್ಯೂಮನ್ ರಿಸೋರ್ಸ್ ನೀತಿ ತಂಡ ನಿರ್ವಹಿಸುತ್ತದೆ."
+ },
+ {
+  "subject": "compensation_committee_composition",
+  "aspect": "members",
+  "value": "CEO (Chair), CFO, HR Head, 2 independent board members",
+  "section": "13.1",
+  "page": 32,
+  "evidence": "ಇದರ ಸಂಯೋಜನೆ: ಮುಖ್ಯ ಕಾರ್ಯನಿರ್ವಾಹಕ ಅಧಿಕಾರಿ (ಅಧ್ಯಕ್ಷರು), ಮುಖ್ಯ ಹಣಕಾಸು ಅಧಿಕಾರಿ, ಮಾನವ ಸಂಪನ್ಮೂಲ ಮುಖ್ಯಸ್ಥರು, ಮತ್ತು ಇಬ್ಬರು ಸ್ವತಂತ್ರ ಮಂಡಳಿ ಸದಸ್ಯರು."
+ },
+ {
+  "subject": "compensation_committee_responsibilities",
+  "aspect": "five_areas",
+  "value": "approving annual company multiplier, annual grade-band % review, discretionary bonuses >Rs2,00,000, Band6+ bonus package review, plan design revision",
+  "section": "13.1",
+  "page": 32,
+  "evidence": "ಈ ಕಮಿಟಿಯ ಚಾರ್ಟರ್ ಅಡಿಯಲ್ಲಿ ಇದರ ಪ್ರಮುಖ ಜವಾಬ್ದಾರಿಗಳು: (1) ವಾರ್ಷಿಕ ಕಂಪನಿ ಗುಣಕ ಗಣನೆಯ ಅನುಮೋದನೆ; (2) ಗ್ರೇಡ್-ಬ್ಯಾಂಡ್ ಗುರಿ ಬೋನಸ್ ಶೇಕಡಾವಾರು ಪ್ರಮಾಣಗಳ ವಾರ್ಷಿಕ ಪರಿಶೀಲನೆ; (3) ₹2,00,000ಗಿಂತ ಹೆಚ್ಚಿನ ವಿವೇಚನಾ ಬೋನಸ್‌ಗಳ ಅನುಮೋದನೆ; (4) ಬ್ಯಾಂಡ್ 6 ಮತ್ತು ಮೇಲಿನ ಹಿರಿಯ ನಾಯಕತ್ವ ಬೋನಸ್ ಪ್ಯಾಕೇಜ್‌ಗಳ ನೇರ ಪರಿಶೀಲನೆ; (5) ಯೋಜನೆಯ ವಿನ್ಯಾಸ ಪರಿಷ್ಕರಣೆ."
+ },
+ {
+  "subject": "board_oversight_presentation",
+  "aspect": "content",
+  "value": "annual summary to Board for Band7/8 packages including total cost, ratio to company result, comparison to prior years",
+  "section": "13.2",
+  "page": 32,
+  "evidence": "ಹಿರಿಯ ನಾಯಕತ್ವದ (ಬ್ಯಾಂಡ್ 7 ಮತ್ತು 8) ಬೋನಸ್ ಪ್ಯಾಕೇಜ್‌ಗಳಿಗೆ, ಕಾಂಪೆನ್ಸೇಷನ್ ಕಮಿಟಿಯ ಅನುಮೋದನೆಯ ಬಳಿಕ, ಕಂಪನಿಯ ಮಂಡಳಿಗೆ (Board of Directors) ವಾರ್ಷಿಕ ಸಾರಾಂಶ ಪ್ರಸ್ತುತಿ ನೀಡಲಾಗುತ್ತದೆ, ಇದರಲ್ಲಿ ಒಟ್ಟು ಹಿರಿಯ ನಾಯಕತ್ವ ಬೋನಸ್ ವೆಚ್ಚ, ಕಂಪನಿ ಫಲಿತಾಂಶಕ್ಕೆ ಅದರ ಅನುಪಾತ ಮತ್ತು ಹಿಂದಿನ ವರ್ಷಗಳ ಹೋಲಿಕೆ ಸೇರಿರುತ್ತದೆ."
+ },
+ {
+  "subject": "peer_comparison_presentation",
+  "aspect": "scope",
+  "value": "anonymous peer comparison of similarly-sized IT services companies' senior leadership compensation",
+  "section": "13.2.2",
+  "page": 32,
+  "evidence": "ಪ್ರತಿ ವರ್ಷ, ಮಂಡಳಿಗೆ ಸಲ್ಲಿಸುವ ಸಾರಾಂಶ ಪ್ರಸ್ತುತಿಯಲ್ಲಿ ಹೋಲಿಸಬಹುದಾದ ಗಾತ್ರದ ಇತರ ಐಟಿ ಸೇವಾ ಕಂಪನಿಗಳ ಹಿರಿಯ ನಾಯಕತ್ವ ಸಂಭಾವನೆಯ ಅನಾಮಧೇಯ ಪೀರ್ ಹೋಲಿಕೆಯನ್ನೂ ಸೇರಿಸಲಾಗುತ್ತದೆ."
+ },
+ {
+  "subject": "compensation_committee_meeting_schedule",
+  "aspect": "frequency",
+  "value": "minimum 4 times/year: April-May multiplier approval, July half-year review, October discretionary budget review, January-February annual design review",
+  "section": "13.2.1",
+  "page": 32,
+  "evidence": "ಕಾಂಪೆನ್ಸೇಷನ್ ಕಮಿಟಿ ವರ್ಷಕ್ಕೆ ಕನಿಷ್ಠ ನಾಲ್ಕು ಬಾರಿ ಸಭೆ ಸೇರುತ್ತದೆ — ಏಪ್ರಿಲ್-ಮೇ (ವಾರ್ಷಿಕ ಗುಣಕ ಅನುಮೋದನೆ), ಜುಲೈ (ಅರ್ಧ-ವಾರ್ಷಿಕ ಪ್ರಗತಿ ಪರಿಶೀಲನೆ), ಅಕ್ಟೋಬರ್ (ವಿವೇಚನಾ ಬಜೆಟ್ ಬಳಕೆ ಪರಿಶೀಲನೆ), ಮತ್ತು ಜನವರಿ-ಫೆಬ್ರುವರಿ (ವಾರ್ಷಿಕ ಯೋಜನಾ ವಿನ್ಯಾಸ ಪರಿಶೀಲನೆ)."
+ },
+ {
+  "subject": "compensation_committee_quorum",
+  "aspect": "rule",
+  "value": "minimum 3 members including at least 1 independent board member; members recuse during discussion of own or direct reports' bonus",
+  "section": "13.2.1",
+  "page": 32,
+  "evidence": "ಪ್ರತಿ ಸಭೆಗೆ ಕೋರಂ ಕನಿಷ್ಠ ಮೂರು ಸದಸ್ಯರು, ಇದರಲ್ಲಿ ಕನಿಷ್ಠ ಒಬ್ಬ ಸ್ವತಂತ್ರ ಮಂಡಳಿ ಸದಸ್ಯ ಇರಲೇಬೇಕು. ಹಿತಾಸಕ್ತಿ ಸಂಘರ್ಷ ತಪ್ಪಿಸಲು, ಯಾವುದೇ ಕಮಿಟಿ ಸದಸ್ಯ ತಮ್ಮ ಸ್ವಂತ ಬೋನಸ್ ಪ್ಯಾಕೇಜ್ ಅಥವಾ ತಮ್ಮ ನೇರ ವರದಿಗಾರರ (direct reports) ಬೋನಸ್ ಚರ್ಚೆಯ ಸಮಯದಲ್ಲಿ ಸಭೆಯಿಂದ ಹೊರಗುಳಿಯಬೇಕು (recusal)."
+ },
+ {
+  "subject": "annual_plan_design_review",
+  "aspect": "process",
+  "value": "every Jan-Feb, Compensation Committee+HR review market data, satisfaction surveys, dispute analysis; changes presented to Board before end of March",
+  "section": "13.3",
+  "page": 33,
+  "evidence": "ಪ್ರತಿ ಹಣಕಾಸು ವರ್ಷದ ಜನವರಿ-ಫೆಬ್ರುವರಿ ಅವಧಿಯಲ್ಲಿ (ಮುಂದಿನ ಪರಿಶೀಲನಾ ವರ್ಷ ಪ್ರಾರಂಭವಾಗುವ ಮೊದಲು), ಕಾಂಪೆನ್ಸೇಷನ್ ಕಮಿಟಿ ಮತ್ತು ಹ್ಯೂಮನ್ ರಿಸೋರ್ಸ್ ವಿಭಾಗ ಜಂಟಿಯಾಗಿ ಈ ಬೋನಸ್ ಯೋಜನೆಯ ಸಮಗ್ರ ವಾರ್ಷಿಕ ಪರಿಶೀಲನೆ ನಡೆಸುತ್ತವೆ. ಈ ಪರಿಶೀಲನೆಯಲ್ಲಿ ಮಾರುಕಟ್ಟೆ ಬೆಂಚ್‌ಮಾರ್ಕಿಂಗ್ ದತ್ತಾಂಶ, ಉದ್ಯೋಗಿ ಸಂತೃಪ್ತಿ ಸಮೀಕ್ಷೆ ಫಲಿತಾಂಶಗಳು, ಹಿಂದಿನ ವರ್ಷದ ವಿವಾದ ಪ್ರಕರಣಗಳ ವಿಶ್ಲೇಷಣೆ ಮತ್ತು ಗ್ರೇಡ್-ಬ್ಯಾಂಡ್ ಶೇಕಡಾವಾರು ಪ್ರಮಾಣಗಳ ಸ್ಪರ್ಧಾತ್ಮಕತೆಯನ್ನು ಪರಿಗಣಿಸಲಾಗುತ್ತದೆ. ಯಾವುದೇ ಪ್ರಸ್ತಾಪಿತ ಬದಲಾವಣೆಗಳನ್ನು ಮಂಡಳಿಗೆ ಮಾರ್ಚ್ ಅಂತ್ಯದ ಮೊದಲು ಪ್ರಸ್ತುತಪಡಿಸಿ ಅನುಮೋದನೆ ಪಡೆಯಲಾಗುತ್ತದೆ, ಇದರಿಂದ ಹೊಸ ಪರಿಶೀಲನಾ ವರ್ಷ ಆರಂಭವಾಗುವ ಮೊದಲೇ ಯಾವುದೇ ಬದಲಾವಣೆಯ ಬಗ್ಗೆ ಉದ್ಯೋಗಿಗಳಿಗೆ ಸಂವಹನ ಮಾಡಲಾಗುತ್ತದೆ."
+ },
+ {
+  "subject": "documentation_audit_trail",
+  "aspect": "retention",
+  "value": "all bonus calculation documents preserved minimum 7 years; Internal Audit reviews minimum 5% random sample annually",
+  "section": "13.3.1",
+  "page": 33,
+  "evidence": "ಪ್ರತಿ ವರ್ಷದ ಬೋನಸ್ ಗಣನೆಗೆ ಸಂಬಂಧಿಸಿದ ಎಲ್ಲಾ ದಾಖಲೆಗಳನ್ನು — ಕಂಪನಿ ಗುಣಕ ಗಣನಾ ಹಾಳೆಗಳು, ವೈಯಕ್ತಿಕ ರೇಟಿಂಗ್ ಕ್ಯಾಲಿಬ್ರೇಷನ್ ದಾಖಲೆಗಳು, ಕಾಂಪೆನ್ಸೇಷನ್ ಕಮಿಟಿ ಕಾರ್ಯವೃತ್ತಾಂತಗಳು ಮತ್ತು ವಿವಾದ ಟಿಕೆಟ್ ಇತಿಹಾಸ — ಕನಿಷ್ಠ ಏಳು ವರ್ಷಗಳ ಕಾಲ ಸುರಕ್ಷಿತವಾಗಿ ಸಂರಕ್ಷಿಸಲಾಗುತ್ತದೆ, ಇದು ಆಂತರಿಕ ಮತ್ತು ಬಾಹ್ಯ ಆಡಿಟ್ ಅಗತ್ಯಗಳನ್ನು ಪೂರೈಸುತ್ತದೆ. ಆಂತರಿಕ ಆಡಿಟ್ ವಿಭಾಗ ಪ್ರತಿ ವರ್ಷ ಯಾದೃಚ್ಛಿಕವಾಗಿ (ಸ್ಯಾಂಪಲ್ ಆಗಿ) ಕನಿಷ್ಠ 5% ಬೋನಸ್ ಗಣನೆಗಳನ್ನು ಸ್ವತಂತ್ರವಾಗಿ ಪರಿಶೀಲಿಸಿ, ಯಾವುದೇ ಅಸಾಮಾನ್ಯತೆ ಇದ್ದರೆ ಕಾಂಪೆನ್ಸೇಷನ್ ಕಮಿಟಿಗೆ ವರದಿ ಮಾಡುತ್ತದೆ."
+ },
+ {
+  "subject": "regulatory_compliance_scope",
+  "aspect": "laws",
+  "value": "complies with Companies Act 2013, Income Tax Act, applicable labor laws; Band7/8 disclosure handled by Company Secretary",
+  "section": "13.3.2",
+  "page": 33,
+  "evidence": "ಈ ಬೋನಸ್ ಯೋಜನೆಯ ಗಣನೆ ಮತ್ತು ಪಾವತಿ ಪ್ರಕ್ರಿಯೆ ಕಂಪನಿ ಕಾಯ್ದೆ, 2013, ಆದಾಯ ತೆರಿಗೆ ಕಾಯ್ದೆ, ಮತ್ತು ಅನ್ವಯವಾಗುವ ಕಾರ್ಮಿಕ ಕಾನೂನುಗಳ ಅಡಿಯಲ್ಲಿ ಎಲ್ಲಾ ಅನುಸರಣಾ ಅಗತ್ಯಗಳನ್ನು ಪೂರೈಸುತ್ತದೆ. ಹಿರಿಯ ನಾಯಕತ್ವದ (ಬ್ಯಾಂಡ್ 7/8) ಸಂಭಾವನೆ ಬಹಿರಂಗಪಡಿಸುವಿಕೆಗೆ ಸಂಬಂಧಿಸಿದ ಯಾವುದೇ ಕಡ್ಡಾಯ ವಾರ್ಷಿಕ ವರದಿ ಅಗತ್ಯಗಳನ್ನು (ಅನ್ವಯಿಸಿದಲ್ಲಿ) ಕಂಪನಿ ಕಾರ್ಯದರ್ಶಿಯ ಕಚೇರಿ ನಿರ್ವಹಿಸುತ್ತದೆ."
+ },
+ {
+  "subject": "pip_rating_impact",
+  "aspect": "rule",
+  "value": "employee under Performance Improvement Plan generally limited to Rating 1 or 2 for the annual rating even if PIP completed during year",
+  "section": "13.7",
+  "page": 33,
+  "evidence": "ಉದಾಹರಣೆಗೆ, ಒಬ್ಬ ಉದ್ಯೋಗಿ ಸುಧಾರಣಾ ಯೋಜನೆಯ (Performance Improvement Plan) ಅಡಿಯಲ್ಲಿದ್ದರೆ, ಅವರ ವಾರ್ಷಿಕ ರೇಟಿಂಗ್ ಸಾಮಾನ್ಯವಾಗಿ ರೇಟಿಂಗ್ 1 ಅಥವಾ 2ಕ್ಕೆ ಸೀಮಿತವಾಗುತ್ತದೆ (ಆ ಸುಧಾರಣಾ ಯೋಜನೆ ಆ ಅವಧಿಯಲ್ಲಿ ಪೂರ್ಣಗೊಂಡಿದ್ದರೂ ಸಹ, ಏಕೆಂದರೆ ವಾರ್ಷಿಕ ರೇಟಿಂಗ್ ಇಡೀ ವರ್ಷದ ಸಾಧನೆಯನ್ನು ಪ್ರತಿಬಿಂಬಿಸುತ್ತದೆ)."
+ },
+ {
+  "subject": "common_calculation_errors",
+  "aspect": "four_confusions",
+  "value": "mistaking CTC for Bonus Base; confusing company multiplier with individual rating; calculating proration on calendar year instead of fiscal year; misunderstanding deferred 70% as full payment",
+  "section": "13.4",
+  "page": 34,
+  "evidence": "ಮೊದಲನೆಯದು, ಉದ್ಯೋಗಿಗಳು ಕೆಲವೊಮ್ಮೆ ತಮ್ಮ \"ಒಟ್ಟು ವಾರ್ಷಿಕ ಪ್ಯಾಕೇಜ್\" (CTC) ಅನ್ನು \"ಬೋನಸ್ ಬೇಸ್\" ಎಂದು ತಪ್ಪಾಗಿ ಭಾವಿಸುತ್ತಾರೆ — ಬೋನಸ್ ಬೇಸ್ ಕೇವಲ ಮೂಲ ವೇತನ ಮಾತ್ರ, CTCಯ ಇತರ ಘಟಕಗಳಾದ ಪ್ರಾವಿಡೆಂಟ್ ಫಂಡ್ ಕೊಡುಗೆ, ಗ್ರಾಚ್ಯುಟಿ ಅಥವಾ ಇನ್ಸೂರೆನ್ಸ್ ಪ್ರೀಮಿಯಂ ಇದರಲ್ಲಿ ಸೇರುವುದಿಲ್ಲ. ಎರಡನೆಯದು, ಕಂಪನಿ ಗುಣಕವನ್ನು ಒಂದೇ ವ್ಯಕ್ತಿಯ ರೇಟಿಂಗ್‌ಗೆ ಸಂಬಂಧಿಸಿದ್ದು ಎಂದು ಗೊಂದಲಪಡುವುದು — ಇದು ಸಂಪೂರ್ಣ ಪ್ರತ್ಯೇಕ, ಕಂಪನಿ/ಘಟಕ-ಮಟ್ಟದ ಅಂಶ. ಮೂರನೆಯದು, ಪ್ರೋ-ರೇಶನ್ ಅಂಶವನ್ನು ಕ್ಯಾಲೆಂಡರ್ ವರ್ಷದ (ಜನವರಿ-ಡಿಸೆಂಬರ್) ಆಧಾರದ ಮೇಲೆ ಲೆಕ್ಕ ಹಾಕುವುದು — ಇದನ್ನು ಯಾವಾಗಲೂ ಕಂಪನಿಯ ಹಣಕಾಸು ವರ್ಷದ (ಏಪ್ರಿಲ್-ಮಾರ್ಚ್) ಆಧಾರದ ಮೇಲೆಯೇ ಗಣಿಸಲಾಗುತ್ತದೆ. ನಾಲ್ಕನೆಯದು, ಮುಂದೂಡಿದ ಘಟಕ ಇರುವ ಹಿರಿಯ ಉದ್ಯೋಗಿಗಳು ತಮ್ಮ ಪೋರ್ಟಲ್‌ನಲ್ಲಿ ಕಾಣುವ \"ಗಣಿಸಿದ ಒಟ್ಟು ಬೋನಸ್\" ಮೊತ್ತವನ್ನೇ ಆ ವರ್ಷ ಕೈಗೆ ಬರುವ ಮೊತ್ತ ಎಂದು ತಪ್ಪಾಗಿ ಭಾವಿಸುವುದು — ವಾಸ್ತವಿಕವಾಗಿ ಕೇವಲ 70% ಮಾತ್ರ ತಕ್ಷಣ ಪಾವತಿಯಾಗುತ್ತದೆ."
+ },
+ {
+  "subject": "divya_proration_error_example",
+  "aspect": "case",
+  "value": "mistakenly calculated proration on calendar-year basis (365/365=1.0) vs correct fiscal-year basis (90/365=0.2466), overestimating bonus by 4x",
+  "section": "13.4",
+  "page": 34,
+  "evidence": "ಸರಿಪಡಿಸಿದ ಗಣನೆಯ ಉದಾಹರಣೆ: ದಿವ್ಯಾ ಎಂಬ ಅನಾಲಿಸ್ಟ್ ತಮ್ಮ ಪ್ರೋ-ರೇಶನ್ ಅಂಶವನ್ನು ಕ್ಯಾಲೆಂಡರ್ ವರ್ಷದ ಆಧಾರದ ಮೇಲೆ (1 ಜನವರಿ 2026ದಿಂದ ಸೇರ್ಪಡೆ ಎಂದು ಭಾವಿಸಿ) ಲೆಕ್ಕಹಾಕಿ, 365/365=1.0 ಎಂದು ತಪ್ಪಾಗಿ ಅಂದಾಜಿಸಿದ್ದರು. ವಾಸ್ತವದಲ್ಲಿ, ಅವರ ಸೇರ್ಪಡೆ ದಿನಾಂಕ 1 ಜನವರಿ 2026 ಆಗಿದ್ದು, ಹಣಕಾಸು ವರ್ಷ (1 ಏಪ್ರಿಲ್ 2025 - 31 ಮಾರ್ಚ್ 2026) ಆಧಾರದ ಮೇಲೆ ಸರಿಯಾದ ಪ್ರೋ-ರೇಶನ್ ಅಂಶ 90/365 = 0.2466 ಆಗಿತ್ತು. ಈ ತಪ್ಪು ಗ್ರಹಿಕೆಯಿಂದ ಅವರು ತಮ್ಮ ನಿರೀಕ್ಷಿತ ಬೋನಸ್ ಅನ್ನು ನಾಲ್ಕು ಪಟ್ಟು ಅತಿಯಾಗಿ ಅಂದಾಜಿಸಿದ್ದರು, ಮತ್ತು ಪೋರ್ಟಲ್‌ನ ಸ್ಪಷ್ಟ ಬ್ರೇಕ್‌ಡೌನ್ ಪರಿಶೀಲಿಸಿದ ಬಳಿಕವೇ ಈ ಗೊಂದಲ ಪರಿಹಾರವಾಯಿತು."
+ },
+ {
+  "subject": "self_check_checklist",
+  "aspect": "four_steps",
+  "value": "verify base salary, verify target% for grade band, verify published multiplier used, verify individual multiplier for rating",
+  "section": "13.4",
+  "page": 35,
+  "evidence": "ಉದ್ಯೋಗಿಗಳು ತಮ್ಮ ಬೋನಸ್ ಅನ್ನು ಸ್ವಯಂ ಪರಿಶೀಲಿಸಲು ಈ ಕೆಳಗಿನ ಸರಳ ನಾಲ್ಕು-ಹಂತದ ಪರಿಶೀಲನಾ ಪಟ್ಟಿ ಬಳಸಬಹುದು: (1) ನನ್ನ ಬೇಸ್ ವೇತನ ಪೋರ್ಟಲ್‌ನಲ್ಲಿ ತೋರಿಸಿದ ಮೊತ್ತಕ್ಕೆ ಹೊಂದಿಕೆಯಾಗುತ್ತದೆಯೇ? (2) ನನ್ನ ಗ್ರೇಡ್ ಬ್ಯಾಂಡ್‌ಗೆ ಸರಿಯಾದ ಗುರಿ % ಅನ್ವಯವಾಗಿದೆಯೇ? (3) ಪ್ರಕಟಿತ ಕಂಪನಿ/ಘಟಕ ಗುಣಕ ನನ್ನ ಗಣನೆಯಲ್ಲಿ ಸರಿಯಾಗಿ ಬಳಕೆಯಾಗಿದೆಯೇ?"
+ },
+ {
+  "subject": "anonymous_dispute_report",
+  "aspect": "annual_disclosure",
+  "value": "HR shares aggregated anonymous statistics (ticket count, category breakdown, average resolution time) at townhall",
+  "section": "12.5",
+  "page": 35,
+  "evidence": "ಪಾರದರ್ಶಕತೆಯ ಭಾಗವಾಗಿ, ಹ್ಯೂಮನ್ ರಿಸೋರ್ಸ್ ವಿಭಾಗ ಪ್ರತಿ ವರ್ಷ ಟೌನ್‌ಹಾಲ್ ಸಭೆಯಲ್ಲಿ ಆ ವರ್ಷದ ಒಟ್ಟು ಟಿಕೆಟ್ ಸಂಖ್ಯೆ, ವರ್ಗವಾರು ವಿಭಜನೆ (ವಿಭಾಗ 12.4ರ ನಾಲ್ಕು ವರ್ಗಗಳು), ಮತ್ತು ಸರಾಸರಿ ಪರಿಹಾರ ಅವಧಿಯ ಅನಾಮಧೇಯ, ಒಗ್ಗೂಡಿಸಿದ (ಅಗ್ರಿಗೇಟ್) ಅಂಕಿಅಂಶಗಳನ್ನು ಹಂಚಿಕೊಳ್ಳುತ್ತದೆ. ಇದು ಯಾವುದೇ ಒಬ್ಬ ಉದ್ಯೋಗಿಯ ಗುರುತನ್ನು ಬಹಿರಂಗಪಡಿಸುವುದಿಲ್ಲ, ಆದರೆ ಇಡೀ ಸಂಸ್ಥೆಗೆ ಈ ಯೋಜನೆ ಎಷ್ಟು ಸುಗಮವಾಗಿ ಕಾರ್ಯನಿರ್ವಹಿಸುತ್ತಿದೆ ಎಂಬ ಸ್ಪಷ್ಟ ಚಿತ್ರಣ ನೀಡುತ್ತದೆ."
+ },
+ {
+  "subject": "karthik_full_cycle_example",
+  "aspect": "annual_timeline",
+  "value": "Team Lead Band3, base Rs14,40,000, target12%=Rs1,72,800; final bonus Rs14,40,000x12%x115%x125%x1.0=Rs2,48,400; full cycle spans approximately 14 months",
+  "section": "13.5",
+  "page": 36,
+  "evidence": "ಕಾರ್ತಿಕ್ ಅವರ ಅಂತಿಮ ಬೋನಸ್ ಗಣನೆ: ₹14,40,000 × 12% × 115% × 125% × 1.0 = ₹1,72,800 × 1.15 × 1.25 = ₹2,48,400."
+ },
+ {
+  "subject": "ma_transition_rule",
+  "aspect": "acquired_employee_treatment",
+  "value": "phased into plan from acquisition date with typically 12-month transition period; job mapping completed within first 90 days",
+  "section": "13.6.1",
+  "page": 36,
+  "evidence": "ಕಂಪನಿ ಒಂದು ಹೊಸ ಸಂಸ್ಥೆಯನ್ನು ಸ್ವಾಧೀನಪಡಿಸಿಕೊಂಡಾಗ, ಸ್ವಾಧೀನಪಡಿಸಿಕೊಂಡ ಸಂಸ್ಥೆಯ ಉದ್ಯೋಗಿಗಳನ್ನು ಸ್ವಾಧೀನದ ದಿನಾಂಕದಿಂದ ಈ ಬೋನಸ್ ಯೋಜನೆಗೆ ಹಂತ-ಹಂತವಾಗಿ ಸೇರ್ಪಡಿಸಲಾಗುತ್ತದೆ, ಸಾಮಾನ್ಯವಾಗಿ ಒಂದು ಪರಿವರ್ತನಾ ಅವಧಿಯಲ್ಲಿ (ಸಾಮಾನ್ಯವಾಗಿ 12 ತಿಂಗಳು) ಅವರ ಹಿಂದಿನ ಬೋನಸ್ ಯೋಜನೆಯ ಅಡಿಯಲ್ಲಿ ಉಳಿಯಲು ಅವಕಾಶ ನೀಡಲಾಗುತ್ತದೆ ಅಥವಾ ಹೋಲಿಸಬಹುದಾದ ಪರಿವರ್ತನಾ ಬೋನಸ್ ವ್ಯವಸ್ಥೆ ವಿನ್ಯಾಸಗೊಳಿಸಲಾಗುತ್ತದೆ. ಪರಿವರ್ತನಾ ಅವಧಿಯ ನಿಖರ ಷರತ್ತುಗಳನ್ನು ಪ್ರತಿ ಸ್ವಾಧೀನದ ಒಪ್ಪಂದದಲ್ಲಿ ಪ್ರತ್ಯೇಕವಾಗಿ ನಿರ್ಧರಿಸಲಾಗುತ್ತದೆ ಮತ್ತು ಕಾಂಪೆನ್ಸೇಷನ್ ಕಮಿಟಿಯ ಅನುಮೋದನೆ ಪಡೆಯಲಾಗುತ್ತದೆ. ಸ್ವಾಧೀನಪಡಿಸಿಕೊಂಡ ಸಂಸ್ಥೆಯ ಉದ್ಯೋಗಿಗಳ ಹಿಂದಿನ ಬೋನಸ್ ಇತಿಹಾಸ ಮತ್ತು ಹಿಂದಿನ ಗ್ರೇಡ್ ರಚನೆಯನ್ನು ಈ ಕಂಪನಿಯ ಗ್ರೇಡ್ ಬ್ಯಾಂಡ್‌ಗೆ ಮ್ಯಾಪ್ ಮಾಡುವ ಪ್ರಕ್ರಿಯೆಯನ್ನು (\"ಜಾಬ್ ಮ್ಯಾಪಿಂಗ್\") ಮಾನವ ಸಂಪನ್ಮೂಲ ವಿಭಾಗ ಸ್ವಾಧೀನದ ಮೊದಲ 90 ದಿನಗಳಲ್ಲಿ ಪೂರ್ಣಗೊಳಿಸುತ್ತದೆ."
+ },
+ {
+  "subject": "org_restructuring_reconciliation",
+  "aspect": "process",
+  "value": "Finance reconciles old/new unit structure on pro-forma basis applying fair multiplier per employee",
+  "section": "13.6.2",
+  "page": 37,
+  "evidence": "ಒಂದು ವ್ಯಾಪಾರ ಘಟಕವನ್ನು ಇನ್ನೊಂದರೊಂದಿಗೆ ವಿಲೀನಗೊಳಿಸಿದಾಗ ಅಥವಾ ಹೊಸ ಘಟಕ ರಚಿಸಿದಾಗ, ಆ ಹಣಕಾಸು ವರ್ಷದ ಬೋನಸ್ ಗಣನೆಗೆ, ಹಳೆಯ ಮತ್ತು ಹೊಸ ಘಟಕ ರಚನೆಯ ಫಲಿತಾಂಶಗಳನ್ನು ಪ್ರೊ-ಫಾರ್ಮಾ ಆಧಾರದ ಮೇಲೆ ಮರುಹೊಂದಿಸಿ, ಪ್ರತಿ ಉದ್ಯೋಗಿಗೆ ಅವರು ಕಾರ್ಯನಿರ್ವಹಿಸಿದ ಘಟಕ ರಚನೆಗೆ ಅನುಗುಣವಾದ ನ್ಯಾಯಯುತ ಗುಣಕ ಅನ್ವಯಿಸಲಾಗುತ್ತದೆ. ಇಂತಹ ಸಂದರ್ಭಗಳಲ್ಲಿ ಫೈನಾನ್ಸ್ ವಿಭಾಗ ಒಂದು ವಿಶೇಷ ಮರುಹೊಂದಾಣಿಕೆ ಟಿಪ್ಪಣಿ (reconciliation note) ಸಿದ್ಧಪಡಿಸಿ ಕಾಂಪೆನ್ಸೇಷನ್ ಕಮಿಟಿಗೆ ಪ್ರಸ್ತುತಪಡಿಸುತ್ತದೆ."
+ },
+ {
+  "subject": "risk_scenario_planning",
+  "aspect": "process",
+  "value": "Finance prepares advance bonus cost estimates for best/moderate/poor scenarios each year; quarterly reports outstanding deferred liability to Compensation Committee",
+  "section": "13.6.3",
+  "page": 37,
+  "evidence": "ಫೈನಾನ್ಸ್ ವಿಭಾಗ ಪ್ರತಿ ವರ್ಷ ಮೂರು ಸನ್ನಿವೇಶಗಳಿಗೆ (ಅತ್ಯುತ್ತಮ, ಮಧ್ಯಮ, ಕಳಪೆ) ಬೋನಸ್ ವೆಚ್ಚ ಅಂದಾಜನ್ನು ಮುಂಚಿತವಾಗಿ ಸಿದ್ಧಪಡಿಸುತ್ತದೆ, ಇದರಿಂದ ಕಂಪನಿಯ ನಗದು ಹರಿವು ಮತ್ತು ಬಜೆಟ್ ಯೋಜನೆಯಲ್ಲಿ ಬೋನಸ್ ಹೊಣೆಗಾರಿಕೆಯ ಸಂಭವನೀಯ ವ್ಯಾಪ್ತಿಯನ್ನು ಮುಂಚಿತವಾಗಿ ಗಣನೆಗೆ ತೆಗೆದುಕೊಳ್ಳಬಹುದು. ಈ ಸನ್ನಿವೇಶ ಯೋಜನೆ ವಿಶೇಷವಾಗಿ ಮುಂದೂಡಿದ ಬೋನಸ್ ಘಟಕದ ಭವಿಷ್ಯದ ಹೊಣೆಗಾರಿಕೆಯನ್ನು (ಈಗಾಗಲೇ ಗಣಿಸಲಾದ ಆದರೆ ಇನ್ನೂ ಪಾವತಿಯಾಗದ ಮುಂದೂಡಿದ ಕಂತುಗಳ ಒಟ್ಟು ಮೊತ್ತ) ಟ್ರ್ಯಾಕ್ ಮಾಡಲು ಮುಖ್ಯವಾಗಿದೆ, ಏಕೆಂದರೆ ಇದು ಕಂಪನಿಯ ಬ್ಯಾಲೆನ್ಸ್ ಶೀಟ್‌ನಲ್ಲಿ ಒಂದು ಆಕಸ್ಮಿಕ ಹೊಣೆಗಾರಿಕೆಯಾಗಿ (contingent liability) ಪ್ರತಿಬಿಂಬಿತವಾಗುತ್ತದೆ. ಹಣಕಾಸು ವಿಭಾಗ ಪ್ರತಿ ತ್ರೈಮಾಸಿಕದಲ್ಲಿ ಈ ಬಾಕಿ ಮುಂದೂಡಿದ ಹೊಣೆಗಾರಿಕೆಯ ಒಟ್ಟು ಮೊತ್ತವನ್ನು ಕಾಂಪೆನ್ಸೇಷನ್ ಕಮಿಟಿಗೆ ವರದಿ ಮಾಡುತ್ತದೆ."
+ },
+ {
+  "subject": "communication_template_elements",
+  "aspect": "five_parts",
+  "value": "fiscal year result summary, finalized multiplier explanation, unit-specific multiplier announcements, next-steps timeline, HR contact details",
+  "section": "13.6.4",
+  "page": 37,
+  "evidence": "ಬೋನಸ್ ಗುಣಕ ಪ್ರಕಟಣೆಯ ಆಂತರಿಕ ಇಮೇಲ್ ಸಂವಹನ ಸಾಮಾನ್ಯವಾಗಿ ಈ ಕೆಳಗಿನ ಅಂಶಗಳನ್ನು ಒಳಗೊಂಡಿರುತ್ತದೆ: (1) ಹಣಕಾಸು ವರ್ಷದ ಒಟ್ಟಾರೆ ಕಂಪನಿ ಫಲಿತಾಂಶದ ಸಾರಾಂಶ (ಆದಾಯ ಮತ್ತು ಲಾಭ, ಬಜೆಟ್‌ಗೆ ಹೋಲಿಸಿ); (2) ಅಂತಿಮಗೊಂಡ ಕಂಪನಿ ಗುಣಕ ಮತ್ತು ಅದಕ್ಕೆ ಕಾರಣವಾದ ಪ್ರಮುಖ ಅಂಶಗಳ ವಿವರಣೆ; (3) ಪ್ರತಿ ವ್ಯಾಪಾರ ಘಟಕದ ಪ್ರತ್ಯೇಕ ಗುಣಕದ ಪ್ರಕಟಣೆ; (4) ಮುಂದಿನ ಹಂತಗಳ ಟೈಮ್‌ಲೈನ್ (ಬ್ರೇಕ್‌ಡೌನ್ ಪ್ರಕಟಣೆ ಮತ್ತು ಪಾವತಿ ದಿನಾಂಕ); (5) ಪ್ರಶ್ನೆಗಳಿಗೆ ಸಂಪರ್ಕಿಸಬೇಕಾದ ಹ್ಯೂಮನ್ ರಿಸೋರ್ಸ್ ಸಂಪರ್ಕ ವಿವರ."
+ },
+ {
+  "subject": "calculation_sheet_columns",
+  "aspect": "fields",
+  "value": "Employee ID, Grade Band, Bonus Base, Target Bonus%, Target Amount, Corporate/Unit/Blended Multiplier, Rating, Individual Multiplier, Proration, Final Bonus, Deferred Portion, Immediate Payment, Estimated TDS, Net Payment",
+  "section": "13.6.5",
+  "page": 38,
+  "evidence": "ಪ್ರತಿ ಉದ್ಯೋಗಿಯ ಬೋನಸ್ ಗಣನಾ ಹಾಳೆ (ಉದ್ಯೋಗಿ ಪೋರ್ಟಲ್‌ನಲ್ಲಿ ಮತ್ತು ವಿವಾದ ಪರಿಹಾರದ ಸಮಯದಲ್ಲಿ ಬಳಕೆಯಾಗುವ ಆಂತರಿಕ ದಾಖಲೆ) ಈ ಕೆಳಗಿನ ಕಾಲಮ್‌ಗಳನ್ನು ಒಳಗೊಂಡಿರುತ್ತದೆ: ಉದ್ಯೋಗಿ ಐಡಿ, ಗ್ರೇಡ್ ಬ್ಯಾಂಡ್, ಬೋನಸ್ ಬೇಸ್ (ವಾರ್ಷಿಕ ಮೂಲ ವೇತನ), ಗುರಿ ಬೋನಸ್ %, ಗುರಿ ಬೋನಸ್ ಮೊತ್ತ, ಕಾರ್ಪೊರೇಟ್ ಗುಣಕ, ಘಟಕ ಗುಣಕ, ಮಿಶ್ರ ಕಂಪನಿ ಗುಣಕ, ಕಾರ್ಯಕ್ಷಮತೆ ರೇಟಿಂಗ್, ವೈಯಕ್ತಿಕ ಗುಣಕ, ಪ್ರೋ-ರೇಶನ್ ಅಂಶ, ಅಂತಿಮ ಗಣಿಸಿದ ಬೋನಸ್, ಮುಂದೂಡಿದ ಭಾಗ (ಅನ್ವಯಿಸಿದಲ್ಲಿ), ತಕ್ಷಣ ಪಾವತಿ ಮೊತ್ತ, ಅಂದಾಜಿತ TDS, ಮತ್ತು ನಿವ್ವಳ ಪಾವತಿ ಮೊತ್ತ."
+ },
+ {
+  "subject": "self_service_portal_features",
+  "aspect": "four_features",
+  "value": "current+prior 3 years' history, interactive hypothetical calculator, direct ticket submission, upcoming vesting date reminders",
+  "section": "13.6.6",
+  "page": 38,
+  "evidence": "ಹ್ಯೂಮನ್ ರಿಸೋರ್ಸ್ ಪೋರ್ಟಲ್‌ನ ಬೋನಸ್ ವಿಭಾಗ ಈ ಕೆಳಗಿನ ಸ್ವಯಂ-ಸೇವಾ ವೈಶಿಷ್ಟ್ಯಗಳನ್ನು ಒದಗಿಸುತ್ತದೆ: (1) ಪ್ರಸ್ತುತ ಮತ್ತು ಹಿಂದಿನ ಮೂರು ವರ್ಷಗಳ ಬೋನಸ್ ಬ್ರೇಕ್‌ಡೌನ್ ಇತಿಹಾಸ; (2) ಒಂದು ಸಂವಾದಾತ್ಮಕ ಕ್ಯಾಲ್ಕುಲೇಟರ್, ಇದರಲ್ಲಿ ಉದ್ಯೋಗಿ ವಿವಿಧ ಕಾಲ್ಪನಿಕ ರೇಟಿಂಗ್ ಮತ್ತು ಗುಣಕ ಸನ್ನಿವೇಶಗಳನ್ನು ಪ್ರಯತ್ನಿಸಿ ನೋಡಬಹುದು (ಶೈಕ್ಷಣಿಕ ಉದ್ದೇಶಕ್ಕಾಗಿ ಮಾತ್ರ, ಇದು ನಿಜವಾದ ಫಲಿತಾಂಶದ ಮುನ್ಸೂಚನೆ ಅಲ್ಲ); (3) ನೇರ ಟಿಕೆಟ್ ಸಲ್ಲಿಕೆ ಗುಂಡಿ, ಇದು ಸ್ವಯಂಚಾಲಿತವಾಗಿ ಉದ್ಯೋಗಿಯ ಗಣನಾ ಹಾಳೆಯನ್ನು ಟಿಕೆಟ್‌ಗೆ ಲಗತ್ತಿಸುತ್ತದೆ; (4) ಮುಂದೂಡಿದ ಬೋನಸ್ ಹೊಂದಿರುವ ಉದ್ಯೋಗಿಗಳಿಗೆ ಮುಂಬರುವ ವೆಸ್ಟಿಂಗ್ ದಿನಾಂಕಗಳ ಜ್ಞಾಪನೆ (reminder) ವೈಶಿಷ್ಟ್ಯ."
+ },
+ {
+  "subject": "plan_change_management",
+  "aspect": "process",
+  "value": "HR+Finance impact analysis, Compensation Committee review, Board approval for significant changes, minimum 30 days advance notice, never retrospective mid-year",
+  "section": "13.8",
+  "page": 38,
+  "evidence": "ಈ ಬೋನಸ್ ಯೋಜನೆಗೆ ಯಾವುದೇ ಗಮನೀಯ ಬದಲಾವಣೆ (ಗ್ರೇಡ್-ಬ್ಯಾಂಡ್ % ಪರಿಷ್ಕರಣೆ, ಗುಣಕ ಕೋಷ್ಟಕ ಬದಲಾವಣೆ, ಅಥವಾ ಹೊಸ ಅಂಶ ಸೇರ್ಪಡೆ) ಪ್ರಸ್ತಾಪಿತವಾದಾಗ, ಅದು ಒಂದು ಔಪಚಾರಿಕ ಬದಲಾವಣೆ ನಿರ್ವಹಣೆ ಪ್ರಕ್ರಿಯೆಯ ಮೂಲಕ ಹಾದುಹೋಗುತ್ತದೆ: (1) ಹ್ಯೂಮನ್ ರಿಸೋರ್ಸ್ ಮತ್ತು ಫೈನಾನ್ಸ್ ವಿಭಾಗಗಳು ಜಂಟಿಯಾಗಿ ಪ್ರಭಾವ ವಿಶ್ಲೇಷಣೆ (ಇಂಪ್ಯಾಕ್ಟ್ ಅನಾಲಿಸಿಸ್) ಸಿದ್ಧಪಡಿಸುತ್ತವೆ, ಬದಲಾವಣೆ ಎಷ್ಟು ಉದ್ಯೋಗಿಗಳಿಗೆ ಮತ್ತು ಎಷ್ಟು ವೆಚ್ಚಕ್ಕೆ ಪರಿಣಾಮ ಬೀರುತ್ತದೆ ಎಂಬುದನ್ನು ಅಂದಾಜಿಸುತ್ತವೆ; (2) ಕಾಂಪೆನ್ಸೇಷನ್ ಕಮಿಟಿ ಈ ವಿಶ್ಲೇಷಣೆಯನ್ನು ಪರಿಶೀಲಿಸಿ ಅನುಮೋದಿಸುತ್ತದೆ; (3) ಗಮನೀಯ ಬದಲಾವಣೆಗಳಿಗೆ (ಉದಾ: ಹೊಸ ಗ್ರೇಡ್ ಬ್ಯಾಂಡ್ ಸೇರ್ಪಡೆ) ಮಂಡಳಿ ಅನುಮೋದನೆ ಅಗತ್ಯ; (4) ಅನುಮೋದಿತ ಬದಲಾವಣೆಯನ್ನು ಜಾರಿಗೆ ತರುವ ಮೊದಲು, ಕನಿಷ್ಠ 30 ದಿನಗಳ ಮುಂಚಿತ ಸೂಚನೆಯೊಂದಿಗೆ ಎಲ್ಲಾ ಪೀಡಿತ ಉದ್ಯೋಗಿಗಳಿಗೆ ಸಂವಹನ ಮಾಡಲಾಗುತ್ತದೆ. ಈ ಯಾವುದೇ ಬದಲಾವಣೆ ಹಾಲಿ ಪರಿಶೀಲನಾ ವರ್ಷದ ಮಧ್ಯದಲ್ಲಿ ಪೂರ್ವಾನ್ವಯವಾಗಿ (ರೆಟ್ರೋಸ್ಪೆಕ್ಟಿವ್) ಅನ್ವಯಿಸುವುದಿಲ್ಲ — ಯಾವುದೇ ಬದಲಾವಣೆ ಮುಂದಿನ ಪೂರ್ಣ ಪರಿಶೀಲನಾ ವರ್ಷದಿಂದ ಮಾತ್ರ ಜಾರಿಗೆ ಬರುತ್ತದೆ, ಇದರಿಂದ ಉದ್ಯೋಗಿಗಳಿಗೆ ಊಹಿಸಬಹುದಾದ ಸ್ಥಿರತೆ ಸಿಗುತ್ತದೆ."
+ },
+ {
+  "subject": "new_employee_orientation",
+  "aspect": "content",
+  "value": "first 30-day orientation includes Compensation and Rewards session with infographic of Section 5's three examples, ends with optional 5-question quiz feeding Plan Communication Comprehension Score KPI",
+  "section": "13.9",
+  "page": 39,
+  "evidence": "ಕಂಪನಿ ಸೇರ್ಪಡೆಯಾಗುವ ಪ್ರತಿ ಹೊಸ ಉದ್ಯೋಗಿಗೆ, ಅವರ ಮೊದಲ 30 ದಿನಗಳ ಓರಿಯಂಟೇಷನ್ ಕಾರ್ಯಕ್ರಮದ ಭಾಗವಾಗಿ, ಹ್ಯೂಮನ್ ರಿಸೋರ್ಸ್ ವಿಭಾಗ ಒಂದು ಪ್ರತ್ಯೇಕ \"ಸಂಭಾವನೆ ಮತ್ತು ಪ್ರತಿಫಲ\" ಅವಧಿ ನಡೆಸುತ್ತದೆ, ಇದರಲ್ಲಿ ಈ ಕಾರ್ಯಕ್ಷಮತೆ ಬೋನಸ್ ಯೋಜನೆಯ ಮೂಲಭೂತ ಅಂಶಗಳನ್ನು — ಗುರಿ ಬೋನಸ್ %, ಗುಣಕ ಕಾರ್ಯವಿಧಾನ, ಮತ್ತು ಅರ್ಹತಾ ಮಾನದಂಡಗಳನ್ನು — ಸರಳ ಭಾಷೆಯಲ್ಲಿ ವಿವರಿಸಲಾಗುತ್ತದೆ. ಹೊಸ ಉದ್ಯೋಗಿಗಳಿಗೆ ಈ ಯೋಜನೆ ಸಾಮಾನ್ಯವಾಗಿ ಸಂಕೀರ್ಣವಾಗಿ ಕಾಣಿಸಬಹುದು ಎಂಬುದನ್ನು ಗುರುತಿಸಿ, ಓರಿಯಂಟೇಷನ್ ಸಾಮಗ್ರಿಯಲ್ಲಿ ಈ ದಾಖಲೆಯ ವಿಭಾಗ 5ರ ಮೂರು ಮುಖ್ಯ ಉದಾಹರಣೆಗಳನ್ನು (ಜೂನಿಯರ್ ಉತ್ತಮ ಸಾಧಕ, ಮಧ್ಯಮ-ಹಂತದ ಸರಾಸರಿ ಸಾಧಕ, ಹಿರಿಯ ಕಡಿಮೆ ಸಾಧಕ) ಸರಳೀಕೃತ ದೃಶ್ಯ ರೂಪದಲ್ಲಿ (ಇನ್ಫೋಗ್ರಾಫಿಕ್) ಪ್ರಸ್ತುತಪಡಿಸಲಾಗುತ್ತದೆ. ಈ ಅವಧಿಯ ಕೊನೆಯಲ್ಲಿ, ಪ್ರತಿ ಹೊಸ ಉದ್ಯೋಗಿ ಒಂದು ಸಣ್ಣ ಐಚ್ಛಿಕ ಗ್ರಹಿಕಾ ಪ್ರಶ್ನಾವಳಿ (5 ಪ್ರಶ್ನೆಗಳು) ಪೂರ್ಣಗೊಳಿಸುತ್ತಾರೆ, ಇದರ ಫಲಿತಾಂಶ ವಿಭಾಗ 16ರ \"ಯೋಜನಾ ಸಂವಹನ ಗ್ರಹಿಕಾ ಅಂಕ\" KPIಗೆ ಪ್ರತ್ಯೇಕ ಇನ್‌ಪುಟ್ ಆಗಿ ಕೊಡುಗೆ ನೀಡುತ್ತದೆ."
+ },
+ {
+  "subject": "grade_band_revision_history",
+  "aspect": "trend",
+  "value": "revised 3 times since 2019, direction always upward; Band8 target% rose from 30% (2019) to current 42%; deferred component introduced in 2022 (second revision)",
+  "section": "13.10",
+  "page": 39,
+  "evidence": "ಈ ಪರಿಷ್ಕರಣೆಗಳ ಸಾಮಾನ್ಯ ದಿಕ್ಕು ಯಾವಾಗಲೂ ಗುರಿ % ಹೆಚ್ಚಿಸುವ ದಿಕ್ಕಿನಲ್ಲಿಯೇ ಇದೆ (ಎಂದಿಗೂ ಕಡಿಮೆ ಮಾಡಿಲ್ಲ), ಇದು ಮಾರುಕಟ್ಟೆ ಸ್ಪರ್ಧಾತ್ಮಕತೆಯ ಒತ್ತಡ ಮತ್ತು ಕಂಪನಿಯ ಬೆಳೆಯುತ್ತಿರುವ ಹಣಕಾಸು ಸಾಮರ್ಥ್ಯವನ್ನು ಪ್ರತಿಬಿಂಬಿಸುತ್ತದೆ. ಮೊದಲ ಆವೃತ್ತಿಯಲ್ಲಿ (2019), ಬ್ಯಾಂಡ್ 8ರ ಗುರಿ % ಕೇವಲ 30% ಆಗಿತ್ತು, ಅದನ್ನು ಈಗ ಪ್ರಸ್ತುತ 42%ಗೆ ಹೆಚ್ಚಿಸಲಾಗಿದೆ. ಅದೇ ರೀತಿ, ಮುಂದೂಡಿದ ಘಟಕ (ವಿಭಾಗ 9) ಕೇವಲ 2022ರಲ್ಲಿ, ಎರಡನೇ ಪರಿಷ್ಕರಣೆಯ ಭಾಗವಾಗಿ ಪರಿಚಯಿಸಲಾಯಿತು — ಇದಕ್ಕೆ ಮೊದಲು ಹಿರಿಯ ಉದ್ಯೋಗಿಗಳಿಗೂ ಸಂಪೂರ್ಣ ಬೋನಸ್ ತಕ್ಷಣ ಪಾವತಿಯಾಗುತ್ತಿತ್ತು."
+ },
+ {
+  "subject": "four_eyes_review",
+  "aspect": "quality_control",
+  "value": "second person different from preparer independently reviews each calculation before publication; automated sanity check verifies bonus doesn't exceed 225% of target",
+  "section": "13.11",
+  "page": 39,
+  "evidence": "ಬೋನಸ್ ಗಣನೆ ಪ್ರಕ್ರಿಯೆಯ ಪ್ರತಿ ಹಂತದಲ್ಲಿ, ಫೈನಾನ್ಸ್ ಮತ್ತು ಹ್ಯೂಮನ್ ರಿಸೋರ್ಸ್ ವಿಭಾಗಗಳು \"ನಾಲ್ಕು-ಕಣ್ಣುಗಳ ಪರಿಶೀಲನೆ\" (Four-Eyes Review) ತತ್ವ ಅನುಸರಿಸುತ್ತವೆ — ಅಂದರೆ, ಗಣನೆ ಸಿದ್ಧಪಡಿಸಿದ ವ್ಯಕ್ತಿಗಿಂತ ಭಿನ್ನವಾದ ಎರಡನೇ ವ್ಯಕ್ತಿ ಪ್ರತಿ ಗಣನೆಯನ್ನು ಸ್ವತಂತ್ರವಾಗಿ ಪರಿಶೀಲಿಸುತ್ತಾರೆ, ಪ್ರಕಟಣೆಗೆ ಮೊದಲು. ಇದಕ್ಕೆ ಹೆಚ್ಚುವರಿಯಾಗಿ, ಪ್ರಕಟಣೆಗೆ ಮೊದಲು ಒಂದು ಸ್ವಯಂಚಾಲಿತ \"ಸಾನಿಟಿ ಚೆಕ್\" ಸ್ಕ್ರಿಪ್ಟ್ ಚಲಾಯಿಸಲಾಗುತ್ತದೆ, ಇದು ಪ್ರತಿ ಗಣಿಸಿದ ಬೋನಸ್ ಮೊತ್ತ ಆ ಉದ್ಯೋಗಿಯ ಗ್ರೇಡ್ ಬ್ಯಾಂಡ್‌ಗೆ ಅನ್ವಯವಾಗುವ ಸೈದ್ಧಾಂತಿಕ ಗರಿಷ್ಠ ಮಿತಿಯನ್ನು (ಗುರಿ ಮೊತ್ತದ 225%) ಮೀರಿಲ್ಲ ಮತ್ತು ಋಣಾತ್ಮಕವಾಗಿಲ್ಲ ಎಂಬುದನ್ನು ಪರಿಶೀಲಿಸುತ್ತದೆ."
+ },
+ {
+  "subject": "plan_design_alternatives_rejected",
+  "aspect": "history",
+  "value": "additive formula and team-level fixed pool division were considered and rejected in favor of current multiplicative model at 2019 founding",
+  "section": "13.12",
+  "page": 40,
+  "evidence": "ಈ ಯೋಜನೆಯ ವಿನ್ಯಾಸ ಹಂತದಲ್ಲಿ, ಕಾಂಪೆನ್ಸೇಷನ್ ಕಮಿಟಿ ಹಲವು ಪರ್ಯಾಯ ವಿನ್ಯಾಸಗಳನ್ನು ಪರಿಗಣಿಸಿತ್ತು — ಉದಾಹರಣೆಗೆ, ಸಂಪೂರ್ಣ ಸಂಕಲನಾ (ಅಡಿಟಿವ್) ಸೂತ್ರ, ಅಥವಾ ತಂಡ-ಮಟ್ಟದ ಸ್ಥಿರ ಪೂಲ್ ವಿಭಜನೆ (ಗಣನಾ ಗುಣಕಗಳಿಲ್ಲದೆ). ಈ ಪರ್ಯಾಯಗಳನ್ನು ಅಂತಿಮವಾಗಿ ತಿರಸ್ಕರಿಸಿ, ಪ್ರಸ್ತುತ ಗುಣಾಕಾರ ಮಾದರಿಯನ್ನು ಆಯ್ಕೆ ಮಾಡಲಾಯಿತು, ಏಕೆಂದರೆ ಇದು ಕಂಪನಿ ಮತ್ತು ವೈಯಕ್ತಿಕ ಕಾರ್ಯಕ್ಷಮತೆ ಎರಡಕ್ಕೂ ಸಮಾನ ಪ್ರಾಮುಖ್ಯತೆ ನೀಡುತ್ತದೆ ಮತ್ತು ಗಣಿತೀಯವಾಗಿ ಹೆಚ್ಚು ಸ್ಪಷ್ಟವಾಗಿ ವಿವರಿಸಬಹುದಾಗಿದೆ. ಈ ವಿನ್ಯಾಸ ನಿರ್ಧಾರಗಳ ಸಂಪೂರ್ಣ ದಾಖಲೆಯನ್ನು ಕಾಂಪೆನ್ಸೇಷನ್ ಕಮಿಟಿಯ 2019ರ ಸಂಸ್ಥಾಪಕ ಸಭೆಯ ಕಾರ್ಯವೃತ್ತಾಂತದಲ್ಲಿ ಸಂರಕ್ಷಿಸಲಾಗಿದೆ, ಇದು ಭವಿಷ್ಯದ ಯೋಜನಾ ಪರಿಷ್ಕರಣೆಗಳಿಗೆ ಐತಿಹಾಸಿಕ ಸಂದರ್ಭವನ್ನು ಒದಗಿಸುತ್ತದೆ."
+ },
+ {
+  "subject": "alumni_bonus_records",
+  "aspect": "rule",
+  "value": "former employees' prorated bonus calculation preserved under 7-year retention rule; accessible via HR Alumni contact center with identity verification",
+  "section": "13.13",
+  "page": 40,
+  "evidence": "ಕಂಪನಿ ಬಿಟ್ಟ ಉದ್ಯೋಗಿಗಳಿಗೆ (ವಿಭಾಗ 6.4ರ ಅನರ್ಹತಾ ನಿಯಮದ ಪ್ರಕಾರ ಬೋನಸ್ ಪಡೆಯದವರು ಹೊರತುಪಡಿಸಿ) ಅವರ ಅಂತಿಮ ಇತ್ಯರ್ಥದ ಭಾಗವಾಗಿ ಪ್ರೋ-ರೇಟೆಡ್ ಬೋನಸ್ ಸಿಕ್ಕಿದ್ದರೆ, ಆ ಲೆಕ್ಕಾಚಾರವನ್ನು ಅವರ ನಿರ್ಗಮನದ ದಾಖಲೆಗಳೊಂದಿಗೆ (ವಿಭಾಗ 13.3.1ರ ಏಳು-ವರ್ಷದ ಸಂರಕ್ಷಣಾ ನಿಯಮದ ಅಡಿಯಲ್ಲಿ) ಸಂರಕ್ಷಿಸಲಾಗುತ್ತದೆ. ಹಿಂದಿನ ಉದ್ಯೋಗಿಗಳು ತಮ್ಮ ಅಂತಿಮ ಬೋನಸ್ ಗಣನೆಯ ಪ್ರತಿ ಕೋರಿದರೆ, ಹ್ಯೂಮನ್ ರಿಸೋರ್ಸ್ ಆಲುಮ್ನಿ ಸಂಪರ್ಕ ಕೇಂದ್ರದ ಮೂಲಕ (ಇಮೇಲ್ ಮೂಲಕ ಗುರುತು ಪರಿಶೀಲನೆಯೊಂದಿಗೆ) ಈ ಮಾಹಿತಿ ಒದಗಿಸಲಾಗುತ್ತದೆ."
+ },
+ {
+  "subject": "accessibility_features",
+  "aspect": "portal_design",
+  "value": "screen-reader compatibility, high-contrast viewing options; alternative formats available via HRBP request",
+  "section": "13.14",
+  "page": 40,
+  "evidence": "ಹ್ಯೂಮನ್ ರಿಸೋರ್ಸ್ ಪೋರ್ಟಲ್‌ನ ಬೋನಸ್ ಬ್ರೇಕ್‌ಡೌನ್ ವಿಭಾಗ ಕಂಪನಿಯ ಡಿಜಿಟಲ್ ಪ್ರವೇಶಿಸುವಿಕೆ (ಆಕ್ಸೆಸಿಬಿಲಿಟಿ) ಮಾನದಂಡಗಳಿಗೆ ಅನುಗುಣವಾಗಿ ವಿನ್ಯಾಸಗೊಳಿಸಲಾಗಿದೆ, ಇದರಲ್ಲಿ ಸ್ಕ್ರೀನ್-ರೀಡರ್ ಹೊಂದಾಣಿಕೆ ಮತ್ತು ಹೆಚ್ಚಿನ ಕಾಂಟ್ರಾಸ್ಟ್ ವೀಕ್ಷಣೆ ಆಯ್ಕೆಗಳು ಸೇರಿವೆ. ಯಾವುದೇ ಉದ್ಯೋಗಿಗೆ ತಮ್ಮ ಬೋನಸ್ ಗಣನೆ ಬ್ರೇಕ್‌ಡೌನ್ ಅನ್ನು ಪರ್ಯಾಯ ಸ್ವರೂಪದಲ್ಲಿ (ಉದಾ: ಸರಳ ಪಠ್ಯ ಇಮೇಲ್ ಅಥವಾ ದೊಡ್ಡ ಅಕ್ಷರ ಮುದ್ರಣ) ಅಗತ್ಯವಿದ್ದರೆ, ಹ್ಯೂಮನ್ ರಿಸೋರ್ಸ್ ಬಿಸಿನೆಸ್ ಪಾರ್ಟ್‌ನರ್ ಮೂಲಕ ಕೋರಿಕೆ ಸಲ್ಲಿಸಬಹುದು."
+ },
+ {
+  "subject": "future_plan_evolutions",
+  "aspect": "preliminary_ideas",
+  "value": "possible ESG metrics for senior leadership, extending deferred component to Band5-6, adding customer satisfaction as third base metric",
+  "section": "13.15",
+  "page": 40,
+  "evidence": "ಕಾಂಪೆನ್ಸೇಷನ್ ಕಮಿಟಿ ಮುಂದಿನ ಮೂರು ವರ್ಷಗಳಲ್ಲಿ ಪರಿಗಣಿಸಬಹುದಾದ ಕೆಲವು ಸಂಭಾವ್ಯ ವಿಕಸನಗಳನ್ನು (ಇವು ಕೇವಲ ಪ್ರಾಥಮಿಕ ಚರ್ಚಾ ಹಂತದಲ್ಲಿವೆ, ಅನುಮೋದಿತ ಬದಲಾವಣೆಗಳಲ್ಲ) ಗುರುತಿಸಿದೆ: (1) ESG (ಪರಿಸರ, ಸಾಮಾಜಿಕ, ಆಡಳಿತ) ಮೆಟ್ರಿಕ್‌ಗಳನ್ನು ಹಿರಿಯ ನಾಯಕತ್ವ ಬೋನಸ್ ಗಣನೆಗೆ ಒಂದು ಸಣ್ಣ ಪೂರಕ ಅಂಶವಾಗಿ ಸೇರ್ಪಡಿಸುವ ಸಾಧ್ಯತೆ; (2) ಬ್ಯಾಂಡ್ 5-6ಗೆ ಮುಂದೂಡಿದ ಘಟಕದ ವ್ಯಾಪ್ತಿ ವಿಸ್ತರಿಸುವ ಸಾಧ್ಯತೆ; (3) ಕಂಪನಿ ಗುಣಕ ಗಣನೆಯಲ್ಲಿ ಗ್ರಾಹಕ ತೃಪ್ತಿ ಸ್ಕೋರ್ ಅನ್ನು ಮೂರನೇ ಆಧಾರ ಮೆಟ್ರಿಕ್ ಆಗಿ (ಆದಾಯ, ಲಾಭದ ಜೊತೆಗೆ) ಸೇರ್ಪಡಿಸುವ ಸಾಧ್ಯತೆ."
+ },
+ {
+  "subject": "interstate_transfer_impact",
+  "aspect": "rule",
+  "value": "no bonus calc impact uniformly nationwide; only state-specific Professional Tax rate may minutely affect net payment",
+  "section": "13.16",
+  "page": 41,
+  "evidence": "ಭಾರತದೊಳಗೆ ಒಂದು ರಾಜ್ಯದ ಕಚೇರಿಯಿಂದ ಇನ್ನೊಂದು ರಾಜ್ಯದ ಕಚೇರಿಗೆ ವರ್ಗಾವಣೆಗೊಂಡ ಉದ್ಯೋಗಿಗಳಿಗೆ, ಬೋನಸ್ ಗಣನೆಯ ಮೇಲೆ ಯಾವುದೇ ಪರಿಣಾಮ ಬೀರುವುದಿಲ್ಲ, ಏಕೆಂದರೆ ಈ ಯೋಜನೆ ರಾಷ್ಟ್ರವ್ಯಾಪಿಯಾಗಿ ಏಕರೂಪವಾಗಿ ಅನ್ವಯಿಸುತ್ತದೆ. ಆದಾಗ್ಯೂ, ರಾಜ್ಯ-ನಿರ್ದಿಷ್ಟ ವೃತ್ತಿ ತೆರಿಗೆ (Professional Tax) ದರಗಳಲ್ಲಿನ ವ್ಯತ್ಯಾಸ ಅವರ ನಿವ್ವಳ ಪಾವತಿ ಮೊತ್ತದ ಮೇಲೆ ಅತ್ಯಲ್ಪ ಪ್ರಭಾವ ಬೀರಬಹುದು, ಇದನ್ನು ಪೇರೋಲ್ ವ್ಯವಸ್ಥೆ ಸ್ವಯಂಚಾಲಿತವಾಗಿ ಅವರ ಪ್ರಸ್ತುತ ಕಚೇರಿ ಸ್ಥಳದ ಆಧಾರದ ಮೇಲೆ ಅನ್ವಯಿಸುತ್ತದೆ."
+ },
+ {
+  "subject": "contract_to_permanent_conversion_bonus",
+  "aspect": "rule",
+  "value": "bonus eligibility starts only from conversion date; prior contract period not counted, treated as mid-year-joiner proration",
+  "section": "13.17",
+  "page": 41,
+  "evidence": "ಗುತ್ತಿಗೆ ಆಧಾರಿತ ಅಥವಾ ಏಜೆನ್ಸಿ ಸಿಬ್ಬಂದಿ (ಈ ಹಿಂದೆ ವಿಭಾಗ 1ರಲ್ಲಿ ಈ ಯೋಜನೆಯ ವ್ಯಾಪ್ತಿಯಿಂದ ಹೊರಗಿಟ್ಟಂತೆ ಉಲ್ಲೇಖಿಸಲಾಗಿದೆ) ಖಾಯಂ ಉದ್ಯೋಗಿಯಾಗಿ ಪರಿವರ್ತನೆಗೊಂಡಾಗ (ಕನ್ವರ್ಷನ್), ಅವರ ಬೋನಸ್ ಅರ್ಹತೆ ಖಾಯಂಗೊಳಿಕೆಯ ದಿನಾಂಕದಿಂದ ಮಾತ್ರ ಪ್ರಾರಂಭವಾಗುತ್ತದೆ — ಗುತ್ತಿಗೆ ಅವಧಿಯ ಯಾವುದೇ ಭಾಗವನ್ನು ಸೇವಾ ಅವಧಿ ಅಥವಾ ಬೋನಸ್ ಅರ್ಹತೆಗಾಗಿ ಪರಿಗಣಿಸಲಾಗುವುದಿಲ್ಲ, ಇದನ್ನು ಮಧ್ಯ-ವರ್ಷದ ಸೇರ್ಪಡೆದಾರರ ಪ್ರೋ-ರೇಶನ್ ನಿಯಮದಂತೆಯೇ (ವಿಭಾಗ 6.2) ಪರಿಗಣಿಸಲಾಗುತ್ತದೆ, ಖಾಯಂಗೊಳಿಕೆಯ ದಿನಾಂಕವನ್ನೇ \"ಸೇರ್ಪಡೆ ದಿನಾಂಕ\" ಎಂದು ಬಳಸಲಾಗುತ್ತದೆ."
+ },
+ {
+  "subject": "subsidiary_consolidation_rule",
+  "aspect": "treatment",
+  "value": "subsidiary results included in parent unit's consolidated results unless subsidiary has its own separately-approved bonus plan",
+  "section": "13.18",
+  "page": 41,
+  "evidence": "ಕಂಪನಿಯ ಅಂಗಸಂಸ್ಥೆಗಳಲ್ಲಿ (ಸಬ್ಸಿಡಿಯರಿ) ಕಾರ್ಯನಿರ್ವಹಿಸುವ ಉದ್ಯೋಗಿಗಳಿಗೆ, ಅಂಗಸಂಸ್ಥೆ ಪ್ರತ್ಯೇಕ ಕಾನೂನು ಸಂಸ್ಥೆಯಾಗಿದ್ದರೂ, ಬೋನಸ್ ಗಣನೆಗೆ ಅಂಗಸಂಸ್ಥೆಯನ್ನು ಅದರ ಪೋಷಕ ವ್ಯಾಪಾರ ಘಟಕದ (Parent Business Unit) ಭಾಗವಾಗಿಯೇ ಪರಿಗಣಿಸಲಾಗುತ್ತದೆ, ಅಂಗಸಂಸ್ಥೆಯ ಹಣಕಾಸು ಫಲಿತಾಂಶವನ್ನು ಪೋಷಕ ಘಟಕದ ಕ್ರೋಢೀಕೃತ (ಕನ್ಸಾಲಿಡೇಟೆಡ್) ಫಲಿತಾಂಶದಲ್ಲಿ ಸೇರಿಸಲಾಗುತ್ತದೆ. ಇದಕ್ಕೆ ಒಂದು ಅಪವಾದ: ಒಂದು ಅಂಗಸಂಸ್ಥೆ ತನ್ನ ಸ್ವಂತ ಕಾಂಪೆನ್ಸೇಷನ್ ಕಮಿಟಿ ಅನುಮೋದಿತ ಪ್ರತ್ಯೇಕ ಬೋನಸ್ ಯೋಜನೆ ಹೊಂದಿದ್ದರೆ (ಕೆಲವು ವಿಶೇಷ ವಲಯಗಳಲ್ಲಿ ಇದು ಅಗತ್ಯವಾಗಬಹುದು), ಆ ಅಂಗಸಂಸ್ಥೆಯ ಉದ್ಯೋಗಿಗಳಿಗೆ ಈ ದಾಖಲೆ ಅನ್ವಯಿಸುವುದಿಲ್ಲ."
+ },
+ {
+  "subject": "arbitration_clause",
+  "aspect": "scope",
+  "value": "available only for Band6+ senior employee agreements, under jurisdiction near company head office; used only after internal escalation fails",
+  "section": "13.19",
+  "page": 41,
+  "evidence": "ವಿಭಾಗ 12ರ ಆಂತರಿಕ ಎಸ್ಕಲೇಷನ್ ಪ್ರಕ್ರಿಯೆ ಪೂರ್ಣಗೊಂಡ ಬಳಿಕವೂ ಉದ್ಯೋಗಿ ಫಲಿತಾಂಶದಿಂದ ತೃಪ್ತರಾಗದಿದ್ದರೆ, ಅವರ ಉದ್ಯೋಗ ಒಪ್ಪಂದದಲ್ಲಿ (ಅನ್ವಯಿಸಿದಲ್ಲಿ) ನಿಗದಿಪಡಿಸಲಾದ ಮಧ್ಯಸ್ಥಿಕೆ (ಆರ್ಬಿಟ್ರೇಷನ್) ಷರತ್ತಿನ ಮೂಲಕ ಅಂತಿಮ ಪರಿಹಾರ ಕೋರಬಹುದು. ಇದು ಸಾಮಾನ್ಯವಾಗಿ ಕೇವಲ ಬ್ಯಾಂಡ್ 6 ಮತ್ತು ಮೇಲಿನ ಹಿರಿಯ ಉದ್ಯೋಗಿಗಳ ಒಪ್ಪಂದಗಳಲ್ಲಿ ಮಾತ್ರ ಸೇರಿಸಲಾಗಿರುತ್ತದೆ ಮತ್ತು ಕಂಪನಿಯ ಪ್ರಧಾನ ಕಚೇರಿಯ ವ್ಯಾಪ್ತಿಯ ನ್ಯಾಯಾಲಯದ ಅಧಿಕಾರ ವ್ಯಾಪ್ತಿಯ ಅಡಿಯಲ್ಲಿ ನಡೆಯುತ್ತದೆ."
+ },
+ {
+  "subject": "seasonal_business_fairness",
+  "aspect": "rule",
+  "value": "unit multiplier calculated on full fiscal year, not single quarter, so seasonal revenue fluctuation does not distort fairness",
+  "section": "13.20",
+  "page": 42,
+  "evidence": "ಘಟಕ ಗುಣಕ ಗಣನೆ ಪೂರ್ಣ ಹಣಕಾಸು ವರ್ಷದ ಮೇಲೆ ಆಧಾರಿತವಾಗಿರುವುದರಿಂದ (ಯಾವುದೇ ಒಂದು ತ್ರೈಮಾಸಿಕದ ಮೇಲೆ ಅಲ್ಲ), ಈ ಋತುಮಾನ ಏರಿಳಿತ ಗಣನೆಯ ನ್ಯಾಯಸಮ್ಯತೆಯ ಮೇಲೆ ಯಾವುದೇ ವಿಕೃತ ಪರಿಣಾಮ ಬೀರುವುದಿಲ್ಲ."
+ },
+ {
+  "subject": "cost_center_alternative_metrics",
+  "aspect": "rule",
+  "value": "cost-center units like Customer Support Services use operational quality metrics (CSAT, SLA compliance, cost budget compliance) instead of revenue/profit, mapped to same 0-150% multiplier range",
+  "section": "13.21",
+  "page": 42,
+  "evidence": "ಗ್ರಾಹಕ ಬೆಂಬಲ ಸೇವೆಗಳ ಘಟಕದಂತಹ ವೆಚ್ಚ-ಕೇಂದ್ರ (ಕಾಸ್ಟ್ ಸೆಂಟರ್) ಘಟಕಗಳಿಗೆ, ಇವು ನೇರ ಆದಾಯ ಸೃಷ್ಟಿಸದ ಕಾರಣ, ಘಟಕ ಗುಣಕ ಗಣನೆಗೆ ಆದಾಯ/ಲಾಭದ ಬದಲಿಗೆ ಕಾರ್ಯಾಚರಣಾ ಗುಣಮಟ್ಟ ಮೆಟ್ರಿಕ್‌ಗಳನ್ನು (ಉದಾ: ಗ್ರಾಹಕ ತೃಪ್ತಿ ಸ್ಕೋರ್, ಸೇವಾ ಮಟ್ಟ ಒಪ್ಪಂದ ಅನುಸರಣೆ, ವೆಚ್ಚ ಬಜೆಟ್ ಅನುಸರಣೆ) ಬಜೆಟ್‌ಗೆ ಹೋಲಿಸಿ ಗಣಿಸಿ ಅದೇ 0%-150% ಗುಣಕ ವ್ಯಾಪ್ತಿಗೆ ಮ್ಯಾಪ್ ಮಾಡಲಾಗುತ್ತದೆ."
+ },
+ {
+  "subject": "profit_metric_definition",
+  "aspect": "clarification",
+  "value": "company uses Operating Profit Before Tax (not net profit) to exclude one-time items like asset-sale gains",
+  "section": "14",
+  "page": 45,
+  "evidence": "ಪ್ರ.27ಎ: ಲಾಭ ಗಣನೆಗೆ ಯಾವ ಲಾಭದ ಅಂಕಿಅಂಶ ಬಳಕೆಯಾಗುತ್ತದೆ — ನಿವ್ವಳ ಲಾಭ ಅಥವಾ ಕಾರ್ಯಾಚರಣಾ ಲಾಭ? ಉ: ಕಂಪನಿ ತೆರಿಗೆ ಪೂರ್ವ ಕಾರ್ಯಾಚರಣಾ ಲಾಭವನ್ನು (Operating Profit Before Tax) ಬಳಸುತ್ತದೆ, ಏಕೆಂದರೆ ಇದು ಅನಿಯಮಿತ ಒಂದು-ಬಾರಿ ಅಂಶಗಳನ್ನು (ಉದಾ: ಆಸ್ತಿ ಮಾರಾಟ ಲಾಭ) ಹೊರಗಿಟ್ಟು, ಪ್ರಮುಖ ವ್ಯವಹಾರ ಕಾರ್ಯಕ್ಷಮತೆಯನ್ನು ಹೆಚ್ಚು ನಿಖರವಾಗಿ ಪ್ರತಿಬಿಂಬಿಸುತ್ತದೆ."
+ },
+ {
+  "subject": "max_theoretical_bonus",
+  "aspect": "cap",
+  "value": "company multiplier max 150% x individual multiplier max 150% = up to 225% of target bonus amount",
+  "section": "14",
+  "page": 46,
+  "evidence": "ಉ: ಸೈದ್ಧಾಂತಿಕವಾಗಿ, ಕಂಪನಿ ಗುಣಕ ಗರಿಷ್ಠ 150% ಮತ್ತು ವೈಯಕ್ತಿಕ ಗುಣಕ ಗರಿಷ್ಠ 150% ಆದಾಗ, ಗುರಿ ಮೊತ್ತದ 225% ವರೆಗೆ ಬೋನಸ್ ಸಾಧ್ಯ."
+ },
+ {
+  "subject": "leap_year_impact",
+  "aspect": "proration_effect",
+  "value": "denominator becomes 366 in leap years, impact approximately 0.27%",
+  "section": "14",
+  "page": 46,
+  "evidence": "ಉ: ಹೌದು, ಅಂತಹ ವರ್ಷಗಳಲ್ಲಿ ಛೇದ 366 ಆಗುತ್ತದೆ, ಆದರೆ ಇದರ ಪ್ರಭಾವ ಅತ್ಯಲ್ಪ (ಸುಮಾರು 0.27%)."
+ },
+ {
+  "subject": "paid_leave_vs_long_leave",
+  "aspect": "distinction",
+  "value": "normal annual paid leave counted as worked days (no proration effect); only leave exceeding 60 consecutive days triggers proration",
+  "section": "13.7",
+  "page": 34,
+  "evidence": "ರಜೆ ನೀತಿಯೊಂದಿಗಿನ ಅಂತರ-ಸಂಬಂಧವೂ ಮುಖ್ಯ: ವಾರ್ಷಿಕ ಪಾವತಿ ರಜೆ (Annual Paid Leave) ಬಳಕೆ ಬೋನಸ್ ಪ್ರೋ-ರೇಶನ್ ಗಣನೆಗೆ ಯಾವುದೇ ಪರಿಣಾಮ ಬೀರುವುದಿಲ್ಲ (ಇದು ಕಾರ್ಯನಿರ್ವಹಣಾ ದಿನಗಳ ಭಾಗವಾಗಿ ಪರಿಗಣಿಸಲ್ಪಡುತ್ತದೆ), ಆದರೆ ವಿಭಾಗ 6.3ರ ದೀರ್ಘಾವಧಿ ರಜೆ (60 ದಿನಕ್ಕಿಂತ ಹೆಚ್ಚು) ಪ್ರೋ-ರೇಶನ್‌ಗೆ ಕಾರಣವಾಗುತ್ತದೆ."
+ },
+ {
+  "subject": "kpi_matrix_band4_company_multiplier_variation",
+  "aspect": "example",
+  "value": "same Band4/Rating3 scenario: company multiplier 40% gives Rs60,000; 100% gives Rs1,50,000; 150% gives Rs2,25,000",
+  "section": "14.2",
+  "page": 48,
+  "evidence": "ಇದೇ ಬ್ಯಾಂಡ್ 4 (ಗುರಿ % 15%, ಬೇಸ್ ₹10,00,000) ಉದಾಹರಣೆಯನ್ನು ಮೂರು ವಿಭಿನ್ನ ಕಂಪನಿ ಗುಣಕ ಸನ್ನಿವೇಶಗಳಲ್ಲಿ ಹೋಲಿಸೋಣ, ರೇಟಿಂಗ್ 3ಯನ್ನು (100% ವೈಯಕ್ತಿಕ ಗುಣಕ) ಸ್ಥಿರವಾಗಿಟ್ಟುಕೊಂಡು: ಕಂಪನಿ ಗುಣಕ 40% ಆದಾಗ ಬೋನಸ್ = ₹60,000; ಕಂಪನಿ ಗುಣಕ 100% ಆದಾಗ ಬೋನಸ್ = ₹1,50,000; ಕಂಪನಿ ಗುಣಕ 150% ಆದಾಗ ಬೋನಸ್ = ₹2,25,000."
+ },
+ {
+  "subject": "grade_rating_matrix_base_10lakh",
+  "aspect": "full_table",
+  "value": "for Rs10,00,000 base at 100% company multiplier across Bands1-8 and Ratings1-5, bonus ranges from Rs0 (Rating1 all bands) up to Band8/Rating5 Rs6,30,000",
+  "section": "14.1",
+  "page": 47,
+  "evidence": "| ಬ್ಯಾಂಡ್ 6 (25%) | ₹0 | ₹1,50,000 | ₹2,50,000 | ₹3,12,500 | ₹3,75,000 | | ಬ್ಯಾಂಡ್ 7 (32%) | ₹0 | ₹1,92,000 | ₹3,20,000 | ₹4,00,000 | ₹4,80,000 | | ಬ್ಯಾಂಡ್ 8 (42%) | ₹0 | ₹2,52,000 | ₹4,20,000 | ₹5,25,000 | ₹6,30,000 |"
+ }
+]

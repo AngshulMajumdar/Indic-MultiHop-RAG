@@ -1,0 +1,1460 @@
+[
+ {
+  "subject": "retirement",
+  "aspect": "advance_memo_days_before_retirement",
+  "value": 180,
+  "unit": "দিন",
+  "section": "৪.৩",
+  "page": 8,
+  "evidence": "মানবসম্পদ বিভাগ অবসরের নির্ধারিত তারিখের 180 দিন আগে সংশ্লিষ্ট কর্মী ও তাঁর বিভাগীয় প্রধানকে একটি স্মারকপত্র পাঠায়, যাতে উত্তরসূরি নির্ধারণ ও জ্ঞান হস্তান্তরের জন্য পর্যাপ্ত সময় থাকে।"
+ },
+ {
+  "subject": "fixed_term_contract",
+  "aspect": "non_renewal_notice_days",
+  "value": 25,
+  "unit": "দিন",
+  "section": "৪.৪",
+  "page": 8,
+  "evidence": "মেয়াদ শেষ হওয়ার অন্তত 25 দিন আগে মানবসম্পদ বিভাগ কর্মীকে লিখিতভাবে জানাবে যে মেয়াদ নবীকৃত হচ্ছে না এবং কোন তারিখে সম্পর্ক শেষ হবে।"
+ },
+ {
+  "subject": "resignation",
+  "aspect": "acknowledgement_working_days",
+  "value": 2,
+  "unit": "কার্যদিবস",
+  "section": "৫.৩",
+  "page": 12,
+  "evidence": "প্রস্থান শাখা পদত্যাগপত্র প্রাপ্তির 2 কার্যদিবসের মধ্যে লিখিত প্রাপ্তিস্বীকার পাঠাবে।"
+ },
+ {
+  "subject": "resignation",
+  "aspect": "acceptance_decision_working_days",
+  "value": 6,
+  "unit": "কার্যদিবস",
+  "section": "৫.৪",
+  "page": 12,
+  "evidence": "গ্রহণের সিদ্ধান্ত প্রাপ্তিস্বীকারের তারিখ থেকে 6 কার্যদিবসের মধ্যে জানাতে হবে।"
+ },
+ {
+  "subject": "exit_reason",
+  "aspect": "category_count",
+  "value": 9,
+  "unit": "শ্রেণি",
+  "section": "৫.৬",
+  "page": 13,
+  "evidence": "প্রতিষ্ঠান 9টি কারণ-শ্রেণি ব্যবহার করে: উন্নততর পারিশ্রমিক; উন্নততর পদ বা দায়িত্ব; কর্মক্ষেত্রের সম্পর্কজনিত কারণ; কাজের প্রকৃতি বা বিষয়বস্তু সংক্রান্ত অসন্তোষ; ভৌগোলিক স্থানান্তর বা যাতায়াতজনিত কারণ; পারিবারিক বা স্বাস্থ্যগত কারণ; উচ্চশিক্ষা; স্বনিযুক্তি বা নিজস্ব উদ্যোগ; এবং অন্যান্য।"
+ },
+ {
+  "subject": "exit_reason",
+  "aspect": "other_category_ceiling_percent",
+  "value": 15,
+  "unit": "শতাংশ",
+  "section": "৫.৬",
+  "page": 13,
+  "evidence": "শেষ শ্রেণিটি ব্যবহারের ক্ষেত্রে ব্যাখ্যামূলক মন্তব্য বাধ্যতামূলক, এবং কোনো ত্রৈমাসিকে মোট পদত্যাগের 15 শতাংশের বেশি \"অন্যান্য\" শ্রেণিতে পড়লে শ্রেণিবিন্যাসটি পুনর্বিবেচনার জন্য চিহ্নিত হবে।"
+ },
+ {
+  "subject": "resignation_withdrawal",
+  "aspect": "unconditional_window_working_days",
+  "value": 4,
+  "unit": "কার্যদিবস",
+  "section": "৬.১",
+  "page": 14,
+  "evidence": "প্রাপ্তিস্বীকারের তারিখ থেকে 4 কার্যদিবস পর্যন্ত প্রত্যাহারের অধিকার নিঃশর্ত — কর্মী কোনো কারণ না দেখিয়েই পত্র ফিরিয়ে নিতে পারেন এবং প্রতিষ্ঠান তা মানতে বাধ্য।"
+ },
+ {
+  "subject": "resignation_withdrawal",
+  "aspect": "post_window_decision_working_days",
+  "value": 5,
+  "unit": "কার্যদিবস",
+  "section": "৬.২",
+  "page": 15,
+  "evidence": "জানালা-উত্তর প্রত্যাহারের অনুমোদন কর্তৃত্ব মানবসম্পদ প্রধানের, এবং সিদ্ধান্ত অনুরোধ প্রাপ্তির 5 কার্যদিবসের মধ্যে জানাতে হবে।"
+ },
+ {
+  "subject": "resignation_withdrawal",
+  "aspect": "max_withdrawals_per_financial_year",
+  "value": 1,
+  "unit": "বার",
+  "section": "৬.৩",
+  "page": 15,
+  "evidence": "একজন কর্মী একই অর্থবর্ষে সর্বাধিক 1 বার পদত্যাগপত্র প্রত্যাহার করতে পারেন।"
+ },
+ {
+  "subject": "notice_period",
+  "aspect": "days_probationer",
+  "value": 14,
+  "unit": "দিন",
+  "section": "৭.১",
+  "page": 16,
+  "evidence": "| শিক্ষানবিশকালে থাকা কর্মী | 14 দিন |"
+ },
+ {
+  "subject": "notice_period",
+  "aspect": "days_associate_grade",
+  "value": 28,
+  "unit": "দিন",
+  "section": "৭.১",
+  "page": 16,
+  "evidence": "| সহযোগী | 28 দিন |"
+ },
+ {
+  "subject": "notice_period",
+  "aspect": "days_executive_grade",
+  "value": 42,
+  "unit": "দিন",
+  "section": "৭.১",
+  "page": 16,
+  "evidence": "| নির্বাহী | 42 দিন |"
+ },
+ {
+  "subject": "notice_period",
+  "aspect": "days_manager_grade",
+  "value": 63,
+  "unit": "দিন",
+  "section": "৭.১",
+  "page": 16,
+  "evidence": "| ব্যবস্থাপক | 63 দিন |"
+ },
+ {
+  "subject": "notice_period",
+  "aspect": "days_senior_manager_grade",
+  "value": 84,
+  "unit": "দিন",
+  "section": "৭.১",
+  "page": 16,
+  "evidence": "| ঊর্ধ্বতন ব্যবস্থাপক | 84 দিন |"
+ },
+ {
+  "subject": "notice_period",
+  "aspect": "days_department_head_grade",
+  "value": 112,
+  "unit": "দিন",
+  "section": "৭.১",
+  "page": 16,
+  "evidence": "| বিভাগীয় প্রধান ও তদূর্ধ্ব | 112 দিন |"
+ },
+ {
+  "subject": "notice_period",
+  "aspect": "min_days_employer_initiated",
+  "value": 42,
+  "unit": "দিন",
+  "section": "৭.২",
+  "page": 16,
+  "evidence": "প্রতিষ্ঠান নিজের উদ্যোগে অবসান করলে — পদসংকোচন বা চুক্তি অসমাপনের ক্ষেত্রে — নোটিশের দৈর্ঘ্য কর্মীর স্তরের জন্য নির্ধারিত দৈর্ঘ্যের সমান হবে, তবে তার ন্যূনতম সীমা 42 দিন।"
+ },
+ {
+  "subject": "notice_waiver",
+  "aspect": "max_days_joint_authority",
+  "value": 10,
+  "unit": "দিন",
+  "section": "৭.৩",
+  "page": 17,
+  "evidence": "| 10 দিন পর্যন্ত | বিভাগীয় প্রধান ও প্রস্থান শাখার প্রধান যৌথভাবে |"
+ },
+ {
+  "subject": "notice_waiver",
+  "aspect": "max_days_hr_head",
+  "value": 30,
+  "unit": "দিন",
+  "section": "৭.৩",
+  "page": 17,
+  "evidence": "| 11 থেকে 30 দিন | মানবসম্পদ প্রধান |"
+ },
+ {
+  "subject": "notice_waiver",
+  "aspect": "threshold_days_managing_director",
+  "value": 30,
+  "unit": "দিন",
+  "section": "৭.৩",
+  "page": 17,
+  "evidence": "| 30 দিনের অধিক | ব্যবস্থাপনা পরিচালক |"
+ },
+ {
+  "subject": "notice_period",
+  "aspect": "max_continuous_sick_leave_days",
+  "value": 7,
+  "unit": "দিন",
+  "section": "৭.৫",
+  "page": 18,
+  "evidence": "চিকিৎসকের প্রমাণপত্রসহ গৃহীত অসুস্থতার ছুটি নোটিশ কালের অংশ হিসেবেই গণিত হবে, তবে টানা 7 দিনের বেশি অসুস্থতার ছুটি হলে প্রস্থান শাখা হস্তান্তরের বিকল্প ব্যবস্থা নির্ধারণ করবে।"
+ },
+ {
+  "subject": "garden_leave",
+  "aspect": "office_clearing_working_days",
+  "value": 1,
+  "unit": "কার্যদিবস",
+  "section": "৮.২",
+  "page": 19,
+  "evidence": "কর্মীকে কার্যালয় ত্যাগ করার জন্য অন্তত 1 কার্যদিবস সময় দিতে হবে, যাতে তিনি ব্যক্তিগত জিনিসপত্র গুছিয়ে নিতে ও সহকর্মীদের কাছ থেকে বিদায় নিতে পারেন।"
+ },
+ {
+  "subject": "garden_leave",
+  "aspect": "max_duration_days",
+  "value": 60,
+  "unit": "দিন",
+  "section": "৮.৪",
+  "page": 20,
+  "evidence": "উদ্যান-অবকাশের দৈর্ঘ্য অবশিষ্ট নোটিশ কালের বেশি হতে পারে না, এবং কোনো অবস্থাতেই 60 দিনের বেশি নয়।"
+ },
+ {
+  "subject": "exit_interview",
+  "aspect": "earliest_working_days_before_last_day",
+  "value": 5,
+  "unit": "কার্যদিবস",
+  "section": "৯.৩",
+  "page": 21,
+  "evidence": "প্রতিষ্ঠানের নির্ধারিত সময় হল শেষ কর্মদিবসের 5 থেকে 8 কার্যদিবস আগের মধ্যে।"
+ },
+ {
+  "subject": "exit_interview",
+  "aspect": "latest_working_days_before_last_day",
+  "value": 8,
+  "unit": "কার্যদিবস",
+  "section": "৯.৩",
+  "page": 21,
+  "evidence": "প্রতিষ্ঠানের নির্ধারিত সময় হল শেষ কর্মদিবসের 5 থেকে 8 কার্যদিবস আগের মধ্যে।"
+ },
+ {
+  "subject": "exit_interview",
+  "aspect": "min_duration_minutes",
+  "value": 45,
+  "unit": "মিনিট",
+  "section": "৯.৩",
+  "page": 22,
+  "evidence": "সাক্ষাৎকারের সময় নির্ধারিত হবে কর্মীর সুবিধা অনুযায়ী, এবং তার জন্য অন্তত 45 মিনিট বরাদ্দ রাখতে হবে।"
+ },
+ {
+  "subject": "exit_interview",
+  "aspect": "refusal_rate_threshold_percent",
+  "value": 30,
+  "unit": "শতাংশ",
+  "section": "৯.৪",
+  "page": 22,
+  "evidence": "কোনো বিভাগে একটি অর্থবর্ষে প্রস্থান সাক্ষাৎকারে অস্বীকৃতির হার 30 শতাংশ অতিক্রম করলে মানবসম্পদ প্রধান সেই বিভাগ সম্পর্কে পৃথক অনুসন্ধান শুরু করবেন, কারণ ব্যাপক অস্বীকৃতি সাধারণত অনাস্থার লক্ষণ।"
+ },
+ {
+  "subject": "exit_interview",
+  "aspect": "core_question_count",
+  "value": 12,
+  "unit": "প্রশ্ন",
+  "section": "৯.৫",
+  "page": 22,
+  "evidence": "একটি অনুমোদিত প্রশ্নসূচি রয়েছে যাতে 12টি মূল প্রশ্ন আছে, এবং সেগুলি ছয়টি বিষয়ে বিভক্ত।"
+ },
+ {
+  "subject": "exit_interview",
+  "aspect": "min_interviews_for_department_report",
+  "value": 5,
+  "unit": "সাক্ষাৎকার",
+  "section": "৯.৬",
+  "page": 24,
+  "evidence": "সেই কারণে যে কোনো বিভাগ বা দল সম্পর্কে সংকলিত প্রতিবেদন তখনই প্রকাশিত হবে যখন সেই সময়কালে সেই ইউনিট থেকে অন্তত 5টি প্রস্থান সাক্ষাৎকার সম্পন্ন হয়েছে।"
+ },
+ {
+  "subject": "exit_interview",
+  "aspect": "theme_code_count",
+  "value": 26,
+  "unit": "সংকেত",
+  "section": "৯.৭",
+  "page": 25,
+  "evidence": "সংকেতের তালিকা কেন্দ্রীয়ভাবে নিয়ন্ত্রিত এবং তাতে বর্তমানে 26টি বিষয়-সংকেত রয়েছে, যেমন \"প্রতিক্রিয়ার অনিয়মিততা\", \"কাজের চাপের অসম বণ্টন\", \"পদোন্নতির পথ অস্পষ্ট\" ইত্যাদি।"
+ },
+ {
+  "subject": "exit_interview",
+  "aspect": "min_actions_in_half_yearly_report",
+  "value": 2,
+  "unit": "পদক্ষেপ",
+  "section": "৯.৭",
+  "page": 25,
+  "evidence": "প্রতিটি অর্ধবার্ষিক প্রতিবেদনে অন্তত 2টি নির্দিষ্ট পদক্ষেপ চিহ্নিত করতে হবে যার দায়িত্বপ্রাপ্ত ব্যক্তি ও সময়সীমা উল্লিখিত থাকবে।"
+ },
+ {
+  "subject": "exit_interview",
+  "aspect": "feedback_letter_working_days",
+  "value": 10,
+  "unit": "কার্যদিবস",
+  "section": "৯.৮",
+  "page": 25,
+  "evidence": "সাক্ষাৎকারের 10 কার্যদিবসের মধ্যে কর্মীকে একটি সংক্ষিপ্ত পত্র পাঠানো হবে, যাতে তাঁর উত্থাপিত বিষয়গুলির তালিকা থাকবে এবং জানানো হবে কোনগুলি ইতিমধ্যে বিবেচনাধীন।"
+ },
+ {
+  "subject": "handover",
+  "aspect": "start_working_days_after_acceptance",
+  "value": 3,
+  "unit": "কার্যদিবস",
+  "section": "১০.১",
+  "page": 26,
+  "evidence": "হস্তান্তর শুরু হবে পদত্যাগ গৃহীত হওয়ার 3 কার্যদিবসের মধ্যে।"
+ },
+ {
+  "subject": "exit_interview",
+  "aspect": "post_exit_message_reply_days",
+  "value": 15,
+  "unit": "দিন",
+  "section": "৯.৮",
+  "page": 26,
+  "evidence": "যদি কর্মী প্রস্থানের পরেও কোনো বিষয়ে যোগাযোগ করতে চান, প্রস্থান শাখার একটি নির্দিষ্ট ঠিকানা তাঁকে দেওয়া হবে এবং সেই ঠিকানায় প্রাপ্ত বার্তার উত্তর 15 দিনের মধ্যে দিতে হবে।"
+ },
+ {
+  "subject": "handover",
+  "aspect": "shadow_period_working_days_associate_executive",
+  "value": 4,
+  "unit": "কার্যদিবস",
+  "section": "১০.৪",
+  "page": 28,
+  "evidence": "সহযোগী ও নির্বাহী স্তরে অন্তত 4 কার্যদিবস, ব্যবস্থাপক স্তরে অন্তত 8 কার্যদিবস, এবং ঊর্ধ্বতন ব্যবস্থাপক ও তদূর্ধ্ব স্তরে অন্তত 12 কার্যদিবস।"
+ },
+ {
+  "subject": "handover",
+  "aspect": "shadow_period_working_days_manager",
+  "value": 8,
+  "unit": "কার্যদিবস",
+  "section": "১০.৪",
+  "page": 28,
+  "evidence": "সহযোগী ও নির্বাহী স্তরে অন্তত 4 কার্যদিবস, ব্যবস্থাপক স্তরে অন্তত 8 কার্যদিবস, এবং ঊর্ধ্বতন ব্যবস্থাপক ও তদূর্ধ্ব স্তরে অন্তত 12 কার্যদিবস।"
+ },
+ {
+  "subject": "handover",
+  "aspect": "shadow_period_working_days_senior_manager",
+  "value": 12,
+  "unit": "কার্যদিবস",
+  "section": "১০.৪",
+  "page": 28,
+  "evidence": "সহযোগী ও নির্বাহী স্তরে অন্তত 4 কার্যদিবস, ব্যবস্থাপক স্তরে অন্তত 8 কার্যদিবস, এবং ঊর্ধ্বতন ব্যবস্থাপক ও তদূর্ধ্ব স্তরে অন্তত 12 কার্যদিবস।"
+ },
+ {
+  "subject": "handover",
+  "aspect": "receiver_objection_resolution_working_days",
+  "value": 2,
+  "unit": "কার্যদিবস",
+  "section": "১০.৫",
+  "page": 29,
+  "evidence": "প্রত্যক্ষ ঊর্ধ্বতন 2 কার্যদিবসের মধ্যে উভয় পক্ষকে নিয়ে বসে বিষয়টি নিষ্পত্তি করবেন।"
+ },
+ {
+  "subject": "handover",
+  "aspect": "conditional_completion_post_exit_answer_days",
+  "value": 21,
+  "unit": "দিন",
+  "section": "১০.৫",
+  "page": 29,
+  "evidence": "মাঝের শ্রেণিটি সেই ক্ষেত্রে ব্যবহৃত হয় যেখানে মূল হস্তান্তর হয়ে গেছে কিন্তু কিছু গৌণ তথ্য অবশিষ্ট, এবং সেক্ষেত্রে বিদায়ী কর্মী প্রস্থানের পর 21 দিন পর্যন্ত নির্দিষ্ট প্রশ্নের উত্তর দিতে সম্মত হন।"
+ },
+ {
+  "subject": "handover",
+  "aspect": "interim_receiver_designation_working_days",
+  "value": 7,
+  "unit": "কার্যদিবস",
+  "section": "১০.৬",
+  "page": 29,
+  "evidence": "এই নির্ধারণ পদত্যাগ গৃহীত হওয়ার 7 কার্যদিবসের মধ্যে করতে হবে।"
+ },
+ {
+  "subject": "asset_return",
+  "aspect": "inventory_objection_window_days",
+  "value": 10,
+  "unit": "দিন",
+  "section": "১১.১",
+  "page": 30,
+  "evidence": "কর্মী 10 দিনের মধ্যে আপত্তি না জানালে তালিকাটি সঠিক বলে গণ্য হবে।"
+ },
+ {
+  "subject": "asset_return",
+  "aspect": "class_three_four_return_working_days",
+  "value": 5,
+  "unit": "কার্যদিবস",
+  "section": "১১.২",
+  "page": 31,
+  "evidence": "তৃতীয় ও চতুর্থ শ্রেণির সম্পদ শেষ কর্মদিবসের আগের 5 কার্যদিবসের মধ্যে যে কোনো দিন ফেরত দেওয়া যাবে, কারণ এগুলি দৈনন্দিন কাজে অপরিহার্য নয়।"
+ },
+ {
+  "subject": "asset_return",
+  "aspect": "remote_employee_pickup_working_days",
+  "value": 6,
+  "unit": "কার্যদিবস",
+  "section": "১১.২",
+  "page": 31,
+  "evidence": "প্রস্থান শাখা শেষ কর্মদিবসের অন্তত 6 কার্যদিবস আগে সংগ্রহের ব্যবস্থা করবে এবং মোড়কসামগ্রী পাঠাবে।"
+ },
+ {
+  "subject": "asset_return",
+  "aspect": "normal_wear_usage_threshold_percent",
+  "value": 80,
+  "unit": "শতাংশ",
+  "section": "১১.৩",
+  "page": 32,
+  "evidence": "একটি সম্পদ যদি নির্ধারিত ব্যবহারকালের 80 শতাংশ অতিক্রম করে থাকে, তবে তার অবস্থা যাই হোক, কোনো দায় নির্ধারিত হবে না; এই ধরনের সামগ্রীর অবশিষ্ট মূল্য নগণ্য এবং হিসাব রাখার প্রশাসনিক ব্যয় তার চেয়ে বেশি।"
+ },
+ {
+  "subject": "asset_return",
+  "aspect": "first_reminder_working_days",
+  "value": 3,
+  "unit": "কার্যদিবস",
+  "section": "১১.৪",
+  "page": 32,
+  "evidence": "শেষ কর্মদিবসে কোনো সম্পদ ফেরত না এলে প্রস্থান শাখা পরবর্তী 3 কার্যদিবসের মধ্যে কর্মীকে লিখিত স্মারক পাঠাবে, যাতে অফেরত সামগ্রীর তালিকা ও ফেরতের নতুন সময়সীমা উল্লিখিত থাকবে।"
+ },
+ {
+  "subject": "asset_return",
+  "aspect": "reminder_interval_days",
+  "value": 7,
+  "unit": "দিন",
+  "section": "১১.৪",
+  "page": 32,
+  "evidence": "দুই স্মারকের মধ্যে ব্যবধান অন্তত 7 দিন।"
+ },
+ {
+  "subject": "personal_belongings",
+  "aspect": "collection_window_days",
+  "value": 30,
+  "unit": "দিন",
+  "section": "১১.৫",
+  "page": 32,
+  "evidence": "কর্মী যদি শেষ কর্মদিবসে সব নিতে না পারেন, তবে প্রশাসন বিভাগ তাঁর জিনিসপত্র নিরাপদে সংরক্ষণ করবে এবং 30 দিনের মধ্যে সংগ্রহের সুযোগ দেবে।"
+ },
+ {
+  "subject": "access_revocation",
+  "aspect": "bulk_data_export_revocation_working_days",
+  "value": 2,
+  "unit": "কার্যদিবস",
+  "section": "১২.২",
+  "page": 33,
+  "evidence": "গ্রাহকের নাম ও যোগাযোগ তথ্যের সমষ্টিগত রপ্তানি করার ক্ষমতা, অর্থাৎ বৃহৎ তালিকা নামিয়ে নেওয়ার অধিকার, পদত্যাগ গৃহীত হওয়ার 2 কার্যদিবসের মধ্যে প্রত্যাহৃত হবে।"
+ },
+ {
+  "subject": "email_account",
+  "aspect": "auto_reply_duration_days",
+  "value": 45,
+  "unit": "দিন",
+  "section": "১২.৪",
+  "page": 34,
+  "evidence": "পরবর্তী 45 দিন ঠিকানাটিতে আসা বার্তাগুলি একটি স্বয়ংক্রিয় উত্তর পাবে, যাতে জানানো হবে যে সংশ্লিষ্ট ব্যক্তি আর প্রতিষ্ঠানে নেই এবং কার সঙ্গে যোগাযোগ করতে হবে।"
+ },
+ {
+  "subject": "email_account",
+  "aspect": "personal_message_removal_working_days",
+  "value": 3,
+  "unit": "কার্যদিবস",
+  "section": "১২.৪",
+  "page": 34,
+  "evidence": "এই সুযোগ শেষ কর্মদিবসের অন্তত 3 কার্যদিবস আগে দিতে হবে।"
+ },
+ {
+  "subject": "shared_account",
+  "aspect": "password_change_working_days",
+  "value": 1,
+  "unit": "কার্যদিবস",
+  "section": "১২.৫",
+  "page": 35,
+  "evidence": "যে হিসাবগুলি কর্মীর ব্যক্তিগত নামে নয় বরং ভূমিকার নামে চলে — যেমন একটি সাধারণ পরিষেবা হিসাব — সেগুলির গুপ্তসংকেত বিদায়ী কর্মীর প্রস্থানের 1 কার্যদিবসের মধ্যে পরিবর্তন করতে হবে।"
+ },
+ {
+  "subject": "clearance",
+  "aspect": "form_activation_working_days",
+  "value": 2,
+  "unit": "কার্যদিবস",
+  "section": "১৩.২",
+  "page": 35,
+  "evidence": "প্রস্থান শাখা পদত্যাগ গৃহীত হওয়ার 2 কার্যদিবসের মধ্যে ছাড়পত্র প্রপত্র সক্রিয় করে এবং সংশ্লিষ্ট সমস্ত বিভাগকে একযোগে জ্ঞাপন পাঠায়।"
+ },
+ {
+  "subject": "clearance",
+  "aspect": "supervisor_working_days_before_last_day",
+  "value": 4,
+  "unit": "কার্যদিবস",
+  "section": "১৩.৩",
+  "page": 36,
+  "evidence": "| ১ | প্রত্যক্ষ ঊর্ধ্বতন | সংশ্লিষ্ট দল বা প্রকল্পের ব্যবস্থাপক | হস্তান্তর সম্পূর্ণতা, গ্রহীতার স্বাক্ষর | শেষ কর্মদিবসের 4 কার্যদিবস আগে |"
+ },
+ {
+  "subject": "clearance",
+  "aspect": "it_working_days_before_last_day",
+  "value": 3,
+  "unit": "কার্যদিবস",
+  "section": "১৩.৩",
+  "page": 36,
+  "evidence": "| ২ | তথ্যপ্রযুক্তি | তথ্যপ্রযুক্তি পরিষেবা ব্যবস্থাপক | প্রবেশাধিকার তালিকা, যন্ত্র ও তথ্যের অবস্থা | শেষ কর্মদিবসের 3 কার্যদিবস আগে |"
+ },
+ {
+  "subject": "clearance",
+  "aspect": "library_working_days_before_last_day",
+  "value": 3,
+  "unit": "কার্যদিবস",
+  "section": "১৩.৩",
+  "page": 36,
+  "evidence": "| ৪ | গ্রন্থাগার ও নথিকেন্দ্র | প্রধান গ্রন্থাগারিক | ধার নেওয়া বই ও নথি | শেষ কর্মদিবসের 3 কার্যদিবস আগে |"
+ },
+ {
+  "subject": "clearance",
+  "aspect": "finance_working_days_before_last_day",
+  "value": 2,
+  "unit": "কার্যদিবস",
+  "section": "১৩.৩",
+  "page": 36,
+  "evidence": "| ৫ | অর্থ বিভাগ | অগ্রিম ও ব্যয় নিয়ন্ত্রক | ভ্রমণ অগ্রিম, ব্যয় দাবি, অন্যান্য অগ্রিম | শেষ কর্মদিবসের 2 কার্যদিবস আগে |"
+ },
+ {
+  "subject": "clearance",
+  "aspect": "department_head_working_days_after_last_day",
+  "value": 1,
+  "unit": "কার্যদিবস",
+  "section": "১৩.৩",
+  "page": 36,
+  "evidence": "| ৭ | বিভাগীয় প্রধান | সংশ্লিষ্ট বিভাগীয় প্রধান স্বয়ং | সামগ্রিক নিশ্চিতকরণ | শেষ কর্মদিবসের পরের 1 কার্যদিবস |"
+ },
+ {
+  "subject": "clearance",
+  "aspect": "remote_admin_extension_working_days",
+  "value": 7,
+  "unit": "কার্যদিবস",
+  "section": "১৩.৩",
+  "page": 37,
+  "evidence": "দূরবর্তী কর্মীদের ক্ষেত্রে তৃতীয় ক্রমের সময়সীমা শেষ কর্মদিবসের পরের 7 কার্যদিবস পর্যন্ত বর্ধিত হবে, কারণ সংগ্রহ-পরিষেবার মাধ্যমে সম্পদ পৌঁছাতে সময় লাগে।"
+ },
+ {
+  "subject": "clearance",
+  "aspect": "first_escalation_working_days",
+  "value": 2,
+  "unit": "কার্যদিবস",
+  "section": "১৩.৫",
+  "page": 37,
+  "evidence": "স্মারকের পরেও 2 কার্যদিবস নীরবতা থাকলে বিষয়টি সেই বিভাগের প্রধানের কাছে উত্থাপিত হবে।"
+ },
+ {
+  "subject": "clearance",
+  "aspect": "second_escalation_working_days",
+  "value": 2,
+  "unit": "কার্যদিবস",
+  "section": "১৩.৫",
+  "page": 37,
+  "evidence": "তারও 2 কার্যদিবস পরে বিষয়টি মানবসম্পদ প্রধানের কাছে যাবে, এবং তিনি সংশ্লিষ্ট বিভাগের আপত্তি অনুপস্থিত ধরে ছাড়পত্র সম্পূর্ণ ঘোষণা করতে পারেন।"
+ },
+ {
+  "subject": "clearance",
+  "aspect": "department_process_review_threshold_per_quarter",
+  "value": 3,
+  "unit": "বার",
+  "section": "১৩.৫",
+  "page": 37,
+  "evidence": "এই ক্ষমতা প্রয়োগের ঘটনা প্রতিটি ত্রৈমাসিকে সংকলিত হয় এবং যে বিভাগের ক্ষেত্রে এটি একটি ত্রৈমাসিকে 3 বারের বেশি প্রয়োগ করতে হয়, সেই বিভাগের প্রক্রিয়া পর্যালোচনা করা হয়।"
+ },
+ {
+  "subject": "clearance",
+  "aspect": "dispute_recommendation_working_days",
+  "value": 5,
+  "unit": "কার্যদিবস",
+  "section": "১৩.৬",
+  "page": 38,
+  "evidence": "প্রস্থান শাখা উভয় পক্ষের বক্তব্য নিয়ে 5 কার্যদিবসের মধ্যে একটি নিষ্পত্তি-সুপারিশ প্রস্তুত করবে।"
+ },
+ {
+  "subject": "final_settlement",
+  "aspect": "payment_deadline_days",
+  "value": 37,
+  "unit": "দিন",
+  "section": "১৩.৭",
+  "page": 39,
+  "evidence": "চূড়ান্ত নিষ্পত্তির সমগ্র অর্থ শেষ কর্মদিবসের পরবর্তী 37 দিনের মধ্যে বিদায়ী কর্মীর নথিভুক্ত ব্যাঙ্ক হিসাবে পৌঁছাতে হবে।"
+ },
+ {
+  "subject": "final_settlement",
+  "aspect": "undisputed_portion_release_days",
+  "value": 23,
+  "unit": "দিন",
+  "section": "১৩.৭",
+  "page": 39,
+  "evidence": "অবিতর্কিত অংশ শেষ কর্মদিবসের পরবর্তী 23 দিনের মধ্যে মুক্ত হবে, এবং বিতর্কিত অংশ ধারা ২১-এর আপিল প্রক্রিয়ায় নিষ্পন্ন হওয়ার পরে পৃথকভাবে প্রদেয় হবে।"
+ },
+ {
+  "subject": "service_certificate",
+  "aspect": "issue_working_days_after_clearance",
+  "value": 5,
+  "unit": "কার্যদিবস",
+  "section": "১৪.২",
+  "page": 40,
+  "evidence": "পরিষেবা প্রমাণপত্র ও অভিজ্ঞতা সনদ ছাড়পত্র সম্পূর্ণ হওয়ার 5 কার্যদিবসের মধ্যে প্রদান করতে হবে।"
+ },
+ {
+  "subject": "service_certificate",
+  "aspect": "duplicate_supply_working_days",
+  "value": 12,
+  "unit": "কার্যদিবস",
+  "section": "১৪.২",
+  "page": 40,
+  "evidence": "প্রতিষ্ঠান তা 12 কার্যদিবসের মধ্যে সরবরাহ করবে, এবং এই সরবরাহের কোনো সময়সীমা-পরবর্তী মেয়াদ নেই — অর্থাৎ বহু বছর পরেও অনুরোধ করা যাবে, যতক্ষণ সংশ্লিষ্ট নথি সংরক্ষিত আছে।"
+ },
+ {
+  "subject": "experience_certificate",
+  "aspect": "max_duty_description_sentences",
+  "value": 4,
+  "unit": "বাক্য",
+  "section": "১৪.৩",
+  "page": 40,
+  "evidence": "সনদে যা থাকবে: কর্মীর পূর্ণ নাম; কর্মী সংখ্যা; যোগদানের তারিখ; প্রস্থানের তারিখ; সেবাকালে ধারণকৃত পদসমূহ ও প্রতিটির সময়কাল; শেষ পদে দায়িত্বের ক্ষেত্র সর্বাধিক 4টি বাক্যে; এবং প্রতিষ্ঠানের পক্ষে অনুমোদিত স্বাক্ষরকারীর স্বাক্ষর।"
+ },
+ {
+  "subject": "reference_enquiry",
+  "aspect": "employer_reply_working_days",
+  "value": 7,
+  "unit": "কার্যদিবস",
+  "section": "১৪.৬",
+  "page": 42,
+  "evidence": "অনুসন্ধানের উত্তর 7 কার্যদিবসের মধ্যে দিতে হবে।"
+ },
+ {
+  "subject": "rehire_eligibility",
+  "aspect": "ineligible_flag_review_wait_years",
+  "value": 5,
+  "unit": "বছর",
+  "section": "১৫.৪",
+  "page": 44,
+  "evidence": "চিহ্ন আরোপের 5 বছর পরে সংশ্লিষ্ট ব্যক্তি পুনর্বিবেচনার আবেদন করতে পারেন, এবং মানবসম্পদ প্রধান সেই আবেদন বিবেচনা করবেন।"
+ },
+ {
+  "subject": "rehire_eligibility",
+  "aspect": "conditional_flag_duration_years",
+  "value": 3,
+  "unit": "বছর",
+  "section": "১৫.৪",
+  "page": 44,
+  "evidence": "\"শর্তসাপেক্ষে যোগ্য\" চিহ্নের মেয়াদ 3 বছর, তারপর তা স্বয়ংক্রিয়ভাবে \"যোগ্য\"-তে রূপান্তরিত হয়, যদি না সেই সময়ের মধ্যে নতুন কোনো তথ্য উদ্ঘাটিত হয়।"
+ },
+ {
+  "subject": "rehire_eligibility",
+  "aspect": "min_cooling_off_days_before_rejoining",
+  "value": 90,
+  "unit": "দিন",
+  "section": "১৫.৫",
+  "page": 45,
+  "evidence": "প্রস্থানের পর পুনরায় যোগদানের মধ্যে ন্যূনতম ব্যবধান 90 দিন।"
+ },
+ {
+  "subject": "rehire_eligibility",
+  "aspect": "max_gap_days_for_service_continuity",
+  "value": 180,
+  "unit": "দিন",
+  "section": "১৫.৫",
+  "page": 45,
+  "evidence": "পূর্ববর্তী সেবাকাল কেবল সেই ক্ষেত্রেই যুক্ত হয় যেখানে প্রস্থান ও পুনর্যোগদানের ব্যবধান 180 দিনের কম এবং প্রস্থানটি পদসংকোচনজনিত ছিল।"
+ },
+ {
+  "subject": "rehire_eligibility",
+  "aspect": "redundancy_priority_months",
+  "value": 12,
+  "unit": "মাস",
+  "section": "১৫.৬",
+  "page": 45,
+  "evidence": "প্রস্থানের পরবর্তী 12 মাস প্রতিষ্ঠানে তাঁদের পূর্ববর্তী স্তরে বা সমতুল্য স্তরে কোনো শূন্যপদ সৃষ্টি হলে, বাহ্যিক বিজ্ঞাপন প্রকাশের আগে তাঁদের জানানো হবে।"
+ },
+ {
+  "subject": "post_exit_obligations",
+  "aspect": "personal_device_data_removal_working_days",
+  "value": 2,
+  "unit": "কার্যদিবস",
+  "section": "১৬.২",
+  "page": 46,
+  "evidence": "যেখানে প্রতিষ্ঠানের ব্যবস্থাপনা সফটওয়্যার কর্মীর ব্যক্তিগত যন্ত্রে স্থাপিত ছিল, সেখানে তথ্যপ্রযুক্তি বিভাগ দূর থেকে প্রাতিষ্ঠানিক অংশটি মুছে দেবে এবং সেই কাজ শেষ কর্মদিবসের 2 কার্যদিবসের মধ্যে সম্পন্ন হবে।"
+ },
+ {
+  "subject": "non_solicitation",
+  "aspect": "employee_solicitation_months",
+  "value": 9,
+  "unit": "মাস",
+  "section": "১৬.৩",
+  "page": 46,
+  "evidence": "এই বাধ্যবাধকতার মেয়াদ প্রস্থানের তারিখ থেকে 9 মাস।"
+ },
+ {
+  "subject": "non_solicitation",
+  "aspect": "client_contact_months",
+  "value": 6,
+  "unit": "মাস",
+  "section": "১৬.৩",
+  "page": 47,
+  "evidence": "প্রস্থানের পরবর্তী 6 মাস প্রাক্তন কর্মী সেই গ্রাহকদের সঙ্গে ব্যবসায়িক উদ্দেশ্যে যোগাযোগ করবেন না যাঁদের সঙ্গে তিনি প্রস্থানের আগের 12 মাসে সরাসরি কাজ করেছিলেন।"
+ },
+ {
+  "subject": "non_solicitation",
+  "aspect": "client_lookback_months",
+  "value": 12,
+  "unit": "মাস",
+  "section": "১৬.৩",
+  "page": 47,
+  "evidence": "প্রস্থানের পরবর্তী 6 মাস প্রাক্তন কর্মী সেই গ্রাহকদের সঙ্গে ব্যবসায়িক উদ্দেশ্যে যোগাযোগ করবেন না যাঁদের সঙ্গে তিনি প্রস্থানের আগের 12 মাসে সরাসরি কাজ করেছিলেন।"
+ },
+ {
+  "subject": "abandonment",
+  "aspect": "phase_one_working_days",
+  "value": 3,
+  "unit": "কার্যদিবস",
+  "section": "১৭.২",
+  "page": 48,
+  "evidence": "পর্যায় ১ — অনানুষ্ঠানিক অনুসন্ধান। টানা 3 কার্যদিবস অনুপস্থিতির পর প্রত্যক্ষ ঊর্ধ্বতন কর্মীর নথিভুক্ত ফোন নম্বরে যোগাযোগের চেষ্টা করবেন এবং সেই চেষ্টার তারিখ ও ফল লিপিবদ্ধ করবেন।"
+ },
+ {
+  "subject": "abandonment",
+  "aspect": "phase_two_working_days",
+  "value": 7,
+  "unit": "কার্যদিবস",
+  "section": "১৭.২",
+  "page": 48,
+  "evidence": "পর্যায় ২ — প্রথম লিখিত জ্ঞাপন। টানা 7 কার্যদিবস অনুপস্থিতির পর প্রস্থান শাখা কর্মীর নথিভুক্ত ডাকঠিকানায় নিবন্ধিত ডাকযোগে এবং তাঁর ব্যক্তিগত বৈদ্যুতিন ঠিকানায় প্রথম জ্ঞাপন পাঠাবে।"
+ },
+ {
+  "subject": "abandonment",
+  "aspect": "first_notice_response_days",
+  "value": 7,
+  "unit": "দিন",
+  "section": "১৭.২",
+  "page": 48,
+  "evidence": "জ্ঞাপনে অনুপস্থিতির তারিখগুলি উল্লেখ থাকবে এবং 7 দিনের মধ্যে যোগাযোগ করতে বলা হবে।"
+ },
+ {
+  "subject": "abandonment",
+  "aspect": "emergency_contact_day",
+  "value": 7,
+  "unit": "দিন",
+  "section": "১৭.২",
+  "page": 48,
+  "evidence": "পর্যায় ৩ — জরুরি যোগাযোগসূত্র। প্রথম জ্ঞাপনের 7 দিন পরেও সাড়া না মিললে প্রস্থান শাখা কর্মীর নথিভুক্ত জরুরি যোগাযোগসূত্রে যোগাযোগ করবে।"
+ },
+ {
+  "subject": "abandonment",
+  "aspect": "second_notice_deadline_days",
+  "value": 10,
+  "unit": "দিন",
+  "section": "১৭.২",
+  "page": 49,
+  "evidence": "পর্যায় ৪ — দ্বিতীয় লিখিত জ্ঞাপন। পর্যায় ৩-এর পরেও সাড়া না এলে দ্বিতীয় জ্ঞাপন যাবে, যাতে স্পষ্টভাবে উল্লেখ থাকবে যে 10 দিনের মধ্যে সাড়া না পেলে সেবা পরিত্যক্ত বলে গণ্য হবে।"
+ },
+ {
+  "subject": "abandonment",
+  "aspect": "min_total_days_before_declaration",
+  "value": 45,
+  "unit": "দিন",
+  "section": "১৭.২",
+  "page": 49,
+  "evidence": "এই পর্যন্ত পৌঁছাতে প্রথম অনুপস্থিত দিন থেকে অন্তত 45 দিন অতিবাহিত হয়, এবং সেই দীর্ঘতা ইচ্ছাকৃত।"
+ },
+ {
+  "subject": "abandonment",
+  "aspect": "revocation_application_days",
+  "value": 60,
+  "unit": "দিন",
+  "section": "১৭.৩",
+  "page": 49,
+  "evidence": "এই প্রত্যাহারের আবেদনের সময়সীমা সিদ্ধান্তের তারিখ থেকে 60 দিন।"
+ },
+ {
+  "subject": "redundancy",
+  "aspect": "abolished_post_recreation_control_months",
+  "value": 12,
+  "unit": "মাস",
+  "section": "১৯.১",
+  "page": 51,
+  "evidence": "এই কারণে একটি নিয়ন্ত্রণ রয়েছে: পদসংকোচনের মাধ্যমে অবলুপ্ত কোনো পদ পরবর্তী 12 মাসের মধ্যে পুনরায় সৃষ্টি করতে হলে ব্যবস্থাপনা পরিচালকের লিখিত অনুমোদন প্রয়োজন, এবং সেই পদে পূর্বে প্রস্থানকারী ব্যক্তিকে আগে প্রস্তাব দিতে হবে।"
+ },
+ {
+  "subject": "redundancy",
+  "aspect": "board_approval_position_threshold",
+  "value": 4,
+  "unit": "পদ",
+  "section": "১৯.২",
+  "page": 52,
+  "evidence": "প্রস্তাব অনুমোদনের কর্তৃত্ব একক পদের ক্ষেত্রে মানবসম্পদ প্রধান ও সংশ্লিষ্ট কার্যনির্বাহী সদস্যের যৌথ, এবং একই বিভাগে 4টির অধিক পদের ক্ষেত্রে ব্যবস্থাপনা পর্ষদের।"
+ },
+ {
+  "subject": "redundancy",
+  "aspect": "selection_weight_skill_match",
+  "value": 40,
+  "unit": "ভারাঙ্ক",
+  "section": "১৯.৩",
+  "page": 52,
+  "evidence": "| ভবিষ্যৎ কাঠামোর জন্য প্রয়োজনীয় দক্ষতার সঙ্গে মিল | 40 |"
+ },
+ {
+  "subject": "redundancy",
+  "aspect": "selection_weight_performance",
+  "value": 25,
+  "unit": "ভারাঙ্ক",
+  "section": "১৯.৩",
+  "page": 52,
+  "evidence": "| পূর্ববর্তী দুই চক্রের কর্মমূল্যায়নের গড় | 25 |"
+ },
+ {
+  "subject": "redundancy",
+  "aspect": "selection_weight_versatility",
+  "value": 20,
+  "unit": "ভারাঙ্ক",
+  "section": "১৯.৩",
+  "page": 52,
+  "evidence": "| একাধিক ভূমিকায় কাজ করার সক্ষমতা | 20 |"
+ },
+ {
+  "subject": "redundancy",
+  "aspect": "selection_weight_service_length",
+  "value": 15,
+  "unit": "ভারাঙ্ক",
+  "section": "১৯.৩",
+  "page": 52,
+  "evidence": "| অবিচ্ছিন্ন সেবাকালের দৈর্ঘ্য | 15 |"
+ },
+ {
+  "subject": "redundancy",
+  "aspect": "min_consultation_working_days",
+  "value": 15,
+  "unit": "কার্যদিবস",
+  "section": "১৯.৪",
+  "page": 53,
+  "evidence": "পরামর্শ পর্বের দৈর্ঘ্য অন্তত 15 কার্যদিবস।"
+ },
+ {
+  "subject": "redundancy",
+  "aspect": "min_consultation_meetings",
+  "value": 2,
+  "unit": "বৈঠক",
+  "section": "১৯.৪",
+  "page": 53,
+  "evidence": "এই সময়ে অন্তত 2টি পৃথক বৈঠক হবে: প্রথমটিতে প্রস্তাব ও তার কারণ ব্যাখ্যা করা হবে, দ্বিতীয়টিতে কর্মীর বক্তব্য ও বিকল্প প্রস্তাব শোনা হবে।"
+ },
+ {
+  "subject": "redundancy",
+  "aspect": "outplacement_support_months",
+  "value": 3,
+  "unit": "মাস",
+  "section": "১৯.৫",
+  "page": 53,
+  "evidence": "পুনর্নিয়োগ সহায়তা। জীবনবৃত্তান্ত প্রস্তুতি ও সাক্ষাৎকার প্রস্তুতির জন্য প্রতিষ্ঠান বাহ্যিক সহায়তার ব্যবস্থা করবে, যা 3 মাস পর্যন্ত উপলব্ধ থাকবে।"
+ },
+ {
+  "subject": "redundancy",
+  "aspect": "paid_interview_leave_working_days",
+  "value": 6,
+  "unit": "কার্যদিবস",
+  "section": "১৯.৫",
+  "page": 54,
+  "evidence": "সময় ছাড়। নোটিশ কালে কর্মী অন্যত্র সাক্ষাৎকারে যোগ দেওয়ার জন্য বেতনসহ ছুটি পাবেন, সর্বাধিক 6 কার্যদিবস, এবং তার জন্য কারণ দেখানোর প্রয়োজন হবে না।"
+ },
+ {
+  "subject": "redundancy",
+  "aspect": "post_exit_counselling_months",
+  "value": 4,
+  "unit": "মাস",
+  "section": "১৯.৫",
+  "page": 54,
+  "evidence": "পরামর্শ সহায়তা। প্রতিষ্ঠানের কর্মী সহায়তা কার্যক্রমের মাধ্যমে মানসিক সহায়তা প্রস্থানের পরেও 4 মাস পর্যন্ত উপলব্ধ থাকবে।"
+ },
+ {
+  "subject": "redundancy",
+  "aspect": "announcement_step_max_gap_working_days",
+  "value": 1,
+  "unit": "কার্যদিবস",
+  "section": "১৯.৬",
+  "page": 54,
+  "evidence": "প্রতিটি ধাপের মধ্যে ব্যবধান সর্বাধিক 1 কার্যদিবস।"
+ },
+ {
+  "subject": "death_in_service",
+  "aspect": "document_discussion_min_delay_days",
+  "value": 10,
+  "unit": "দিন",
+  "section": "২০.১",
+  "page": 55,
+  "evidence": "নথিপত্র সংক্রান্ত আলোচনা শুরু হবে মৃত্যুর অন্তত 10 দিন পরে, যদি না পরিবার নিজে থেকে আগে যোগাযোগ করেন।"
+ },
+ {
+  "subject": "death_in_service",
+  "aspect": "nomination_confirmation_cycle_months",
+  "value": 24,
+  "unit": "মাস",
+  "section": "২০.৩",
+  "page": 56,
+  "evidence": "প্রতিটি কর্মীর মনোনয়ন প্রতি 24 মাসে অন্তত একবার নিশ্চিত করার ব্যবস্থা রয়েছে, এবং সেই নিশ্চিতকরণের অনুপস্থিতিতে প্রস্থান শাখা স্মারক পাঠায়।"
+ },
+ {
+  "subject": "death_in_service",
+  "aspect": "loan_recovery_suspension_months",
+  "value": 6,
+  "unit": "মাস",
+  "section": "২০.৪",
+  "page": 56,
+  "evidence": "বাসস্থান ও ঋণ সংক্রান্ত। প্রতিষ্ঠান থেকে গৃহীত কোনো অগ্রিম বা ঋণ থাকলে তার আদায় প্রক্রিয়া অন্তত 6 মাস স্থগিত থাকবে, এবং সেই সময়ের মধ্যে পরিবারের পরিস্থিতি বিবেচনা করে ব্যবস্থা নির্ধারিত হবে।"
+ },
+ {
+  "subject": "death_in_service",
+  "aspect": "team_meeting_working_days",
+  "value": 3,
+  "unit": "কার্যদিবস",
+  "section": "২০.৬",
+  "page": 57,
+  "evidence": "বিভাগীয় প্রধান মৃত্যুসংবাদের 3 কার্যদিবসের মধ্যে দলের সঙ্গে একটি বৈঠক করবেন, যেখানে কাজের কথা হবে না।"
+ },
+ {
+  "subject": "death_in_service",
+  "aspect": "workstation_preservation_days",
+  "value": 30,
+  "unit": "দিন",
+  "section": "২০.৬",
+  "page": 57,
+  "evidence": "প্রয়াত কর্মীর আসন বা কর্মস্থান অন্তত 30 দিন অপরিবর্তিত রাখা হবে।"
+ },
+ {
+  "subject": "appeal",
+  "aspect": "first_level_filing_working_days",
+  "value": 10,
+  "unit": "কার্যদিবস",
+  "section": "২১.২",
+  "page": 57,
+  "evidence": "প্রথম স্তর। আপিল দাখিল করতে হবে সিদ্ধান্ত জানার 10 কার্যদিবসের মধ্যে, প্রস্থান শাখার প্রধানের কাছে।"
+ },
+ {
+  "subject": "appeal",
+  "aspect": "first_level_decision_working_days",
+  "value": 12,
+  "unit": "কার্যদিবস",
+  "section": "২১.২",
+  "page": 57,
+  "evidence": "তিনি সংশ্লিষ্ট নথি ও উভয় পক্ষের বক্তব্য বিবেচনা করে 12 কার্যদিবসের মধ্যে লিখিত সিদ্ধান্ত দেবেন।"
+ },
+ {
+  "subject": "appeal",
+  "aspect": "second_level_filing_working_days",
+  "value": 8,
+  "unit": "কার্যদিবস",
+  "section": "২১.২",
+  "page": 58,
+  "evidence": "দ্বিতীয় স্তর। প্রথম স্তরের সিদ্ধান্তে সন্তুষ্ট না হলে 8 কার্যদিবসের মধ্যে মানবসম্পদ প্রধানের কাছে দ্বিতীয় আপিল করা যাবে।"
+ },
+ {
+  "subject": "appeal",
+  "aspect": "second_level_decision_working_days",
+  "value": 15,
+  "unit": "কার্যদিবস",
+  "section": "২১.২",
+  "page": 58,
+  "evidence": "তিনি 15 কার্যদিবসের মধ্যে সিদ্ধান্ত দেবেন এবং সেই সিদ্ধান্ত চূড়ান্ত।"
+ },
+ {
+  "subject": "appeal",
+  "aspect": "md_decision_working_days_rehire_flag",
+  "value": 20,
+  "unit": "কার্যদিবস",
+  "section": "২১.২",
+  "page": 58,
+  "evidence": "সেক্ষেত্রে আপিল সরাসরি ব্যবস্থাপনা পরিচালকের কাছে যাবে এবং তিনি 20 কার্যদিবসের মধ্যে সিদ্ধান্ত দেবেন।"
+ },
+ {
+  "subject": "appeal",
+  "aspect": "post_exit_filing_days",
+  "value": 60,
+  "unit": "দিন",
+  "section": "২১.২",
+  "page": 58,
+  "evidence": "প্রস্থানের পর আপিল করা যাবে, তবে প্রস্থানের তারিখ থেকে 60 দিনের মধ্যে।"
+ },
+ {
+  "subject": "appeal",
+  "aspect": "clause_review_threshold_count",
+  "value": 6,
+  "unit": "আপিল",
+  "section": "২১.৪",
+  "page": 59,
+  "evidence": "কোনো অর্থবর্ষে একই ধারা সংক্রান্ত 6টির অধিক আপিল দাখিল হলে সেই ধারাটি পর্যালোচনার জন্য চিহ্নিত হবে।"
+ },
+ {
+  "subject": "record_retention",
+  "aspect": "exit_file_years",
+  "value": 8,
+  "unit": "বছর",
+  "section": "২২.২",
+  "page": 59,
+  "evidence": "প্রস্থান-সংকলন প্রস্থানের তারিখ থেকে 8 বছর সংরক্ষিত থাকে।"
+ },
+ {
+  "subject": "record_retention",
+  "aspect": "rehire_ineligibility_record_years",
+  "value": 10,
+  "unit": "বছর",
+  "section": "২২.২",
+  "page": 59,
+  "evidence": "পুনর্নিয়োগ-অযোগ্য চিহ্ন ও তার ভিত্তি সংক্রান্ত নথি 10 বছর সংরক্ষিত থাকে, কারণ চিহ্নটির পুনর্বিবেচনার আবেদন বহু বছর পরে আসতে পারে এবং তখন মূল ভিত্তি দেখা প্রয়োজন হয়।"
+ },
+ {
+  "subject": "record_retention",
+  "aspect": "death_case_record_years",
+  "value": 15,
+  "unit": "বছর",
+  "section": "২২.২",
+  "page": 59,
+  "evidence": "মৃত্যুজনিত অবসান সংক্রান্ত নথি 15 বছর সংরক্ষিত থাকে, কারণ পরিবারের পক্ষ থেকে দাবি বা প্রশ্ন দীর্ঘ সময় পরেও আসতে পারে।"
+ },
+ {
+  "subject": "record_retention",
+  "aspect": "copy_supply_working_days",
+  "value": 15,
+  "unit": "কার্যদিবস",
+  "section": "২২.৩",
+  "page": 60,
+  "evidence": "প্রাক্তন কর্মী নিজের প্রস্থান-সংকলনের প্রতিলিপি চাইতে পারেন এবং তা 15 কার্যদিবসের মধ্যে সরবরাহ করতে হবে।"
+ },
+ {
+  "subject": "metrics",
+  "aspect": "clearance_on_time_target_percent",
+  "value": 95,
+  "unit": "শতাংশ",
+  "section": "২৩.২",
+  "page": 60,
+  "evidence": "| নির্ধারিত সময়ে সম্পন্ন ছাড়পত্রের অনুপাত | 95 শতাংশের অধিক |"
+ },
+ {
+  "subject": "metrics",
+  "aspect": "signed_handover_target_percent",
+  "value": 98,
+  "unit": "শতাংশ",
+  "section": "২৩.২",
+  "page": 60,
+  "evidence": "| গ্রহীতার স্বাক্ষরসহ সম্পন্ন হস্তান্তরের অনুপাত | 98 শতাংশের অধিক |"
+ },
+ {
+  "subject": "metrics",
+  "aspect": "relieving_letter_on_time_target_percent",
+  "value": 100,
+  "unit": "শতাংশ",
+  "section": "২৩.২",
+  "page": 60,
+  "evidence": "| শেষ কর্মদিবসের 3 কার্যদিবসের মধ্যে প্রদত্ত অব্যাহতিপত্রের অনুপাত | 100 শতাংশ |"
+ },
+ {
+  "subject": "metrics",
+  "aspect": "relieving_letter_indicator_working_days",
+  "value": 3,
+  "unit": "কার্যদিবস",
+  "section": "২৩.২",
+  "page": 60,
+  "evidence": "| শেষ কর্মদিবসের 3 কার্যদিবসের মধ্যে প্রদত্ত অব্যাহতিপত্রের অনুপাত | 100 শতাংশ |"
+ },
+ {
+  "subject": "metrics",
+  "aspect": "exit_interview_on_time_target_percent",
+  "value": 90,
+  "unit": "শতাংশ",
+  "section": "২৩.২",
+  "page": 60,
+  "evidence": "| সময়সীমার মধ্যে সম্পন্ন প্রস্থান সাক্ষাৎকারের অনুপাত | 90 শতাংশের অধিক |"
+ },
+ {
+  "subject": "metrics",
+  "aspect": "access_revocation_target_percent",
+  "value": 100,
+  "unit": "শতাংশ",
+  "section": "২৩.২",
+  "page": 60,
+  "evidence": "| শেষ কর্মদিবসের 2 কার্যদিবসের মধ্যে প্রত্যাহৃত প্রবেশাধিকারের অনুপাত | 100 শতাংশ |"
+ },
+ {
+  "subject": "metrics",
+  "aspect": "access_revocation_indicator_working_days",
+  "value": 2,
+  "unit": "কার্যদিবস",
+  "section": "২৩.২",
+  "page": 60,
+  "evidence": "| শেষ কর্মদিবসের 2 কার্যদিবসের মধ্যে প্রত্যাহৃত প্রবেশাধিকারের অনুপাত | 100 শতাংশ |"
+ },
+ {
+  "subject": "metrics",
+  "aspect": "appeal_on_time_target_percent",
+  "value": 92,
+  "unit": "শতাংশ",
+  "section": "২৩.২",
+  "page": 60,
+  "evidence": "| সময়সীমার মধ্যে নিষ্পন্ন আপিলের অনুপাত | 92 শতাংশের অধিক |"
+ },
+ {
+  "subject": "metrics",
+  "aspect": "first_year_attrition_window_months",
+  "value": 12,
+  "unit": "মাস",
+  "section": "২৩.৩",
+  "page": 61,
+  "evidence": "যোগদানের 12 মাসের মধ্যে প্রস্থান প্রায় সর্বদাই নিয়োগ, প্রত্যাশা নির্ধারণ বা প্রাথমিক অভিযোজনের ত্রুটি নির্দেশ করে, এবং তার সমাধান প্রস্থান প্রক্রিয়ায় নেই।"
+ },
+ {
+  "subject": "metrics",
+  "aspect": "first_year_attrition_ceiling_percent",
+  "value": 11,
+  "unit": "শতাংশ",
+  "section": "২৩.৩",
+  "page": 61,
+  "evidence": "প্রতিষ্ঠান এই সূচকের জন্য 11 শতাংশের ঊর্ধ্বসীমা নির্ধারণ করেছে, এবং তা অতিক্রান্ত হলে নিয়োগ ও অভিযোজন প্রক্রিয়ার যৌথ পর্যালোচনা শুরু হয়।"
+ },
+ {
+  "subject": "metrics",
+  "aspect": "regret_classification_working_days",
+  "value": 20,
+  "unit": "কার্যদিবস",
+  "section": "২৩.৪",
+  "page": 61,
+  "evidence": "এই শ্রেণিবিভাজন প্রস্থানের 20 কার্যদিবসের মধ্যে সম্পন্ন করতে হবে।"
+ },
+ {
+  "subject": "metrics",
+  "aspect": "regret_exit_target_percent",
+  "value": 35,
+  "unit": "শতাংশ",
+  "section": "২৩.৪",
+  "page": 62,
+  "evidence": "প্রতিষ্ঠানের নির্ধারিত লক্ষ্যমাত্রা হল মোট স্বেচ্ছা প্রস্থানের মধ্যে অনুশোচিত প্রস্থান 35 শতাংশের নিচে রাখা।"
+ },
+ {
+  "subject": "metrics",
+  "aspect": "department_review_exit_threshold",
+  "value": 4,
+  "unit": "প্রস্থান",
+  "section": "২৩.৫",
+  "page": 62,
+  "evidence": "কোনো একক বিভাগে এক ত্রৈমাসিকে একই কারণ-শ্রেণিতে 4টির অধিক প্রস্থান ঘটলে মানবসম্পদ প্রধান সেই বিভাগে একটি লক্ষ্যভিত্তিক পর্যালোচনা শুরু করবেন, এবং সেই পর্যালোচনায় বর্তমান কর্মীদের সঙ্গেও কথা বলা হবে — কারণ যাঁরা এখনও আছেন, তাঁদের কাছেই সবচেয়ে কার্যকর তথ্য থাকে।"
+ },
+ {
+  "subject": "metrics",
+  "aspect": "post_exit_survey_months",
+  "value": 4,
+  "unit": "মাস",
+  "section": "২৩.৬",
+  "page": 62,
+  "evidence": "প্রস্থানের 4 মাস পরে প্রাক্তন কর্মীদের একটি সংক্ষিপ্ত জরিপ পাঠানো হয়, যাতে তিনটি প্রশ্ন থাকে: প্রস্থান প্রক্রিয়া সম্মানজনক ছিল কি না; প্রতিশ্রুত নথি ও সহায়তা সময়মতো পাওয়া গেছে কি না; এবং প্রতিষ্ঠানকে অন্যকে কর্মস্থল হিসেবে সুপারিশ করবেন কি না।"
+ },
+ {
+  "subject": "scenario_one",
+  "aspect": "resignation_submission_date",
+  "value": 8,
+  "unit": "তারিখ (জুলাই 2025)",
+  "section": "২৪.১",
+  "page": 63,
+  "evidence": "তিনি 8 জুলাই 2025 তারিখে পদত্যাগপত্র জমা দেন এবং পত্রে প্রস্তাবিত শেষ কর্মদিবস লেখেন 31 জুলাই 2025, কারণ তাঁর নতুন প্রতিষ্ঠানে যোগদানের তারিখ 4 আগস্ট।"
+ },
+ {
+  "subject": "scenario_one",
+  "aspect": "employee_proposed_last_day",
+  "value": 31,
+  "unit": "তারিখ (জুলাই 2025)",
+  "section": "২৪.১",
+  "page": 63,
+  "evidence": "তিনি 8 জুলাই 2025 তারিখে পদত্যাগপত্র জমা দেন এবং পত্রে প্রস্তাবিত শেষ কর্মদিবস লেখেন 31 জুলাই 2025, কারণ তাঁর নতুন প্রতিষ্ঠানে যোগদানের তারিখ 4 আগস্ট।"
+ },
+ {
+  "subject": "scenario_one",
+  "aspect": "new_employer_joining_date",
+  "value": 4,
+  "unit": "তারিখ (আগস্ট 2025)",
+  "section": "২৪.১",
+  "page": 63,
+  "evidence": "তিনি 8 জুলাই 2025 তারিখে পদত্যাগপত্র জমা দেন এবং পত্রে প্রস্তাবিত শেষ কর্মদিবস লেখেন 31 জুলাই 2025, কারণ তাঁর নতুন প্রতিষ্ঠানে যোগদানের তারিখ 4 আগস্ট।"
+ },
+ {
+  "subject": "scenario_one",
+  "aspect": "acknowledgement_date",
+  "value": 10,
+  "unit": "তারিখ (জুলাই 2025)",
+  "section": "২৪.১",
+  "page": 63,
+  "evidence": "প্রস্থান শাখা 10 জুলাই প্রাপ্তিস্বীকার পাঠায়, যেখানে জানানো হয় যে নির্বাহী স্তরে প্রযোজ্য নোটিশ কাল 42 দিন এবং সেই অনুযায়ী শেষ কর্মদিবস দাঁড়ায় 19 আগস্ট 2025।"
+ },
+ {
+  "subject": "scenario_one",
+  "aspect": "applicable_notice_days",
+  "value": 42,
+  "unit": "দিন",
+  "section": "২৪.১",
+  "page": 63,
+  "evidence": "প্রস্থান শাখা 10 জুলাই প্রাপ্তিস্বীকার পাঠায়, যেখানে জানানো হয় যে নির্বাহী স্তরে প্রযোজ্য নোটিশ কাল 42 দিন এবং সেই অনুযায়ী শেষ কর্মদিবস দাঁড়ায় 19 আগস্ট 2025।"
+ },
+ {
+  "subject": "scenario_one",
+  "aspect": "computed_last_working_day",
+  "value": 19,
+  "unit": "তারিখ (আগস্ট 2025)",
+  "section": "২৪.১",
+  "page": 63,
+  "evidence": "প্রস্থান শাখা 10 জুলাই প্রাপ্তিস্বীকার পাঠায়, যেখানে জানানো হয় যে নির্বাহী স্তরে প্রযোজ্য নোটিশ কাল 42 দিন এবং সেই অনুযায়ী শেষ কর্মদিবস দাঁড়ায় 19 আগস্ট 2025।"
+ },
+ {
+  "subject": "scenario_one",
+  "aspect": "gap_days_proposed_vs_applicable",
+  "value": 19,
+  "unit": "দিন",
+  "section": "২৪.১",
+  "page": 63,
+  "evidence": "প্রস্তাবিত তারিখ ও প্রযোজ্য তারিখের মধ্যে 19 দিনের ব্যবধান থেকে যায়।"
+ },
+ {
+  "subject": "scenario_one",
+  "aspect": "client_matter_closure_date",
+  "value": 12,
+  "unit": "তারিখ (আগস্ট 2025)",
+  "section": "২৪.১",
+  "page": 63,
+  "evidence": "বিবেচনায় দেখা যায় সুতপার হাতে দুইটি চলমান গ্রাহক বিষয় রয়েছে, যার একটির নির্ধারিত সমাপ্তি 12 আগস্ট।"
+ },
+ {
+  "subject": "scenario_one",
+  "aspect": "approved_notice_waiver_days",
+  "value": 9,
+  "unit": "দিন",
+  "section": "২৪.১",
+  "page": 63,
+  "evidence": "মানবসম্পদ প্রধান 9 দিনের মকুব অনুমোদন করেন, ফলে সংশোধিত শেষ কর্মদিবস দাঁড়ায় 10 আগস্ট 2025।"
+ },
+ {
+  "subject": "scenario_one",
+  "aspect": "revised_last_working_day",
+  "value": 10,
+  "unit": "তারিখ (আগস্ট 2025)",
+  "section": "২৪.১",
+  "page": 63,
+  "evidence": "মানবসম্পদ প্রধান 9 দিনের মকুব অনুমোদন করেন, ফলে সংশোধিত শেষ কর্মদিবস দাঁড়ায় 10 আগস্ট 2025।"
+ },
+ {
+  "subject": "scenario_one",
+  "aspect": "proposed_notice_buyout_days",
+  "value": 10,
+  "unit": "দিন",
+  "section": "২৪.১",
+  "page": 64,
+  "evidence": "অবশিষ্ট 10 দিনের জন্য সুতপা নোটিশ ক্রয়ের প্রস্তাব দেন।"
+ },
+ {
+  "subject": "scenario_two",
+  "aspect": "absence_start_date",
+  "value": 5,
+  "unit": "তারিখ (মে 2025)",
+  "section": "২৪.২",
+  "page": 64,
+  "evidence": "তিনি 5 মে 2025 থেকে কর্মে অনুপস্থিত হন এবং কোনো ছুটির আবেদন জমা পড়েনি।"
+ },
+ {
+  "subject": "scenario_two",
+  "aspect": "phase_one_contact_date",
+  "value": 7,
+  "unit": "তারিখ (মে 2025)",
+  "section": "২৪.২",
+  "page": 64,
+  "evidence": "প্রথম পর্যায় অনুযায়ী তাঁর প্রত্যক্ষ ঊর্ধ্বতন 7 মে তাঁর নথিভুক্ত নম্বরে তিনবার যোগাযোগের চেষ্টা করেন; প্রতিবারই ফোন বন্ধ পাওয়া যায়।"
+ },
+ {
+  "subject": "scenario_two",
+  "aspect": "first_written_notice_date",
+  "value": 13,
+  "unit": "তারিখ (মে 2025)",
+  "section": "২৪.২",
+  "page": 64,
+  "evidence": "13 মে প্রস্থান শাখা প্রথম লিখিত জ্ঞাপন পাঠায় — নিবন্ধিত ডাকযোগে ও ব্যক্তিগত বৈদ্যুতিন ঠিকানায়।"
+ },
+ {
+  "subject": "scenario_two",
+  "aspect": "emergency_contact_date",
+  "value": 20,
+  "unit": "তারিখ (মে 2025)",
+  "section": "২৪.২",
+  "page": 64,
+  "evidence": "20 মে পর্যন্ত সাড়া না মেলায় তৃতীয় পর্যায় অনুযায়ী জরুরি যোগাযোগসূত্রে ফোন করা হয়।"
+ },
+ {
+  "subject": "scenario_two",
+  "aspect": "accident_date",
+  "value": 4,
+  "unit": "তারিখ (মে 2025)",
+  "section": "২৪.২",
+  "page": 64,
+  "evidence": "রফিকুলের ভগ্নিপতি জানান যে 4 মে সন্ধ্যায় একটি পথ দুর্ঘটনায় রফিকুল গুরুতর আহত হন এবং অন্য শহরের একটি হাসপাতালে ভর্তি আছেন; পরিবার প্রতিষ্ঠানকে জানানোর কথা ভাবেননি।"
+ },
+ {
+  "subject": "scenario_two",
+  "aspect": "rejoining_date",
+  "value": 18,
+  "unit": "তারিখ (আগস্ট 2025)",
+  "section": "২৪.২",
+  "page": 64,
+  "evidence": "অনুপস্থিত সময়কাল পরে চিকিৎসা প্রমাণপত্রের ভিত্তিতে নিয়মিতকরণ করা হয় এবং রফিকুল 18 আগস্ট কাজে ফিরে আসেন।"
+ },
+ {
+  "subject": "scenario_three",
+  "aspect": "candidate_a_score",
+  "value": 78,
+  "unit": "নম্বর",
+  "section": "২৪.৩",
+  "page": 65,
+  "evidence": "নির্ধারিত মাপকাঠি প্রয়োগ করে প্রাপ্ত নম্বর দাঁড়ায়: অর্ণব 78, মৌসুমী 71, প্রতীক 64।"
+ },
+ {
+  "subject": "scenario_three",
+  "aspect": "candidate_b_score",
+  "value": 71,
+  "unit": "নম্বর",
+  "section": "২৪.৩",
+  "page": 65,
+  "evidence": "নির্ধারিত মাপকাঠি প্রয়োগ করে প্রাপ্ত নম্বর দাঁড়ায়: অর্ণব 78, মৌসুমী 71, প্রতীক 64।"
+ },
+ {
+  "subject": "scenario_three",
+  "aspect": "candidate_c_initial_score",
+  "value": 64,
+  "unit": "নম্বর",
+  "section": "২৪.৩",
+  "page": 65,
+  "evidence": "নির্ধারিত মাপকাঠি প্রয়োগ করে প্রাপ্ত নম্বর দাঁড়ায়: অর্ণব 78, মৌসুমী 71, প্রতীক 64।"
+ },
+ {
+  "subject": "scenario_three",
+  "aspect": "candidate_c_revised_score",
+  "value": 67,
+  "unit": "নম্বর",
+  "section": "২৪.৩",
+  "page": 65,
+  "evidence": "সংশোধনের পর তাঁর নম্বর দাঁড়ায় 67, যা ক্রম পরিবর্তন করেনি, তবে যাচাইয়ের প্রয়োজনীয়তা প্রমাণ করেছে।"
+ },
+ {
+  "subject": "scenario_three",
+  "aspect": "redeployment_date",
+  "value": 1,
+  "unit": "তারিখ (অক্টোবর 2025)",
+  "section": "২৪.৩",
+  "page": 65,
+  "evidence": "প্রতীক 1 অক্টোবর 2025 থেকে নতুন ভূমিকায় স্থানান্তরিত হন এবং 6 সপ্তাহের একটি প্রশিক্ষণ কর্মসূচিতে যোগ দেন।"
+ },
+ {
+  "subject": "scenario_three",
+  "aspect": "training_programme_weeks",
+  "value": 6,
+  "unit": "সপ্তাহ",
+  "section": "২৪.৩",
+  "page": 65,
+  "evidence": "প্রতীক 1 অক্টোবর 2025 থেকে নতুন ভূমিকায় স্থানান্তরিত হন এবং 6 সপ্তাহের একটি প্রশিক্ষণ কর্মসূচিতে যোগ দেন।"
+ },
+ {
+  "subject": "scenario_four",
+  "aspect": "resignation_date",
+  "value": 12,
+  "unit": "তারিখ (জানুয়ারি 2026)",
+  "section": "২৪.৪",
+  "page": 66,
+  "evidence": "তিনি 12 জানুয়ারি 2026 তারিখে পদত্যাগ করেন এবং একটি প্রতিদ্বন্দ্বী প্রতিষ্ঠানে যোগ দেন।"
+ },
+ {
+  "subject": "scenario_four",
+  "aspect": "notice_days_served",
+  "value": 63,
+  "unit": "দিন",
+  "section": "২৪.৪",
+  "page": 66,
+  "evidence": "তাঁর নোটিশ কাল ছিল 63 দিন এবং তিনি তা সম্পূর্ণ পালন করেন।"
+ },
+ {
+  "subject": "scenario_four",
+  "aspect": "delay_months_before_flag_discovered",
+  "value": 9,
+  "unit": "মাস",
+  "section": "২৪.৪",
+  "page": 66,
+  "evidence": "জয়ন্ত বিষয়টি জানতে পারেন 9 মাস পরে, যখন একজন প্রাক্তন সহকর্মী তাঁকে একটি শূন্যপদের কথা জানান এবং তাঁর আবেদন প্রাথমিক পর্যায়েই বাতিল হয়ে যায়।"
+ },
+ {
+  "subject": "scenario_four",
+  "aspect": "appeal_resolution_working_days",
+  "value": 14,
+  "unit": "কার্যদিবস",
+  "section": "২৪.৪",
+  "page": 66,
+  "evidence": "তিনি 14 কার্যদিবসের মধ্যে সিদ্ধান্ত দেন: চিহ্নটি অবিলম্বে প্রত্যাহৃত, জয়ন্তকে লিখিতভাবে জানানো হবে যে তাঁর পুনর্নিয়োগযোগ্যতা অক্ষুণ্ণ, এবং তিনি ভবিষ্যতে যে কোনো শূন্যপদে আবেদন করতে পারবেন।"
+ },
+ {
+  "subject": "scenario_four",
+  "aspect": "flag_reaudit_lookback_years",
+  "value": 3,
+  "unit": "বছর",
+  "section": "২৪.৪",
+  "page": 66,
+  "evidence": "এবং প্রস্থান শাখাকে নির্দেশ দেওয়া হয় বিগত 3 বছরের সমস্ত অযোগ্য চিহ্ন পুনঃপরীক্ষা করে দেখতে যে প্রতিটির ভিত্তি বৈধ তালিকাভুক্ত কি না।"
+ },
+ {
+  "subject": "scenario_four",
+  "aspect": "additional_flags_withdrawn",
+  "value": 2,
+  "unit": "চিহ্ন",
+  "section": "২৪.৪",
+  "page": 66,
+  "evidence": "সেই পরীক্ষায় আরও 2টি চিহ্ন অবৈধ ভিত্তিতে বসানো বলে প্রমাণিত হয় এবং সেগুলিও প্রত্যাহৃত হয়।"
+ },
+ {
+  "subject": "policy_governance",
+  "aspect": "full_review_cycle_months",
+  "value": 36,
+  "unit": "মাস",
+  "section": "২৫.২",
+  "page": 67,
+  "evidence": "এই নির্দেশিকা প্রতি 36 মাসে পূর্ণাঙ্গভাবে পর্যালোচিত হবে।"
+ },
+ {
+  "subject": "policy_governance",
+  "aspect": "annual_audit_sample_exits",
+  "value": 18,
+  "unit": "প্রস্থান",
+  "section": "২৫.৩",
+  "page": 67,
+  "evidence": "অভ্যন্তরীণ নিরীক্ষা প্রতি অর্থবর্ষে অন্তত 18টি সম্পন্ন প্রস্থান দৈবচয়নে পরীক্ষা করবে।"
+ },
+ {
+  "subject": "policy_governance",
+  "aspect": "min_sample_per_termination_class",
+  "value": 1,
+  "unit": "ঘটনা",
+  "section": "২৫.৩",
+  "page": 67,
+  "evidence": "নমুনায় প্রতিটি অবসান-শ্রেণি থেকে অন্তত 1টি ঘটনা অন্তর্ভুক্ত করতে হবে, যাতে বিরল শ্রেণিগুলিও পরীক্ষার আওতায় আসে।"
+ },
+ {
+  "subject": "policy_governance",
+  "aspect": "max_exception_duration_days",
+  "value": 45,
+  "unit": "দিন",
+  "section": "২৫.৪",
+  "page": 68,
+  "evidence": "কোনো ব্যতিক্রম 45 দিনের বেশি বলবৎ থাকবে না।"
+ },
+ {
+  "subject": "policy_governance",
+  "aspect": "amendment_comment_window_days",
+  "value": 20,
+  "unit": "দিন",
+  "section": "২৫.৫",
+  "page": 68,
+  "evidence": "প্রস্তাবিত সংশোধন খসড়া আকারে অন্তত 20 দিনের জন্য মন্তব্যের জন্য উন্মুক্ত থাকবে।"
+ },
+ {
+  "subject": "policy_governance",
+  "aspect": "previous_version_retention_years",
+  "value": 9,
+  "unit": "বছর",
+  "section": "২৫.৫",
+  "page": 69,
+  "evidence": "প্রতিটি সংশোধনের একটি সংস্করণ-নথি রাখা হবে, এবং পূর্ববর্তী সংস্করণগুলি 9 বছর সংরক্ষিত থাকবে।"
+ },
+ {
+  "subject": "policy_governance",
+  "aspect": "retraining_cycle_months",
+  "value": 24,
+  "unit": "মাস",
+  "section": "২৫.৬",
+  "page": 69,
+  "evidence": "প্রতিটি বিভাগীয় প্রধান ও প্রস্থান শাখার কর্মকর্তাকে প্রতি 24 মাসে একবার এই নির্দেশিকা সংক্রান্ত পুনঃপ্রশিক্ষণ নিতে হবে।"
+ },
+ {
+  "subject": "policy_governance",
+  "aspect": "material_amendment_advance_notice_days",
+  "value": 15,
+  "unit": "দিন",
+  "section": "২৫.৬",
+  "page": 69,
+  "evidence": "মৌলিক সংশোধন কার্যকর হওয়ার অন্তত 15 দিন আগে সমস্ত কর্মীকে পরিবর্তনের সারসংক্ষেপ পাঠাতে হবে।"
+ }
+]

@@ -1,0 +1,3082 @@
+[
+ {
+  "subject": "policy_objectives",
+  "aspect": "count",
+  "value": 6,
+  "section": "১.১",
+  "page": 2,
+  "evidence": "এই নির্দেশিকার উদ্দেশ্য ছয়টি।"
+ },
+ {
+  "subject": "scope_interns",
+  "aspect": "sections_applicable",
+  "value": "৭–১৭",
+  "section": "১.২",
+  "page": 3,
+  "evidence": "গ্রীষ্মকালীন প্রশিক্ষণার্থী ও ইন্টার্নদের বৃত্তি একটি অবিভাজিত মাসিক অঙ্ক হিসেবে পরিশোধিত হয়; তাঁদের ক্ষেত্রে ধারা ৫-এর উপাদান বিভাজন প্রযোজ্য নয়, তবে ধারা ৭ থেকে ধারা ১৭ পর্যন্ত বর্ণিত চক্র, কর্তন ও অভিযোগ প্রক্রিয়া সমভাবে প্রযোজ্য।"
+ },
+ {
+  "subject": "market_position",
+  "aspect": "general_percentile",
+  "value": 55,
+  "section": "৩.২",
+  "page": 7,
+  "evidence": "প্রতিষ্ঠান তুলনীয় বাজারের ৫৫তম শতমকে স্থির পারিশ্রমিকের লক্ষ্য স্থাপন করেছে।"
+ },
+ {
+  "subject": "market_position",
+  "aspect": "scarce_skill_percentile",
+  "value": 65,
+  "section": "৩.২",
+  "page": 7,
+  "evidence": "যে দক্ষতাগোষ্ঠীগুলিকে পারিশ্রমিক কমিটি *দুর্লভ* হিসেবে চিহ্নিত করেছে, সেগুলির জন্য লক্ষ্য ৬৫তম শতমক।"
+ },
+ {
+  "subject": "market_position",
+  "aspect": "support_role_percentile",
+  "value": 45,
+  "section": "৩.২",
+  "page": 7,
+  "evidence": "বিপরীতে সাধারণ প্রশাসনিক ও সহায়ক ভূমিকার জন্য লক্ষ্য ৪৫তম শতমক, কারণ এই ভূমিকাগুলিতে শ্রমের সরবরাহ পর্যাপ্ত এবং প্রতিস্থাপনের ব্যয় কম।"
+ },
+ {
+  "subject": "scarce_skill_list",
+  "aspect": "max_groups",
+  "value": 8,
+  "section": "৩.২",
+  "page": 7,
+  "evidence": "দুর্লভ হিসেবে চিহ্নিত দক্ষতাগোষ্ঠীর সংখ্যা কোনো সময়ে ৮টির বেশি হবে না এবং প্রতিটি চিহ্নায়ন ১৮ মাস পর স্বয়ংক্রিয়ভাবে অবসিত হয় যদি পারিশ্রমিক কমিটি তা পুনর্নবীকরণ না করে।"
+ },
+ {
+  "subject": "scarce_skill_list",
+  "aspect": "designation_expiry_months",
+  "value": 18,
+  "section": "৩.২",
+  "page": 7,
+  "evidence": "দুর্লভ হিসেবে চিহ্নিত দক্ষতাগোষ্ঠীর সংখ্যা কোনো সময়ে ৮টির বেশি হবে না এবং প্রতিটি চিহ্নায়ন ১৮ মাস পর স্বয়ংক্রিয়ভাবে অবসিত হয় যদি পারিশ্রমিক কমিটি তা পুনর্নবীকরণ না করে।"
+ },
+ {
+  "subject": "market_survey",
+  "aspect": "cycle_months",
+  "value": 24,
+  "section": "৩.৩",
+  "page": 7,
+  "evidence": "প্রতিষ্ঠান প্রতি ২৪ মাসে একবার আনুষ্ঠানিক বাজার সমীক্ষায় অংশ নেয়।"
+ },
+ {
+  "subject": "market_survey",
+  "aspect": "comparator_count",
+  "value": 32,
+  "section": "৩.৩",
+  "page": 7,
+  "evidence": "তুলনীয় সংস্থার ঝুড়িতে ৩২টি সংস্থা অন্তর্ভুক্ত, যাদের নির্বাচনের মাপকাঠি তিনটি: একই বা সন্নিহিত শিল্পক্ষেত্র; কর্মীসংখ্যায় প্রতিষ্ঠানের অর্ধেক থেকে তিনগুণের মধ্যে অবস্থান; এবং অন্তত দুটি অভিন্ন শহরে কার্যালয়ের উপস্থিতি।"
+ },
+ {
+  "subject": "market_survey",
+  "aspect": "comparator_size_range",
+  "value": "০.৫x–৩x",
+  "section": "৩.৩",
+  "page": 7,
+  "evidence": "তুলনীয় সংস্থার ঝুড়িতে ৩২টি সংস্থা অন্তর্ভুক্ত, যাদের নির্বাচনের মাপকাঠি তিনটি: একই বা সন্নিহিত শিল্পক্ষেত্র; কর্মীসংখ্যায় প্রতিষ্ঠানের অর্ধেক থেকে তিনগুণের মধ্যে অবস্থান; এবং অন্তত দুটি অভিন্ন শহরে কার্যালয়ের উপস্থিতি।"
+ },
+ {
+  "subject": "market_survey",
+  "aspect": "comparator_min_common_cities",
+  "value": 2,
+  "section": "৩.৩",
+  "page": 7,
+  "evidence": "তুলনীয় সংস্থার ঝুড়িতে ৩২টি সংস্থা অন্তর্ভুক্ত, যাদের নির্বাচনের মাপকাঠি তিনটি: একই বা সন্নিহিত শিল্পক্ষেত্র; কর্মীসংখ্যায় প্রতিষ্ঠানের অর্ধেক থেকে তিনগুণের মধ্যে অবস্থান; এবং অন্তত দুটি অভিন্ন শহরে কার্যালয়ের উপস্থিতি।"
+ },
+ {
+  "subject": "market_survey",
+  "aspect": "min_valid_data_points",
+  "value": 14,
+  "section": "৩.৩",
+  "page": 8,
+  "evidence": "কোনো পদের জন্য বাজার তথ্য ব্যবহারযোগ্য বলে গণ্য হবে কেবল তখনই যখন সেই পদে অন্তত ১৪টি বৈধ তথ্যবিন্দু পাওয়া যায়।"
+ },
+ {
+  "subject": "salary_bands",
+  "aspect": "revision_effective_date",
+  "value": "১ এপ্রিল",
+  "section": "৩.৩",
+  "page": 8,
+  "evidence": "সমীক্ষার ফলাফলের ভিত্তিতে পদস্তরের পরিসর পুনর্নির্ধারিত হয় এবং পুনর্নির্ধারিত পরিসর ১ এপ্রিল থেকে কার্যকর হয়।"
+ },
+ {
+  "subject": "pay_components",
+  "aspect": "max_cash_components",
+  "value": 9,
+  "section": "৩.১",
+  "page": 7,
+  "evidence": "সেই কারণে প্রতিষ্ঠান স্থির নগদ পারিশ্রমিককে সর্বাধিক নয়টি উপাদানে সীমিত রেখেছে এবং নতুন উপাদান সৃষ্টির জন্য পারিশ্রমিক কমিটির অনুমোদন আবশ্যক করেছে।"
+ },
+ {
+  "subject": "grade_structure",
+  "aspect": "number_of_grades",
+  "value": 8,
+  "section": "৪.১",
+  "page": 8,
+  "evidence": "প্রতিষ্ঠানের সমস্ত পদ আটটি স্তরে বিন্যস্ত।"
+ },
+ {
+  "subject": "grade_structure",
+  "aspect": "classification_criteria_count",
+  "value": 4,
+  "section": "৪.১",
+  "page": 8,
+  "evidence": "স্তর নির্ধারিত হয় পদের পরিধি, সিদ্ধান্তের স্বাধীনতা, তত্ত্বাবধানের বিস্তার এবং কার্যকরী বিশেষজ্ঞতার গভীরতা — এই চারটি মাপকাঠির ভিত্তিতে।"
+ },
+ {
+  "subject": "band_width",
+  "aspect": "grades_1_to_4_pct",
+  "value": 20,
+  "section": "৪.২",
+  "page": 9,
+  "evidence": "স্তর ১ থেকে স্তর ৪ পর্যন্ত পরিসরের বিস্তার মধ্যবিন্দুর যোগ-বিয়োগ ২০ শতাংশ।"
+ },
+ {
+  "subject": "band_width",
+  "aspect": "grades_5_to_8_pct",
+  "value": 25,
+  "section": "৪.২",
+  "page": 9,
+  "evidence": "স্তর ৫ থেকে স্তর ৮ পর্যন্ত বিস্তার যোগ-বিয়োগ ২৫ শতাংশ।"
+ },
+ {
+  "subject": "grade_midpoint_g১",
+  "aspect": "annual_midpoint_inr",
+  "value": "৩,০০,০০০",
+  "section": "৪.১",
+  "page": 8,
+  "evidence": "| স্তর ১ | সহায়ক ও কার্যনির্বাহী সহকারী | ₹৩,০০,০০০ |"
+ },
+ {
+  "subject": "grade_midpoint_g২",
+  "aspect": "annual_midpoint_inr",
+  "value": "৪,৫০,০০০",
+  "section": "৪.১",
+  "page": 8,
+  "evidence": "| স্তর ২ | সহযোগী | ₹৪,৫০,০০০ |"
+ },
+ {
+  "subject": "grade_midpoint_g৩",
+  "aspect": "annual_midpoint_inr",
+  "value": "৭,০০,০০০",
+  "section": "৪.১",
+  "page": 8,
+  "evidence": "| স্তর ৩ | নির্বাহী ও প্রকৌশলী | ₹৭,০০,০০০ |"
+ },
+ {
+  "subject": "grade_midpoint_g৪",
+  "aspect": "annual_midpoint_inr",
+  "value": "১১,০০,০০০",
+  "section": "৪.১",
+  "page": 8,
+  "evidence": "| স্তর ৪ | ঊর্ধ্বতন নির্বাহী ও ঊর্ধ্বতন প্রকৌশলী | ₹১১,০০,০০০ |"
+ },
+ {
+  "subject": "grade_midpoint_g৫",
+  "aspect": "annual_midpoint_inr",
+  "value": "১৭,০০,০০০",
+  "section": "৪.১",
+  "page": 8,
+  "evidence": "| স্তর ৫ | ব্যবস্থাপক ও প্রধান প্রকৌশলী | ₹১৭,০০,০০০ |"
+ },
+ {
+  "subject": "grade_midpoint_g৬",
+  "aspect": "annual_midpoint_inr",
+  "value": "২৬,০০,০০০",
+  "section": "৪.১",
+  "page": 8,
+  "evidence": "| স্তর ৬ | ঊর্ধ্বতন ব্যবস্থাপক ও স্থাপত্যবিদ | ₹২৬,০০,০০০ |"
+ },
+ {
+  "subject": "grade_midpoint_g৭",
+  "aspect": "annual_midpoint_inr",
+  "value": "৪০,০০,০০০",
+  "section": "৪.১",
+  "page": 8,
+  "evidence": "| স্তর ৭ | সহকারী উপাধ্যক্ষ ও বিভাগীয় প্রধান | ₹৪০,০০,০০০ |"
+ },
+ {
+  "subject": "grade_midpoint_g৮",
+  "aspect": "annual_midpoint_inr",
+  "value": "৬৪,০০,০০০",
+  "section": "৪.১",
+  "page": 8,
+  "evidence": "| স্তর ৮ | উপাধ্যক্ষ ও তদূর্ধ্ব | ₹৬৪,০০,০০০ |"
+ },
+ {
+  "subject": "salary_range_g1",
+  "aspect": "minimum_inr",
+  "value": "২,৪০,০০০",
+  "section": "৪.২",
+  "page": 9,
+  "evidence": "| স্তর ১ | ₹২,৪০,০০০ | ₹৩,০০,০০০ | ₹৩,৬০,০০০ |"
+ },
+ {
+  "subject": "salary_range_g1",
+  "aspect": "maximum_inr",
+  "value": "৩,৬০,০০০",
+  "section": "৪.২",
+  "page": 9,
+  "evidence": "| স্তর ১ | ₹২,৪০,০০০ | ₹৩,০০,০০০ | ₹৩,৬০,০০০ |"
+ },
+ {
+  "subject": "salary_range_g2",
+  "aspect": "minimum_inr",
+  "value": "৩,৬০,০০০",
+  "section": "৪.২",
+  "page": 9,
+  "evidence": "| স্তর ২ | ₹৩,৬০,০০০ | ₹৪,৫০,০০০ | ₹৫,৪০,০০০ |"
+ },
+ {
+  "subject": "salary_range_g2",
+  "aspect": "maximum_inr",
+  "value": "৫,৪০,০০০",
+  "section": "৪.২",
+  "page": 9,
+  "evidence": "| স্তর ২ | ₹৩,৬০,০০০ | ₹৪,৫০,০০০ | ₹৫,৪০,০০০ |"
+ },
+ {
+  "subject": "salary_range_g3",
+  "aspect": "minimum_inr",
+  "value": "৫,৬০,০০০",
+  "section": "৪.২",
+  "page": 9,
+  "evidence": "| স্তর ৩ | ₹৫,৬০,০০০ | ₹৭,০০,০০০ | ₹৮,৪০,০০০ |"
+ },
+ {
+  "subject": "salary_range_g3",
+  "aspect": "maximum_inr",
+  "value": "৮,৪০,০০০",
+  "section": "৪.২",
+  "page": 9,
+  "evidence": "| স্তর ৩ | ₹৫,৬০,০০০ | ₹৭,০০,০০০ | ₹৮,৪০,০০০ |"
+ },
+ {
+  "subject": "salary_range_g4",
+  "aspect": "minimum_inr",
+  "value": "৮,৮০,০০০",
+  "section": "৪.২",
+  "page": 9,
+  "evidence": "| স্তর ৪ | ₹৮,৮০,০০০ | ₹১১,০০,০০০ | ₹১৩,২০,০০০ |"
+ },
+ {
+  "subject": "salary_range_g4",
+  "aspect": "maximum_inr",
+  "value": "১৩,২০,০০০",
+  "section": "৪.২",
+  "page": 9,
+  "evidence": "| স্তর ৪ | ₹৮,৮০,০০০ | ₹১১,০০,০০০ | ₹১৩,২০,০০০ |"
+ },
+ {
+  "subject": "salary_range_g5",
+  "aspect": "minimum_inr",
+  "value": "১২,৭৫,০০০",
+  "section": "৪.২",
+  "page": 9,
+  "evidence": "| স্তর ৫ | ₹১২,৭৫,০০০ | ₹১৭,০০,০০০ | ₹২১,২৫,০০০ |"
+ },
+ {
+  "subject": "salary_range_g5",
+  "aspect": "maximum_inr",
+  "value": "২১,২৫,০০০",
+  "section": "৪.২",
+  "page": 9,
+  "evidence": "| স্তর ৫ | ₹১২,৭৫,০০০ | ₹১৭,০০,০০০ | ₹২১,২৫,০০০ |"
+ },
+ {
+  "subject": "salary_range_g6",
+  "aspect": "minimum_inr",
+  "value": "১৯,৫০,০০০",
+  "section": "৪.২",
+  "page": 9,
+  "evidence": "| স্তর ৬ | ₹১৯,৫০,০০০ | ₹২৬,০০,০০০ | ₹৩২,৫০,০০০ |"
+ },
+ {
+  "subject": "salary_range_g6",
+  "aspect": "maximum_inr",
+  "value": "৩২,৫০,০০০",
+  "section": "৪.২",
+  "page": 9,
+  "evidence": "| স্তর ৬ | ₹১৯,৫০,০০০ | ₹২৬,০০,০০০ | ₹৩২,৫০,০০০ |"
+ },
+ {
+  "subject": "salary_range_g7",
+  "aspect": "minimum_inr",
+  "value": "৩০,০০,০০০",
+  "section": "৪.২",
+  "page": 9,
+  "evidence": "| স্তর ৭ | ₹৩০,০০,০০০ | ₹৪০,০০,০০০ | ₹৫০,০০,০০০ |"
+ },
+ {
+  "subject": "salary_range_g7",
+  "aspect": "maximum_inr",
+  "value": "৫০,০০,০০০",
+  "section": "৪.২",
+  "page": 9,
+  "evidence": "| স্তর ৭ | ₹৩০,০০,০০০ | ₹৪০,০০,০০০ | ₹৫০,০০,০০০ |"
+ },
+ {
+  "subject": "salary_range_g8",
+  "aspect": "minimum_inr",
+  "value": "৪৮,০০,০০০",
+  "section": "৪.২",
+  "page": 9,
+  "evidence": "| স্তর ৮ | ₹৪৮,০০,০০০ | ₹৬৪,০০,০০০ | ₹৮০,০০,০০০ |"
+ },
+ {
+  "subject": "salary_range_g8",
+  "aspect": "maximum_inr",
+  "value": "৮০,০০,০০০",
+  "section": "৪.২",
+  "page": 9,
+  "evidence": "| স্তর ৮ | ₹৪৮,০০,০০০ | ₹৬৪,০০,০০০ | ₹৮০,০০,০০০ |"
+ },
+ {
+  "subject": "compa_ratio",
+  "aspect": "worked_value",
+  "value": 92.0,
+  "section": "৪.৩",
+  "page": 10,
+  "evidence": "উদাহরণস্বরূপ, স্তর ৪-এর একজন কর্মীর পারিশ্রমিক ₹১০,১২,০০০ হলে তাঁর অবস্থান অনুপাত ৯২.০।"
+ },
+ {
+  "subject": "compa_zone_entry",
+  "aspect": "range",
+  "value": "৮০–৯০",
+  "section": "৪.৩",
+  "page": 10,
+  "evidence": "প্রবেশ অঞ্চল, অনুপাত ৮০ থেকে ৯০।"
+ },
+ {
+  "subject": "compa_zone_development",
+  "aspect": "range",
+  "value": "৯০–১০০",
+  "section": "৪.৩",
+  "page": 10,
+  "evidence": "বিকাশ অঞ্চল, অনুপাত ৯০ থেকে ১০০।"
+ },
+ {
+  "subject": "compa_zone_maturity",
+  "aspect": "range",
+  "value": "১০০–১১০",
+  "section": "৪.৩",
+  "page": 10,
+  "evidence": "পূর্ণতা অঞ্চল, অনুপাত ১০০ থেকে ১১০।"
+ },
+ {
+  "subject": "compa_zone_expert",
+  "aspect": "range",
+  "value": "১১০–১২৫",
+  "section": "৪.৩",
+  "page": 10,
+  "evidence": "বিশেষজ্ঞ অঞ্চল, অনুপাত ১১০ থেকে ১২৫।"
+ },
+ {
+  "subject": "below_range_flag",
+  "aspect": "threshold",
+  "value": 80,
+  "section": "৪.৩",
+  "page": 10,
+  "evidence": "অনুপাত ৮০-এর নিচে হলে কর্মী *পরিসরের নিম্নে* অবস্থিত বলে চিহ্নিত হন।"
+ },
+ {
+  "subject": "above_range_flag",
+  "aspect": "threshold",
+  "value": 125,
+  "section": "৪.৩",
+  "page": 10,
+  "evidence": "অনুপাত ১২৫-এর ঊর্ধ্বে হলে কর্মী *পরিসরের ঊর্ধ্বে* অবস্থিত বলে চিহ্নিত হন।"
+ },
+ {
+  "subject": "new_hire_placement",
+  "aspect": "normal_zone",
+  "value": "৮৫–৯৫",
+  "section": "৪.৪",
+  "page": 11,
+  "evidence": "দ্বিতীয় নিয়ম: প্রস্তাবের স্বাভাবিক লক্ষ্য অঞ্চল অনুপাত ৮৫ থেকে ৯৫।"
+ },
+ {
+  "subject": "new_hire_placement",
+  "aspect": "hr_head_approval_zone",
+  "value": "৯৫–১০৫",
+  "section": "৪.৪",
+  "page": 11,
+  "evidence": "তৃতীয় নিয়ম: অনুপাত ৯৫ থেকে ১০৫-এর মধ্যে প্রস্তাব দিতে মানবসম্পদ প্রধানের লিখিত সম্মতি প্রয়োজন এবং সেই সম্মতির অনুরোধে প্রার্থীর কোন সুনির্দিষ্ট অভিজ্ঞতা বা দক্ষতা এই অবস্থানকে যুক্তিযুক্ত করে তা উল্লেখ করতে হবে।"
+ },
+ {
+  "subject": "new_hire_placement",
+  "aspect": "committee_approval_threshold",
+  "value": 105,
+  "section": "৪.৪",
+  "page": 11,
+  "evidence": "চতুর্থ নিয়ম: অনুপাত ১০৫-এর ঊর্ধ্বে কোনো প্রস্তাব কেবল পারিশ্রমিক কমিটির সম্মতিতে সম্ভব, এবং অর্থবর্ষে এই ধরনের ব্যতিক্রমের সংখ্যা মোট নিয়োগের ৫ শতাংশের বেশি হতে পারবে না।"
+ },
+ {
+  "subject": "new_hire_placement",
+  "aspect": "exception_cap_pct_of_hires",
+  "value": 5,
+  "section": "৪.৪",
+  "page": 11,
+  "evidence": "চতুর্থ নিয়ম: অনুপাত ১০৫-এর ঊর্ধ্বে কোনো প্রস্তাব কেবল পারিশ্রমিক কমিটির সম্মতিতে সম্ভব, এবং অর্থবর্ষে এই ধরনের ব্যতিক্রমের সংখ্যা মোট নিয়োগের ৫ শতাংশের বেশি হতে পারবে না।"
+ },
+ {
+  "subject": "equity_check",
+  "aspect": "median_deviation_points",
+  "value": 10,
+  "section": "৪.৪",
+  "page": 11,
+  "evidence": "প্রস্তাবিত অনুপাত সেই মধ্যকের চেয়ে ১০ বিন্দুর বেশি ঊর্ধ্বে হলে নিয়োগকারী ব্যবস্থাপককে লিখিতভাবে ব্যাখ্যা দিতে হবে।"
+ },
+ {
+  "subject": "basic_salary",
+  "aspect": "pct_of_monthly_fixed_g1_to_g6",
+  "value": 40,
+  "section": "৫.২",
+  "page": 12,
+  "evidence": "স্তর ১ থেকে স্তর ৬ পর্যন্ত এই হার ৪০ শতাংশ।"
+ },
+ {
+  "subject": "basic_salary",
+  "aspect": "pct_of_monthly_fixed_g7_g8",
+  "value": 35,
+  "section": "৫.২",
+  "page": 12,
+  "evidence": "স্তর ৭ ও স্তর ৮-এ হার ৩৫ শতাংশ।"
+ },
+ {
+  "subject": "basic_salary",
+  "aspect": "monthly_floor_inr",
+  "value": 15000,
+  "section": "৫.২",
+  "page": 12,
+  "evidence": "তবে একটি নিরঙ্কুশ মেঝে আছে: কোনো কর্মীর মাসিক মূল বেতন ₹১৫,০০০-এর কম হবে না।"
+ },
+ {
+  "subject": "dearness_allowance",
+  "aspect": "pct_of_basic",
+  "value": 12,
+  "section": "৫.৩",
+  "page": 12,
+  "evidence": "মহার্ঘ ভাতা মূল বেতনের ১২ শতাংশ হারে নির্ধারিত।"
+ },
+ {
+  "subject": "dearness_allowance",
+  "aspect": "revision_date",
+  "value": "১ জুলাই",
+  "section": "৫.৩",
+  "page": 13,
+  "evidence": "মহার্ঘ ভাতার হার প্রতি বছর ১ জুলাই অর্থ নিয়ন্ত্রক কর্তৃক পুনর্নির্ধারিত হয়, পূর্ববর্তী বারো মাসের ভোক্তামূল্য সূচকের গড় পরিবর্তনের ভিত্তিতে।"
+ },
+ {
+  "subject": "dearness_allowance",
+  "aspect": "rounding_points",
+  "value": 0.5,
+  "section": "৫.৩",
+  "page": 13,
+  "evidence": "একটি বৃত্তায়ন নিয়ম প্রযোজ্য: পুনর্নির্ধারিত হার নিকটতম ০.৫ শতাংশ বিন্দুতে বৃত্তায়িত হয়, এবং কোনো বছরে পরিবর্তন ৩ শতাংশ বিন্দুর বেশি হবে না।"
+ },
+ {
+  "subject": "dearness_allowance",
+  "aspect": "max_annual_change_points",
+  "value": 3,
+  "section": "৫.৩",
+  "page": 13,
+  "evidence": "একটি বৃত্তায়ন নিয়ম প্রযোজ্য: পুনর্নির্ধারিত হার নিকটতম ০.৫ শতাংশ বিন্দুতে বৃত্তায়িত হয়, এবং কোনো বছরে পরিবর্তন ৩ শতাংশ বিন্দুর বেশি হবে না।"
+ },
+ {
+  "subject": "house_rent_allowance",
+  "aspect": "metro_pct_of_basic_plus_da",
+  "value": 50,
+  "section": "৫.৪",
+  "page": 13,
+  "evidence": "মহানগর হার, ৫০ শতাংশ।"
+ },
+ {
+  "subject": "house_rent_allowance",
+  "aspect": "non_metro_pct_of_basic_plus_da",
+  "value": 40,
+  "section": "৫.৪",
+  "page": 13,
+  "evidence": "অ-মহানগর হার, ৪০ শতাংশ।"
+ },
+ {
+  "subject": "house_rent_allowance",
+  "aspect": "rate_change_effective",
+  "value": "পরবর্তী মাসের ১ তারিখ",
+  "section": "৫.৪",
+  "page": 13,
+  "evidence": "কর্মস্থল পরিবর্তিত হলে নতুন হার স্থানান্তরের পরবর্তী মাসের ১ তারিখ থেকে কার্যকর হয়।"
+ },
+ {
+  "subject": "transport_allowance",
+  "aspect": "monthly_inr_g1_to_g3",
+  "value": 2400,
+  "section": "৫.৫",
+  "page": 14,
+  "evidence": "স্তর ১ থেকে স্তর ৩ পর্যন্ত মাসিক ₹২,৪০০।"
+ },
+ {
+  "subject": "transport_allowance",
+  "aspect": "monthly_inr_g4_to_g6",
+  "value": 3600,
+  "section": "৫.৫",
+  "page": 14,
+  "evidence": "স্তর ৪ থেকে স্তর ৬ পর্যন্ত মাসিক ₹৩,৬০০।"
+ },
+ {
+  "subject": "transport_allowance",
+  "aspect": "monthly_inr_g7_g8",
+  "value": 5000,
+  "section": "৫.৫",
+  "page": 14,
+  "evidence": "স্তর ৭ ও স্তর ৮-এ মাসিক ₹৫,০০০।"
+ },
+ {
+  "subject": "transport_service",
+  "aspect": "deduction_pct_of_allowance",
+  "value": 60,
+  "section": "৫.৫",
+  "page": 14,
+  "evidence": "যে কর্মী প্রতিষ্ঠানের নিজস্ব পরিবহণ পরিষেবা ব্যবহার করেন, তাঁর ক্ষেত্রে পরিবহণ ভাতার ৬০ শতাংশ পরিষেবার ব্যয় বাবদ কর্তিত হয় এবং অবশিষ্ট ৪০ শতাংশ নগদে প্রদেয় থাকে।"
+ },
+ {
+  "subject": "transport_service",
+  "aspect": "enrolment_window_days",
+  "value": 7,
+  "section": "৫.৫",
+  "page": 14,
+  "evidence": "পরিবহণ পরিষেবায় নাম নথিভুক্তি বা প্রত্যাহার প্রতি ত্রৈমাসিকের প্রথম ৭ দিনের মধ্যে করতে হয় এবং তা সেই ত্রৈমাসিকের শুরু থেকে কার্যকর হয়।"
+ },
+ {
+  "subject": "food_allowance",
+  "aspect": "monthly_inr",
+  "value": 1650,
+  "section": "৫.৬",
+  "page": 14,
+  "evidence": "খাদ্য ভাতা মাসিক ₹১,৬৫০, যা একটি প্রমাণিত কর্মদিবস-ভিত্তিক অনুমান — প্রতি কর্মদিবসে ₹৭৫ হারে মাসে গড়ে ২২ কর্মদিবসের হিসাব।"
+ },
+ {
+  "subject": "education_allowance",
+  "aspect": "monthly_inr_per_child",
+  "value": 200,
+  "section": "৫.৬",
+  "page": 14,
+  "evidence": "সন্তানের শিক্ষা ভাতা প্রতি সন্তানে মাসিক ₹২০০, সর্বাধিক দুই সন্তানের জন্য।"
+ },
+ {
+  "subject": "education_allowance",
+  "aspect": "max_children",
+  "value": 2,
+  "section": "৫.৬",
+  "page": 14,
+  "evidence": "সন্তানের শিক্ষা ভাতা প্রতি সন্তানে মাসিক ₹২০০, সর্বাধিক দুই সন্তানের জন্য।"
+ },
+ {
+  "subject": "education_allowance",
+  "aspect": "renewal_deadline",
+  "value": "৩০ জুন",
+  "section": "৫.৬",
+  "page": 14,
+  "evidence": "এই ভাতা পেতে হলে কর্মীকে সন্তানের জন্মতারিখ ও শিক্ষাপ্রতিষ্ঠানে ভর্তির প্রমাণ মানবসম্পদ পরিচালন শাখায় জমা দিতে হবে এবং প্রতি অর্থবর্ষে ৩০ জুনের মধ্যে তা নবীকরণ করতে হবে।"
+ },
+ {
+  "subject": "education_allowance",
+  "aspect": "child_age_limit_years",
+  "value": 23,
+  "section": "৫.৬",
+  "page": 14,
+  "evidence": "সন্তানের বয়স ২৩ বছর অতিক্রম করলে বা পূর্ণকালীন শিক্ষা সমাপ্ত হলে এই ভাতা বন্ধ হয়।"
+ },
+ {
+  "subject": "education_allowance",
+  "aspect": "change_notification_days",
+  "value": 15,
+  "section": "৫.৬",
+  "page": 14,
+  "evidence": "কর্মীর দায়িত্ব এই পরিবর্তন ১৫ দিনের মধ্যে জানানো; না জানালে অতিরিক্ত প্রদত্ত অঙ্ক ধারা ১৫ অনুসারে পুনরুদ্ধারযোগ্য।"
+ },
+ {
+  "subject": "special_allowance",
+  "aspect": "max_pct_of_monthly_fixed",
+  "value": 30,
+  "section": "৫.৭",
+  "page": 15,
+  "evidence": "একটি সীমারেখা প্রযোজ্য: বিশেষ ভাতা মাসিক স্থির পারিশ্রমিকের ৩০ শতাংশ অতিক্রম করতে পারবে না।"
+ },
+ {
+  "subject": "employer_pf",
+  "aspect": "pct_of_basic_plus_da",
+  "value": 12,
+  "section": "৫.৮",
+  "page": 15,
+  "evidence": "ভবিষ্য নিধিতে নিয়োগকর্তার অংশদান মূল বেতন ও মহার্ঘ ভাতার সমষ্টির ১২ শতাংশ।"
+ },
+ {
+  "subject": "pf_wage_ceiling",
+  "aspect": "monthly_inr",
+  "value": 20000,
+  "section": "৫.৮",
+  "page": 15,
+  "evidence": "তবে এই অংশদান গণনার জন্য প্রতিষ্ঠান একটি মজুরি-সীমা প্রয়োগ করে: মাসিক ₹২০,০০০ পর্যন্ত মূল ও মহার্ঘের সমষ্টির উপরই অংশদান গণিত হয়, যদি না কর্মী ধারা ১০.২ অনুসারে সম্পূর্ণ মজুরির উপর অংশদানের বিকল্প গ্রহণ করেন।"
+ },
+ {
+  "subject": "gratuity_provision",
+  "aspect": "pct_of_basic",
+  "value": 4.81,
+  "section": "৫.৮",
+  "page": 15,
+  "evidence": "উপদান সঞ্চিতি মূল বেতনের ৪.৮১ শতাংশ।"
+ },
+ {
+  "subject": "group_insurance",
+  "aspect": "annual_premium_inr",
+  "value": 1440,
+  "section": "৫.৮",
+  "page": 15,
+  "evidence": "গোষ্ঠী বিমা প্রিমিয়াম বার্ষিক ₹১,৪৪০, অর্থাৎ মাসিক ₹১২০।"
+ },
+ {
+  "subject": "guardrail_basic_plus_da",
+  "aspect": "min_pct_of_monthly_fixed",
+  "value": 44,
+  "section": "৫.৯",
+  "page": 16,
+  "evidence": "প্রথম সীমারেখা: মূল বেতন ও মহার্ঘ ভাতার সমষ্টি মাসিক স্থির পারিশ্রমিকের ৪৪ শতাংশের কম হবে না।"
+ },
+ {
+  "subject": "example1_g4",
+  "aspect": "total_annual_ctc_inr",
+  "value": 1200000,
+  "section": "৫.১০",
+  "page": 16,
+  "evidence": "ধরা যাক একজন কর্মী স্তর ৪-এ কলকাতা কার্যালয়ে নিযুক্ত, তাঁর মোট বার্ষিক পারিশ্রমিক ₹১২,০০,০০০, এবং তাঁর দুইটি সন্তান শিক্ষা ভাতার যোগ্য।"
+ },
+ {
+  "subject": "example1_g4",
+  "aspect": "variable_target_inr",
+  "value": 96000,
+  "section": "৫.১০",
+  "page": 16,
+  "evidence": "স্তর ৪-এ পরিবর্তনশীল পারিশ্রমিকের লক্ষ্যাঙ্ক মোট বার্ষিক পারিশ্রমিকের ৮ শতাংশ, অর্থাৎ ₹৯৬,০০০।"
+ },
+ {
+  "subject": "example1_g4",
+  "aspect": "monthly_fixed_inr",
+  "value": 92000,
+  "section": "৫.১০",
+  "page": 16,
+  "evidence": "সুতরাং স্থির বার্ষিক পারিশ্রমিক ₹১২,০০,০০০ − ₹৯৬,০০০ = ₹১১,০৪,০০০, এবং মাসিক স্থির পারিশ্রমিক ₹৯২,০০০।"
+ },
+ {
+  "subject": "example1_g4",
+  "aspect": "basic_inr",
+  "value": 36800,
+  "section": "৫.১০",
+  "page": 16,
+  "evidence": "মূল বেতন = ৯২,০০০ × ০.৪০ = ₹৩৬,৮০০।"
+ },
+ {
+  "subject": "example1_g4",
+  "aspect": "da_inr",
+  "value": 4416,
+  "section": "৫.১০",
+  "page": 16,
+  "evidence": "মহার্ঘ ভাতা = ৩৬,৮০০ × ০.১২ = ₹৪,৪১৬।"
+ },
+ {
+  "subject": "example1_g4",
+  "aspect": "hra_inr",
+  "value": 20608,
+  "section": "৫.১০",
+  "page": 16,
+  "evidence": "গৃহভাড়া ভাতা (কলকাতা, মহানগর হার) = ৪১,২১৬ × ০.৫০ = ₹২০,৬০৮।"
+ },
+ {
+  "subject": "example1_g4",
+  "aspect": "employer_pf_inr",
+  "value": 2400,
+  "section": "৫.১০",
+  "page": 16,
+  "evidence": "নিয়োগকর্তার ভবিষ্য নিধি অংশদান = ২০,০০০ × ০.১২ = ₹২,৪০০ (মজুরি-সীমা প্রযোজ্য, কারণ ৪১,২১৬ সীমা অতিক্রম করে)।"
+ },
+ {
+  "subject": "example1_g4",
+  "aspect": "gratuity_inr",
+  "value": 1770,
+  "section": "৫.১০",
+  "page": 16,
+  "evidence": "উপদান সঞ্চিতি = ৩৬,৮০০ × ০.০৪৮১ = ₹১,৭৭০ (নিকটতম টাকায় বৃত্তায়িত)।"
+ },
+ {
+  "subject": "example1_g4",
+  "aspect": "special_allowance_inr",
+  "value": 20236,
+  "section": "৫.১০",
+  "page": 17,
+  "evidence": "বিশেষ ভাতা = ৯২,০০০ − ৭১,৭৬৪ = ₹২০,২৩৬।"
+ },
+ {
+  "subject": "example1_g4",
+  "aspect": "gross_monthly_inr",
+  "value": 87710,
+  "section": "৫.১০",
+  "page": 17,
+  "evidence": "সুতরাং মোট প্রদেয় = ৯২,০০০ − ৪,২৯০ = ₹৮৭,৭১০।"
+ },
+ {
+  "subject": "example1_g4",
+  "aspect": "compa_ratio",
+  "value": 109.1,
+  "section": "৫.১০",
+  "page": 17,
+  "evidence": "এই কর্মীর অবস্থান অনুপাত = ১২,০০,০০০ ÷ ১১,০০,০০০ × ১০০ = ১০৯.১, অর্থাৎ তিনি পূর্ণতা অঞ্চলের উপরপ্রান্তে অবস্থিত।"
+ },
+ {
+  "subject": "variable_target",
+  "aspect": "pct_g3_g4",
+  "value": 8,
+  "section": "৬.২",
+  "page": 18,
+  "evidence": "| স্তর ৩ ও ৪ | ৮ শতাংশ |"
+ },
+ {
+  "subject": "variable_target",
+  "aspect": "pct_g5_g6",
+  "value": 15,
+  "section": "৬.২",
+  "page": 18,
+  "evidence": "| স্তর ৫ ও ৬ | ১৫ শতাংশ |"
+ },
+ {
+  "subject": "variable_target",
+  "aspect": "pct_g7",
+  "value": 25,
+  "section": "৬.২",
+  "page": 18,
+  "evidence": "| স্তর ৭ | ২৫ শতাংশ |"
+ },
+ {
+  "subject": "variable_target",
+  "aspect": "pct_g8",
+  "value": 35,
+  "section": "৬.২",
+  "page": 18,
+  "evidence": "| স্তর ৮ | ৩৫ শতাংশ |"
+ },
+ {
+  "subject": "variable_target",
+  "aspect": "g1_g2",
+  "value": "প্রযোজ্য নয়",
+  "section": "৬.২",
+  "page": 18,
+  "evidence": "| স্তর ১ ও ২ | প্রযোজ্য নয় |"
+ },
+ {
+  "subject": "scorecard_weight",
+  "aspect": "revenue_pct",
+  "value": 40,
+  "section": "৬.৩",
+  "page": 18,
+  "evidence": "প্রতিষ্ঠানের রাজস্ব লক্ষ্যপূরণ — ভার ৪০ শতাংশ।"
+ },
+ {
+  "subject": "scorecard_weight",
+  "aspect": "delivery_index_pct",
+  "value": 35,
+  "section": "৬.৩",
+  "page": 18,
+  "evidence": "বিভাগীয় বিতরণ-মান সূচক — ভার ৩৫ শতাংশ।"
+ },
+ {
+  "subject": "scorecard_weight",
+  "aspect": "customer_satisfaction_pct",
+  "value": 25,
+  "section": "৬.৩",
+  "page": 18,
+  "evidence": "গ্রাহক সন্তুষ্টি সূচক — ভার ২৫ শতাংশ।"
+ },
+ {
+  "subject": "customer_survey",
+  "aspect": "min_response_rate_pct",
+  "value": 40,
+  "section": "৬.৩",
+  "page": 18,
+  "evidence": "জরিপে অন্তত ৪০ শতাংশ সক্রিয় গ্রাহকের সাড়া না পেলে সেই ত্রৈমাসিকে এই সূচকের অর্জন ১০০ শতাংশ ধরা হয়, যাতে তথ্যের অভাব কর্মীর ক্ষতির কারণ না হয়।"
+ },
+ {
+  "subject": "scorecard_targets",
+  "aspect": "publication_deadline",
+  "value": "১৫ এপ্রিল",
+  "section": "৬.৩",
+  "page": 19,
+  "evidence": "তিনটি সূচকের লক্ষ্যমাত্রা প্রতি অর্থবর্ষের ১৫ এপ্রিলের মধ্যে প্রকাশিত হয় এবং সেই বছরের জন্য স্থির থাকে।"
+ },
+ {
+  "subject": "scorecard_targets",
+  "aspect": "midyear_revision_deadline",
+  "value": "৩১ অক্টোবর",
+  "section": "৬.৩",
+  "page": 19,
+  "evidence": "বছরের মধ্যভাগে একবার — সর্বাধিক একবার, এবং ৩১ অক্টোবরের মধ্যে — ব্যবস্থাপনা পরিচালকের অনুমোদনক্রমে লক্ষ্যমাত্রা সংশোধিত হতে পারে, যদি বাজার পরিস্থিতিতে এমন মৌলিক পরিবর্তন ঘটে যা মূল লক্ষ্যমাত্রাকে অর্থহীন করে দেয়।"
+ },
+ {
+  "subject": "payout_multiplier",
+  "aspect": "below_80_pct",
+  "value": 0,
+  "section": "৬.৪",
+  "page": 19,
+  "evidence": "| ৮০ শতাংশের নিচে | শূন্য |"
+ },
+ {
+  "subject": "payout_multiplier",
+  "aspect": "band_80_to_89_9",
+  "value": 50,
+  "section": "৬.৪",
+  "page": 19,
+  "evidence": "| ৮০.০ থেকে ৮৯.৯ শতাংশ | ৫০ শতাংশ |"
+ },
+ {
+  "subject": "payout_multiplier",
+  "aspect": "band_90_to_99_9",
+  "value": 80,
+  "section": "৬.৪",
+  "page": 19,
+  "evidence": "| ৯০.০ থেকে ৯৯.৯ শতাংশ | ৮০ শতাংশ |"
+ },
+ {
+  "subject": "payout_multiplier",
+  "aspect": "band_100_to_109_9",
+  "value": 100,
+  "section": "৬.৪",
+  "page": 19,
+  "evidence": "| ১০০.০ থেকে ১০৯.৯ শতাংশ | ১০০ শতাংশ |"
+ },
+ {
+  "subject": "payout_multiplier",
+  "aspect": "band_110_to_119_9",
+  "value": 120,
+  "section": "৬.৪",
+  "page": 19,
+  "evidence": "| ১১০.০ থেকে ১১৯.৯ শতাংশ | ১২০ শতাংশ |"
+ },
+ {
+  "subject": "payout_multiplier",
+  "aspect": "band_120_plus",
+  "value": 150,
+  "section": "৬.৪",
+  "page": 19,
+  "evidence": "| ১২০.০ শতাংশ ও তদূর্ধ্ব | ১৫০ শতাংশ |"
+ },
+ {
+  "subject": "boundary_exception",
+  "aspect": "tolerance_points",
+  "value": 0.5,
+  "section": "৬.৪",
+  "page": 19,
+  "evidence": "এই কঠোরতা কিছুটা লঘু করার জন্য একটি ব্যতিক্রম স্বীকৃত — যদি ভারিত অর্জন কোনো সীমানার ০.৫ শতাংশ বিন্দুর মধ্যে নিচে থাকে, তবে অর্থ নিয়ন্ত্রকের লিখিত অনুমোদনক্রমে উচ্চতর ধাপ প্রয়োগ করা যেতে পারে।"
+ },
+ {
+  "subject": "boundary_exception",
+  "aspect": "max_uses_per_unit_per_year",
+  "value": 1,
+  "section": "৬.৪",
+  "page": 19,
+  "evidence": "এই ব্যতিক্রম প্রতি ব্যবসায়িক এককে অর্থবর্ষে একবারের বেশি ব্যবহার করা যাবে না।"
+ },
+ {
+  "subject": "variable_pool",
+  "aspect": "annual_cap_pct_of_target",
+  "value": 110,
+  "section": "৬.৪",
+  "page": 19,
+  "evidence": "সমগ্র প্রতিষ্ঠানের ক্ষেত্রে একটি সামগ্রিক ঊর্ধ্বসীমাও প্রযোজ্য: কোনো অর্থবর্ষে মোট পরিবর্তনশীল পরিশোধ সমগ্র লক্ষ্যাঙ্ক-তহবিলের ১১০ শতাংশ অতিক্রম করবে না।"
+ },
+ {
+  "subject": "variable_eligibility",
+  "aspect": "min_days_in_quarter",
+  "value": 45,
+  "section": "৬.৫",
+  "page": 20,
+  "evidence": "দ্বিতীয় শর্ত: কর্মী সেই ত্রৈমাসিকে অন্তত ৪৫ দিন কর্মরত থাকবেন।"
+ },
+ {
+  "subject": "variable_certification",
+  "aspect": "days_after_quarter_end",
+  "value": 25,
+  "section": "৬.৬",
+  "page": 20,
+  "evidence": "ত্রৈমাসিকের ফলাফল অর্থ নিয়ন্ত্রক ত্রৈমাসিক সমাপ্তির ২৫ দিনের মধ্যে প্রত্যয়িত করেন।"
+ },
+ {
+  "subject": "variable_payout",
+  "aspect": "month",
+  "value": "দ্বিতীয় মাস",
+  "section": "৬.৬",
+  "page": 20,
+  "evidence": "পরিশোধ হয় ত্রৈমাসিক সমাপ্তির পরবর্তী দ্বিতীয় মাসের নিয়মিত পে-রোলের সঙ্গে।"
+ },
+ {
+  "subject": "example2_g5",
+  "aspect": "joining_date",
+  "value": "১২ মে ২০২৫",
+  "section": "৬.৭",
+  "page": 20,
+  "evidence": "একজন কর্মী স্তর ৫-এ ১২ মে ২০২৫ তারিখে যোগদান করেছেন।"
+ },
+ {
+  "subject": "example2_g5",
+  "aspect": "total_annual_ctc_inr",
+  "value": 1800000,
+  "section": "৬.৭",
+  "page": 20,
+  "evidence": "তাঁর মোট বার্ষিক পারিশ্রমিক ₹১৮,০০,০০০।"
+ },
+ {
+  "subject": "example2_g5",
+  "aspect": "annual_variable_target_inr",
+  "value": 270000,
+  "section": "৬.৭",
+  "page": 21,
+  "evidence": "স্তর ৫-এ লক্ষ্যাঙ্ক ১৫ শতাংশ, সুতরাং বার্ষিক লক্ষ্য = ১৮,০০,০০০ × ০.১৫ = ₹২,৭০,০০০।"
+ },
+ {
+  "subject": "example2_g5",
+  "aspect": "quarterly_target_inr",
+  "value": 67500,
+  "section": "৬.৭",
+  "page": 21,
+  "evidence": "ত্রৈমাসিক লক্ষ্য = ২,৭০,০০০ ÷ ৪ = ₹৬৭,৫০০।"
+ },
+ {
+  "subject": "example2_g5",
+  "aspect": "revenue_achievement_pct",
+  "value": 104,
+  "section": "৬.৭",
+  "page": 21,
+  "evidence": "এপ্রিল-জুন ২০২৫ ত্রৈমাসিকের প্রত্যয়িত ফলাফল: রাজস্ব লক্ষ্যপূরণ ১০৪ শতাংশ; বিতরণ-মান সূচক ৯৬ শতাংশ; গ্রাহক সন্তুষ্টি সূচক ১১২ শতাংশ।"
+ },
+ {
+  "subject": "example2_g5",
+  "aspect": "weighted_achievement_pct",
+  "value": 103.2,
+  "section": "৬.৭",
+  "page": 21,
+  "evidence": "= ৪১.৬ + ৩৩.৬ + ২৮.০ = ১০৩.২ শতাংশ।"
+ },
+ {
+  "subject": "example2_g5",
+  "aspect": "quarter_calendar_days",
+  "value": 91,
+  "section": "৬.৭",
+  "page": 21,
+  "evidence": "এপ্রিল-জুন ত্রৈমাসিকে মোট পঞ্জিকা দিন ৯১।"
+ },
+ {
+  "subject": "example2_g5",
+  "aspect": "eligible_days",
+  "value": 50,
+  "section": "৬.৭",
+  "page": 21,
+  "evidence": "কর্মী ১২ মে থেকে ৩০ জুন পর্যন্ত কর্মরত, অর্থাৎ মে মাসে ২০ দিন ও জুন মাসে ৩০ দিন, মোট ৫০ দিন।"
+ },
+ {
+  "subject": "example2_g5",
+  "aspect": "payout_inr",
+  "value": 37088,
+  "section": "৬.৭",
+  "page": 21,
+  "evidence": "প্রকৃত প্রাপ্য = ৬৭,৫০০ × ৫০ ÷ ৯১ = ₹৩৭,০৮৮ (নিকটতম টাকায় বৃত্তায়িত)।"
+ },
+ {
+  "subject": "example2_g5",
+  "aspect": "alternate_payout_at_99_8_inr",
+  "value": 29670,
+  "section": "৬.৭",
+  "page": 21,
+  "evidence": "লক্ষণীয়, যদি ভারিত অর্জন ৯৯.৮ শতাংশ হত, তবে গুণক দাঁড়াত ৮০ শতাংশ এবং প্রাপ্য হত ₹২৯,৬৭০ — মাত্র ৩.৪ শতাংশ বিন্দুর পার্থক্যে প্রায় এক-পঞ্চমাংশ হ্রাস।"
+ },
+ {
+  "subject": "data_cutoff",
+  "aspect": "day_of_month",
+  "value": 20,
+  "section": "৭.১",
+  "page": 22,
+  "evidence": "তথ্য কাট-অফ প্রতি মাসের ২০ তারিখ, সন্ধ্যা ৬টা।"
+ },
+ {
+  "subject": "attendance_draft_report",
+  "aspect": "day_of_month",
+  "value": 10,
+  "section": "৭.২",
+  "page": 23,
+  "evidence": "| ১০ | উপস্থিতির খসড়া প্রতিবেদন ব্যবস্থাপকদের কাছে প্রেরণ | পে-রোল বিশ্লেষক |"
+ },
+ {
+  "subject": "attendance_approval",
+  "aspect": "deadline_day",
+  "value": 15,
+  "section": "৭.২",
+  "page": 23,
+  "evidence": "| ১৫ | উপস্থিতি অনুমোদন ও বিচ্যুতি নিষ্পত্তির শেষ দিন | বিভাগীয় ব্যবস্থাপক |"
+ },
+ {
+  "subject": "statutory_declaration",
+  "aspect": "deadline_day",
+  "value": 18,
+  "section": "৭.২",
+  "page": 23,
+  "evidence": "| ১৮ | বিধিবদ্ধ ঘোষণা ও কর্তন নির্দেশের শেষ দিন | কর্মী |"
+ },
+ {
+  "subject": "payroll_run",
+  "aspect": "days",
+  "value": "২১–২২",
+  "section": "৭.২",
+  "page": 23,
+  "evidence": "| ২১-২২ | প্রথম পে-রোল চালন ও অভ্যন্তরীণ মিলকরণ | নির্মাতা |"
+ },
+ {
+  "subject": "payroll_verification",
+  "aspect": "day",
+  "value": 23,
+  "section": "৭.২",
+  "page": 23,
+  "evidence": "| ২৩ | স্বাধীন যাচাই ও বিচ্যুতি প্রতিবেদন প্রস্তুতি | পরীক্ষক |"
+ },
+ {
+  "subject": "payroll_approval",
+  "aspect": "day",
+  "value": 24,
+  "section": "৭.২",
+  "page": 23,
+  "evidence": "| ২৪ | যুগ্ম অনুমোদন | পে-রোল ব্যবস্থাপক ও অর্থ নিয়ন্ত্রক |"
+ },
+ {
+  "subject": "bank_remittance",
+  "aspect": "day",
+  "value": 25,
+  "section": "৭.২",
+  "page": 23,
+  "evidence": "| ২৫ | ব্যাংকে অর্থপ্রেরণ নির্দেশ দাখিল | কোষাগার শাখা |"
+ },
+ {
+  "subject": "payslip_publication",
+  "aspect": "day",
+  "value": 1,
+  "section": "৭.২",
+  "page": 23,
+  "evidence": "| পরবর্তী মাসের ১ | বেতন বিবরণী পোর্টালে প্রকাশ | পে-রোল বিশ্লেষক |"
+ },
+ {
+  "subject": "payroll_freeze",
+  "aspect": "period",
+  "value": "২১–২৪",
+  "section": "৭.২",
+  "page": 23,
+  "evidence": "পে-রোল স্থিতাবস্থা ২১ তারিখ থেকে ২৪ তারিখ পর্যন্ত বলবৎ থাকে।"
+ },
+ {
+  "subject": "salary_credit",
+  "aspect": "latest_date",
+  "value": "পরবর্তী মাসের ২ তারিখ",
+  "section": "৭.৩",
+  "page": 23,
+  "evidence": "প্রতিষ্ঠান অঙ্গীকার করে যে নিট বেতন প্রতিটি মাসের শেষ কার্যদিবসে কর্মীর হিসাবে জমা হবে, এবং কোনো পরিস্থিতিতেই পরবর্তী মাসের ২ তারিখের পরে নয়।"
+ },
+ {
+  "subject": "delay_compensation",
+  "aspect": "trigger_working_days",
+  "value": 3,
+  "section": "৭.৩",
+  "page": 24,
+  "evidence": "প্রতিষ্ঠানের ত্রুটির কারণে যদি জমা এই অঙ্গীকৃত সময়সীমার ৩ কার্যদিবসের বেশি বিলম্বিত হয়, তবে প্রতিষ্ঠান বিলম্বিত অঙ্কের উপর সপ্তাহপ্রতি ০.৫ শতাংশ হারে বিলম্ব ক্ষতিপূরণ পরিশোধ করবে, ন্যূনতম ₹২৫০।"
+ },
+ {
+  "subject": "delay_compensation",
+  "aspect": "weekly_rate_pct",
+  "value": 0.5,
+  "section": "৭.৩",
+  "page": 24,
+  "evidence": "প্রতিষ্ঠানের ত্রুটির কারণে যদি জমা এই অঙ্গীকৃত সময়সীমার ৩ কার্যদিবসের বেশি বিলম্বিত হয়, তবে প্রতিষ্ঠান বিলম্বিত অঙ্কের উপর সপ্তাহপ্রতি ০.৫ শতাংশ হারে বিলম্ব ক্ষতিপূরণ পরিশোধ করবে, ন্যূনতম ₹২৫০।"
+ },
+ {
+  "subject": "delay_compensation",
+  "aspect": "minimum_inr",
+  "value": 250,
+  "section": "৭.৩",
+  "page": 24,
+  "evidence": "প্রতিষ্ঠানের ত্রুটির কারণে যদি জমা এই অঙ্গীকৃত সময়সীমার ৩ কার্যদিবসের বেশি বিলম্বিত হয়, তবে প্রতিষ্ঠান বিলম্বিত অঙ্কের উপর সপ্তাহপ্রতি ০.৫ শতাংশ হারে বিলম্ব ক্ষতিপূরণ পরিশোধ করবে, ন্যূনতম ₹২৫০।"
+ },
+ {
+  "subject": "tds_deposit",
+  "aspect": "deadline_day",
+  "value": 5,
+  "section": "৭.৪",
+  "page": 24,
+  "evidence": "উৎসে কর্তিত কর: পরবর্তী মাসের ৫ তারিখ।"
+ },
+ {
+  "subject": "pf_deposit",
+  "aspect": "deadline_day",
+  "value": 12,
+  "section": "৭.৪",
+  "page": 24,
+  "evidence": "ভবিষ্য নিধির কর্মী ও নিয়োগকর্তা অংশ: পরবর্তী মাসের ১২ তারিখ।"
+ },
+ {
+  "subject": "esi_deposit",
+  "aspect": "deadline_day",
+  "value": 13,
+  "section": "৭.৪",
+  "page": 24,
+  "evidence": "রাজ্য বিমার অংশদান: পরবর্তী মাসের ১৩ তারিখ।"
+ },
+ {
+  "subject": "pt_deposit",
+  "aspect": "deadline_day",
+  "value": 18,
+  "section": "৭.৪",
+  "page": 24,
+  "evidence": "পেশা কর: পরবর্তী মাসের ১৮ তারিখ।"
+ },
+ {
+  "subject": "deposit_proof",
+  "aspect": "upload_working_days",
+  "value": 2,
+  "section": "৭.৪",
+  "page": 24,
+  "evidence": "প্রতিটি জমার প্রমাণপত্র কোষাগার শাখা জমার ২ কার্যদিবসের মধ্যে পে-রোল ব্যবস্থায় সংযুক্ত করে।"
+ },
+ {
+  "subject": "statutory_reconciliation_report",
+  "aspect": "deadline_day",
+  "value": 20,
+  "section": "৭.৪",
+  "page": 24,
+  "evidence": "মাসিক বিধিবদ্ধ মিলকরণ প্রতিবেদন অর্থ নিয়ন্ত্রকের কাছে পরবর্তী মাসের ২০ তারিখের মধ্যে উপস্থাপিত হয়।"
+ },
+ {
+  "subject": "attendance_marking",
+  "aspect": "reminder_after_working_days",
+  "value": 3,
+  "section": "৮.১",
+  "page": 25,
+  "evidence": "পরপর ৩ কার্যদিবস নথিভুক্তি না হলে ব্যবস্থা স্বয়ংক্রিয় স্মারক পাঠায়।"
+ },
+ {
+  "subject": "regularisation",
+  "aspect": "employee_window_working_days",
+  "value": 3,
+  "section": "৮.২",
+  "page": 25,
+  "evidence": "কর্মী বিচ্যুতি সম্পর্কে অবহিত হওয়ার ৩ কার্যদিবসের মধ্যে নিয়মিতকরণের আবেদন করতে পারেন, যাতে সেই দিনের প্রকৃত অবস্থা — কর্মস্থলের বাইরে দাপ্তরিক কাজ, প্রযুক্তিগত ব্যর্থতা, বা ছুটি — উল্লেখ থাকবে।"
+ },
+ {
+  "subject": "regularisation",
+  "aspect": "manager_decision_working_days",
+  "value": 2,
+  "section": "৮.২",
+  "page": 25,
+  "evidence": "ব্যবস্থাপক আবেদন প্রাপ্তির ২ কার্যদিবসের মধ্যে সিদ্ধান্ত জানাবেন।"
+ },
+ {
+  "subject": "regularisation",
+  "aspect": "annual_flag_threshold",
+  "value": 6,
+  "section": "৮.২",
+  "page": 25,
+  "evidence": "এক অর্থবর্ষে কোনো কর্মীর ৬টির বেশি নিয়মিতকরণ আবেদন থাকলে তা ব্যবস্থাপকের কাছে একটি পৃথক প্রতিবেদনে প্রদর্শিত হয়, যাতে অভ্যাসগত অনথিভুক্তি চিহ্নিত করা যায়।"
+ },
+ {
+  "subject": "half_day_absence",
+  "aspect": "day_value",
+  "value": 0.5,
+  "section": "৮.৩",
+  "page": 26,
+  "evidence": "অর্ধদিবস অনুপস্থিতি ০.৫ দিন হিসেবে গণিত হয়।"
+ },
+ {
+  "subject": "unapproved_absence",
+  "aspect": "notification_trigger_days",
+  "value": 3,
+  "section": "৮.৪",
+  "page": 26,
+  "evidence": "পরপর ৩ কার্যদিবস অননুমোদিত অনুপস্থিতি ঘটলে ব্যবস্থাপক ১ কার্যদিবসের মধ্যে মানবসম্পদ পরিচালন শাখাকে জানাবেন।"
+ },
+ {
+  "subject": "unapproved_absence",
+  "aspect": "salary_suspension_days",
+  "value": 8,
+  "section": "৮.৪",
+  "page": 26,
+  "evidence": "পরপর ৮ কার্যদিবস অননুমোদিত অনুপস্থিতির পর সেই কর্মীর বেতন পরবর্তী চালন থেকে স্থগিত রাখা হয়।"
+ },
+ {
+  "subject": "work_week",
+  "aspect": "days",
+  "value": 5,
+  "section": "৮.৫",
+  "page": 27,
+  "evidence": "প্রতিষ্ঠানের সাধারণ কর্মসপ্তাহ পাঁচ দিনের; শনিবার ও রবিবার সাপ্তাহিক ছুটি।"
+ },
+ {
+  "subject": "declared_holidays",
+  "aspect": "annual_count",
+  "value": 12,
+  "section": "৮.৫",
+  "page": 27,
+  "evidence": "অর্থবর্ষে ঘোষিত ছুটির সংখ্যা ১২, যার মধ্যে ৩টি কর্মীর নিজস্ব পছন্দে গ্রহণযোগ্য ঐচ্ছিক ছুটি।"
+ },
+ {
+  "subject": "declared_holidays",
+  "aspect": "optional_count",
+  "value": 3,
+  "section": "৮.৫",
+  "page": 27,
+  "evidence": "অর্থবর্ষে ঘোষিত ছুটির সংখ্যা ১২, যার মধ্যে ৩টি কর্মীর নিজস্ব পছন্দে গ্রহণযোগ্য ঐচ্ছিক ছুটি।"
+ },
+ {
+  "subject": "holiday_list",
+  "aspect": "publication_deadline",
+  "value": "১ মার্চ",
+  "section": "৮.৫",
+  "page": 27,
+  "evidence": "ঘোষিত ছুটির তালিকা প্রতি বছর ১ মার্চের মধ্যে প্রকাশিত হয়।"
+ },
+ {
+  "subject": "overtime_data",
+  "aspect": "submission_deadline_day",
+  "value": 18,
+  "section": "৮.৬",
+  "page": 27,
+  "evidence": "অনুমোদিত অতিরিক্ত সময়ের ঘণ্টাসংখ্যা এবং রাত্রিকালীন পালার দিনসংখ্যা সংশ্লিষ্ট ব্যবস্থাপক ১৮ তারিখের মধ্যে পে-রোল ব্যবস্থায় দাখিল করবেন।"
+ },
+ {
+  "subject": "overtime_claim",
+  "aspect": "lapse_months",
+  "value": 2,
+  "section": "৮.৬",
+  "page": 27,
+  "evidence": "কোনো মাসের অতিরিক্ত সময় পরপর দুই মাস দাখিল না হলে সেই দাবি তামাদি হয়ে যায় এবং তা পুনরুজ্জীবিত করতে অর্থ নিয়ন্ত্রকের অনুমোদন প্রয়োজন।"
+ },
+ {
+  "subject": "payroll_computation",
+  "aspect": "step_count",
+  "value": 11,
+  "section": "৯.১",
+  "page": 27,
+  "evidence": "প্রতিটি মাসে পে-রোল গণনা নিম্নলিখিত একাদশ ধাপে, এই নির্দিষ্ট ক্রমে সম্পাদিত হয়।"
+ },
+ {
+  "subject": "proration_basis",
+  "aspect": "method",
+  "value": "পঞ্জিকা দিন",
+  "section": "৯.২",
+  "page": 28,
+  "evidence": "আনুপাতিক গণনার ভিত্তি সেই মাসের প্রকৃত পঞ্জিকা দিনসংখ্যা — ২৮, ২৯, ৩০ বা ৩১, যেমনটি প্রযোজ্য।"
+ },
+ {
+  "subject": "lop_day_value",
+  "aspect": "february_pct",
+  "value": 3.57,
+  "section": "৯.২",
+  "page": 28,
+  "evidence": "ফেব্রুয়ারির ২৮ দিনের মাসে একদিনের কর্তন মাসিক প্রদেয়ের ৩.৫৭ শতাংশ, আর জানুয়ারির ৩১ দিনের মাসে ৩.২৩ শতাংশ।"
+ },
+ {
+  "subject": "lop_day_value",
+  "aspect": "january_pct",
+  "value": 3.23,
+  "section": "৯.২",
+  "page": 28,
+  "evidence": "ফেব্রুয়ারির ২৮ দিনের মাসে একদিনের কর্তন মাসিক প্রদেয়ের ৩.৫৭ শতাংশ, আর জানুয়ারির ৩১ দিনের মাসে ৩.২৩ শতাংশ।"
+ },
+ {
+  "subject": "daily_value",
+  "aspect": "decimal_places",
+  "value": 2,
+  "section": "৯.২",
+  "page": 29,
+  "evidence": "এই ভাগফল গণনার অভ্যন্তরে দুই দশমিক স্থান পর্যন্ত রক্ষিত হয় এবং কেবল চূড়ান্ত অঙ্কে বৃত্তায়িত হয়।"
+ },
+ {
+  "subject": "example3_g2",
+  "aspect": "joining_date",
+  "value": "১৮ সেপ্টেম্বর ২০২৫",
+  "section": "৯.৪",
+  "page": 29,
+  "evidence": "একজন কর্মী স্তর ২-এ ইন্দোর কার্যালয়ে ১৮ সেপ্টেম্বর ২০২৫ তারিখে যোগদান করেছেন।"
+ },
+ {
+  "subject": "example3_g2",
+  "aspect": "total_annual_ctc_inr",
+  "value": 480000,
+  "section": "৯.৪",
+  "page": 29,
+  "evidence": "তাঁর মোট বার্ষিক পারিশ্রমিক ₹৪,৮০,০০০ এবং তাঁর একটি সন্তান শিক্ষা ভাতার যোগ্য।"
+ },
+ {
+  "subject": "example3_g2",
+  "aspect": "monthly_fixed_inr",
+  "value": 40000,
+  "section": "৯.৪",
+  "page": 29,
+  "evidence": "স্তর ২-এ পরিবর্তনশীল পারিশ্রমিক প্রযোজ্য নয়, সুতরাং স্থির বার্ষিক পারিশ্রমিক সম্পূর্ণ ₹৪,৮০,০০০ এবং মাসিক স্থির পারিশ্রমিক ₹৪০,০০০।"
+ },
+ {
+  "subject": "example3_g2",
+  "aspect": "basic_inr",
+  "value": 16000,
+  "section": "৯.৪",
+  "page": 30,
+  "evidence": "মূল বেতন = ৪০,০০০ × ০.৪০ = ₹১৬,০০০।"
+ },
+ {
+  "subject": "example3_g2",
+  "aspect": "da_inr",
+  "value": 1920,
+  "section": "৯.৪",
+  "page": 30,
+  "evidence": "মহার্ঘ ভাতা = ১৬,০০০ × ০.১২ = ₹১,৯২০।"
+ },
+ {
+  "subject": "example3_g2",
+  "aspect": "hra_inr",
+  "value": 7168,
+  "section": "৯.৪",
+  "page": 30,
+  "evidence": "গৃহভাড়া ভাতা (ইন্দোর, অ-মহানগর হার) = ১৭,৯২০ × ০.৪০ = ₹৭,১৬৮।"
+ },
+ {
+  "subject": "example3_g2",
+  "aspect": "employer_pf_inr",
+  "value": 2150,
+  "section": "৯.৪",
+  "page": 30,
+  "evidence": "নিয়োগকর্তার ভবিষ্য নিধি অংশদান = ১৭,৯২০ × ০.১২ = ₹২,১৫০ (মজুরি-সীমা প্রযোজ্য নয়, কারণ ১৭,৯২০ সীমার নিচে)।"
+ },
+ {
+  "subject": "example3_g2",
+  "aspect": "gratuity_inr",
+  "value": 770,
+  "section": "৯.৪",
+  "page": 30,
+  "evidence": "উপদান সঞ্চিতি = ১৬,০০০ × ০.০৪৮১ = ₹৭৭০।"
+ },
+ {
+  "subject": "example3_g2",
+  "aspect": "special_allowance_inr",
+  "value": 7622,
+  "section": "৯.৪",
+  "page": 30,
+  "evidence": "সুতরাং বিশেষ ভাতা = ৪০,০০০ − ৩২,৩৭৮ = ₹৭,৬২২।"
+ },
+ {
+  "subject": "example3_g2",
+  "aspect": "full_month_gross_inr",
+  "value": 36960,
+  "section": "৯.৪",
+  "page": 30,
+  "evidence": "পূর্ণ মাসের মোট প্রদেয় = ৪০,০০০ − (২,১৫০ + ৭৭০ + ১২০) = ৪০,০০০ − ৩,০৪০ = ₹৩৬,৯৬০।"
+ },
+ {
+  "subject": "example3_g2",
+  "aspect": "payable_days",
+  "value": 13,
+  "section": "৯.৪",
+  "page": 30,
+  "evidence": "যোগদানের দিন ১৮ তারিখ অন্তর্ভুক্ত করে প্রদেয় দিবস = ৩০ − ১৭ = ১৩ দিন।"
+ },
+ {
+  "subject": "example3_g2",
+  "aspect": "daily_value_inr",
+  "value": 1232.0,
+  "section": "৯.৪",
+  "page": 30,
+  "evidence": "দৈনিক মূল্য = ৩৬,৯৬০ ÷ ৩০ = ₹১,২৩২.০০।"
+ },
+ {
+  "subject": "example3_g2",
+  "aspect": "prorated_gross_inr",
+  "value": 16016,
+  "section": "৯.৪",
+  "page": 30,
+  "evidence": "আনুপাতিক মোট প্রদেয় = ১,২৩২.০০ × ১৩ = ₹১৬,০১৬।"
+ },
+ {
+  "subject": "example3_g2",
+  "aspect": "employee_pf_inr",
+  "value": 932,
+  "section": "৯.৪",
+  "page": 30,
+  "evidence": "এর ১২ শতাংশ = ₹৯৩২।"
+ },
+ {
+  "subject": "example3_g2",
+  "aspect": "professional_tax_inr",
+  "value": 130,
+  "section": "৯.৪",
+  "page": 31,
+  "evidence": "পেশা কর — প্রকৃত প্রদেয় ₹১৬,০১৬ ধারা ১০.৪-এর তৃতীয় ধাপে পড়ে, সুতরাং ₹১৩০, আনুপাতিক হ্রাস ছাড়াই।"
+ },
+ {
+  "subject": "example3_g2",
+  "aspect": "net_pay_inr",
+  "value": 14954,
+  "section": "৯.৪",
+  "page": 31,
+  "evidence": "নিট প্রদেয় = ১৬,০১৬ − ৯৩২ − ১৩০ = ₹১৪,৯৫৪।"
+ },
+ {
+  "subject": "example4_g3",
+  "aspect": "total_annual_ctc_inr",
+  "value": 780000,
+  "section": "৯.৫",
+  "page": 31,
+  "evidence": "একজন কর্মী স্তর ৩-এ পুণে কার্যালয়ে কর্মরত, মোট বার্ষিক পারিশ্রমিক ₹৭,৮০,০০০, শিক্ষা ভাতার যোগ্য সন্তান নেই।"
+ },
+ {
+  "subject": "example4_g3",
+  "aspect": "lop_days",
+  "value": 2.5,
+  "section": "৯.৫",
+  "page": 31,
+  "evidence": "অক্টোবর ২০২৫ মাসে তাঁর ২.৫ দিন বেতনহীন অনুপস্থিতি নথিভুক্ত হয়েছে।"
+ },
+ {
+  "subject": "example4_g3",
+  "aspect": "monthly_fixed_inr",
+  "value": 59800,
+  "section": "৯.৫",
+  "page": 31,
+  "evidence": "স্থির বার্ষিক পারিশ্রমিক = ₹৭,১৭,৬০০, মাসিক = ₹৫৯,৮০০।"
+ },
+ {
+  "subject": "example4_g3",
+  "aspect": "component_breakdown",
+  "value": "মূল ২৩,৯২০",
+  "section": "৯.৫",
+  "page": 31,
+  "evidence": "উপাদানসমূহ: মূল বেতন ₹২৩,৯২০; মহার্ঘ ভাতা ₹২,৮৭০; সমষ্টি ₹২৬,৭৯০; গৃহভাড়া ভাতা (পুণে, মহানগর হার) ₹১৩,৩৯৫; পরিবহণ ভাতা ₹২,৪০০; খাদ্য ভাতা ₹১,৬৫০; নিয়োগকর্তার ভবিষ্য নিধি অংশদান ₹২,৪০০; উপদান সঞ্চিতি ₹১,১৫১; গোষ্ঠী বিমা ₹১২০।"
+ },
+ {
+  "subject": "example4_g3",
+  "aspect": "full_month_gross_inr",
+  "value": 56129,
+  "section": "৯.৫",
+  "page": 31,
+  "evidence": "পূর্ণ মাসের মোট প্রদেয় = ৫৯,৮০০ − (২,৪০০ + ১,১৫১ + ১২০) = ৫৯,৮০০ − ৩,৬৭১ = ₹৫৬,১২৯।"
+ },
+ {
+  "subject": "example4_g3",
+  "aspect": "payable_days",
+  "value": 28.5,
+  "section": "৯.৫",
+  "page": 31,
+  "evidence": "প্রদেয় দিবস = ৩১ − ২.৫ = ২৮.৫।"
+ },
+ {
+  "subject": "example4_g3",
+  "aspect": "daily_value_inr",
+  "value": 1810.61,
+  "section": "৯.৫",
+  "page": 31,
+  "evidence": "দৈনিক মূল্য = ৫৬,১২৯ ÷ ৩১ = ₹১,৮১০.৬১।"
+ },
+ {
+  "subject": "example4_g3",
+  "aspect": "lop_deduction_inr",
+  "value": 4527,
+  "section": "৯.৫",
+  "page": 31,
+  "evidence": "অনুপস্থিতির কর্তন = ১,৮১০.৬১ × ২.৫ = ₹৪,৫২৭ (নিকটতম টাকায়)।"
+ },
+ {
+  "subject": "example4_g3",
+  "aspect": "payable_gross_inr",
+  "value": 51602,
+  "section": "৯.৫",
+  "page": 31,
+  "evidence": "প্রদেয় মোট = ৫৬,১২৯ − ৪,৫২৭ = ₹৫১,৬০২।"
+ },
+ {
+  "subject": "example4_g3",
+  "aspect": "prorated_pf_ceiling_inr",
+  "value": 18387,
+  "section": "৯.৫",
+  "page": 32,
+  "evidence": "এই অঙ্ক মজুরি-সীমার ঊর্ধ্বে, এবং অনুপস্থিতির ক্ষেত্রে মজুরি-সীমাও আনুপাতিক হয়: ২০,০০০ × ২৮.৫ ÷ ৩১ = ₹১৮,৩৮৭।"
+ },
+ {
+  "subject": "example4_g3",
+  "aspect": "employee_pf_inr",
+  "value": 2206,
+  "section": "৯.৫",
+  "page": 32,
+  "evidence": "কর্মীর অংশ = ১৮,৩৮৭ × ০.১২ = ₹২,২০৬।"
+ },
+ {
+  "subject": "rounding",
+  "aspect": "components",
+  "value": "নিকটতম টাকা",
+  "section": "৯.৬",
+  "page": 32,
+  "evidence": "প্রতিটি পৃথক উপাদান নিকটতম টাকায় বৃত্তায়িত হয়; ০.৫০ ও তদূর্ধ্ব ভগ্নাংশ ঊর্ধ্বমুখী।"
+ },
+ {
+  "subject": "rounding",
+  "aspect": "esi",
+  "value": "ঊর্ধ্বমুখী",
+  "section": "৯.৬",
+  "page": 32,
+  "evidence": "রাজ্য বিমার অঙ্ক পরবর্তী পূর্ণ টাকায় ঊর্ধ্বমুখী বৃত্তায়িত, ভগ্নাংশ যত ক্ষুদ্রই হোক।"
+ },
+ {
+  "subject": "rounding",
+  "aspect": "tds_nearest_inr",
+  "value": 10,
+  "section": "৯.৬",
+  "page": 32,
+  "evidence": "উৎসে কর নিকটতম ১০ টাকায় বৃত্তায়িত।"
+ },
+ {
+  "subject": "negative_net_pay",
+  "aspect": "floor",
+  "value": 0,
+  "section": "৯.৭",
+  "page": 32,
+  "evidence": "কোনো মাসে কর্তনের যোগফল মোট প্রদেয় অতিক্রম করলে নিট প্রদেয় শূন্য নির্ধারিত হয় এবং অপূরিত কর্তন পরবর্তী মাসে স্থানান্তরিত হয়।"
+ },
+ {
+  "subject": "negative_net_pay",
+  "aspect": "notification_working_days",
+  "value": 2,
+  "section": "৯.৭",
+  "page": 32,
+  "evidence": "এই পরিস্থিতি দেখা দিলে পে-রোল ব্যবস্থাপক ২ কার্যদিবসের মধ্যে কর্মীকে লিখিতভাবে জানাবেন — কোন কর্তনগুলি স্থগিত হয়েছে, কী কারণে, এবং পরবর্তী মাসে কী অঙ্ক দাঁড়াবে।"
+ },
+ {
+  "subject": "employee_pf",
+  "aspect": "pct_of_basic_plus_da",
+  "value": 12,
+  "section": "১০.২",
+  "page": 33,
+  "evidence": "কর্মীর অংশ মূল বেতন ও মহার্ঘ ভাতার সমষ্টির ১২ শতাংশ।"
+ },
+ {
+  "subject": "pf_full_wage_option",
+  "aspect": "declaration_deadline",
+  "value": "৩০ এপ্রিল",
+  "section": "১০.২",
+  "page": 33,
+  "evidence": "এর জন্য লিখিত ঘোষণা প্রতি অর্থবর্ষের ৩০ এপ্রিলের মধ্যে, অথবা যোগদানের ১৫ দিনের মধ্যে দাখিল করতে হবে।"
+ },
+ {
+  "subject": "pf_full_wage_option",
+  "aspect": "new_joiner_window_days",
+  "value": 15,
+  "section": "১০.২",
+  "page": 33,
+  "evidence": "এর জন্য লিখিত ঘোষণা প্রতি অর্থবর্ষের ৩০ এপ্রিলের মধ্যে, অথবা যোগদানের ১৫ দিনের মধ্যে দাখিল করতে হবে।"
+ },
+ {
+  "subject": "pf_exemption_option",
+  "aspect": "window_days",
+  "value": 7,
+  "section": "১০.২",
+  "page": 34,
+  "evidence": "যে কর্মী প্রথমবার চাকরিতে যোগদান করছেন এবং যাঁর প্রারম্ভিক মূল ও মহার্ঘের সমষ্টি মজুরি-সীমা অতিক্রম করে, তিনি যোগদানের ৭ দিনের মধ্যে একবারের জন্য সদস্যপদ থেকে অব্যাহতির বিকল্প ব্যবহার করতে পারেন।"
+ },
+ {
+  "subject": "uan",
+  "aspect": "submission_days",
+  "value": 7,
+  "section": "১০.২",
+  "page": 34,
+  "evidence": "কর্মীকে যোগদানের ৭ দিনের মধ্যে তাঁর বিদ্যমান সর্বজনীন হিসাব সংখ্যা জানাতে হবে।"
+ },
+ {
+  "subject": "uan",
+  "aspect": "regularisation_days",
+  "value": 15,
+  "section": "১০.২",
+  "page": 34,
+  "evidence": "৩০ দিনের মধ্যে না জানালে কর্তন অব্যাহত থাকে কিন্তু জমা একটি অস্থায়ী ভুক্তিতে রক্ষিত হয়, এবং সংখ্যা প্রাপ্তির ১৫ দিনের মধ্যে তা নিয়মিত করা হয়।"
+ },
+ {
+  "subject": "esi",
+  "aspect": "eligibility_monthly_gross_inr",
+  "value": 21000,
+  "section": "১০.৩",
+  "page": 34,
+  "evidence": "রাজ্য বিমা প্রযোজ্য সেই কর্মীদের ক্ষেত্রে যাঁদের মাসিক মোট প্রদেয় ₹২১,০০০ বা তার কম।"
+ },
+ {
+  "subject": "esi",
+  "aspect": "employee_pct",
+  "value": 0.75,
+  "section": "১০.৩",
+  "page": 34,
+  "evidence": "কর্মীর অংশ মোট প্রদেয়ের ০.৭৫ শতাংশ; নিয়োগকর্তার অংশ ৩.২৫ শতাংশ।"
+ },
+ {
+  "subject": "esi",
+  "aspect": "employer_pct",
+  "value": 3.25,
+  "section": "১০.৩",
+  "page": 34,
+  "evidence": "কর্মীর অংশ মোট প্রদেয়ের ০.৭৫ শতাংশ; নিয়োগকর্তার অংশ ৩.২৫ শতাংশ।"
+ },
+ {
+  "subject": "esi_example",
+  "aspect": "gross_inr",
+  "value": 19800,
+  "section": "১০.৩",
+  "page": 34,
+  "evidence": "*ক্ষুদ্র উদাহরণ:* কোনো কর্মীর মাসিক মোট প্রদেয় ₹১৯,৮০০ হলে কর্মীর অংশ = ১৯,৮০০ × ০.০০৭৫ = ১৪৮.৫০, ঊর্ধ্বমুখী বৃত্তায়নে ₹১৪৯; নিয়োগকর্তার অংশ = ১৯,৮০০ × ০.০৩২৫ = ৬৪৩.৫০, বৃত্তায়নে ₹৬৪৪।"
+ },
+ {
+  "subject": "esi_example",
+  "aspect": "employee_share_inr",
+  "value": 149,
+  "section": "১০.৩",
+  "page": 34,
+  "evidence": "*ক্ষুদ্র উদাহরণ:* কোনো কর্মীর মাসিক মোট প্রদেয় ₹১৯,৮০০ হলে কর্মীর অংশ = ১৯,৮০০ × ০.০০৭৫ = ১৪৮.৫০, ঊর্ধ্বমুখী বৃত্তায়নে ₹১৪৯; নিয়োগকর্তার অংশ = ১৯,৮০০ × ০.০৩২৫ = ৬৪৩.৫০, বৃত্তায়নে ₹৬৪৪।"
+ },
+ {
+  "subject": "esi_example",
+  "aspect": "employer_share_inr",
+  "value": 644,
+  "section": "১০.৩",
+  "page": 34,
+  "evidence": "*ক্ষুদ্র উদাহরণ:* কোনো কর্মীর মাসিক মোট প্রদেয় ₹১৯,৮০০ হলে কর্মীর অংশ = ১৯,৮০০ × ০.০০৭৫ = ১৪৮.৫০, ঊর্ধ্বমুখী বৃত্তায়নে ₹১৪৯; নিয়োগকর্তার অংশ = ১৯,৮০০ × ০.০৩২৫ = ৬৪৩.৫০, বৃত্তায়নে ₹৬৪৪।"
+ },
+ {
+  "subject": "esi_contribution_period",
+  "aspect": "first",
+  "value": "১ এপ্রিল–৩০ সেপ্টেম্বর",
+  "section": "১০.৩",
+  "page": 34,
+  "evidence": "অর্থবর্ষ দুটি অংশদান-কালে বিভক্ত: ১ এপ্রিল থেকে ৩০ সেপ্টেম্বর, এবং ১ অক্টোবর থেকে ৩১ মার্চ।"
+ },
+ {
+  "subject": "professional_tax_wb",
+  "aspect": "slab_upto_10000",
+  "value": 0,
+  "section": "১০.৪",
+  "page": 35,
+  "evidence": "| ₹১০,০০০ পর্যন্ত | শূন্য |"
+ },
+ {
+  "subject": "professional_tax_wb",
+  "aspect": "slab_10001_15000_inr",
+  "value": 110,
+  "section": "১০.৪",
+  "page": 35,
+  "evidence": "| ₹১০,০০১ থেকে ₹১৫,০০০ | ₹১১০ |"
+ },
+ {
+  "subject": "professional_tax_wb",
+  "aspect": "slab_15001_25000_inr",
+  "value": 130,
+  "section": "১০.৪",
+  "page": 35,
+  "evidence": "| ₹১৫,০০১ থেকে ₹২৫,০০০ | ₹১৩০ |"
+ },
+ {
+  "subject": "professional_tax_wb",
+  "aspect": "slab_25001_40000_inr",
+  "value": 150,
+  "section": "১০.৪",
+  "page": 35,
+  "evidence": "| ₹২৫,০০১ থেকে ₹৪০,০০০ | ₹১৫০ |"
+ },
+ {
+  "subject": "professional_tax_wb",
+  "aspect": "slab_above_40000_inr",
+  "value": 200,
+  "section": "১০.৪",
+  "page": 35,
+  "evidence": "| ₹৪০,০০০-এর ঊর্ধ্বে | ₹২০০ |"
+ },
+ {
+  "subject": "professional_tax_mh",
+  "aspect": "slab_7501_25000_inr",
+  "value": 175,
+  "section": "১০.৪",
+  "page": 35,
+  "evidence": "মহারাষ্ট্রের কার্যালয়সমূহে প্রযোজ্য কাঠামো ভিন্ন: মাসিক মোট প্রদেয় ₹৭,৫০১ থেকে ₹২৫,০০০ হলে মাসিক ₹১৭৫; ₹২৫,০০০-এর ঊর্ধ্বে হলে মাসিক ₹২০০, তবে ফেব্রুয়ারি মাসে ₹৩০০।"
+ },
+ {
+  "subject": "professional_tax_mh",
+  "aspect": "february_inr",
+  "value": 300,
+  "section": "১০.৪",
+  "page": 35,
+  "evidence": "মহারাষ্ট্রের কার্যালয়সমূহে প্রযোজ্য কাঠামো ভিন্ন: মাসিক মোট প্রদেয় ₹৭,৫০১ থেকে ₹২৫,০০০ হলে মাসিক ₹১৭৫; ₹২৫,০০০-এর ঊর্ধ্বে হলে মাসিক ₹২০০, তবে ফেব্রুয়ারি মাসে ₹৩০০।"
+ },
+ {
+  "subject": "professional_tax_ka",
+  "aspect": "threshold_inr",
+  "value": 25000,
+  "section": "১০.৪",
+  "page": 35,
+  "evidence": "কর্ণাটকের কার্যালয়সমূহে মাসিক মোট প্রদেয় ₹২৫,০০০ বা তার বেশি হলে মাসিক ₹২০০; তার কম হলে শূন্য।"
+ },
+ {
+  "subject": "professional_tax",
+  "aspect": "proration",
+  "value": "প্রযোজ্য নয়",
+  "section": "১০.৪",
+  "page": 35,
+  "evidence": "পেশা কর কোনো অবস্থাতেই আনুপাতিক হয় না।"
+ },
+ {
+  "subject": "tax_regime_election",
+  "aspect": "deadline",
+  "value": "৩০ এপ্রিল",
+  "section": "১০.৫",
+  "page": 36,
+  "evidence": "নির্বাচনের শেষ তারিখ ৩০ এপ্রিল।"
+ },
+ {
+  "subject": "tax_regime_election",
+  "aspect": "default",
+  "value": "নতুন ব্যবস্থা",
+  "section": "১০.৫",
+  "page": 36,
+  "evidence": "নির্ধারিত সময়ে কোনো নির্বাচন না পেলে নতুন ব্যবস্থা প্রযোজ্য ধরা হয়।"
+ },
+ {
+  "subject": "investment_declaration",
+  "aspect": "deadline",
+  "value": "৩০ এপ্রিল",
+  "section": "১০.৫",
+  "page": 36,
+  "evidence": "পুরাতন ব্যবস্থা নির্বাচনকারী কর্মী তাঁর প্রস্তাবিত ছাড়যোগ্য বিনিয়োগ ও ব্যয়ের ঘোষণা ৩০ এপ্রিলের মধ্যে, অথবা যোগদানের ১৫ দিনের মধ্যে দাখিল করবেন।"
+ },
+ {
+  "subject": "investment_declaration",
+  "aspect": "revisions_per_year",
+  "value": 2,
+  "section": "১০.৫",
+  "page": 36,
+  "evidence": "ঘোষণা অর্থবর্ষে সর্বাধিক দুইবার সংশোধন করা যায় — জুলাই ও অক্টোবর মাসের ১ থেকে ১০ তারিখের মধ্যে খোলা দুটি জানালায়।"
+ },
+ {
+  "subject": "investment_declaration",
+  "aspect": "revision_windows",
+  "value": "১–১০ জুলাই ও অক্টোবর",
+  "section": "১০.৫",
+  "page": 36,
+  "evidence": "ঘোষণা অর্থবর্ষে সর্বাধিক দুইবার সংশোধন করা যায় — জুলাই ও অক্টোবর মাসের ১ থেকে ১০ তারিখের মধ্যে খোলা দুটি জানালায়।"
+ },
+ {
+  "subject": "investment_proof",
+  "aspect": "deadline",
+  "value": "১৫ জানুয়ারি",
+  "section": "১০.৫",
+  "page": 36,
+  "evidence": "ঘোষিত বিনিয়োগ ও ব্যয়ের প্রমাণ ১৫ জানুয়ারির মধ্যে দাখিল করতে হবে।"
+ },
+ {
+  "subject": "hra_exemption",
+  "aspect": "rent_receipt_threshold_inr",
+  "value": 8333,
+  "section": "১০.৫",
+  "page": 36,
+  "evidence": "গৃহভাড়া ভাতার ছাড় দাবি করতে হলে মাসিক ভাড়া ₹৮,৩৩৩ অতিক্রম করলে ভাড়ার রসিদ দাখিল আবশ্যক; বার্ষিক ভাড়া ₹১,০০,০০০ অতিক্রম করলে বাড়িওয়ালার স্থায়ী হিসাব সংখ্যাও দাখিল করতে হবে।"
+ },
+ {
+  "subject": "hra_exemption",
+  "aspect": "landlord_pan_threshold_inr",
+  "value": 100000,
+  "section": "১০.৫",
+  "page": 36,
+  "evidence": "গৃহভাড়া ভাতার ছাড় দাবি করতে হলে মাসিক ভাড়া ₹৮,৩৩৩ অতিক্রম করলে ভাড়ার রসিদ দাখিল আবশ্যক; বার্ষিক ভাড়া ₹১,০০,০০০ অতিক্রম করলে বাড়িওয়ালার স্থায়ী হিসাব সংখ্যাও দাখিল করতে হবে।"
+ },
+ {
+  "subject": "previous_employer_income",
+  "aspect": "submission_days",
+  "value": 30,
+  "section": "১০.৫",
+  "page": 36,
+  "evidence": "অর্থবর্ষের মধ্যপথে যোগদানকারী কর্মী তাঁর পূর্ববর্তী নিয়োগকর্তার কাছ থেকে প্রাপ্ত আয় ও কর্তিত করের বিবরণ যোগদানের ৩০ দিনের মধ্যে দাখিল করবেন।"
+ },
+ {
+  "subject": "example5_tds",
+  "aspect": "initial_annual_tax_inr",
+  "value": 108000,
+  "section": "১০.৬",
+  "page": 37,
+  "evidence": "একজন কর্মীর ক্ষেত্রে এপ্রিল ২০২৫-এ অনুমিত বার্ষিক কর নির্ণীত হয়েছিল ₹১,০৮,০০০।"
+ },
+ {
+  "subject": "example5_tds",
+  "aspect": "initial_monthly_inr",
+  "value": 9000,
+  "section": "১০.৬",
+  "page": 37,
+  "evidence": "বারো মাসে ভাগ করে মাসিক কর্তন দাঁড়ায় ₹৯,০০০।"
+ },
+ {
+  "subject": "example5_tds",
+  "aspect": "deducted_through_october_inr",
+  "value": 63000,
+  "section": "১০.৬",
+  "page": 37,
+  "evidence": "এপ্রিল থেকে অক্টোবর — সাত মাসে — কর্তিত হয়েছে ৭ × ৯,০০০ = ₹৬৩,০০০।"
+ },
+ {
+  "subject": "example5_tds",
+  "aspect": "revised_annual_tax_inr",
+  "value": 126000,
+  "section": "১০.৬",
+  "page": 37,
+  "evidence": "পুনর্গণনায় অনুমিত বার্ষিক কর দাঁড়িয়েছে ₹১,২৬,০০০।"
+ },
+ {
+  "subject": "example5_tds",
+  "aspect": "november_to_march_monthly_inr",
+  "value": 12600,
+  "section": "১০.৬",
+  "page": 37,
+  "evidence": "নভেম্বর থেকে মার্চ পর্যন্ত মাসিক কর্তন = ৬৩,০০০ ÷ ৫ = ₹১২,৬০০।"
+ },
+ {
+  "subject": "example5_tds",
+  "aspect": "unproven_amount_inr",
+  "value": 60000,
+  "section": "১০.৬",
+  "page": 37,
+  "evidence": "এরপর জানুয়ারি মাসে প্রমাণ দাখিলের সময় দেখা গেল, ঘোষিত ছাড়যোগ্য ব্যয়ের মধ্যে ₹৬০,০০০ অঙ্কের প্রমাণ কর্মী দাখিল করতে পারেননি।"
+ },
+ {
+  "subject": "example5_tds",
+  "aspect": "final_annual_tax_inr",
+  "value": 144000,
+  "section": "১০.৬",
+  "page": 37,
+  "evidence": "এর ফলে অনুমিত বার্ষিক কর আরও বেড়ে দাঁড়িয়েছে ₹১,৪৪,০০০।"
+ },
+ {
+  "subject": "example5_tds",
+  "aspect": "deducted_through_january_inr",
+  "value": 88200,
+  "section": "১০.৬",
+  "page": 37,
+  "evidence": "জানুয়ারি পর্যন্ত মোট কর্তিত = ৬৩,০০০ + (২ × ১২,৬০০) = ₹৮৮,২০০।"
+ },
+ {
+  "subject": "example5_tds",
+  "aspect": "feb_march_monthly_inr",
+  "value": 27900,
+  "section": "১০.৬",
+  "page": 37,
+  "evidence": "ফেব্রুয়ারি ও মার্চে মাসিক কর্তন = ৫৫,৮০০ ÷ ২ = ₹২৭,৯০০।"
+ },
+ {
+  "subject": "tds_reminders",
+  "aspect": "dates",
+  "value": "১ অক্টোবর, ১ ডিসেম্বর, ৫ জানুয়ারি",
+  "section": "১০.৬",
+  "page": 37,
+  "evidence": "প্রতিষ্ঠান সেই কারণেই ঘোষণা ও প্রমাণের সময়সীমা বারবার স্মরণ করিয়ে দেয় — অক্টোবরের ১ তারিখ, ডিসেম্বরের ১ তারিখ এবং জানুয়ারির ৫ তারিখে স্বয়ংক্রিয় স্মারক প্রেরিত হয়।"
+ },
+ {
+  "subject": "annual_tax_certificate",
+  "aspect": "issue_deadline",
+  "value": "১৫ জুন",
+  "section": "১০.৭",
+  "page": 38,
+  "evidence": "কর্তন ও জমার বার্ষিক শংসাপত্র প্রতিটি কর্মীকে অর্থবর্ষ সমাপ্তির পর ১৫ জুনের মধ্যে প্রদান করা হয়।"
+ },
+ {
+  "subject": "annual_tax_certificate",
+  "aspect": "discrepancy_deadline",
+  "value": "৩০ জুন",
+  "section": "১০.৭",
+  "page": 38,
+  "evidence": "শংসাপত্রে কোনো অসংগতি থাকলে কর্মী ৩০ জুনের মধ্যে জানাবেন; সংশোধিত শংসাপত্র ১৫ কার্যদিবসের মধ্যে প্রদত্ত হবে।"
+ },
+ {
+  "subject": "annual_tax_certificate",
+  "aspect": "correction_working_days",
+  "value": 15,
+  "section": "১০.৭",
+  "page": 38,
+  "evidence": "শংসাপত্রে কোনো অসংগতি থাকলে কর্মী ৩০ জুনের মধ্যে জানাবেন; সংশোধিত শংসাপত্র ১৫ কার্যদিবসের মধ্যে প্রদত্ত হবে।"
+ },
+ {
+  "subject": "vpf",
+  "aspect": "minimum_monthly_inr",
+  "value": 500,
+  "section": "১১.২",
+  "page": 38,
+  "evidence": "ন্যূনতম মাসিক অঙ্ক ₹৫০০, এবং তার ঊর্ধ্বে ₹১০০-এর গুণিতকে যেকোনো অঙ্ক।"
+ },
+ {
+  "subject": "vpf",
+  "aspect": "multiple_inr",
+  "value": 100,
+  "section": "১১.২",
+  "page": 38,
+  "evidence": "ন্যূনতম মাসিক অঙ্ক ₹৫০০, এবং তার ঊর্ধ্বে ₹১০০-এর গুণিতকে যেকোনো অঙ্ক।"
+ },
+ {
+  "subject": "vpf",
+  "aspect": "max_pct_of_basic_plus_da",
+  "value": 100,
+  "section": "১১.২",
+  "page": 38,
+  "evidence": "সর্বোচ্চ সীমা মূল বেতন ও মহার্ঘ ভাতার সমষ্টির ১০০ শতাংশ, বিধিবদ্ধ অংশ সহ।"
+ },
+ {
+  "subject": "vpf",
+  "aspect": "changes_per_year",
+  "value": 2,
+  "section": "১১.২",
+  "page": 38,
+  "evidence": "এই কর্তনের পরিমাণ পরিবর্তন বা প্রত্যাহার অর্থবর্ষে দুইবার সম্ভব — এপ্রিল ও অক্টোবর মাসের ১ থেকে ১০ তারিখের জানালায়।"
+ },
+ {
+  "subject": "parent_insurance",
+  "aspect": "annual_premium_upto_65_inr",
+  "value": 11400,
+  "section": "১১.৩",
+  "page": 39,
+  "evidence": "বার্ষিক প্রিমিয়াম দুই ধাপে নির্ধারিত: বয়স ৬৫ বছর পর্যন্ত হলে বার্ষিক ₹১১,৪০০, অর্থাৎ মাসিক কিস্তি ₹৯৫০; বয়স ৬৫ বছরের ঊর্ধ্বে হলে বার্ষিক ₹১৮,৬০০, অর্থাৎ মাসিক কিস্তি ₹১,৫৫০।"
+ },
+ {
+  "subject": "parent_insurance",
+  "aspect": "annual_premium_above_65_inr",
+  "value": 18600,
+  "section": "১১.৩",
+  "page": 39,
+  "evidence": "বার্ষিক প্রিমিয়াম দুই ধাপে নির্ধারিত: বয়স ৬৫ বছর পর্যন্ত হলে বার্ষিক ₹১১,৪০০, অর্থাৎ মাসিক কিস্তি ₹৯৫০; বয়স ৬৫ বছরের ঊর্ধ্বে হলে বার্ষিক ₹১৮,৬০০, অর্থাৎ মাসিক কিস্তি ₹১,৫৫০।"
+ },
+ {
+  "subject": "parent_insurance",
+  "aspect": "enrolment_window",
+  "value": "১–১৫ এপ্রিল",
+  "section": "১১.৩",
+  "page": 39,
+  "evidence": "নাম নথিভুক্তির জানালা প্রতি বছর ১ থেকে ১৫ এপ্রিল।"
+ },
+ {
+  "subject": "parent_insurance",
+  "aspect": "life_event_window_days",
+  "value": 30,
+  "section": "১১.৩",
+  "page": 39,
+  "evidence": "এই জানালার বাইরে নথিভুক্তি কেবল বিবাহ বা নতুন যোগদানের ক্ষেত্রে সম্ভব, সংশ্লিষ্ট ঘটনার ৩০ দিনের মধ্যে।"
+ },
+ {
+  "subject": "welfare_fund",
+  "aspect": "monthly_inr",
+  "value": 100,
+  "section": "১১.৪",
+  "page": 39,
+  "evidence": "কর্মী কল্যাণ নিধিতে চাঁদা।"
+ },
+ {
+  "subject": "welfare_fund",
+  "aspect": "opt_out_notice_days",
+  "value": 7,
+  "section": "১১.৪",
+  "page": 39,
+  "evidence": "চাঁদা সম্পূর্ণ ঐচ্ছিক এবং ৭ দিনের নোটিশে যেকোনো সময় বন্ধ করা যায়।"
+ },
+ {
+  "subject": "canteen_dues",
+  "aspect": "monthly_cap_inr",
+  "value": 3000,
+  "section": "১১.৪",
+  "page": 39,
+  "evidence": "মাসিক সর্বাধিক ₹৩,০০০ পর্যন্ত খাদ্যশালার প্রকৃত ব্যবহারভিত্তিক দেয় কর্তিত হতে পারে।"
+ },
+ {
+  "subject": "total_deductions",
+  "aspect": "cap_pct_of_gross",
+  "value": 50,
+  "section": "১১.৫",
+  "page": 39,
+  "evidence": "কোনো মাসে সমস্ত কর্তনের যোগফল সেই মাসের মোট প্রদেয়ের ৫০ শতাংশ অতিক্রম করবে না।"
+ },
+ {
+  "subject": "deduction_priority",
+  "aspect": "order",
+  "value": "৭ স্তর",
+  "section": "১১.৫",
+  "page": 40,
+  "evidence": "১. বিধিবদ্ধ কর্তন;"
+ },
+ {
+  "subject": "deduction_suspension",
+  "aspect": "notification_working_days",
+  "value": 2,
+  "section": "১১.৫",
+  "page": 40,
+  "evidence": "স্থগিতকরণের তথ্য কর্মীকে বেতন জমা হওয়ার ২ কার্যদিবসের মধ্যে জানানো হয়।"
+ },
+ {
+  "subject": "court_ordered_deduction",
+  "aspect": "verification_working_days",
+  "value": 3,
+  "section": "১১.৬",
+  "page": 40,
+  "evidence": "আইন শাখা নির্দেশের সত্যতা ও প্রয়োগযোগ্যতা ৩ কার্যদিবসের মধ্যে যাচাই করবে।"
+ },
+ {
+  "subject": "court_ordered_deduction",
+  "aspect": "employee_notification_working_days",
+  "value": 1,
+  "section": "১১.৬",
+  "page": 40,
+  "evidence": "যাচাই সম্পন্ন হলে কর্তন পরবর্তী পে-রোল চক্র থেকে কার্যকর হয় এবং কর্মীকে ১ কার্যদিবসের মধ্যে লিখিতভাবে জানানো হয়, নির্দেশের অনুলিপি সংযুক্ত করে।"
+ },
+ {
+  "subject": "payslip",
+  "aspect": "publication_day",
+  "value": 1,
+  "section": "১২.১",
+  "page": 40,
+  "evidence": "বেতন বিবরণী প্রতি মাসের ১ তারিখে কর্মী পোর্টালে প্রকাশিত হয় এবং একই সঙ্গে কর্মীর দাপ্তরিক ঠিকানায় একটি সূচনাবার্তা প্রেরিত হয়।"
+ },
+ {
+  "subject": "payslip",
+  "aspect": "password_length",
+  "value": 8,
+  "section": "১২.১",
+  "page": 40,
+  "evidence": "উন্মোচক শব্দ আটটি অক্ষরের: কর্মীর নামের প্রথম চারটি অক্ষর বড় হরফে, তারপর জন্মতারিখের দিন ও মাস চারটি অঙ্কে।"
+ },
+ {
+  "subject": "payslip",
+  "aspect": "online_retention_months",
+  "value": 36,
+  "section": "১২.১",
+  "page": 41,
+  "evidence": "বিবরণী পোর্টালে ৩৬ মাস পর্যন্ত সরাসরি উপলব্ধ থাকে।"
+ },
+ {
+  "subject": "payslip",
+  "aspect": "archive_retrieval_working_days",
+  "value": 3,
+  "section": "১২.১",
+  "page": 41,
+  "evidence": "তার পূর্ববর্তী বিবরণী সংরক্ষিত ভাণ্ডারে থাকে এবং অনুরোধের ৩ কার্যদিবসের মধ্যে সরবরাহ করা হয়।"
+ },
+ {
+  "subject": "payroll_records",
+  "aspect": "retention_months",
+  "value": 96,
+  "section": "১২.১",
+  "page": 41,
+  "evidence": "সমগ্র পে-রোল নথি ৯৬ মাস সংরক্ষিত থাকে।"
+ },
+ {
+  "subject": "payslip",
+  "aspect": "mandatory_fields",
+  "value": 18,
+  "section": "১২.২",
+  "page": 41,
+  "evidence": "প্রতিটি বিবরণীতে নিম্নলিখিত আঠারোটি ক্ষেত্র অবশ্যই থাকবে:"
+ },
+ {
+  "subject": "corrected_payslip",
+  "aspect": "reissue_working_days",
+  "value": 2,
+  "section": "১২.৪",
+  "page": 42,
+  "evidence": "কোনো বিবরণীতে ভুল স্বীকৃত হলে সংশোধিত বিবরণী স্বীকৃতির ২ কার্যদিবসের মধ্যে প্রকাশিত হয়।"
+ },
+ {
+  "subject": "salary_certificate",
+  "aspect": "issue_working_days",
+  "value": 3,
+  "section": "১২.৫",
+  "page": 42,
+  "evidence": "বেতন শংসাপত্র — অনুরোধের ৩ কার্যদিবসের মধ্যে।"
+ },
+ {
+  "subject": "address_certificate",
+  "aspect": "issue_working_days",
+  "value": 5,
+  "section": "১২.৫",
+  "page": 42,
+  "evidence": "ঠিকানা প্রত্যয়নপত্র — অনুরোধের ৫ কার্যদিবসের মধ্যে।"
+ },
+ {
+  "subject": "arrears",
+  "aspect": "source_count",
+  "value": 5,
+  "section": "১৩.১",
+  "page": 42,
+  "evidence": "প্রতিষ্ঠানে বকেয়ার পাঁচটি প্রধান উৎস চিহ্নিত।"
+ },
+ {
+  "subject": "retro_computation",
+  "aspect": "window_months",
+  "value": 6,
+  "section": "১৩.২",
+  "page": 43,
+  "evidence": "পে-রোল ব্যবস্থা পশ্চাৎমুখী গণনা সম্পাদন করে চলতি মাস থেকে পিছনের দিকে সর্বাধিক ৬ মাস পর্যন্ত।"
+ },
+ {
+  "subject": "arrears_claim",
+  "aspect": "limitation_months",
+  "value": 24,
+  "section": "১৩.২",
+  "page": 43,
+  "evidence": "২৪ মাসের অধিক পুরনো কোনো বকেয়ার দাবি স্বয়ংক্রিয়ভাবে গ্রাহ্য নয়।"
+ },
+ {
+  "subject": "arrears",
+  "aspect": "advance_sheet_threshold_inr",
+  "value": 10000,
+  "section": "১৩.৩",
+  "page": 43,
+  "evidence": "বকেয়ার অঙ্ক ₹১০,০০০ অতিক্রম করলে পে-রোল শাখা বেতন জমার আগেই কর্মীকে একটি বিস্তারিত গণনাপত্র পাঠায়, যাতে মাসভিত্তিক বিভাজন থাকে।"
+ },
+ {
+  "subject": "example6",
+  "aspect": "effective_date",
+  "value": "১ মে ২০২৫",
+  "section": "১৩.৪",
+  "page": 44,
+  "evidence": "তাঁর পদোন্নতি স্তর ৪-এ, নতুন মোট বার্ষিক পারিশ্রমিক ₹৯,৭৮,০০০, কার্যকর ১ মে ২০২৫ থেকে।"
+ },
+ {
+  "subject": "example6",
+  "aspect": "old_annual_ctc_inr",
+  "value": 750000,
+  "section": "১৩.৪",
+  "page": 44,
+  "evidence": "একজন কর্মী কলকাতা কার্যালয়ে স্তর ৩-এ কর্মরত ছিলেন, মোট বার্ষিক পারিশ্রমিক ₹৭,৫০,০০০।"
+ },
+ {
+  "subject": "example6",
+  "aspect": "new_annual_ctc_inr",
+  "value": 978000,
+  "section": "১৩.৪",
+  "page": 44,
+  "evidence": "তাঁর পদোন্নতি স্তর ৪-এ, নতুন মোট বার্ষিক পারিশ্রমিক ₹৯,৭৮,০০০, কার্যকর ১ মে ২০২৫ থেকে।"
+ },
+ {
+  "subject": "example6",
+  "aspect": "old_monthly_fixed_inr",
+  "value": 57500,
+  "section": "১৩.৪",
+  "page": 44,
+  "evidence": "পরিবর্তনশীল লক্ষ্যাঙ্ক ৮ শতাংশ = ₹৬০,০০০; স্থির বার্ষিক পারিশ্রমিক ₹৬,৯০,০০০; মাসিক ₹৫৭,৫০০।"
+ },
+ {
+  "subject": "example6",
+  "aspect": "old_gross_inr",
+  "value": 53874,
+  "section": "১৩.৪",
+  "page": 44,
+  "evidence": "মোট প্রদেয় = ৫৭,৫০০ − ৩,৬২৬ = ₹৫৩,৮৭৪।"
+ },
+ {
+  "subject": "example6",
+  "aspect": "new_monthly_fixed_inr",
+  "value": 74980,
+  "section": "১৩.৪",
+  "page": 44,
+  "evidence": "পরিবর্তনশীল লক্ষ্যাঙ্ক ৮ শতাংশ = ₹৭৮,২৪০; স্থির বার্ষিক পারিশ্রমিক ₹৮,৯৯,৭৬০; মাসিক ₹৭৪,৯৮০।"
+ },
+ {
+  "subject": "example6",
+  "aspect": "new_gross_inr",
+  "value": 71017,
+  "section": "১৩.৪",
+  "page": 44,
+  "evidence": "মোট প্রদেয় = ৭৪,৯৮০ − ৩,৯৬৩ = ₹৭১,০১৭।"
+ },
+ {
+  "subject": "example6",
+  "aspect": "monthly_difference_inr",
+  "value": 17143,
+  "section": "১৩.৪",
+  "page": 44,
+  "evidence": "মাসিক পার্থক্য = ৭১,০১৭ − ৫৩,৮৭৪ = ₹১৭,১৪৩।"
+ },
+ {
+  "subject": "example6",
+  "aspect": "three_month_arrears_inr",
+  "value": 51429,
+  "section": "১৩.৪",
+  "page": 44,
+  "evidence": "তিন মাসের বকেয়া = ১৭,১৪৩ × ৩ = ₹৫১,৪২৯।"
+ },
+ {
+  "subject": "arrears_tax_relief",
+  "aspect": "application_deadline",
+  "value": "৩১ ডিসেম্বর",
+  "section": "১৩.৫",
+  "page": 45,
+  "evidence": "আবেদন সংশ্লিষ্ট অর্থবর্ষের ৩১ ডিসেম্বরের মধ্যে দাখিল করতে হবে, প্রয়োজনীয় বিবরণী ও পূর্ববর্তী বছরের আয়ের তথ্যসহ।"
+ },
+ {
+  "subject": "arrears_tax_relief",
+  "aspect": "computation_working_days",
+  "value": 10,
+  "section": "১৩.৫",
+  "page": 45,
+  "evidence": "পে-রোল শাখা আবেদন প্রাপ্তির ১০ কার্যদিবসের মধ্যে গণনা সম্পন্ন করে ফল জানাবে।"
+ },
+ {
+  "subject": "negative_arrears",
+  "aspect": "direct_adjustment_cap_inr",
+  "value": 2000,
+  "section": "১৩.৬",
+  "page": 45,
+  "evidence": "₹২,০০০ পর্যন্ত ঋণাত্মক বকেয়া পরবর্তী মাসের বেতনে সরাসরি সমন্বিত হয় এবং বিবরণীতে পৃথক রেখায় দেখানো হয়; পূর্বানুমতির প্রয়োজন নেই, তবে সংশ্লিষ্ট মাসের বিবরণী প্রকাশের দিনেই কর্মীকে সূচনাবার্তা পাঠানো হয়।"
+ },
+ {
+  "subject": "off_cycle",
+  "aspect": "permitted_grounds",
+  "value": 5,
+  "section": "১৪.১",
+  "page": 46,
+  "evidence": "সেই কারণে চক্রবহির্ভূত অর্থপ্রদান কেবল নিম্নলিখিত পাঁচটি কারণেই অনুমোদিত।"
+ },
+ {
+  "subject": "off_cycle",
+  "aspect": "arrears_ground_threshold_inr",
+  "value": 25000,
+  "section": "১৪.১",
+  "page": 46,
+  "evidence": "₹২৫,০০০-এর অধিক বকেয়া, যেখানে পরবর্তী চক্রের অপেক্ষা কর্মীর পক্ষে প্রকৃত আর্থিক কষ্টের কারণ হবে।"
+ },
+ {
+  "subject": "off_cycle",
+  "aspect": "minimum_amount_inr",
+  "value": 5000,
+  "section": "১৪.২",
+  "page": 46,
+  "evidence": "চক্রবহির্ভূত অর্থপ্রদানের ন্যূনতম অঙ্ক ₹৫,০০০।"
+ },
+ {
+  "subject": "off_cycle_approval",
+  "aspect": "joint_band",
+  "value": "₹৫,০০০–₹১,০০,০০০",
+  "section": "১৪.২",
+  "page": 46,
+  "evidence": "₹৫,০০০ থেকে ₹১,০০,০০০ পর্যন্ত — পে-রোল ব্যবস্থাপক ও অর্থ নিয়ন্ত্রকের যুগ্ম অনুমোদন।"
+ },
+ {
+  "subject": "off_cycle_approval",
+  "aspect": "hr_head_threshold_inr",
+  "value": 100000,
+  "section": "১৪.২",
+  "page": 46,
+  "evidence": "₹১,০০,০০০-এর অধিক — উপরোক্ত দুইজনের সঙ্গে মানবসম্পদ প্রধানের অতিরিক্ত অনুমোদন।"
+ },
+ {
+  "subject": "off_cycle_approval",
+  "aspect": "md_threshold_inr",
+  "value": 500000,
+  "section": "১৪.২",
+  "page": 46,
+  "evidence": "₹৫,০০,০০০-এর অধিক — ব্যবস্থাপনা পরিচালকের অনুমোদন।"
+ },
+ {
+  "subject": "off_cycle_runs",
+  "aspect": "monthly_count",
+  "value": 4,
+  "section": "১৪.৩",
+  "page": 47,
+  "evidence": "চক্রবহির্ভূত চালন মাসে সর্বাধিক চারবার সম্পাদিত হয়, নির্দিষ্ট তারিখে: ৫, ১২, ১৮ ও ২৭ তারিখ।"
+ },
+ {
+  "subject": "off_cycle_runs",
+  "aspect": "dates",
+  "value": "৫, ১২, ১৮, ২৭",
+  "section": "১৪.৩",
+  "page": 47,
+  "evidence": "চক্রবহির্ভূত চালন মাসে সর্বাধিক চারবার সম্পাদিত হয়, নির্দিষ্ট তারিখে: ৫, ১২, ১৮ ও ২৭ তারিখ।"
+ },
+ {
+  "subject": "off_cycle",
+  "aspect": "max_wait_days",
+  "value": 9,
+  "section": "১৪.৩",
+  "page": 47,
+  "evidence": "চারটি নির্ধারিত তারিখে সমস্ত অনুরোধ একত্রিত করলে নিয়ন্ত্রণ অক্ষুণ্ণ থাকে এবং কোনো কর্মীকে ৯ দিনের বেশি অপেক্ষা করতে হয় না।"
+ },
+ {
+  "subject": "off_cycle",
+  "aspect": "execution_working_days",
+  "value": 3,
+  "section": "১৪.৩",
+  "page": 47,
+  "evidence": "অনুমোদিত অনুরোধ অনুমোদনের ৩ কার্যদিবসের মধ্যে অথবা পরবর্তী নির্ধারিত চালন-তারিখে — এই দুইয়ের মধ্যে যেটি পরে — সম্পাদিত হয়।"
+ },
+ {
+  "subject": "bank_rejection",
+  "aspect": "employee_resubmission_working_days",
+  "value": 1,
+  "section": "১৪.৪",
+  "page": 47,
+  "evidence": "কর্মী সংশোধিত হিসাব তথ্য ১ কার্যদিবসের মধ্যে দাখিল করবেন।"
+ },
+ {
+  "subject": "bank_rejection",
+  "aspect": "repayment_working_days",
+  "value": 2,
+  "section": "১৪.৪",
+  "page": 47,
+  "evidence": "সংশোধিত তথ্য প্রাপ্তির ২ কার্যদিবসের মধ্যে পুনঃপরিশোধ সম্পন্ন হবে।"
+ },
+ {
+  "subject": "off_cycle_register",
+  "aspect": "review_day",
+  "value": 10,
+  "section": "১৪.৫",
+  "page": 48,
+  "evidence": "অর্থ নিয়ন্ত্রক এই নিবন্ধ প্রতি মাসের ১০ তারিখে পর্যালোচনা করেন।"
+ },
+ {
+  "subject": "off_cycle_register",
+  "aspect": "rca_count_threshold",
+  "value": 15,
+  "section": "১৪.৫",
+  "page": 48,
+  "evidence": "কোনো একক মাসে চক্রবহির্ভূত অর্থপ্রদানের সংখ্যা ১৫ অতিক্রম করলে, অথবা মোট অঙ্ক সেই মাসের নিয়মিত পে-রোলের ১ শতাংশ অতিক্রম করলে, একটি মূল-কারণ বিশ্লেষণ বাধ্যতামূলক।"
+ },
+ {
+  "subject": "off_cycle_register",
+  "aspect": "rca_value_threshold_pct",
+  "value": 1,
+  "section": "১৪.৫",
+  "page": 48,
+  "evidence": "কোনো একক মাসে চক্রবহির্ভূত অর্থপ্রদানের সংখ্যা ১৫ অতিক্রম করলে, অথবা মোট অঙ্ক সেই মাসের নিয়মিত পে-রোলের ১ শতাংশ অতিক্রম করলে, একটি মূল-কারণ বিশ্লেষণ বাধ্যতামূলক।"
+ },
+ {
+  "subject": "overpayment",
+  "aspect": "class_count",
+  "value": 4,
+  "section": "১৫.১",
+  "page": 48,
+  "evidence": "অতিরিক্ত অর্থপ্রদান চারটি শ্রেণিতে বিভক্ত, এবং শ্রেণি অনুসারে প্রক্রিয়ায় সামান্য পার্থক্য আছে।"
+ },
+ {
+  "subject": "overpayment_notice",
+  "aspect": "issue_working_days",
+  "value": 5,
+  "section": "১৫.২",
+  "page": 48,
+  "evidence": "অতিরিক্ত পরিশোধ সনাক্ত হওয়ার ৫ কার্যদিবসের মধ্যে পে-রোল ব্যবস্থাপক কর্মীকে লিখিতভাবে অবহিত করবেন।"
+ },
+ {
+  "subject": "overpayment_notice",
+  "aspect": "content_items",
+  "value": 5,
+  "section": "১৫.২",
+  "page": 48,
+  "evidence": "অবহিতকরণ পত্রে পাঁচটি বিষয় থাকবে: অতিরিক্ত পরিশোধের মোট অঙ্ক; কোন মাস বা মাসগুলিতে তা ঘটেছে; কী কারণে ঘটেছে; প্রস্তাবিত কিস্তি-পরিকল্পনা; এবং আপত্তি জানানোর পদ্ধতি ও সময়সীমা।"
+ },
+ {
+  "subject": "overpayment_objection",
+  "aspect": "window_working_days",
+  "value": 7,
+  "section": "১৫.৩",
+  "page": 48,
+  "evidence": "কর্মী অবহিতকরণ প্রাপ্তির ৭ কার্যদিবসের মধ্যে লিখিত আপত্তি জানাতে পারেন।"
+ },
+ {
+  "subject": "overpayment_objection",
+  "aspect": "decision_working_days",
+  "value": 10,
+  "section": "১৫.৩",
+  "page": 49,
+  "evidence": "অর্থ নিয়ন্ত্রক আপত্তির নিষ্পত্তি ১০ কার্যদিবসের মধ্যে করবেন এবং সিদ্ধান্ত লিখিতভাবে জানাবেন।"
+ },
+ {
+  "subject": "overpayment_objection",
+  "aspect": "reconsideration_working_days",
+  "value": 5,
+  "section": "১৫.৩",
+  "page": 49,
+  "evidence": "আপত্তি খারিজ হলে কর্মী সিদ্ধান্ত জানার ৫ কার্যদিবসের মধ্যে মানবসম্পদ প্রধানের কাছে একবার পুনর্বিবেচনার আবেদন করতে পারেন; সেই সিদ্ধান্ত চূড়ান্ত।"
+ },
+ {
+  "subject": "recovery_installment",
+  "aspect": "max_pct_of_net",
+  "value": 20,
+  "section": "১৫.৪",
+  "page": 49,
+  "evidence": "মাসিক কিস্তি সেই মাসের নিট প্রদেয়ের ২০ শতাংশ অতিক্রম করবে না।"
+ },
+ {
+  "subject": "recovery",
+  "aspect": "max_months_normal",
+  "value": 10,
+  "section": "১৫.৪",
+  "page": 49,
+  "evidence": "পুনরুদ্ধারের সমগ্র মেয়াদ ১০ মাস অতিক্রম করবে না।"
+ },
+ {
+  "subject": "recovery",
+  "aspect": "max_months_with_approval",
+  "value": 18,
+  "section": "১৫.৪",
+  "page": 49,
+  "evidence": "বিশেষ ক্ষেত্রে অর্থ নিয়ন্ত্রকের অনুমোদনক্রমে মেয়াদ ১৮ মাস পর্যন্ত বাড়ানো যেতে পারে, যদি ২০ শতাংশের সীমা মেনে ১০ মাসে পুনরুদ্ধার সম্ভব না হয়।"
+ },
+ {
+  "subject": "recovery_class_a",
+  "aspect": "relief_pct_of_net",
+  "value": 10,
+  "section": "১৫.৪",
+  "page": 49,
+  "evidence": "শ্রেণি ক-এর ক্ষেত্রে একটি অতিরিক্ত শিথিলতা প্রযোজ্য: যেহেতু ত্রুটি সম্পূর্ণভাবে প্রতিষ্ঠানের, সেহেতু কর্মীর অনুরোধে মাসিক কিস্তি ১০ শতাংশে নামিয়ে আনা যায়, এবং সেক্ষেত্রে ১৮ মাসের সীমা স্বয়ংক্রিয়ভাবে প্রযোজ্য হয়।"
+ },
+ {
+  "subject": "example7",
+  "aspect": "overpaid_amount_inr",
+  "value": 48300,
+  "section": "১৫.৫",
+  "page": 49,
+  "evidence": "একজন কর্মীর ক্ষেত্রে ধরা পড়েছে যে চারটি মাসে একটি ভাতার হার ভুলভাবে প্রয়োগ হওয়ায় মোট ₹৪৮,৩০০ অতিরিক্ত পরিশোধিত হয়েছে।"
+ },
+ {
+  "subject": "example7",
+  "aspect": "net_pay_inr",
+  "value": 35500,
+  "section": "১৫.৫",
+  "page": 49,
+  "evidence": "কর্মীর মাসিক নিট প্রদেয় ₹৩৫,৫০০।"
+ },
+ {
+  "subject": "example7",
+  "aspect": "installment_cap_inr",
+  "value": 7100,
+  "section": "১৫.৫",
+  "page": 49,
+  "evidence": "মাসিক কিস্তির ঊর্ধ্বসীমা = ৩৫,৫০০ × ০.২০ = ₹৭,১০০।"
+ },
+ {
+  "subject": "example7",
+  "aspect": "final_installment_inr",
+  "value": 5700,
+  "section": "১৫.৫",
+  "page": 49,
+  "evidence": "সপ্তম মাসে অবশিষ্ট = ৪৮,৩০০ − ৪২,৬০০ = ₹৫,৭০০।"
+ },
+ {
+  "subject": "example7",
+  "aspect": "duration_months",
+  "value": 7,
+  "section": "১৫.৫",
+  "page": 49,
+  "evidence": "সুতরাং পুনরুদ্ধারের মেয়াদ ৭ মাস, যা ১০ মাসের সীমার মধ্যে।"
+ },
+ {
+  "subject": "example7",
+  "aspect": "relief_installment_inr",
+  "value": 3550,
+  "section": "১৫.৫",
+  "page": 50,
+  "evidence": "কর্মী যদি ধারা ১৫.৪-এর শিথিলতা দাবি করেন, তবে মাসিক কিস্তি হবে ₹৩,৫৫০ এবং মেয়াদ দাঁড়াবে ১৪ মাস — ১৩টি পূর্ণ কিস্তি ₹৩,৫৫০ করে, মোট ₹৪৬,১৫০, এবং চতুর্দশ মাসে অবশিষ্ট ₹২,১৫০।"
+ },
+ {
+  "subject": "recovery",
+  "aspect": "interest",
+  "value": 0,
+  "section": "১৫.৬",
+  "page": 50,
+  "evidence": "পুনরুদ্ধারযোগ্য অঙ্কের উপর কোনো সুদ আরোপিত হয় না, শ্রেণি নির্বিশেষে।"
+ },
+ {
+  "subject": "write_off",
+  "aspect": "payroll_manager_limit_inr",
+  "value": 500,
+  "section": "১৫.৬",
+  "page": 50,
+  "evidence": "₹৫০০ পর্যন্ত — পে-রোল ব্যবস্থাপক।"
+ },
+ {
+  "subject": "write_off",
+  "aspect": "finance_controller_band",
+  "value": "₹৫০১–₹৫,০০০",
+  "section": "১৫.৬",
+  "page": 50,
+  "evidence": "₹৫০১ থেকে ₹৫,০০০ — অর্থ নিয়ন্ত্রক।"
+ },
+ {
+  "subject": "write_off",
+  "aspect": "md_threshold_inr",
+  "value": 5000,
+  "section": "১৫.৬",
+  "page": 50,
+  "evidence": "₹৫,০০০-এর অধিক — ব্যবস্থাপনা পরিচালক।"
+ },
+ {
+  "subject": "write_off",
+  "aspect": "annual_cap_inr",
+  "value": 75000,
+  "section": "১৫.৬",
+  "page": 50,
+  "evidence": "কোনো অর্থবর্ষে সমষ্টিগত অবলোপন ₹৭৫,০০০ অতিক্রম করতে পারবে না।"
+ },
+ {
+  "subject": "recovery_handover",
+  "aspect": "working_days",
+  "value": 2,
+  "section": "১৫.৭",
+  "page": 50,
+  "evidence": "স্থানান্তরের সময় পে-রোল শাখা অবশিষ্ট অঙ্ক, কিস্তির ইতিহাস ও মূল অবহিতকরণ পত্রের অনুলিপি নিষ্পত্তি শাখাকে ২ কার্যদিবসের মধ্যে হস্তান্তর করবে।"
+ },
+ {
+  "subject": "grievance_logging",
+  "aspect": "working_hours",
+  "value": 4,
+  "section": "১৬.২",
+  "page": 51,
+  "evidence": "দূরভাষ বা বৈদ্যুতিন বার্তার মাধ্যমে প্রাপ্ত অভিযোগও গ্রহণযোগ্য, তবে গ্রহণকারী কর্মচারীকে তা ৪ কার্যঘণ্টার মধ্যে ব্যবস্থায় নথিভুক্ত করে সংখ্যা প্রদান করতে হবে।"
+ },
+ {
+  "subject": "grievance_acknowledgement",
+  "aspect": "working_hours",
+  "value": 4,
+  "section": "১৬.২",
+  "page": 51,
+  "evidence": "প্রতিটি অভিযোগের প্রাপ্তিস্বীকার স্বয়ংক্রিয়ভাবে ৪ কার্যঘণ্টার মধ্যে প্রেরিত হয়, যাতে অভিযোগের সংখ্যা ও প্রত্যাশিত নিষ্পত্তির তারিখ উল্লিখিত থাকে।"
+ },
+ {
+  "subject": "grievance_reclassification",
+  "aspect": "working_days",
+  "value": 1,
+  "section": "১৬.৩",
+  "page": 51,
+  "evidence": "শ্রেণি নির্ধারণ করেন পে-রোল সহায়তা কেন্দ্রের কর্মচারী, কর্মী নন; তবে কর্মী শ্রেণিকরণে দ্বিমত জানাতে পারেন এবং তা ১ কার্যদিবসের মধ্যে পুনর্বিবেচিত হয়।"
+ },
+ {
+  "subject": "grievance_class_a",
+  "aspect": "sla_working_days",
+  "value": 1,
+  "section": "১৬.৩",
+  "page": 51,
+  "evidence": "নিষ্পত্তির সময়সীমা ১ কার্যদিবস।"
+ },
+ {
+  "subject": "grievance_class_b",
+  "aspect": "threshold_pct",
+  "value": 5,
+  "section": "১৬.৩",
+  "page": 52,
+  "evidence": "প্রত্যাশিত নিট প্রদেয়ের সঙ্গে প্রকৃত অঙ্কের পার্থক্য ৫ শতাংশ বা তার অধিক।"
+ },
+ {
+  "subject": "grievance_class_b",
+  "aspect": "sla_working_days",
+  "value": 3,
+  "section": "১৬.৩",
+  "page": 52,
+  "evidence": "নিষ্পত্তির সময়সীমা ৩ কার্যদিবস।"
+ },
+ {
+  "subject": "grievance_class_c",
+  "aspect": "sla_working_days",
+  "value": 5,
+  "section": "১৬.৩",
+  "page": 52,
+  "evidence": "নিষ্পত্তির সময়সীমা ৫ কার্যদিবস।"
+ },
+ {
+  "subject": "grievance_class_d",
+  "aspect": "sla_working_days",
+  "value": 7,
+  "section": "১৬.৩",
+  "page": 52,
+  "evidence": "নিষ্পত্তির সময়সীমা ৭ কার্যদিবস।"
+ },
+ {
+  "subject": "grievance_tier2",
+  "aspect": "sla_working_days",
+  "value": 7,
+  "section": "১৬.৪",
+  "page": 52,
+  "evidence": "দ্বিতীয় স্তরে নিষ্পত্তির সময়সীমা অতিরিক্ত ৭ কার্যদিবস।"
+ },
+ {
+  "subject": "grievance_tier3",
+  "aspect": "sla_working_days",
+  "value": 10,
+  "section": "১৬.৪",
+  "page": 52,
+  "evidence": "সময়সীমা অতিরিক্ত ১০ কার্যদিবস।"
+ },
+ {
+  "subject": "grievance",
+  "aspect": "total_cap_working_days",
+  "value": 25,
+  "section": "১৬.৪",
+  "page": 52,
+  "evidence": "দাখিল থেকে চূড়ান্ত নিষ্পত্তি পর্যন্ত সমগ্র সময় কোনো অবস্থাতেই ২৫ কার্যদিবস অতিক্রম করবে না।"
+ },
+ {
+  "subject": "grievance",
+  "aspect": "reopen_window_working_days",
+  "value": 10,
+  "section": "১৬.৫",
+  "page": 53,
+  "evidence": "কর্মী উত্তরে সন্তুষ্ট না হলে নিষ্পত্তির ১০ কার্যদিবসের মধ্যে অভিযোগটি পুনরায় খুলতে পারেন।"
+ },
+ {
+  "subject": "grievance_rca",
+  "aspect": "trigger_count",
+  "value": 5,
+  "section": "১৬.৬",
+  "page": 53,
+  "evidence": "কোনো একক মাসে যদি ৫টি বা তার অধিক অভিযোগের একই মূল কারণ চিহ্নিত হয়, তবে পে-রোল ব্যবস্থাপক একটি মূল-কারণ বিশ্লেষণ প্রস্তুত করবেন এবং তা ১৫ কার্যদিবসের মধ্যে অর্থ নিয়ন্ত্রকের কাছে উপস্থাপন করবেন।"
+ },
+ {
+  "subject": "grievance_rca",
+  "aspect": "submission_working_days",
+  "value": 15,
+  "section": "১৬.৬",
+  "page": 53,
+  "evidence": "কোনো একক মাসে যদি ৫টি বা তার অধিক অভিযোগের একই মূল কারণ চিহ্নিত হয়, তবে পে-রোল ব্যবস্থাপক একটি মূল-কারণ বিশ্লেষণ প্রস্তুত করবেন এবং তা ১৫ কার্যদিবসের মধ্যে অর্থ নিয়ন্ত্রকের কাছে উপস্থাপন করবেন।"
+ },
+ {
+  "subject": "grievance_report",
+  "aspect": "monthly_day",
+  "value": 10,
+  "section": "১৬.৭",
+  "page": 53,
+  "evidence": "পে-রোল ব্যবস্থাপক প্রতি মাসের ১০ তারিখের মধ্যে মানবসম্পদ প্রধানকে একটি অভিযোগ-প্রতিবেদন দেন, যাতে থাকে: শ্রেণিভিত্তিক অভিযোগ সংখ্যা; সময়সীমার মধ্যে নিষ্পত্তির হার; উন্নীত অভিযোগের সংখ্যা; পুনরায় খোলা অভিযোগের সংখ্যা; এবং গড় নিষ্পত্তির সময়।"
+ },
+ {
+  "subject": "grievance_sla",
+  "aspect": "target_pct",
+  "value": 92,
+  "section": "১৬.৭",
+  "page": 53,
+  "evidence": "সময়সীমার মধ্যে নিষ্পত্তির লক্ষ্যমাত্রা ৯২ শতাংশ।"
+ },
+ {
+  "subject": "pay_data",
+  "aspect": "classification",
+  "value": "গোপন, শ্রেণি ৩",
+  "section": "১৭.১",
+  "page": 54,
+  "evidence": "সমস্ত ব্যক্তিগত পারিশ্রমিক তথ্য প্রতিষ্ঠানের তথ্য-শ্রেণিকরণ কাঠামোয় গোপন, শ্রেণি ৩ হিসেবে চিহ্নিত।"
+ },
+ {
+  "subject": "payroll_register_access",
+  "aspect": "role_count",
+  "value": 5,
+  "section": "১৭.২",
+  "page": 54,
+  "evidence": "সমগ্র পে-রোল নিবন্ধে প্রবেশাধিকার কেবল পাঁচটি ভূমিকার মধ্যে সীমিত: পে-রোল ব্যবস্থাপক; পে-রোল বিশ্লেষক; পে-রোল পরীক্ষক; অর্থ নিয়ন্ত্রক; এবং মানবসম্পদ প্রধান।"
+ },
+ {
+  "subject": "audit_access",
+  "aspect": "revocation_working_days",
+  "value": 5,
+  "section": "১৭.২",
+  "page": 54,
+  "evidence": "অভ্যন্তরীণ নিরীক্ষা শাখা নিরীক্ষার সময়কালে সীমিত ও পাঠমাত্র প্রবেশাধিকার পায়, যা নিরীক্ষা সমাপ্তির ৫ কার্যদিবসের মধ্যে প্রত্যাহৃত হয়।"
+ },
+ {
+  "subject": "third_party_consent",
+  "aspect": "validity_days",
+  "value": 90,
+  "section": "১৭.৫",
+  "page": 55,
+  "evidence": "একটি সম্মতিপত্র প্রদানের তারিখ থেকে ৯০ দিন পর্যন্ত বৈধ।"
+ },
+ {
+  "subject": "statutory_disclosure",
+  "aspect": "notification_working_days",
+  "value": 2,
+  "section": "১৭.৫",
+  "page": 55,
+  "evidence": "উভয় ক্ষেত্রেই কর্মীকে ২ কার্যদিবসের মধ্যে জানানো হয়, যদি না আইন নিজেই সেই অবহিতকরণ নিষিদ্ধ করে।"
+ },
+ {
+  "subject": "aggregate_disclosure",
+  "aspect": "min_group_size",
+  "value": 8,
+  "section": "১৭.৬",
+  "page": 55,
+  "evidence": "গবেষণা, প্রতিবেদন বা বাজার সমীক্ষায় অংশগ্রহণের উদ্দেশ্যে সমষ্টিগত পারিশ্রমিক তথ্য প্রকাশ করা যায়, তবে কেবল তখনই যখন সংশ্লিষ্ট গোষ্ঠীতে অন্তত ৮ জন কর্মী আছেন।"
+ },
+ {
+  "subject": "access_log",
+  "aspect": "retention_months",
+  "value": 24,
+  "section": "১৭.৭",
+  "page": 56,
+  "evidence": "এই নথি ২৪ মাস সংরক্ষিত থাকে এবং তা কেউ মুছতে বা সম্পাদনা করতে পারে না, প্রশাসনিক অধিকারপ্রাপ্ত ব্যক্তিও নয়।"
+ },
+ {
+  "subject": "access_rights",
+  "aspect": "dormancy_days",
+  "value": 60,
+  "section": "১৭.৭",
+  "page": 56,
+  "evidence": "পরপর ৬০ দিন অব্যবহৃত থাকলে কোনো প্রবেশাধিকার স্বয়ংক্রিয়ভাবে নিষ্ক্রিয় হয়ে যায়।"
+ },
+ {
+  "subject": "privacy_breach",
+  "aspect": "report_working_days",
+  "value": 2,
+  "section": "১৭.৮",
+  "page": 56,
+  "evidence": "গোপনীয়তা লঙ্ঘনের ঘটনা জানার ২ কার্যদিবসের মধ্যে মানবসম্পদ প্রধানকে জানাতে হবে এবং ৫ কার্যদিবসের মধ্যে একটি প্রাথমিক তথ্যানুসন্ধান সম্পন্ন হবে।"
+ },
+ {
+  "subject": "privacy_breach",
+  "aspect": "enquiry_working_days",
+  "value": 5,
+  "section": "১৭.৮",
+  "page": 56,
+  "evidence": "গোপনীয়তা লঙ্ঘনের ঘটনা জানার ২ কার্যদিবসের মধ্যে মানবসম্পদ প্রধানকে জানাতে হবে এবং ৫ কার্যদিবসের মধ্যে একটি প্রাথমিক তথ্যানুসন্ধান সম্পন্ন হবে।"
+ },
+ {
+  "subject": "privacy_breach",
+  "aspect": "affected_notification_working_days",
+  "value": 1,
+  "section": "১৭.৮",
+  "page": 56,
+  "evidence": "লঙ্ঘনের ফলে যদি কোনো কর্মীর তথ্য প্রকাশিত হয়ে থাকে, তবে সেই কর্মীকে তথ্যানুসন্ধান সম্পন্ন হওয়ার ১ কার্যদিবসের মধ্যে অবহিত করা হবে — কী তথ্য, কার কাছে, এবং কী প্রতিকার নেওয়া হয়েছে।"
+ },
+ {
+  "subject": "control_framework",
+  "aspect": "layers",
+  "value": 3,
+  "section": "১৮.১",
+  "page": 56,
+  "evidence": "পে-রোল নিয়ন্ত্রণ তিনটি স্তরে বিন্যস্ত: প্রতিরোধমূলক নিয়ন্ত্রণ, যা ভুল ঘটার আগেই তা আটকায়; সনাক্তকারী নিয়ন্ত্রণ, যা ঘটে যাওয়া ভুল খুঁজে বের করে; এবং সংশোধনমূলক নিয়ন্ত্রণ, যা ভুলের পুনরাবৃত্তি রোধ করে।"
+ },
+ {
+  "subject": "segregation_of_duties",
+  "aspect": "task_count",
+  "value": 4,
+  "section": "১৮.২",
+  "page": 56,
+  "evidence": "চারটি কাজ কোনো অবস্থাতেই একই ব্যক্তির হাতে থাকবে না: কর্মীর মূল তথ্য সৃষ্টি বা পরিবর্তন; বেতন গণনা চালনা; গণনার অনুমোদন; এবং ব্যাংকে অর্থপ্রেরণ নির্দেশ দাখিল।"
+ },
+ {
+  "subject": "emergency_access",
+  "aspect": "max_days",
+  "value": 7,
+  "section": "১৮.২",
+  "page": 57,
+  "evidence": "জরুরি ভিত্তিতে নতুন কাউকে অধিকার প্রদান করতে হলে তা অর্থ নিয়ন্ত্রকের অনুমোদনক্রমে সর্বাধিক ৭ দিনের জন্য দেওয়া হয় এবং মেয়াদ শেষে স্বয়ংক্রিয়ভাবে প্রত্যাহৃত হয়।"
+ },
+ {
+  "subject": "deviation_report",
+  "aspect": "net_pay_change_pct",
+  "value": 10,
+  "section": "১৮.৪",
+  "page": 57,
+  "evidence": "কোনো কর্মীর নিট প্রদেয় পূর্ববর্তী মাসের তুলনায় ১০ শতাংশের বেশি পরিবর্তিত হলে;"
+ },
+ {
+  "subject": "deviation_report",
+  "aspect": "gross_threshold_inr",
+  "value": 500000,
+  "section": "১৮.৪",
+  "page": 57,
+  "evidence": "কোনো কর্মীর মোট প্রদেয় ₹৫,০০,০০০ অতিক্রম করলে;"
+ },
+ {
+  "subject": "reconciliation",
+  "aspect": "working_days_after_credit",
+  "value": 5,
+  "section": "১৮.৫",
+  "page": 57,
+  "evidence": "প্রতি মাসে বেতন জমার ৫ কার্যদিবসের মধ্যে তিনটি অঙ্কের পারস্পরিক মিলকরণ সম্পন্ন হয়: পে-রোল নিবন্ধের নিট প্রদেয়ের যোগফল; ব্যাংকে প্রেরিত অর্থপ্রেরণ ফাইলের যোগফল; এবং সাধারণ খতিয়ানে নথিভুক্ত অঙ্ক।"
+ },
+ {
+  "subject": "reconciliation",
+  "aspect": "tolerance_inr",
+  "value": 0,
+  "section": "১৮.৫",
+  "page": 58,
+  "evidence": "এই তিনটির মধ্যে পার্থক্যের সহনসীমা শূন্য।"
+ },
+ {
+  "subject": "annual_reconciliation",
+  "aspect": "deadline",
+  "value": "৩০ এপ্রিল",
+  "section": "১৮.৫",
+  "page": 58,
+  "evidence": "বার্ষিক সমন্বয় ও বিবরণীর সঙ্গে পে-রোল নিবন্ধের চূড়ান্ত মিলকরণ প্রতি বছর ৩০ এপ্রিলের মধ্যে সম্পন্ন হয়।"
+ },
+ {
+  "subject": "ghost_employee_check",
+  "aspect": "months",
+  "value": "এপ্রিল ও অক্টোবর",
+  "section": "১৮.৬",
+  "page": 58,
+  "evidence": "প্রতি অর্থবর্ষে দুইবার — এপ্রিল ও অক্টোবর মাসে — একটি পূর্ণাঙ্গ ছদ্ম কর্মী পরীক্ষা পরিচালিত হয়।"
+ },
+ {
+  "subject": "ghost_employee_check",
+  "aspect": "no_attendance_months",
+  "value": 2,
+  "section": "১৮.৬",
+  "page": 58,
+  "evidence": "পরপর দুই মাস কোনো উপস্থিতি নথি নেই অথচ বেতন প্রদত্ত হয়েছে এমন কর্মী;"
+ },
+ {
+  "subject": "ghost_employee_check",
+  "aspect": "reporting_working_days",
+  "value": 15,
+  "section": "১৮.৬",
+  "page": 58,
+  "evidence": "পরীক্ষার ফল অর্থ নিয়ন্ত্রক ও মানবসম্পদ প্রধানের কাছে ১৫ কার্যদিবসের মধ্যে উপস্থাপিত হয়।"
+ },
+ {
+  "subject": "internal_audit",
+  "aspect": "sample_pct",
+  "value": 3,
+  "section": "১৮.৭",
+  "page": 58,
+  "evidence": "নমুনার আকার মোট কর্মীসংখ্যার ৩ শতাংশ অথবা ৫০টি নথি — যেটি অধিক।"
+ },
+ {
+  "subject": "internal_audit",
+  "aspect": "sample_minimum_records",
+  "value": 50,
+  "section": "১৮.৭",
+  "page": 58,
+  "evidence": "নমুনার আকার মোট কর্মীসংখ্যার ৩ শতাংশ অথবা ৫০টি নথি — যেটি অধিক।"
+ },
+ {
+  "subject": "internal_audit",
+  "aspect": "report_working_days",
+  "value": 20,
+  "section": "১৮.৭",
+  "page": 58,
+  "evidence": "নিরীক্ষা প্রতিবেদন ত্রৈমাসিক সমাপ্তির ২০ কার্যদিবসের মধ্যে প্রকাশিত হয়।"
+ },
+ {
+  "subject": "internal_audit",
+  "aspect": "remediation_working_days",
+  "value": 30,
+  "section": "১৮.৭",
+  "page": 58,
+  "evidence": "চিহ্নিত ত্রুটিগুলির প্রতিকার ৩০ কার্যদিবসের মধ্যে সম্পন্ন করতে হয়; অসম্পন্ন প্রতিকার পরবর্তী ত্রৈমাসিকের প্রতিবেদনে পুনরায় উপস্থাপিত হয়।"
+ },
+ {
+  "subject": "change_control",
+  "aspect": "test_record_count",
+  "value": 20,
+  "section": "১৮.৮",
+  "page": 59,
+  "evidence": "প্রতিটি পরিবর্তন উৎপাদন পরিবেশে প্রয়োগের আগে একটি পৃথক পরীক্ষণ পরিবেশে অন্তত ২০টি নমুনা নথির উপর চালিয়ে দেখতে হবে এবং ফলাফল হস্তগণনার সঙ্গে মিলিয়ে নিতে হবে।"
+ },
+ {
+  "subject": "change_control",
+  "aspect": "freeze_before_cutoff_working_days",
+  "value": 5,
+  "section": "১৮.৮",
+  "page": 59,
+  "evidence": "কোনো পরিবর্তন কাট-অফের পূর্ববর্তী ৫ কার্যদিবসের মধ্যে প্রয়োগ করা হয় না, যদি না তা কোনো বিধিবদ্ধ বাধ্যবাধকতা পূরণের জন্য অপরিহার্য এবং অর্থ নিয়ন্ত্রক তা লিখিতভাবে অনুমোদন করেন।"
+ },
+ {
+  "subject": "backup",
+  "aspect": "frequency",
+  "value": "প্রতিদিন",
+  "section": "১৮.৯",
+  "page": 59,
+  "evidence": "পে-রোল তথ্যের সম্পূর্ণ প্রতিলিপি প্রতিদিন সংরক্ষিত হয়।"
+ },
+ {
+  "subject": "restore_test",
+  "aspect": "frequency_months",
+  "value": 6,
+  "section": "১৮.৯",
+  "page": 59,
+  "evidence": "পুনরুদ্ধার-পরীক্ষা প্রতি ছয় মাসে একবার পরিচালিত হয় এবং তার ফল নথিভুক্ত হয়।"
+ },
+ {
+  "subject": "recovery_point_objective",
+  "aspect": "hours",
+  "value": 24,
+  "section": "১৮.৯",
+  "page": 59,
+  "evidence": "গ্রহণযোগ্য তথ্য-ক্ষতির সীমা ২৪ ঘণ্টা এবং গ্রহণযোগ্য পুনরুদ্ধার-সময় ৮ ঘণ্টা।"
+ },
+ {
+  "subject": "recovery_time_objective",
+  "aspect": "hours",
+  "value": 8,
+  "section": "১৮.৯",
+  "page": 59,
+  "evidence": "গ্রহণযোগ্য তথ্য-ক্ষতির সীমা ২৪ ঘণ্টা এবং গ্রহণযোগ্য পুনরুদ্ধার-সময় ৮ ঘণ্টা।"
+ },
+ {
+  "subject": "contingency",
+  "aspect": "system_outage_hours",
+  "value": 48,
+  "section": "১৮.৯",
+  "page": 59,
+  "evidence": "কাট-অফের পূর্ববর্তী সময়ে পে-রোল ব্যবস্থা যদি ৪৮ ঘণ্টার বেশি অকার্যকর থাকে, তবে একটি আপৎকালীন পদ্ধতি সক্রিয় হয়: প্রতিটি কর্মীকে তাঁর পূর্ববর্তী মাসের নিট প্রদেয়ের ৯০ শতাংশ অস্থায়ীভাবে পরিশোধ করা হয়, এবং ব্যবস্থা পুনঃসক্রিয় হলে সম্পূর্ণ গণনা করে পার্থক্য পরবর্তী চক্রে সমন্বিত হয়।"
+ },
+ {
+  "subject": "contingency",
+  "aspect": "provisional_payment_pct",
+  "value": 90,
+  "section": "১৮.৯",
+  "page": 59,
+  "evidence": "কাট-অফের পূর্ববর্তী সময়ে পে-রোল ব্যবস্থা যদি ৪৮ ঘণ্টার বেশি অকার্যকর থাকে, তবে একটি আপৎকালীন পদ্ধতি সক্রিয় হয়: প্রতিটি কর্মীকে তাঁর পূর্ববর্তী মাসের নিট প্রদেয়ের ৯০ শতাংশ অস্থায়ীভাবে পরিশোধ করা হয়, এবং ব্যবস্থা পুনঃসক্রিয় হলে সম্পূর্ণ গণনা করে পার্থক্য পরবর্তী চক্রে সমন্বিত হয়।"
+ },
+ {
+  "subject": "employee_data_change",
+  "aspect": "submission_working_days",
+  "value": 15,
+  "section": "১৯.১",
+  "page": 60,
+  "evidence": "নাম, বৈবাহিক অবস্থা বা স্থায়ী হিসাব সংখ্যার পরিবর্তন সংক্রান্ত নথি পরিবর্তনের ১৫ কার্যদিবসের মধ্যে দাখিল করতে হবে।"
+ },
+ {
+  "subject": "payroll_analysts",
+  "aspect": "minimum_count",
+  "value": 2,
+  "section": "১৯.৪",
+  "page": 61,
+  "evidence": "প্রতিষ্ঠানে যেকোনো সময়ে অন্তত দুইজন প্রশিক্ষিত বিশ্লেষক থাকবেন, যাতে একজনের অনুপস্থিতিতে চক্র থেমে না যায়।"
+ },
+ {
+  "subject": "role_rotation",
+  "aspect": "months",
+  "value": 24,
+  "section": "১৯.৫",
+  "page": 61,
+  "evidence": "বিশ্লেষক ও পরীক্ষকের ভূমিকা প্রতি ২৪ মাসে পারস্পরিকভাবে বিনিময় করা হয়।"
+ },
+ {
+  "subject": "payroll_review_meeting",
+  "aspect": "day_of_month",
+  "value": 26,
+  "section": "১৯.৬",
+  "page": 61,
+  "evidence": "তিনি প্রতি মাসের ২৬ তারিখে একটি পে-রোল পর্যালোচনা সভা আহ্বান করেন, যেখানে সেই মাসের বিচ্যুতি, অভিযোগ ও অনিষ্পন্ন বিষয় পর্যালোচিত হয় এবং পরবর্তী মাসের জন্য পূর্বপ্রস্তুতি নির্ধারিত হয়।"
+ },
+ {
+  "subject": "compensation_committee",
+  "aspect": "meeting_frequency",
+  "value": "ত্রৈমাসিকে একবার",
+  "section": "১৯.১০",
+  "page": 62,
+  "evidence": "কমিটি প্রতি ত্রৈমাসিকে অন্তত একবার মিলিত হয়।"
+ },
+ {
+  "subject": "compensation_committee",
+  "aspect": "quorum",
+  "value": 3,
+  "section": "১৯.১০",
+  "page": 62,
+  "evidence": "কোরামের জন্য তিনজন সদস্যেরই উপস্থিতি আবশ্যক; অনুপস্থিতির ক্ষেত্রে সভা স্থগিত হয়, প্রতিনিধি প্রেরণ অনুমোদিত নয়।"
+ },
+ {
+  "subject": "payroll_training",
+  "aspect": "annual_hours",
+  "value": 16,
+  "section": "১৯.১২",
+  "page": 62,
+  "evidence": "পে-রোল ভূমিকায় নিযুক্ত প্রতিটি কর্মচারী প্রতি অর্থবর্ষে অন্তত ১৬ ঘণ্টা কাঠামোগত প্রশিক্ষণ গ্রহণ করবেন, যার মধ্যে বিধিবদ্ধ পরিবর্তন, ব্যবস্থাগত হালনাগাদ ও তথ্য-গোপনীয়তা অন্তর্ভুক্ত।"
+ },
+ {
+  "subject": "role_handover",
+  "aspect": "overlap_working_days",
+  "value": 5,
+  "section": "১৯.১২",
+  "page": 62,
+  "evidence": "কোনো পে-রোল ভূমিকা হস্তান্তরের ক্ষেত্রে অন্তত ৫ কার্যদিবসের অধিব্যাপ্ত সময় থাকবে, যেখানে বিদায়ী ও আগমনকারী উভয়েই একসঙ্গে কাজ করবেন এবং একটি লিখিত হস্তান্তর নথি স্বাক্ষরিত হবে।"
+ },
+ {
+  "subject": "mandatory_leave",
+  "aspect": "continuous_working_days",
+  "value": 5,
+  "section": "১৯.১২",
+  "page": 62,
+  "evidence": "প্রতিটি পে-রোল ভূমিকায় নিযুক্ত কর্মচারীকে প্রতি অর্থবর্ষে অন্তত ৫ কার্যদিবস একটানা ছুটিতে থাকতে হবে, এবং সেই সময়ে তাঁর সমস্ত প্রবেশাধিকার সাময়িকভাবে নিষ্ক্রিয় থাকবে।"
+ },
+ {
+  "subject": "support_centre",
+  "aspect": "working_hours",
+  "value": "৯:৩০–১৮:০০",
+  "section": "২০.৯",
+  "page": 65,
+  "evidence": "পে-রোল সহায়তা কেন্দ্র কার্যদিবসে সকাল ৯টা ৩০ থেকে সন্ধ্যা ৬টা পর্যন্ত খোলা থাকে।"
+ },
+ {
+  "subject": "salary_credit",
+  "aspect": "bank_accounts",
+  "value": 1,
+  "section": "২০.২",
+  "page": 63,
+  "evidence": "বেতন একটিমাত্র হিসাবে প্রেরিত হয়।"
+ },
+ {
+  "subject": "annexures",
+  "aspect": "count",
+  "value": 7,
+  "section": "২১.২",
+  "page": 66,
+  "evidence": "এই নির্দেশিকার সঙ্গে সাতটি পরিশিষ্ট সংযুক্ত।"
+ },
+ {
+  "subject": "policy_review",
+  "aspect": "cycle_months",
+  "value": 36,
+  "section": "২২.১",
+  "page": 67,
+  "evidence": "এই নির্দেশিকার পূর্ণ পর্যালোচনা প্রতি ৩৬ মাসে একবার অনুষ্ঠিত হয়।"
+ },
+ {
+  "subject": "policy_review",
+  "aspect": "non_payroll_participants",
+  "value": 2,
+  "section": "২২.১",
+  "page": 67,
+  "evidence": "পূর্ণ পর্যালোচনায় অংশ নেন মানবসম্পদ প্রধান, অর্থ নিয়ন্ত্রক, পে-রোল ব্যবস্থাপক, অভ্যন্তরীণ নিরীক্ষা শাখার প্রতিনিধি এবং অন্তত দুইজন এমন কর্মী যাঁরা পে-রোল ভূমিকার বাইরে কাজ করেন।"
+ },
+ {
+  "subject": "amendment",
+  "aspect": "effective_date",
+  "value": "পরবর্তী মাসের ১ তারিখ",
+  "section": "২২.৩",
+  "page": 67,
+  "evidence": "কোনো সংশোধন অনুমোদনের পরবর্তী মাসের ১ তারিখ থেকে কার্যকর হয়।"
+ },
+ {
+  "subject": "amendment",
+  "aspect": "notice_days",
+  "value": 15,
+  "section": "২২.৩",
+  "page": 67,
+  "evidence": "কর্মীদের অন্তত ১৫ দিন আগে পোর্টালে বিজ্ঞপ্তির মাধ্যমে অবহিত করা হয়।"
+ },
+ {
+  "subject": "adverse_amendment",
+  "aspect": "notice_days",
+  "value": 30,
+  "section": "২২.৩",
+  "page": 67,
+  "evidence": "যে সংশোধন কোনো কর্মীর নিট প্রদেয় হ্রাস করতে পারে, তা অবহিতকরণের ৩০ দিনের আগে কার্যকর হবে না, এবং সেই ক্ষেত্রে প্রভাবিত কর্মীদের ব্যক্তিগতভাবে জানানো হবে।"
+ },
+ {
+  "subject": "policy_versions",
+  "aspect": "retention_months",
+  "value": 96,
+  "section": "২২.৪",
+  "page": 68,
+  "evidence": "পূর্ববর্তী সংস্করণগুলি নীতি-ভাণ্ডারে ৯৬ মাস সংরক্ষিত থাকে।"
+ }
+]

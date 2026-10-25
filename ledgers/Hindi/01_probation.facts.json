@@ -1,0 +1,882 @@
+[
+ {
+  "subject": "probation",
+  "aspect": "duration_months_associate",
+  "value": 3,
+  "section": "४.१",
+  "page": 8,
+  "evidence": "स्तर क — सहयोगी एवं सहायक श्रेणी। परिवीक्षा की अवधि ३ माह।"
+ },
+ {
+  "subject": "probation",
+  "aspect": "duration_months_executive",
+  "value": 6,
+  "section": "४.१",
+  "page": 8,
+  "evidence": "स्तर ख — कार्यपालक श्रेणी। परिवीक्षा की अवधि ६ माह।"
+ },
+ {
+  "subject": "probation",
+  "aspect": "duration_months_senior_executive",
+  "value": 9,
+  "section": "४.१",
+  "page": 8,
+  "evidence": "स्तर ग — वरिष्ठ कार्यपालक एवं दलनायक श्रेणी। परिवीक्षा की अवधि ९ माह।"
+ },
+ {
+  "subject": "probation",
+  "aspect": "duration_months_manager",
+  "value": 12,
+  "section": "४.१",
+  "page": 8,
+  "evidence": "स्तर घ — प्रबंधक एवं उससे उच्चतर श्रेणी। परिवीक्षा की अवधि १२ माह।"
+ },
+ {
+  "subject": "probation",
+  "aspect": "duration_months_graduate_trainee",
+  "value": 4,
+  "section": "४.१",
+  "page": 8,
+  "evidence": "जिन अभियांत्रिकी स्नातकों की नियुक्ति संस्थान के स्नातक प्रशिक्षण कार्यक्रम को सफलतापूर्वक पूर्ण करने के उपरांत होती है, उनकी परिवीक्षा ४ माह की होगी, क्योंकि प्रशिक्षण अवधि में उनके कार्य का पर्याप्त निरीक्षण पहले ही हो चुका होता है।"
+ },
+ {
+  "subject": "probation",
+  "aspect": "duration_months_fixed_term_conversion",
+  "value": 5,
+  "section": "४.१",
+  "page": 8,
+  "evidence": "जिन कर्मियों की नियुक्ति निश्चित-अवधि अनुबंध पर हुई थी और जिन्हें उसी अथवा समकक्ष भूमिका में स्थायी वेतनमान में परिवर्तित किया जाता है, उनकी परिवीक्षा ५ माह की होगी, बशर्ते उनका अनुबंधगत कार्यकाल कम-से-कम ८ माह रहा हो।"
+ },
+ {
+  "subject": "probation",
+  "aspect": "minimum_contract_tenure_months_for_conversion",
+  "value": 8,
+  "section": "४.१",
+  "page": 8,
+  "evidence": "जिन कर्मियों की नियुक्ति निश्चित-अवधि अनुबंध पर हुई थी और जिन्हें उसी अथवा समकक्ष भूमिका में स्थायी वेतनमान में परिवर्तित किया जाता है, उनकी परिवीक्षा ५ माह की होगी, बशर्ते उनका अनुबंधगत कार्यकाल कम-से-कम ८ माह रहा हो।"
+ },
+ {
+  "subject": "probation",
+  "aspect": "revised_end_date_recording_working_days",
+  "value": 3,
+  "section": "४.२",
+  "page": 9,
+  "evidence": "यदि किसी कारणवश कर्मी ने नियुक्ति-पत्र में दर्ज तिथि से भिन्न किसी तिथि को कार्यभार ग्रहण किया, तो मानव संसाधन विभाग कार्यभार ग्रहण के ३ कार्यदिवस के भीतर संशोधित नियत समाप्ति तिथि अभिलिखित करेगा और उसकी सूचना कर्मी तथा पर्यवेक्षक दोनों को देगा।"
+ },
+ {
+  "subject": "probation",
+  "aspect": "maximum_duration_reduction_weeks",
+  "value": 6,
+  "section": "४.३",
+  "page": 9,
+  "evidence": "ऐसी कमी अधिकतम ६ सप्ताह की हो सकती है और इसके लिए मानव संसाधन प्रमुख का अनुमोदन आवश्यक है।"
+ },
+ {
+  "subject": "probation",
+  "aspect": "reduction_request_review_threshold_percent",
+  "value": 10,
+  "section": "४.३",
+  "page": 10,
+  "evidence": "किसी वर्ष में यदि किसी विभाग में अवधि-कमी के अनुरोधों की संख्या उस विभाग में उस वर्ष हुई कुल नियुक्तियों के १० प्रतिशत से अधिक हो जाए, तो मानव संसाधन विभाग उस विभाग की परिवीक्षा-अवधि निर्धारण पद्धति की समीक्षा करेगा।"
+ },
+ {
+  "subject": "probation",
+  "aspect": "project_idleness_suspension_threshold_working_days",
+  "value": 15,
+  "section": "४.४",
+  "page": 10,
+  "evidence": "ऐसी परिस्थितियाँ हैं — दीर्घ चिकित्सा अवकाश, प्रसूति अथवा पितृत्व संबंधी अवकाश, तथा ऐसी परियोजना-विहीनता जिसमें कर्मी को १५ कार्यदिवस से अधिक समय तक कोई निर्धारित कार्य न मिल सका हो।"
+ },
+ {
+  "subject": "probation",
+  "aspect": "suspension_notice_working_days",
+  "value": 5,
+  "section": "४.४",
+  "page": 10,
+  "evidence": "पर्यवेक्षक को स्थगन-योग्य परिस्थिति उत्पन्न होने के ५ कार्यदिवस के भीतर मानव संसाधन विभाग को लिखित सूचना देनी होगी, और विभाग संशोधित नियत समाप्ति तिथि की गणना करके उसे सेवा अभिलेख में दर्ज करेगा।"
+ },
+ {
+  "subject": "benefits",
+  "aspect": "education_scheme_eligibility_months_after_confirmation",
+  "value": 6,
+  "section": "५.२",
+  "page": 13,
+  "evidence": "संस्थान द्वारा संचालित उच्च शिक्षा प्रतिपूर्ति योजना में आवेदन की पात्रता स्थायीकरण के ६ माह पश्चात आरंभ होती है, क्योंकि इस योजना के साथ एक न्यूनतम सेवा-बंधन जुड़ा होता है।"
+ },
+ {
+  "subject": "probation",
+  "aspect": "resignation_notice_days_grades_a_to_c",
+  "value": 7,
+  "section": "५.३",
+  "page": 14,
+  "evidence": "यदि कर्मी स्वयं सेवा छोड़ना चाहें, तो स्तर क, ख तथा ग के लिए ७ दिवस की तथा स्तर घ के लिए ३० दिवस की लिखित सूचना अपेक्षित है।"
+ },
+ {
+  "subject": "probation",
+  "aspect": "resignation_notice_days_grade_d",
+  "value": 30,
+  "section": "५.३",
+  "page": 14,
+  "evidence": "यदि कर्मी स्वयं सेवा छोड़ना चाहें, तो स्तर क, ख तथा ग के लिए ७ दिवस की तथा स्तर घ के लिए ३० दिवस की लिखित सूचना अपेक्षित है।"
+ },
+ {
+  "subject": "probation",
+  "aspect": "company_notice_days_grades_a_to_c",
+  "value": 14,
+  "section": "५.३",
+  "page": 14,
+  "evidence": "यदि संस्थान स्थायीकरण न करने का निर्णय लेता है, तो स्तर क, ख तथा ग के लिए १४ दिवस की तथा स्तर घ के लिए ३० दिवस की सूचना अथवा उसके बदले में तत्संबंधी अवधि का मूल वेतन देय होगा।"
+ },
+ {
+  "subject": "probation",
+  "aspect": "company_notice_days_grade_d",
+  "value": 30,
+  "section": "५.३",
+  "page": 14,
+  "evidence": "यदि संस्थान स्थायीकरण न करने का निर्णय लेता है, तो स्तर क, ख तथा ग के लिए १४ दिवस की तथा स्तर घ के लिए ३० दिवस की सूचना अथवा उसके बदले में तत्संबंधी अवधि का मूल वेतन देय होगा।"
+ },
+ {
+  "subject": "expectations",
+  "aspect": "expectation_letter_deadline_working_days",
+  "value": 7,
+  "section": "६.१",
+  "page": 15,
+  "evidence": "अपेक्षा-पत्र कार्यभार ग्रहण की तिथि से ७ कार्यदिवस के भीतर तैयार होकर कर्मी के साथ आमने-सामने चर्चा में साझा किया जाएगा।"
+ },
+ {
+  "subject": "expectations",
+  "aspect": "measurable_standard_example_percent",
+  "value": 90,
+  "section": "६.२",
+  "page": 15,
+  "evidence": "\"समय पर कार्य पूर्ण करना\" जैसा वाक्य अपर्याप्त है; \"निर्धारित परीक्षण-प्रकरणों में से कम-से-कम ९० प्रतिशत प्रथम प्रस्तुति में उत्तीर्ण\" जैसा वाक्य पर्याप्त है।"
+ },
+ {
+  "subject": "expectations",
+  "aspect": "disagreement_resolution_working_days",
+  "value": 10,
+  "section": "६.३",
+  "page": 16,
+  "evidence": "असहमति दर्ज होने पर द्वितीय स्तरीय अधिकारी १० कार्यदिवस के भीतर दोनों पक्षों से बात करके विषय का निपटारा करेंगे।"
+ },
+ {
+  "subject": "expectations",
+  "aspect": "no_new_expectation_final_days",
+  "value": 30,
+  "section": "६.३",
+  "page": 16,
+  "evidence": "परिवीक्षा के अंतिम ३० दिवस में कोई नई अपेक्षा नहीं जोड़ी जा सकती, क्योंकि उतने समय में किसी नए कार्य-परिणाम का उचित मूल्यांकन संभव नहीं।"
+ },
+ {
+  "subject": "checkpoint_review",
+  "aspect": "first_checkpoint_day",
+  "value": 30,
+  "section": "७.१",
+  "page": 17,
+  "evidence": "समस्त परिवीक्षाधीन कर्मियों के लिए तीन प्रारंभिक पड़ाव समान हैं — ३० दिवस, ६० दिवस तथा ९० दिवस।"
+ },
+ {
+  "subject": "checkpoint_review",
+  "aspect": "second_checkpoint_day",
+  "value": 60,
+  "section": "७.१",
+  "page": 17,
+  "evidence": "समस्त परिवीक्षाधीन कर्मियों के लिए तीन प्रारंभिक पड़ाव समान हैं — ३० दिवस, ६० दिवस तथा ९० दिवस।"
+ },
+ {
+  "subject": "checkpoint_review",
+  "aspect": "third_checkpoint_day",
+  "value": 90,
+  "section": "७.१",
+  "page": 17,
+  "evidence": "समस्त परिवीक्षाधीन कर्मियों के लिए तीन प्रारंभिक पड़ाव समान हैं — ३० दिवस, ६० दिवस तथा ९० दिवस।"
+ },
+ {
+  "subject": "checkpoint_review",
+  "aspect": "additional_checkpoint_day_for_long_probation",
+  "value": 180,
+  "section": "७.१",
+  "page": 17,
+  "evidence": "जिन कर्मियों की परिवीक्षा ९ माह अथवा उससे अधिक की है, उनके लिए दो अतिरिक्त पड़ाव हैं — १८० दिवस तथा २७० दिवस पर।"
+ },
+ {
+  "subject": "checkpoint_review",
+  "aspect": "final_additional_checkpoint_day",
+  "value": 270,
+  "section": "७.१",
+  "page": 17,
+  "evidence": "जिन कर्मियों की परिवीक्षा ९ माह अथवा उससे अधिक की है, उनके लिए दो अतिरिक्त पड़ाव हैं — १८० दिवस तथा २७० दिवस पर।"
+ },
+ {
+  "subject": "checkpoint_review",
+  "aspect": "closing_review_days_before_end",
+  "value": 30,
+  "section": "७.१",
+  "page": 17,
+  "evidence": "इनके अतिरिक्त, नियत समाप्ति तिथि से ३० दिवस पूर्व एक अंतिम समीक्षा अनिवार्य है, जिसे समापन समीक्षा कहा जाता है और जिसके आधार पर स्थायीकरण की संस्तुति की जाती है।"
+ },
+ {
+  "subject": "checkpoint_review",
+  "aspect": "record_deadline_working_days",
+  "value": 5,
+  "section": "७.३",
+  "page": 19,
+  "evidence": "प्रत्येक पड़ाव समीक्षा उस पड़ाव की तिथि से ५ कार्यदिवस के भीतर मानव संसाधन प्रणाली में अभिलिखित होनी चाहिए।"
+ },
+ {
+  "subject": "checkpoint_review",
+  "aspect": "missed_review_reminder_working_days",
+  "value": 10,
+  "section": "७.४",
+  "page": 19,
+  "evidence": "यदि कोई पड़ाव समीक्षा उसकी नियत तिथि से १० कार्यदिवस बीत जाने पर भी नहीं होती, तो मानव संसाधन प्रणाली स्वतः पर्यवेक्षक तथा द्वितीय स्तरीय अधिकारी दोनों को स्मारक भेजेगी।"
+ },
+ {
+  "subject": "checkpoint_review",
+  "aspect": "missed_review_escalation_working_days",
+  "value": 5,
+  "section": "७.४",
+  "page": 19,
+  "evidence": "इसके पश्चात भी ५ कार्यदिवस तक समीक्षा न होने पर विषय विभागाध्यक्ष के समक्ष प्रस्तुत किया जाएगा।"
+ },
+ {
+  "subject": "checkpoint_review",
+  "aspect": "employee_escalation_delay_working_days",
+  "value": 15,
+  "section": "७.४",
+  "page": 20,
+  "evidence": "यदि उनकी कोई नियत समीक्षा १५ कार्यदिवस से अधिक विलंबित हो, तो वे सीधे अपने मानव संसाधन व्यापार-भागीदार को सूचित कर सकते हैं, और ऐसा करने से उनके विरुद्ध किसी प्रकार की प्रतिकूल धारणा नहीं बनाई जाएगी।"
+ },
+ {
+  "subject": "supervisor",
+  "aspect": "weekly_one_to_one_initial_weeks",
+  "value": 6,
+  "section": "८.१",
+  "page": 21,
+  "evidence": "परिवीक्षा के प्रथम ६ सप्ताह तक प्रति सप्ताह कम-से-कम ३० मिनट की एकांत बैठक करना, तथा उसके पश्चात शेष अवधि में पाक्षिक बैठक करना।"
+ },
+ {
+  "subject": "supervisor",
+  "aspect": "weekly_one_to_one_minutes",
+  "value": 30,
+  "section": "८.१",
+  "page": 21,
+  "evidence": "परिवीक्षा के प्रथम ६ सप्ताह तक प्रति सप्ताह कम-से-कम ३० मिनट की एकांत बैठक करना, तथा उसके पश्चात शेष अवधि में पाक्षिक बैठक करना।"
+ },
+ {
+  "subject": "supervisor",
+  "aspect": "new_supervisor_meeting_working_days",
+  "value": 10,
+  "section": "८.३",
+  "page": 22,
+  "evidence": "नए पर्यवेक्षक कार्यभार ग्रहण के १० कार्यदिवस के भीतर कर्मी से भेंट करेंगे और अपेक्षा-पत्र की पुनःसमीक्षा करेंगे।"
+ },
+ {
+  "subject": "supervisor",
+  "aspect": "joint_recommendation_if_change_within_days",
+  "value": 45,
+  "section": "८.३",
+  "page": 23,
+  "evidence": "यदि पर्यवेक्षक-परिवर्तन परिवीक्षा के अंतिम ४५ दिवस में हुआ हो, तो नए पर्यवेक्षक अकेले स्थायीकरण की संस्तुति नहीं दे सकते; उस स्थिति में द्वितीय स्तरीय अधिकारी संस्तुति में सहभागी होंगे।"
+ },
+ {
+  "subject": "supervisor",
+  "aspect": "training_duration_hours",
+  "value": 3,
+  "section": "८.४",
+  "page": 23,
+  "evidence": "जिन पर्यवेक्षकों के अधीन परिवीक्षाधीन कर्मी कार्यरत हैं, उनके लिए एक अनिवार्य प्रशिक्षण सत्र निर्धारित है जिसकी अवधि ३ घंटे है और जिसे प्रत्येक २ वर्ष में एक बार दोहराना होता है।"
+ },
+ {
+  "subject": "supervisor",
+  "aspect": "training_refresh_years",
+  "value": 2,
+  "section": "८.४",
+  "page": 23,
+  "evidence": "जिन पर्यवेक्षकों के अधीन परिवीक्षाधीन कर्मी कार्यरत हैं, उनके लिए एक अनिवार्य प्रशिक्षण सत्र निर्धारित है जिसकी अवधि ३ घंटे है और जिसे प्रत्येक २ वर्ष में एक बार दोहराना होता है।"
+ },
+ {
+  "subject": "performance_concern",
+  "aspect": "informal_stage_weeks",
+  "value": 2,
+  "section": "९.२",
+  "page": 24,
+  "evidence": "अनौपचारिक चरण की अवधि सामान्यतः २ सप्ताह होती है।"
+ },
+ {
+  "subject": "performance_concern",
+  "aspect": "monitoring_period_minimum_days",
+  "value": 21,
+  "section": "९.३",
+  "page": 25,
+  "evidence": "निरीक्षित अवधि कम-से-कम २१ दिवस की होगी।"
+ },
+ {
+  "subject": "performance_concern",
+  "aspect": "memo_deadline_days_before_end",
+  "value": 30,
+  "section": "९.४",
+  "page": 25,
+  "evidence": "परिवीक्षा चिंता ज्ञापन नियत समाप्ति तिथि से कम-से-कम ३० दिवस पूर्व जारी होना चाहिए।"
+ },
+ {
+  "subject": "extension",
+  "aspect": "max_weeks_grade_a",
+  "value": 6,
+  "section": "१०.२",
+  "page": 28,
+  "evidence": "स्तर क के कर्मियों के लिए विस्तार की अधिकतम अवधि ६ सप्ताह है।"
+ },
+ {
+  "subject": "extension",
+  "aspect": "max_months_other_grades",
+  "value": 3,
+  "section": "१०.२",
+  "page": 28,
+  "evidence": "शेष समस्त स्तरों के लिए यह ३ माह है।"
+ },
+ {
+  "subject": "extension",
+  "aspect": "second_extension_max_months",
+  "value": 2,
+  "section": "१०.२",
+  "page": 28,
+  "evidence": "असाधारण परिस्थिति में दूसरा विस्तार संभव है, किंतु उसकी अधिकतम अवधि २ माह होगी और उसके लिए मानव संसाधन प्रमुख का व्यक्तिगत लिखित अनुमोदन आवश्यक है, जिसमें यह अंकित होगा कि प्रथम विस्तार में निर्णय क्यों नहीं हो सका।"
+ },
+ {
+  "subject": "probation",
+  "aspect": "total_duration_cap_months",
+  "value": 18,
+  "section": "१०.२",
+  "page": 28,
+  "evidence": "किसी भी स्थिति में कुल परिवीक्षा-अवधि, समस्त विस्तारों एवं स्थगनों सहित, १८ माह से अधिक नहीं होगी।"
+ },
+ {
+  "subject": "extension",
+  "aspect": "notice_working_days_before_end",
+  "value": 15,
+  "section": "१०.३",
+  "page": 28,
+  "evidence": "विस्तार की सूचना कर्मी को नियत समाप्ति तिथि से कम-से-कम १५ कार्यदिवस पूर्व लिखित रूप में दी जाएगी।"
+ },
+ {
+  "subject": "extension",
+  "aspect": "request_working_days_before_end",
+  "value": 25,
+  "section": "१०.४",
+  "page": 29,
+  "evidence": "अनुमोदन का अनुरोध नियत समाप्ति तिथि से कम-से-कम २५ कार्यदिवस पूर्व प्रस्तुत करना होगा, ताकि अनुमोदन तथा कर्मी को सूचना — दोनों के लिए समय शेष रहे।"
+ },
+ {
+  "subject": "extension",
+  "aspect": "approval_decision_working_days",
+  "value": 5,
+  "section": "१०.४",
+  "page": 29,
+  "evidence": "अनुमोदनकर्ता को ५ कार्यदिवस के भीतर निर्णय देना होगा।"
+ },
+ {
+  "subject": "extension",
+  "aspect": "closing_review_days_before_end",
+  "value": 15,
+  "section": "१०.५",
+  "page": 29,
+  "evidence": "यदि विस्तार ३ माह का है, तो उसके मध्य में एक समीक्षा तथा उसके समाप्त होने से १५ दिवस पूर्व एक समापन समीक्षा अनिवार्य है।"
+ },
+ {
+  "subject": "confirmation",
+  "aspect": "system_alert_days_before_end",
+  "value": 30,
+  "section": "११.१",
+  "page": 30,
+  "evidence": "नियत समाप्ति तिथि से ३० दिवस पूर्व मानव संसाधन प्रणाली पर्यवेक्षक, द्वितीय स्तरीय अधिकारी तथा मानव संसाधन व्यापार-भागीदार को स्वतः सूचना भेजती है कि समापन समीक्षा देय है।"
+ },
+ {
+  "subject": "confirmation",
+  "aspect": "supervisor_recommendation_working_days_before_end",
+  "value": 20,
+  "section": "११.१",
+  "page": 30,
+  "evidence": "नियत समाप्ति तिथि से २० कार्यदिवस पूर्व पर्यवेक्षक समापन समीक्षा संपन्न करके अपनी संस्तुति प्रस्तुत करेंगे।"
+ },
+ {
+  "subject": "confirmation",
+  "aspect": "second_level_opinion_working_days_before_end",
+  "value": 12,
+  "section": "११.१",
+  "page": 30,
+  "evidence": "नियत समाप्ति तिथि से १२ कार्यदिवस पूर्व द्वितीय स्तरीय अधिकारी संस्तुति पर अपना मत अंकित करेंगे।"
+ },
+ {
+  "subject": "confirmation",
+  "aspect": "hr_procedural_check_working_days_before_end",
+  "value": 7,
+  "section": "११.१",
+  "page": 30,
+  "evidence": "नियत समाप्ति तिथि से ७ कार्यदिवस पूर्व मानव संसाधन विभाग प्रकरण की प्रक्रियागत जाँच पूर्ण करेगा — अर्थात यह देखेगा कि अपेक्षा-पत्र विद्यमान है, पड़ाव समीक्षाएँ अभिलिखित हैं, और यदि संस्तुति प्रतिकूल है तो चिंता ज्ञापन एवं निरीक्षित अवधि की प्रक्रिया पूर्ण हुई है।"
+ },
+ {
+  "subject": "confirmation",
+  "aspect": "decision_record_working_days_before_end",
+  "value": 3,
+  "section": "११.१",
+  "page": 31,
+  "evidence": "नियत समाप्ति तिथि से ३ कार्यदिवस पूर्व निर्णय अंतिम रूप से अभिलिखित होगा और कर्मी को सूचित किया जाएगा।"
+ },
+ {
+  "subject": "confirmation",
+  "aspect": "letter_issue_working_days_after_end",
+  "value": 10,
+  "section": "११.१",
+  "page": 31,
+  "evidence": "स्थायीकरण की स्थिति में स्थायीकरण पत्र समाप्ति तिथि के १० कार्यदिवस के भीतर जारी होगा।"
+ },
+ {
+  "subject": "confirmation",
+  "aspect": "deemed_confirmation_days_after_end",
+  "value": 30,
+  "section": "११.४",
+  "page": 33,
+  "evidence": "यदि नियत समाप्ति तिथि के पश्चात ३० दिवस बीत जाने पर भी न कोई निर्णय अभिलिखित हुआ है, न विस्तार की विधिवत सूचना दी गई है, तो कर्मी उस तीसवें दिवस से स्थायी माने जाएँगे।"
+ },
+ {
+  "subject": "termination_in_probation",
+  "aspect": "service_certificate_working_days",
+  "value": 5,
+  "section": "१३.३",
+  "page": 36,
+  "evidence": "सेवा-प्रमाणपत्र अंतिम कार्यदिवस से ५ कार्यदिवस के भीतर जारी किया जाएगा और उसमें केवल नियुक्ति की तिथि, पद तथा सेवा-अवधि का उल्लेख होगा।"
+ },
+ {
+  "subject": "termination_in_probation",
+  "aspect": "reapplication_months",
+  "value": 12,
+  "section": "१३.४",
+  "page": 37,
+  "evidence": "जिस कर्मी की सेवा परिवीक्षा में इस आधार पर समाप्त हुई कि वे उस विशिष्ट भूमिका के लिए उपयुक्त नहीं पाए गए, वे संस्थान में किसी अन्य भूमिका के लिए सेवा-समाप्ति की तिथि से १२ माह के उपरांत पुनः आवेदन कर सकते हैं।"
+ },
+ {
+  "subject": "role_change",
+  "aspect": "transfer_prohibition_first_days",
+  "value": 90,
+  "section": "१४.१",
+  "page": 37,
+  "evidence": "परिवीक्षा के प्रथम ९० दिवस में किसी कर्मी का स्थानांतरण अथवा भूमिका-परिवर्तन सामान्यतः नहीं किया जाएगा।"
+ },
+ {
+  "subject": "role_change",
+  "aspect": "added_days_on_role_change",
+  "value": 45,
+  "section": "१४.२",
+  "page": 38,
+  "evidence": "किंतु शेष अवधि में ४५ दिवस जोड़े जाएँगे, ताकि नई भूमिका में कर्मी का उचित मूल्यांकन संभव हो सके।"
+ },
+ {
+  "subject": "role_change",
+  "aspect": "new_expectation_letter_working_days",
+  "value": 10,
+  "section": "१४.२",
+  "page": 38,
+  "evidence": "नई भूमिका के लिए नया अपेक्षा-पत्र आवश्यक है, जो परिवर्तन की तिथि से १० कार्यदिवस के भीतर तैयार होगा।"
+ },
+ {
+  "subject": "role_change",
+  "aspect": "added_days_on_relocation",
+  "value": 30,
+  "section": "१४.३",
+  "page": 39,
+  "evidence": "इस नियमावली का संबंध केवल इतना है कि स्थान-परिवर्तन की स्थिति में कर्मी को स्थिर होने के लिए अतिरिक्त समय मिले; अतः ऐसी स्थिति में शेष परिवीक्षा-अवधि में ३० दिवस जोड़े जाएँगे।"
+ },
+ {
+  "subject": "leave_during_probation",
+  "aspect": "accrual_days_per_completed_month",
+  "value": 1,
+  "section": "१५.१",
+  "page": 40,
+  "evidence": "परिवीक्षाधीन कर्मी प्रत्येक पूर्ण कैलेंडर माह की सेवा पर १ दिवस अवकाश अर्जित करेंगे।"
+ },
+ {
+  "subject": "leave_during_probation",
+  "aspect": "minimum_days_worked_in_joining_month",
+  "value": 15,
+  "section": "१५.१",
+  "page": 40,
+  "evidence": "यह अर्जन कार्यभार ग्रहण के माह से आरंभ होता है, बशर्ते उस माह में कर्मी ने कम-से-कम १५ दिवस कार्य किया हो; अन्यथा अर्जन अगले माह से आरंभ होगा।"
+ },
+ {
+  "subject": "leave_during_probation",
+  "aspect": "accumulation_cap_days",
+  "value": 6,
+  "section": "१५.१",
+  "page": 40,
+  "evidence": "परिवीक्षा-काल में अर्जित अवकाश का अधिकतम संचय ६ दिवस तक सीमित है।"
+ },
+ {
+  "subject": "leave_during_probation",
+  "aspect": "second_level_approval_threshold_days",
+  "value": 3,
+  "section": "१५.२",
+  "page": 40,
+  "evidence": "यदि एक ही बार में ३ दिवस से अधिक का अवकाश माँगा जाता है, तो द्वितीय स्तरीय अधिकारी की सहमति भी आवश्यक होगी।"
+ },
+ {
+  "subject": "leave_during_probation",
+  "aspect": "advance_request_working_days",
+  "value": 4,
+  "section": "१५.२",
+  "page": 41,
+  "evidence": "अवकाश का अनुरोध सामान्यतः कम-से-कम ४ कार्यदिवस पूर्व प्रस्तुत किया जाना चाहिए।"
+ },
+ {
+  "subject": "leave_during_probation",
+  "aspect": "emergency_notice_hours",
+  "value": 2,
+  "section": "१५.२",
+  "page": 41,
+  "evidence": "आकस्मिक परिस्थिति में उसी दिवस सूचना देकर भी अवकाश लिया जा सकता है, किंतु ऐसी सूचना कार्य आरंभ होने के २ घंटे के भीतर दी जानी चाहिए।"
+ },
+ {
+  "subject": "leave_during_probation",
+  "aspect": "unpaid_leave_max_days",
+  "value": 10,
+  "section": "१५.३",
+  "page": 41,
+  "evidence": "असाधारण परिस्थिति में — जैसे निकट परिजन की गंभीर बीमारी अथवा किसी प्राकृतिक आपदा से उत्पन्न स्थिति — अधिकतम १० दिवस का अवैतनिक अवकाश मानव संसाधन व्यापार-भागीदार के अनुमोदन से दिया जा सकता है।"
+ },
+ {
+  "subject": "leave_during_probation",
+  "aspect": "expectation_review_after_return_working_days",
+  "value": 15,
+  "section": "१५.४",
+  "page": 42,
+  "evidence": "यह पुनःसमीक्षा लौटने के १५ कार्यदिवस के भीतर होगी।"
+ },
+ {
+  "subject": "absence",
+  "aspect": "threshold_working_days_before_extension",
+  "value": 10,
+  "section": "१६.१",
+  "page": 42,
+  "evidence": "अतः यह नियम है कि यदि परिवीक्षा-काल में कर्मी की कुल अनुपस्थिति — चाहे वह स्वीकृत अवकाश हो, अवैतनिक अवकाश हो अथवा अन्य किसी कारण से हो — १० कार्यदिवस से अधिक हो जाती है, तो परिवीक्षा की अवधि उतने ही अतिरिक्त कार्यदिवसों से बढ़ जाएगी जितने दिवस इस सीमा से ऊपर रहे।"
+ },
+ {
+  "subject": "absence",
+  "aspect": "registered_post_after_working_days",
+  "value": 5,
+  "section": "१६.२",
+  "page": 43,
+  "evidence": "यदि अनधिकृत अनुपस्थिति लगातार ५ कार्यदिवस तक चलती है, तो मानव संसाधन विभाग कर्मी के अभिलेख में दर्ज पते पर पंजीकृत डाक से सूचना भेजेगा, जिसमें उन्हें ७ दिवस के भीतर कार्य पर लौटने अथवा अनुपस्थिति का कारण बताने को कहा जाएगा।"
+ },
+ {
+  "subject": "absence",
+  "aspect": "return_notice_days",
+  "value": 7,
+  "section": "१६.२",
+  "page": 43,
+  "evidence": "यदि अनधिकृत अनुपस्थिति लगातार ५ कार्यदिवस तक चलती है, तो मानव संसाधन विभाग कर्मी के अभिलेख में दर्ज पते पर पंजीकृत डाक से सूचना भेजेगा, जिसमें उन्हें ७ दिवस के भीतर कार्य पर लौटने अथवा अनुपस्थिति का कारण बताने को कहा जाएगा।"
+ },
+ {
+  "subject": "absence",
+  "aspect": "abandonment_threshold_working_days",
+  "value": 15,
+  "section": "१६.२",
+  "page": 43,
+  "evidence": "यदि लगातार अनुपस्थिति १५ कार्यदिवस तक पहुँच जाती है और कर्मी की ओर से कोई उत्तर नहीं आता, तो विषय सेवा-परित्याग की श्रेणी में चला जाता है और उसकी प्रक्रिया आचरण एवं अनुशासन नियमावली के अंतर्गत संचालित होती है।"
+ },
+ {
+  "subject": "rehire",
+  "aspect": "reduced_probation_window_months",
+  "value": 18,
+  "section": "१७.२",
+  "page": 44,
+  "evidence": "यदि पूर्व कर्मी संस्थान छोड़ने के १८ माह के भीतर उसी अथवा समकक्ष भूमिका में लौटते हैं, तो उनकी परिवीक्षा उस स्तर के लिए निर्धारित अवधि की आधी होगी, और विषम संख्या होने पर अगले पूर्ण माह तक पूर्णांकित की जाएगी।"
+ },
+ {
+  "subject": "promotion_probation",
+  "aspect": "duration_months",
+  "value": 4,
+  "section": "१८.१",
+  "page": 46,
+  "evidence": "इस सीमित प्रयोजन के लिए एक ४ माह की पद-परिवीक्षा निर्धारित है।"
+ },
+ {
+  "subject": "promotion_probation",
+  "aspect": "checkpoint_day",
+  "value": 60,
+  "section": "१८.२",
+  "page": 46,
+  "evidence": "पड़ाव समीक्षा केवल एक होगी, जो ६० दिवस पर संपन्न होगी, तथा एक समापन समीक्षा अवधि समाप्त होने से १५ दिवस पूर्व।"
+ },
+ {
+  "subject": "promotion_probation",
+  "aspect": "closing_review_days_before_end",
+  "value": 15,
+  "section": "१८.२",
+  "page": 46,
+  "evidence": "पड़ाव समीक्षा केवल एक होगी, जो ६० दिवस पर संपन्न होगी, तथा एक समापन समीक्षा अवधि समाप्त होने से १५ दिवस पूर्व।"
+ },
+ {
+  "subject": "promotion_probation",
+  "aspect": "extension_max_months",
+  "value": 2,
+  "section": "१८.२",
+  "page": 46,
+  "evidence": "पद-परिवीक्षा का विस्तार अधिकतम २ माह तक संभव है और उसके लिए विभागाध्यक्ष का अनुमोदन आवश्यक है।"
+ },
+ {
+  "subject": "promotion_probation",
+  "aspect": "re_promotion_interval_months",
+  "value": 12,
+  "section": "१८.३",
+  "page": 47,
+  "evidence": "प्रत्यावर्तित कर्मी पुनः पदोन्नति हेतु विचारार्थ आ सकते हैं, और इसके लिए न्यूनतम अंतराल १२ माह का है।"
+ },
+ {
+  "subject": "probation_appeal",
+  "aspect": "filing_window_working_days",
+  "value": 10,
+  "section": "१९.१",
+  "page": 47,
+  "evidence": "अपील निर्णय की लिखित सूचना प्राप्त होने की तिथि से १० कार्यदिवस के भीतर प्रस्तुत करनी होगी।"
+ },
+ {
+  "subject": "probation_appeal",
+  "aspect": "late_filing_extension_working_days",
+  "value": 5,
+  "section": "१९.१",
+  "page": 47,
+  "evidence": "विलंब से प्राप्त अपील सामान्यतः ग्राह्य नहीं होगी, किंतु यदि कर्मी अस्वस्थता अथवा अन्य उचित कारण सिद्ध कर सकें, तो मानव संसाधन प्रमुख अधिकतम ५ कार्यदिवस की अतिरिक्त छूट दे सकते हैं।"
+ },
+ {
+  "subject": "probation_appeal",
+  "aspect": "committee_size",
+  "value": 3,
+  "section": "१९.२",
+  "page": 48,
+  "evidence": "अपील की सुनवाई एक ३ सदस्यीय समिति करेगी।"
+ },
+ {
+  "subject": "probation_appeal",
+  "aspect": "hearing_scheduling_working_days",
+  "value": 7,
+  "section": "१९.३",
+  "page": 48,
+  "evidence": "समिति अपील प्राप्ति के ७ कार्यदिवस के भीतर सुनवाई की तिथि निश्चित करेगी।"
+ },
+ {
+  "subject": "probation_appeal",
+  "aspect": "decision_working_days",
+  "value": 15,
+  "section": "१९.३",
+  "page": 48,
+  "evidence": "निर्णय अपील प्राप्ति की तिथि से १५ कार्यदिवस के भीतर लिखित रूप में दिया जाएगा।"
+ },
+ {
+  "subject": "probation_appeal",
+  "aspect": "procedural_grievance_action_working_days",
+  "value": 10,
+  "section": "१९.५",
+  "page": 49,
+  "evidence": "ऐसी शिकायत पर १० कार्यदिवस के भीतर कार्रवाई होगी।"
+ },
+ {
+  "subject": "remote_work",
+  "aspect": "office_attendance_days_per_week",
+  "value": 3,
+  "section": "२०.१",
+  "page": 50,
+  "evidence": "परिवीक्षा के दौरान कर्मी से अपेक्षा है कि वे सप्ताह में कम-से-कम ३ दिवस अपने निर्धारित कार्यालय में उपस्थित रहें, भले ही उनकी भूमिका सामान्यतः दूरस्थ कार्य की अनुमति देती हो।"
+ },
+ {
+  "subject": "remote_work",
+  "aspect": "video_meeting_initial_months",
+  "value": 3,
+  "section": "२०.१",
+  "page": 50,
+  "evidence": "उनके लिए प्रतिपूरक व्यवस्था यह है कि परिवीक्षा के प्रथम ३ माह में पर्यवेक्षक के साथ साप्ताहिक बैठक सचित्र माध्यम से ही होगी, केवल श्रव्य माध्यम से नहीं, और उसकी अवधि कम-से-कम ४५ मिनट होगी।"
+ },
+ {
+  "subject": "remote_work",
+  "aspect": "video_meeting_minimum_minutes",
+  "value": 45,
+  "section": "२०.१",
+  "page": 50,
+  "evidence": "उनके लिए प्रतिपूरक व्यवस्था यह है कि परिवीक्षा के प्रथम ३ माह में पर्यवेक्षक के साथ साप्ताहिक बैठक सचित्र माध्यम से ही होगी, केवल श्रव्य माध्यम से नहीं, और उसकी अवधि कम-से-कम ४५ मिनट होगी।"
+ },
+ {
+  "subject": "probation_records",
+  "aspect": "copy_on_request_working_days",
+  "value": 5,
+  "section": "२१.२",
+  "page": 52,
+  "evidence": "कर्मी अपने अभिलेख की प्रति माँग सकते हैं और विभाग ऐसी माँग पर ५ कार्यदिवस के भीतर प्रति उपलब्ध कराएगा।"
+ },
+ {
+  "subject": "probation_records",
+  "aspect": "retention_years",
+  "value": 7,
+  "section": "२१.३",
+  "page": 53,
+  "evidence": "परिवीक्षा संबंधी अभिलेख स्थायीकरण अथवा सेवा-समाप्ति की तिथि से ७ वर्ष तक संधारित रहेंगे।"
+ },
+ {
+  "subject": "metrics",
+  "aspect": "review_timeliness_target_percent",
+  "value": 95,
+  "section": "२४.२",
+  "page": 64,
+  "evidence": "लक्ष्य ९५ प्रतिशत है।"
+ },
+ {
+  "subject": "metrics",
+  "aspect": "decision_timeliness_target_percent",
+  "value": 100,
+  "section": "२४.२",
+  "page": 64,
+  "evidence": "नियत समाप्ति तिथि से पूर्व अभिलिखित स्थायीकरण निर्णयों का अनुपात, जिसका लक्ष्य १०० प्रतिशत है, क्योंकि यहाँ किसी भी चूक का परिणाम मानित स्थायीकरण है।"
+ },
+ {
+  "subject": "metrics",
+  "aspect": "confirmation_rate_investigation_threshold_percent",
+  "value": 85,
+  "section": "२४.२",
+  "page": 64,
+  "evidence": "किंतु यदि किसी विभाग की दर ८५ प्रतिशत से नीचे जाती है, तो यह संकेत है कि या तो चयन प्रक्रिया में त्रुटि है या अपेक्षाओं का निर्धारण अवास्तविक है, और दोनों ही स्थितियों में कारण की जाँच होती है।"
+ },
+ {
+  "subject": "metrics",
+  "aspect": "extension_frequency_threshold_percent",
+  "value": 20,
+  "section": "२४.२",
+  "page": 65,
+  "evidence": "यदि यह २० प्रतिशत से ऊपर जाता है, तो सामान्यतः इसका अर्थ यह होता है कि निर्णय टाले जा रहे हैं।"
+ },
+ {
+  "subject": "metrics",
+  "aspect": "voluntary_exit_threshold_percent",
+  "value": 12,
+  "section": "२४.२",
+  "page": 65,
+  "evidence": "यदि यह १२ प्रतिशत से ऊपर जाता है, तो मानव संसाधन विभाग निर्गमन-वार्ताओं का विषयगत विश्लेषण करता है, क्योंकि आरंभिक महीनों में छोड़ना प्रायः अपेक्षाओं की असंगति अथवा पर्यवेक्षण की कमी का संकेत होता है।"
+ },
+ {
+  "subject": "metrics",
+  "aspect": "quarterly_report_working_days",
+  "value": 15,
+  "section": "२४.३",
+  "page": 65,
+  "evidence": "तिमाही प्रतिवेदन तिमाही समाप्ति के १५ कार्यदिवस के भीतर तैयार होकर प्रबंधन मंडल तथा समस्त विभागाध्यक्षों को भेजा जाता है।"
+ },
+ {
+  "subject": "exceptions",
+  "aspect": "decision_working_days",
+  "value": 6,
+  "section": "२५.१",
+  "page": 66,
+  "evidence": "अनुमोदनकर्ता को अनुरोध प्राप्ति के ६ कार्यदिवस के भीतर निर्णय देना होगा।"
+ },
+ {
+  "subject": "exceptions",
+  "aspect": "collective_relaxation_max_months",
+  "value": 6,
+  "section": "२५.३",
+  "page": 67,
+  "evidence": "ऐसी शिथिलता का आदेश लिखित होगा, उसमें उसकी अवधि अंकित होगी, और वह अधिकतम ६ माह के लिए होगा, जिसके उपरांत उसका नवीनीकरण पृथक निर्णय से ही संभव होगा।"
+ },
+ {
+  "subject": "governance",
+  "aspect": "review_cycle_years",
+  "value": 3,
+  "section": "२६.२",
+  "page": 67,
+  "evidence": "नियमावली की पूर्ण समीक्षा प्रत्येक ३ वर्ष में होगी।"
+ },
+ {
+  "subject": "governance",
+  "aspect": "amendment_consultation_working_days",
+  "value": 15,
+  "section": "२६.३",
+  "page": 68,
+  "evidence": "परामर्श की अवधि १५ कार्यदिवस की होगी।"
+ },
+ {
+  "subject": "governance",
+  "aspect": "amendment_notice_days",
+  "value": 30,
+  "section": "२६.३",
+  "page": 68,
+  "evidence": "अनुमोदित संशोधन की सूचना समस्त कर्मियों को प्रभावी होने से कम-से-कम ३० दिवस पूर्व दी जाएगी।"
+ },
+ {
+  "subject": "governance",
+  "aspect": "policy_conflict_clarification_working_days",
+  "value": 10,
+  "section": "२७.४",
+  "page": 71,
+  "evidence": "किसी विषय पर इस नियमावली तथा उपर्युक्त किसी दस्तावेज़ के बीच स्पष्ट विरोध प्रतीत होने पर विषय मानव संसाधन प्रमुख के समक्ष रखा जाएगा, जो १० कार्यदिवस के भीतर लिखित स्पष्टीकरण जारी करेंगे।"
+ },
+ {
+  "subject": "worked_example",
+  "aspect": "monitoring_period_days",
+  "value": 28,
+  "section": "२२.१",
+  "page": 55,
+  "evidence": "अतः २० अक्टूबर को परिवीक्षा चिंता ज्ञापन जारी किया गया, जिसमें दो विशिष्ट उदाहरण दिए गए, अपेक्षित स्तर यह निर्धारित हुआ कि आगामी अवधि में सौंपे गए कार्यों में से कम-से-कम ८० प्रतिशत नियत तिथि तक पूर्ण हों, और निरीक्षित अवधि २८ दिवस की रखी गई।"
+ },
+ {
+  "subject": "worked_example",
+  "aspect": "on_time_completion_target_percent",
+  "value": 80,
+  "section": "२२.१",
+  "page": 55,
+  "evidence": "अतः २० अक्टूबर को परिवीक्षा चिंता ज्ञापन जारी किया गया, जिसमें दो विशिष्ट उदाहरण दिए गए, अपेक्षित स्तर यह निर्धारित हुआ कि आगामी अवधि में सौंपे गए कार्यों में से कम-से-कम ८० प्रतिशत नियत तिथि तक पूर्ण हों, और निरीक्षित अवधि २८ दिवस की रखी गई।"
+ },
+ {
+  "subject": "worked_example",
+  "aspect": "memo_issued_days_before_end",
+  "value": 74,
+  "section": "२२.१",
+  "page": 55,
+  "evidence": "ज्ञापन नियत समाप्ति तिथि से ७४ दिवस पूर्व जारी हुआ, अर्थात धारा ९.४ की सीमा से भलीभाँति पहले।"
+ },
+ {
+  "subject": "worked_example",
+  "aspect": "extension_request_working_days_before_end",
+  "value": 28,
+  "section": "२२.१",
+  "page": 56,
+  "evidence": "अनुरोध ३० नवंबर को प्रस्तुत हुआ, जो नियत समाप्ति तिथि से २८ कार्यदिवस पूर्व था।"
+ },
+ {
+  "subject": "worked_example",
+  "aspect": "extension_approval_working_days",
+  "value": 4,
+  "section": "२२.१",
+  "page": 56,
+  "evidence": "विभागाध्यक्ष तथा मानव संसाधन व्यापार-भागीदार ने ४ कार्यदिवस में अनुमोदन दिया, और श्रीमती वैद्य को ८ दिसंबर को लिखित सूचना दी गई — नियत समाप्ति तिथि से १७ कार्यदिवस पूर्व।"
+ },
+ {
+  "subject": "worked_example",
+  "aspect": "extension_notice_working_days_before_end",
+  "value": 17,
+  "section": "२२.१",
+  "page": 56,
+  "evidence": "विभागाध्यक्ष तथा मानव संसाधन व्यापार-भागीदार ने ४ कार्यदिवस में अनुमोदन दिया, और श्रीमती वैद्य को ८ दिसंबर को लिखित सूचना दी गई — नियत समाप्ति तिथि से १७ कार्यदिवस पूर्व।"
+ },
+ {
+  "subject": "worked_example",
+  "aspect": "absence_total_working_days",
+  "value": 15,
+  "section": "२२.२",
+  "page": 57,
+  "evidence": "कुल अनुपस्थिति १५ कार्यदिवस रही।"
+ },
+ {
+  "subject": "worked_example",
+  "aspect": "absence_adjustment_working_days",
+  "value": 10,
+  "section": "२२.२",
+  "page": 57,
+  "evidence": "साथ ही, अवैतनिक अवकाश के १० दिवस धारा १५.३ के अंतर्गत पहले से समायोजन-योग्य थे; दोहरी गणना से बचने के लिए मानव संसाधन प्रणाली ने कुल समायोजन १० कार्यदिवस का लिया, न कि १५ का।"
+ }
+]

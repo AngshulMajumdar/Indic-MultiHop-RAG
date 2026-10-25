@@ -1,0 +1,1226 @@
+[
+ {
+  "subject": "appraisal_cycle",
+  "aspect": "cycle_start_date",
+  "value": "१ अप्रैल",
+  "section": "३.१",
+  "page": 8,
+  "evidence": "प्रत्येक चक्र १ अप्रैल को आरंभ होकर आगामी ३१ मार्च को समाप्त होता है।"
+ },
+ {
+  "subject": "appraisal_cycle",
+  "aspect": "cycle_end_date",
+  "value": "३१ मार्च",
+  "section": "३.१",
+  "page": 8,
+  "evidence": "प्रत्येक चक्र १ अप्रैल को आरंभ होकर आगामी ३१ मार्च को समाप्त होता है।"
+ },
+ {
+  "subject": "quarterly_record",
+  "aspect": "submission_deadline_working_days",
+  "value": 10,
+  "section": "३.२",
+  "page": 9,
+  "evidence": "कर्मचारी प्रत्येक तिमाही समाप्त होने के १० कार्यदिवस के भीतर अपने कार्य का एक विवरण प्रणाली में दर्ज करता है, जिसकी अधिकतम लंबाई ३०० शब्द है।"
+ },
+ {
+  "subject": "quarterly_record",
+  "aspect": "max_words",
+  "value": 300,
+  "section": "३.२",
+  "page": 9,
+  "evidence": "कर्मचारी प्रत्येक तिमाही समाप्त होने के १० कार्यदिवस के भीतर अपने कार्य का एक विवरण प्रणाली में दर्ज करता है, जिसकी अधिकतम लंबाई ३०० शब्द है।"
+ },
+ {
+  "subject": "quarterly_record",
+  "aspect": "supervisor_comment_working_days",
+  "value": 7,
+  "section": "३.२",
+  "page": 9,
+  "evidence": "प्राथमिक मूल्यांकनकर्ता इस विवरण पर अगले ७ कार्यदिवस के भीतर एक पंक्ति से लेकर एक अनुच्छेद तक की टिप्पणी जोड़ सकता है।"
+ },
+ {
+  "subject": "deadline_escalation",
+  "aspect": "hrbp_contact_working_days",
+  "value": 3,
+  "section": "३.५",
+  "page": 11,
+  "evidence": "३ कार्यदिवस तक कोई प्रतिक्रिया न मिलने पर मानव संसाधन व्यापार-भागीदार संबंधित पर्यवेक्षक को व्यक्तिगत रूप से संपर्क करता है।"
+ },
+ {
+  "subject": "deadline_escalation",
+  "aspect": "department_head_working_days",
+  "value": 5,
+  "section": "३.५",
+  "page": 11,
+  "evidence": "इसके पश्चात् ५ कार्यदिवस और बीतने पर विषय विभागीय प्रमुख के समक्ष रखा जाता है।"
+ },
+ {
+  "subject": "window_extension",
+  "aspect": "max_working_days",
+  "value": 5,
+  "section": "३.६",
+  "page": 12,
+  "evidence": "विस्तार की अधिकतम अवधि ५ कार्यदिवस है, और एक विभाग एक चक्र में केवल एक बार ही ऐसा विस्तार प्राप्त कर सकता है।"
+ },
+ {
+  "subject": "appraisal_cycle",
+  "aspect": "minimum_service_months",
+  "value": 4,
+  "section": "४.१",
+  "page": 12,
+  "evidence": "किसी कर्मचारी को उस चक्र में रेटिंग प्राप्त करने के लिए उस चक्र के भीतर कम से कम ४ माह की सक्रिय सेवा पूर्ण करनी आवश्यक है।"
+ },
+ {
+  "subject": "appraisal_cycle",
+  "aspect": "latest_joining_date_for_rating",
+  "value": "३० नवंबर",
+  "section": "४.१",
+  "page": 12,
+  "evidence": "व्यावहारिक रूप से इसका अर्थ यह है कि जिस कर्मचारी ने चक्र के दौरान ३० नवंबर को अथवा उससे पूर्व कार्यभार ग्रहण किया है, वह उस चक्र में मूल्यांकित होगा।"
+ },
+ {
+  "subject": "active_service",
+  "aspect": "earned_leave_not_deducted_working_days",
+  "value": 15,
+  "section": "४.१",
+  "page": 13,
+  "evidence": "साप्ताहिक अवकाश, घोषित सार्वजनिक अवकाश और १५ कार्यदिवस तक का सामान्य उपार्जित अवकाश इस गणना में कटौती नहीं करते।"
+ },
+ {
+  "subject": "first_appraisal",
+  "aspect": "max_period_months",
+  "value": 16,
+  "section": "४.२",
+  "page": 13,
+  "evidence": "इस प्रकार प्रथम मूल्यांकन की अधिकतम संभव अवधि १६ माह हो सकती है — अर्थात् उस कर्मचारी के लिए जिसने १ दिसंबर को कार्यभार ग्रहण किया।"
+ },
+ {
+  "subject": "exit_note",
+  "aspect": "deadline_working_days",
+  "value": 10,
+  "section": "४.३",
+  "page": 14,
+  "evidence": "इसके स्थान पर प्राथमिक मूल्यांकनकर्ता कार्यमुक्ति की तिथि से १० कार्यदिवस के भीतर एक *सेवा-समापन टिप्पणी* लिखता है, जिसमें कर्मचारी के उत्तरदायित्व, उल्लेखनीय कार्य और अपूर्ण सौंपे गए विषय दर्ज होते हैं।"
+ },
+ {
+  "subject": "dimension_weights",
+  "aspect": "total_percent",
+  "value": 100,
+  "section": "५.२",
+  "page": 16,
+  "evidence": "इनका भार निम्नानुसार है और योग सदैव १०० होता है।"
+ },
+ {
+  "subject": "dimension_weight",
+  "aspect": "work_outcomes_individual_contributor_percent",
+  "value": 35,
+  "section": "५.२",
+  "page": 17,
+  "evidence": "| १ | कार्य-परिणाम एवं वितरण | ३५ |"
+ },
+ {
+  "subject": "dimension_weight",
+  "aspect": "quality_individual_contributor_percent",
+  "value": 20,
+  "section": "५.२",
+  "page": 17,
+  "evidence": "| २ | कार्य की गुणवत्ता एवं तकनीकी दक्षता | २० |"
+ },
+ {
+  "subject": "dimension_weight",
+  "aspect": "collaboration_individual_contributor_percent",
+  "value": 15,
+  "section": "५.२",
+  "page": 17,
+  "evidence": "| ३ | सहयोग एवं अंतर-दल कार्य | १५ |"
+ },
+ {
+  "subject": "dimension_weight",
+  "aspect": "customer_orientation_individual_contributor_percent",
+  "value": 12,
+  "section": "५.२",
+  "page": 17,
+  "evidence": "| ४ | ग्राहक एवं हितधारक अभिमुखता | १२ |"
+ },
+ {
+  "subject": "dimension_weight",
+  "aspect": "initiative_individual_contributor_percent",
+  "value": 10,
+  "section": "५.२",
+  "page": 17,
+  "evidence": "| ५ | पहल, स्वामित्व एवं समस्या-समाधान | १० |"
+ },
+ {
+  "subject": "dimension_weight",
+  "aspect": "compliance_individual_contributor_percent",
+  "value": 8,
+  "section": "५.२",
+  "page": 17,
+  "evidence": "| ६ | अनुपालन, सत्यनिष्ठा एवं प्रक्रिया-निष्ठा | ८ |"
+ },
+ {
+  "subject": "dimension_weight",
+  "aspect": "work_outcomes_supervisory_percent",
+  "value": 30,
+  "section": "५.३",
+  "page": 17,
+  "evidence": "| १ | कार्य-परिणाम एवं वितरण | ३० |"
+ },
+ {
+  "subject": "dimension_weight",
+  "aspect": "team_development_supervisory_percent",
+  "value": 15,
+  "section": "५.३",
+  "page": 17,
+  "evidence": "| २ | दल-विकास एवं लोक-प्रबंधन | १५ |"
+ },
+ {
+  "subject": "dimension_weight",
+  "aspect": "quality_supervisory_percent",
+  "value": 15,
+  "section": "५.३",
+  "page": 17,
+  "evidence": "| ३ | कार्य की गुणवत्ता एवं तकनीकी दक्षता | १५ |"
+ },
+ {
+  "subject": "dimension_weight",
+  "aspect": "collaboration_supervisory_percent",
+  "value": 12,
+  "section": "५.३",
+  "page": 17,
+  "evidence": "| ४ | सहयोग एवं अंतर-दल कार्य | १२ |"
+ },
+ {
+  "subject": "dimension_weight",
+  "aspect": "customer_orientation_supervisory_percent",
+  "value": 10,
+  "section": "५.३",
+  "page": 17,
+  "evidence": "| ५ | ग्राहक एवं हितधारक अभिमुखता | १० |"
+ },
+ {
+  "subject": "dimension_weight",
+  "aspect": "initiative_supervisory_percent",
+  "value": 10,
+  "section": "५.३",
+  "page": 17,
+  "evidence": "| ६ | पहल, स्वामित्व एवं समस्या-समाधान | १० |"
+ },
+ {
+  "subject": "dimension_weight",
+  "aspect": "compliance_supervisory_percent",
+  "value": 8,
+  "section": "५.३",
+  "page": 17,
+  "evidence": "| ७ | अनुपालन, सत्यनिष्ठा एवं प्रक्रिया-निष्ठा | ८ |"
+ },
+ {
+  "subject": "supervisory_dimension",
+  "aspect": "minimum_months_in_role",
+  "value": 6,
+  "section": "५.३",
+  "page": 18,
+  "evidence": "यदि कोई कर्मचारी चक्र के मध्य में पर्यवेक्षी भूमिका ग्रहण करता है, तो उस भूमिका में उसके कम से कम ६ माह पूर्ण होने पर ही सातवाँ आयाम लागू होगा; अन्यथा उसका मूल्यांकन व्यक्तिगत अंशदायी ढाँचे पर ही होगा और नए उत्तरदायित्व का उल्लेख टिप्पणी में किया जाएगा।"
+ },
+ {
+  "subject": "dimension_weight",
+  "aspect": "maximum_single_dimension_percent",
+  "value": 40,
+  "section": "५.५",
+  "page": 20,
+  "evidence": "प्रथम, किसी एक आयाम का भार ४० प्रतिशत से अधिक नहीं हो सकता, क्योंकि उससे अधिक भार पर शेष आयाम केवल अलंकरण बनकर रह जाते हैं।"
+ },
+ {
+  "subject": "dimension_weight",
+  "aspect": "minimum_single_dimension_percent",
+  "value": 5,
+  "section": "५.५",
+  "page": 20,
+  "evidence": "द्वितीय, किसी भी आयाम का भार ५ प्रतिशत से कम नहीं हो सकता; यदि कोई आयाम इतना अप्रासंगिक है तो उसे हटाना उचित होगा, घटाना नहीं।"
+ },
+ {
+  "subject": "performance_dimensions",
+  "aspect": "maximum_count",
+  "value": 7,
+  "section": "५.५",
+  "page": 20,
+  "evidence": "चतुर्थ, आयामों की कुल संख्या ७ से अधिक नहीं हो सकती।"
+ },
+ {
+  "subject": "weight_variation",
+  "aspect": "approval_deadline_date",
+  "value": "१५ मार्च",
+  "section": "५.५",
+  "page": 20,
+  "evidence": "विचलित विन्यास को मानव संसाधन प्रमुख की स्वीकृति आवश्यक है, और यह स्वीकृति चक्र आरंभ होने से पूर्व, अर्थात् १५ मार्च तक, प्राप्त कर लेनी होगी।"
+ },
+ {
+  "subject": "dimension_disclosure",
+  "aspect": "deadline_date",
+  "value": "३० अप्रैल",
+  "section": "५.६",
+  "page": 21,
+  "evidence": "लागू आयाम और उनके भार प्रत्येक कर्मचारी को चक्र के प्रथम माह में, अर्थात् ३० अप्रैल तक, प्रणाली के माध्यम से दिखाई देने चाहिए।"
+ },
+ {
+  "subject": "rating_scale",
+  "aspect": "points",
+  "value": 5,
+  "section": "६.१",
+  "page": 21,
+  "evidence": "प्रत्येक आयाम पर अंक ५-बिंदु पैमाने पर दिया जाता है, जिसमें केवल पूर्णांक मान्य हैं।"
+ },
+ {
+  "subject": "rating_band",
+  "aspect": "overall_five_minimum_weighted_score",
+  "value": "४.५०",
+  "section": "६.४",
+  "page": 23,
+  "evidence": "| ४.५० से ५.०० | ५ | असाधारण निष्पादन |"
+ },
+ {
+  "subject": "rating_band",
+  "aspect": "overall_four_range",
+  "value": "३.८० से ४.४९",
+  "section": "६.४",
+  "page": 23,
+  "evidence": "| ३.८० से ४.४९ | ४ | अपेक्षा से अधिक निष्पादन |"
+ },
+ {
+  "subject": "rating_band",
+  "aspect": "overall_three_range",
+  "value": "२.८० से ३.७९",
+  "section": "६.४",
+  "page": 23,
+  "evidence": "| २.८० से ३.७९ | ३ | पूर्णतः अपेक्षानुरूप निष्पादन |"
+ },
+ {
+  "subject": "rating_band",
+  "aspect": "overall_two_range",
+  "value": "२.०० से २.७९",
+  "section": "६.४",
+  "page": 23,
+  "evidence": "| २.०० से २.७९ | २ | आंशिक रूप से अपेक्षानुरूप निष्पादन |"
+ },
+ {
+  "subject": "rating_band",
+  "aspect": "overall_one_upper_limit",
+  "value": "२.००",
+  "section": "६.४",
+  "page": 23,
+  "evidence": "| २.०० से कम | १ | अपेक्षा से काफी नीचे निष्पादन |"
+ },
+ {
+  "subject": "override_rule",
+  "aspect": "compliance_low_score_caps_overall_at",
+  "value": 3,
+  "section": "६.५",
+  "page": 24,
+  "evidence": "प्रथम अधिभावी नियम। यदि अनुपालन, सत्यनिष्ठा एवं प्रक्रिया-निष्ठा आयाम पर कर्मचारी को १ अथवा २ अंक मिला है, तो उसकी समग्र रेटिंग ३ से अधिक नहीं हो सकती, चाहे भारित अंक कुछ भी हो।"
+ },
+ {
+  "subject": "override_rule",
+  "aspect": "any_dimension_one_caps_overall_at",
+  "value": 2,
+  "section": "६.५",
+  "page": 25,
+  "evidence": "द्वितीय अधिभावी नियम। यदि किसी भी एक आयाम पर कर्मचारी को १ अंक मिला है, तो उसकी समग्र रेटिंग २ से अधिक नहीं हो सकती।"
+ },
+ {
+  "subject": "override_rule",
+  "aspect": "dimensions_at_five_required_for_overall_five",
+  "value": 4,
+  "section": "६.५",
+  "page": 25,
+  "evidence": "तृतीय अधिभावी नियम। समग्र रेटिंग ५ तभी दी जा सकती है जब कर्मचारी ने कम से कम ४ आयामों पर ५ अंक प्राप्त किए हों और किसी भी आयाम पर उसका अंक ३ से कम न हो।"
+ },
+ {
+  "subject": "justification",
+  "aspect": "minimum_words_for_extreme_scores",
+  "value": 60,
+  "section": "६.६",
+  "page": 26,
+  "evidence": "५, २ और १ अंकों के लिए कम से कम ६० शब्दों का औचित्य आवश्यक है, और उसमें कम से कम दो पृथक, तिथियुक्त दृष्टांत होने चाहिए।"
+ },
+ {
+  "subject": "justification",
+  "aspect": "dated_examples_for_extreme_scores",
+  "value": 2,
+  "section": "६.६",
+  "page": 26,
+  "evidence": "५, २ और १ अंकों के लिए कम से कम ६० शब्दों का औचित्य आवश्यक है, और उसमें कम से कम दो पृथक, तिथियुक्त दृष्टांत होने चाहिए।"
+ },
+ {
+  "subject": "self_assessment",
+  "aspect": "key_achievements_minimum",
+  "value": 3,
+  "section": "७.३",
+  "page": 27,
+  "evidence": "प्रथम खंड — प्रमुख उपलब्धियाँ। कर्मचारी वर्ष की ३ से ५ प्रमुख उपलब्धियाँ लिखता है।"
+ },
+ {
+  "subject": "self_assessment",
+  "aspect": "key_achievements_maximum",
+  "value": 5,
+  "section": "७.३",
+  "page": 27,
+  "evidence": "प्रथम खंड — प्रमुख उपलब्धियाँ। कर्मचारी वर्ष की ३ से ५ प्रमुख उपलब्धियाँ लिखता है।"
+ },
+ {
+  "subject": "self_assessment",
+  "aspect": "achievement_max_words",
+  "value": 200,
+  "section": "७.३",
+  "page": 27,
+  "evidence": "प्रत्येक उपलब्धि का विवरण अधिकतम २०० शब्दों में होगा और उसमें चार बातें स्पष्ट होनी चाहिए — क्या किया गया, किस अवधि में किया गया, उसका प्रभाव क्या रहा, और उस कार्य में कर्मचारी की अपनी भूमिका क्या थी।"
+ },
+ {
+  "subject": "self_assessment",
+  "aspect": "max_words",
+  "value": 1800,
+  "section": "७.४",
+  "page": 28,
+  "evidence": "संपूर्ण स्व-मूल्यांकन की अधिकतम लंबाई १८०० शब्द है।"
+ },
+ {
+  "subject": "self_assessment",
+  "aspect": "max_words_with_quarterly_records",
+  "value": 2500,
+  "section": "७.४",
+  "page": 28,
+  "evidence": "जिन कर्मचारियों ने चारों तिमाहियों में धारा ३.२ के अंतर्गत विवरण दर्ज किए हैं, उनके लिए यह सीमा बढ़ाकर २५०० शब्द कर दी जाती है, क्योंकि उनके पास उद्धृत करने योग्य सामग्री अधिक होती है।"
+ },
+ {
+  "subject": "self_assessment",
+  "aspect": "score_gap_requiring_written_reason",
+  "value": 2,
+  "section": "७.५",
+  "page": 29,
+  "evidence": "यदि किसी आयाम पर पर्यवेक्षक का अंक कर्मचारी के स्व-अंक से २ अथवा उससे अधिक बिंदु नीचे है, तो पर्यवेक्षक को उस अंतर का विशिष्ट कारण अलग से लिखना होगा।"
+ },
+ {
+  "subject": "supervisor_evaluation",
+  "aspect": "minimum_months_to_rate_alone",
+  "value": 3,
+  "section": "८.१",
+  "page": 30,
+  "evidence": "यदि कोई पर्यवेक्षक चक्र की समाप्ति के समय कर्मचारी का औपचारिक पर्यवेक्षक तो है, किंतु उसने कर्मचारी के साथ ३ माह से कम अवधि तक कार्य किया है, तो वह अकेले मूल्यांकन नहीं लिख सकता।"
+ },
+ {
+  "subject": "supervisor_evaluation",
+  "aspect": "summary_minimum_words",
+  "value": 300,
+  "section": "८.४",
+  "page": 32,
+  "evidence": "समग्र सारांश की न्यूनतम लंबाई ३०० शब्द है।"
+ },
+ {
+  "subject": "second_level_review",
+  "aspect": "completion_working_days",
+  "value": 7,
+  "section": "८.५",
+  "page": 32,
+  "evidence": "प्राथमिक मूल्यांकनकर्ता का प्रस्ताव पूर्ण होने के पश्चात् वह द्वितीय-स्तरीय समीक्षक के पास जाता है, जिसे ७ कार्यदिवस के भीतर अपनी कार्रवाई पूर्ण करनी होती है।"
+ },
+ {
+  "subject": "second_level_review",
+  "aspect": "evaluator_response_working_days",
+  "value": 3,
+  "section": "८.५",
+  "page": 32,
+  "evidence": "वह प्रस्ताव को प्रश्नों सहित वापस भेज सकता है — किंतु एक ही चक्र में एक ही मूल्यांकन को अधिकतम एक बार ही वापस भेजा जा सकता है, और प्राथमिक मूल्यांकनकर्ता को ३ कार्यदिवस के भीतर उत्तर देना होता है।"
+ },
+ {
+  "subject": "multi_source_feedback",
+  "aspect": "minimum_providers",
+  "value": 4,
+  "section": "९.२",
+  "page": 33,
+  "evidence": "प्रत्येक मूल्यांकित कर्मचारी के लिए प्रतिपुष्टिदाताओं की न्यूनतम संख्या ४ और अधिकतम संख्या ८ निर्धारित है।"
+ },
+ {
+  "subject": "multi_source_feedback",
+  "aspect": "maximum_providers",
+  "value": 8,
+  "section": "९.२",
+  "page": 33,
+  "evidence": "प्रत्येक मूल्यांकित कर्मचारी के लिए प्रतिपुष्टिदाताओं की न्यूनतम संख्या ४ और अधिकतम संख्या ८ निर्धारित है।"
+ },
+ {
+  "subject": "multi_source_feedback",
+  "aspect": "employee_nominations_maximum",
+  "value": 6,
+  "section": "९.२",
+  "page": 34,
+  "evidence": "पहले कर्मचारी स्वयं अधिकतम ६ नाम प्रस्तावित करता है।"
+ },
+ {
+  "subject": "multi_source_feedback",
+  "aspect": "supervisor_additions_maximum",
+  "value": 2,
+  "section": "९.२",
+  "page": 34,
+  "evidence": "इसके पश्चात् प्राथमिक मूल्यांकनकर्ता उसमें अधिकतम २ नाम जोड़ सकता है और अधिकतम १ नाम हटा सकता है — हटाने की स्थिति में उसे कारण दर्ज करना होगा, और स्वीकार्य कारण केवल दो हैं: प्रस्तावित व्यक्ति ने कर्मचारी के साथ पर्याप्त अवधि तक कार्य नहीं किया, अथवा उस व्यक्ति के साथ हितों का ऐसा संबंध है जो निष्पक्षता को प्रभावित करता है।"
+ },
+ {
+  "subject": "multi_source_feedback",
+  "aspect": "providers_outside_team_minimum",
+  "value": 2,
+  "section": "९.२",
+  "page": 34,
+  "evidence": "अंतिम सूची में कम से कम २ ऐसे व्यक्ति होने चाहिए जो कर्मचारी के अपने दल से बाहर के हों।"
+ },
+ {
+  "subject": "multi_source_feedback",
+  "aspect": "provider_minimum_months_with_employee",
+  "value": 3,
+  "section": "९.३",
+  "page": 34,
+  "evidence": "प्रतिपुष्टिदाता बनने के लिए संबंधित व्यक्ति को उस चक्र में कर्मचारी के साथ कम से कम ३ माह तक प्रत्यक्ष कार्य-संबंध में रहना आवश्यक है।"
+ },
+ {
+  "subject": "multi_source_feedback",
+  "aspect": "maximum_requests_per_employee_per_cycle",
+  "value": 7,
+  "section": "९.४",
+  "page": 35,
+  "evidence": "कोई भी कर्मचारी एक चक्र में अधिकतम ७ प्रतिपुष्टि-अनुरोध स्वीकार करने के लिए बाध्य है।"
+ },
+ {
+  "subject": "multi_source_feedback",
+  "aspect": "decline_window_hours",
+  "value": 72,
+  "section": "९.४",
+  "page": 35,
+  "evidence": "प्रतिपुष्टिदाता अनुरोध प्राप्त होने के ७२ घंटों के भीतर उसे अस्वीकार कर सकता है, और अस्वीकार करने का कारण बताना आवश्यक नहीं है।"
+ },
+ {
+  "subject": "multi_source_feedback",
+  "aspect": "questionnaire_total_questions",
+  "value": 9,
+  "section": "९.५",
+  "page": 35,
+  "evidence": "प्रतिपुष्टि-प्रश्नावली में कुल ९ प्रश्न हैं — ६ पैमाना-आधारित और ३ वर्णनात्मक।"
+ },
+ {
+  "subject": "multi_source_feedback",
+  "aspect": "questionnaire_scale_questions",
+  "value": 6,
+  "section": "९.५",
+  "page": 35,
+  "evidence": "प्रतिपुष्टि-प्रश्नावली में कुल ९ प्रश्न हैं — ६ पैमाना-आधारित और ३ वर्णनात्मक।"
+ },
+ {
+  "subject": "multi_source_feedback",
+  "aspect": "questionnaire_descriptive_questions",
+  "value": 3,
+  "section": "९.५",
+  "page": 35,
+  "evidence": "प्रतिपुष्टि-प्रश्नावली में कुल ९ प्रश्न हैं — ६ पैमाना-आधारित और ३ वर्णनात्मक।"
+ },
+ {
+  "subject": "multi_source_feedback",
+  "aspect": "estimated_completion_minutes",
+  "value": 15,
+  "section": "९.५",
+  "page": 35,
+  "evidence": "प्रश्नावली पूरी करने में अनुमानित समय १५ मिनट है।"
+ },
+ {
+  "subject": "multi_source_feedback",
+  "aspect": "minimum_responses_for_summary",
+  "value": 3,
+  "section": "९.६",
+  "page": 36,
+  "evidence": "समुच्चयन की शर्त। प्रतिपुष्टि का सारांश प्राथमिक मूल्यांकनकर्ता को तभी दिखाया जाता है जब कम से कम ३ पूर्ण उत्तर प्राप्त हो चुके हों।"
+ },
+ {
+  "subject": "midyear_review",
+  "aspect": "minimum_duration_minutes",
+  "value": 45,
+  "section": "१०.२",
+  "page": 38,
+  "evidence": "मध्य-वर्ष संवाद की न्यूनतम अवधि ४५ मिनट निर्धारित है।"
+ },
+ {
+  "subject": "midyear_review",
+  "aspect": "serious_concern_notification_working_days",
+  "value": 2,
+  "section": "१०.३",
+  "page": 39,
+  "evidence": "यदि संकेत \"गंभीर चिंता\" दर्ज होता है, तो उसकी सूचना २ कार्यदिवस के भीतर द्वितीय-स्तरीय समीक्षक और मानव संसाधन व्यापार-भागीदार दोनों को स्वतः जाती है।"
+ },
+ {
+  "subject": "midyear_review",
+  "aspect": "record_working_days",
+  "value": 5,
+  "section": "१०.४",
+  "page": 39,
+  "evidence": "संवाद का अभिलेखन पर्यवेक्षक द्वारा संवाद के ५ कार्यदिवस के भीतर, और किसी भी स्थिति में ७ नवंबर तक, पूर्ण किया जाएगा।"
+ },
+ {
+  "subject": "midyear_review",
+  "aspect": "record_deadline_date",
+  "value": "७ नवंबर",
+  "section": "१०.४",
+  "page": 39,
+  "evidence": "संवाद का अभिलेखन पर्यवेक्षक द्वारा संवाद के ५ कार्यदिवस के भीतर, और किसी भी स्थिति में ७ नवंबर तक, पूर्ण किया जाएगा।"
+ },
+ {
+  "subject": "midyear_review",
+  "aspect": "record_maximum_words",
+  "value": 600,
+  "section": "१०.४",
+  "page": 39,
+  "evidence": "अभिलेख की लंबाई ६०० शब्दों से अधिक नहीं होगी।"
+ },
+ {
+  "subject": "midyear_review",
+  "aspect": "employee_comment_maximum_words",
+  "value": 300,
+  "section": "१०.४",
+  "page": 39,
+  "evidence": "कर्मचारी को इस अभिलेख पर अधिकतम ३०० शब्दों की टिप्पणी जोड़ने का अधिकार है, और यह टिप्पणी अभिलेख का स्थायी अंग बनती है।"
+ },
+ {
+  "subject": "midyear_review",
+  "aspect": "exemption_service_months",
+  "value": 2,
+  "section": "१०.५",
+  "page": 39,
+  "evidence": "जिस कर्मचारी की सेवा-अवधि १ अक्टूबर तक २ माह से कम है, उसके लिए मध्य-वर्ष समीक्षा वैकल्पिक है, क्योंकि इतनी अल्प अवधि में सार्थक संकेत देना संभव नहीं।"
+ },
+ {
+  "subject": "calibration_group",
+  "aspect": "minimum_employees",
+  "value": 12,
+  "section": "११.२",
+  "page": 41,
+  "evidence": "एक समूह में न्यूनतम १२ कर्मचारी होने चाहिए, अन्यथा तुलना का कोई आधार नहीं बनता।"
+ },
+ {
+  "subject": "calibration_meeting",
+  "aspect": "maximum_employees",
+  "value": 70,
+  "section": "११.२",
+  "page": 41,
+  "evidence": "एक बैठक में विचाराधीन कर्मचारियों की अधिकतम संख्या ७० है।"
+ },
+ {
+  "subject": "calibration_meeting",
+  "aspect": "quorum_minimum_evaluators",
+  "value": 5,
+  "section": "११.३",
+  "page": 41,
+  "evidence": "कोरम के लिए नामित मूल्यांकनकर्ताओं का दो-तिहाई भाग उपस्थित होना आवश्यक है, और किसी भी स्थिति में उपस्थित मूल्यांकनकर्ताओं की संख्या ५ से कम नहीं हो सकती।"
+ },
+ {
+  "subject": "calibration_meeting",
+  "aspect": "adjourned_followup_working_days",
+  "value": 5,
+  "section": "११.३",
+  "page": 42,
+  "evidence": "यदि कोई मूल्यांकनकर्ता अनुपस्थित है, तो उसके कर्मचारियों की रेटिंग उस बैठक में विचाराधीन नहीं आएगी और उन्हें एक अनुवर्ती बैठक के लिए स्थगित किया जाएगा, जो ५ कार्यदिवस के भीतर आयोजित होगी।"
+ },
+ {
+  "subject": "calibration_meeting",
+  "aspect": "maximum_duration_hours",
+  "value": 3,
+  "section": "११.४",
+  "page": 42,
+  "evidence": "बैठक की अधिकतम अवधि ३ घंटे है और एक दिन में एक ही अध्यक्ष अधिकतम २ बैठकों की अध्यक्षता कर सकता है।"
+ },
+ {
+  "subject": "calibration_meeting",
+  "aspect": "maximum_meetings_per_chair_per_day",
+  "value": 2,
+  "section": "११.४",
+  "page": 42,
+  "evidence": "बैठक की अधिकतम अवधि ३ घंटे है और एक दिन में एक ही अध्यक्ष अधिकतम २ बैठकों की अध्यक्षता कर सकता है।"
+ },
+ {
+  "subject": "calibration_meeting",
+  "aspect": "evaluator_presentation_maximum_minutes",
+  "value": 3,
+  "section": "११.४",
+  "page": 42,
+  "evidence": "प्रत्येक प्रकरण में संबंधित मूल्यांकनकर्ता संक्षेप में — अधिकतम ३ मिनट में — अपना प्रस्ताव और उसका मुख्य साक्ष्य प्रस्तुत करता है।"
+ },
+ {
+  "subject": "calibration_minutes",
+  "aspect": "circulation_working_days",
+  "value": 3,
+  "section": "११.६",
+  "page": 43,
+  "evidence": "बैठक का कार्यवृत्त सचिव द्वारा ३ कार्यदिवस के भीतर परिचालित किया जाएगा और ५ कार्यदिवस के भीतर अध्यक्ष द्वारा पुष्ट किया जाएगा।"
+ },
+ {
+  "subject": "calibration_minutes",
+  "aspect": "confirmation_working_days",
+  "value": 5,
+  "section": "११.६",
+  "page": 43,
+  "evidence": "बैठक का कार्यवृत्त सचिव द्वारा ३ कार्यदिवस के भीतर परिचालित किया जाएगा और ५ कार्यदिवस के भीतर अध्यक्ष द्वारा पुष्ट किया जाएगा।"
+ },
+ {
+  "subject": "second_level_calibration",
+  "aspect": "department_threshold_employees",
+  "value": 120,
+  "section": "११.७",
+  "page": 44,
+  "evidence": "जिस विभाग में मूल्यांकित कर्मचारियों की संख्या १२० से अधिक है, वहाँ विभागीय अंशांकन के पश्चात् एक द्वितीय स्तर का अंशांकन व्यवसाय-इकाई के स्तर पर होता है।"
+ },
+ {
+  "subject": "calibration_example",
+  "aspect": "employees_considered",
+  "value": 34,
+  "section": "११.१०",
+  "page": 45,
+  "evidence": "वित्तीय प्रौद्योगिकी प्रभाग में वरिष्ठ विश्लेषक स्तर के लिए २७ मई को अंशांकन बैठक हुई, जिसमें ३४ कर्मचारी विचाराधीन थे।"
+ },
+ {
+  "subject": "calibration_example",
+  "aspect": "evaluators_nominated",
+  "value": 9,
+  "section": "११.१०",
+  "page": 45,
+  "evidence": "नामित मूल्यांकनकर्ता ९ थे, जिनमें से ८ उपस्थित रहे — अर्थात् कोरम की दोनों शर्तें पूरी हुईं।"
+ },
+ {
+  "subject": "calibration_example",
+  "aspect": "evaluators_present",
+  "value": 8,
+  "section": "११.१०",
+  "page": 45,
+  "evidence": "नामित मूल्यांकनकर्ता ९ थे, जिनमें से ८ उपस्थित रहे — अर्थात् कोरम की दोनों शर्तें पूरी हुईं।"
+ },
+ {
+  "subject": "calibration_example",
+  "aspect": "weighted_score_of_top_case",
+  "value": "४.६",
+  "section": "११.१०",
+  "page": 45,
+  "evidence": "इनमें से एक प्रकरण कर्मचारी संजीवनी पात्रा का था, जिनका भारित अंक ४.६ था।"
+ },
+ {
+  "subject": "distribution_guidance",
+  "aspect": "rating_five_percent",
+  "value": 7,
+  "section": "१२.१",
+  "page": 47,
+  "evidence": "| ५ | ७ |"
+ },
+ {
+  "subject": "distribution_guidance",
+  "aspect": "rating_four_percent",
+  "value": 23,
+  "section": "१२.१",
+  "page": 47,
+  "evidence": "| ४ | २३ |"
+ },
+ {
+  "subject": "distribution_guidance",
+  "aspect": "rating_three_percent",
+  "value": 55,
+  "section": "१२.१",
+  "page": 47,
+  "evidence": "| ३ | ५५ |"
+ },
+ {
+  "subject": "distribution_guidance",
+  "aspect": "rating_two_percent",
+  "value": 12,
+  "section": "१२.१",
+  "page": 47,
+  "evidence": "| २ | १२ |"
+ },
+ {
+  "subject": "distribution_guidance",
+  "aspect": "rating_one_percent",
+  "value": 3,
+  "section": "१२.१",
+  "page": 47,
+  "evidence": "| १ | ३ |"
+ },
+ {
+  "subject": "distribution_guidance",
+  "aspect": "tolerance_percentage_points",
+  "value": 6,
+  "section": "१२.३",
+  "page": 47,
+  "evidence": "व्यावहारिक रूप से, किसी समूह का वास्तविक वितरण सांकेतिक अनुपात से किसी भी श्रेणी में ६ प्रतिशत बिंदु तक भिन्न हो सकता है और इसे सामान्य माना जाएगा।"
+ },
+ {
+  "subject": "distribution_guidance",
+  "aspect": "justification_maximum_words",
+  "value": 300,
+  "section": "१२.३",
+  "page": 48,
+  "evidence": "यदि विचलन ६ प्रतिशत बिंदु से अधिक है, तो विभागीय प्रमुख को अंशांकन कार्यवृत्त के साथ अधिकतम ३०० शब्दों का लिखित स्पष्टीकरण संलग्न करना होगा।"
+ },
+ {
+  "subject": "distribution_guidance",
+  "aspect": "minimum_group_size",
+  "value": 25,
+  "section": "१२.४",
+  "page": 48,
+  "evidence": "२५ से कम मूल्यांकित कर्मचारियों वाले समूह पर वितरण-मार्गदर्शन लागू नहीं होता।"
+ },
+ {
+  "subject": "distribution_guidance",
+  "aspect": "consecutive_cycles_triggering_audit",
+  "value": 3,
+  "section": "१२.५",
+  "page": 48,
+  "evidence": "यदि किसी विभाग में लगातार ३ चक्रों तक ६ प्रतिशत बिंदु से अधिक का विचलन एक ही दिशा में बना रहता है, तो मानव संसाधन प्रमुख उस विभाग की मूल्यांकन-प्रक्रिया की लेखापरीक्षा कराएगा।"
+ },
+ {
+  "subject": "rating_communication",
+  "aspect": "minimum_duration_minutes",
+  "value": 30,
+  "section": "१३.१",
+  "page": 48,
+  "evidence": "समग्र रेटिंग कर्मचारी को एक आमने-सामने के संवाद में बताई जाएगी, जिसकी न्यूनतम अवधि ३० मिनट है।"
+ },
+ {
+  "subject": "rating_communication",
+  "aspect": "written_summary_working_days",
+  "value": 2,
+  "section": "१३.४",
+  "page": 50,
+  "evidence": "संवाद के २ कार्यदिवस के भीतर संपूर्ण मूल्यांकन — आयाम-वार अंक, औचित्य, समग्र रेटिंग और सारांश — कर्मचारी के लिए प्रणाली में दृश्य कर दिया जाएगा।"
+ },
+ {
+  "subject": "rating_communication",
+  "aspect": "acknowledgement_working_days",
+  "value": 5,
+  "section": "१३.४",
+  "page": 50,
+  "evidence": "कर्मचारी से अपेक्षा है कि वह इसे ५ कार्यदिवस के भीतर देखकर प्राप्ति दर्ज करे।"
+ },
+ {
+  "subject": "rating_communication",
+  "aspect": "deemed_received_working_days",
+  "value": 7,
+  "section": "१३.४",
+  "page": 50,
+  "evidence": "यदि वह ऐसा नहीं करता, तो ७ कार्यदिवस बीतने पर प्रणाली स्वतः \"प्राप्त माना गया\" अंकित कर देती है, और उसके बाद भी पुनरीक्षण की समय-सीमा उसी मूल तिथि से गिनी जाती है जिस दिन मूल्यांकन दृश्य हुआ था।"
+ },
+ {
+  "subject": "rating_communication",
+  "aspect": "employee_comment_maximum_words",
+  "value": 500,
+  "section": "१३.४",
+  "page": 50,
+  "evidence": "कर्मचारी को अपने मूल्यांकन पर अधिकतम ५०० शब्दों की लिखित टिप्पणी जोड़ने का अधिकार है।"
+ },
+ {
+  "subject": "review_appeal",
+  "aspect": "filing_window_working_days",
+  "value": 10,
+  "section": "१४.१",
+  "page": 51,
+  "evidence": "आवेदन मूल्यांकन के प्रणाली में दृश्य होने की तिथि से १० कार्यदिवस के भीतर प्रस्तुत करना होगा।"
+ },
+ {
+  "subject": "review_appeal",
+  "aspect": "valid_grounds_count",
+  "value": 3,
+  "section": "१४.२",
+  "page": 51,
+  "evidence": "पुनरीक्षण केवल तीन आधारों पर स्वीकार्य है, और आवेदन में यह स्पष्ट रूप से बताना होगा कि कौन-सा आधार लागू हो रहा है।"
+ },
+ {
+  "subject": "review_appeal",
+  "aspect": "application_maximum_words",
+  "value": 1000,
+  "section": "१४.३",
+  "page": 52,
+  "evidence": "आवेदन निर्धारित प्रपत्र पर प्रस्तुत होगा, जिसकी अधिकतम लंबाई १००० शब्द है।"
+ },
+ {
+  "subject": "review_appeal",
+  "aspect": "maximum_attachments",
+  "value": 5,
+  "section": "१४.३",
+  "page": 52,
+  "evidence": "इसके साथ संलग्नक दिए जा सकते हैं, किंतु संलग्नकों की संख्या ५ से अधिक नहीं होगी और वे सभी उसी चक्र की अवधि के होने चाहिए।"
+ },
+ {
+  "subject": "review_committee",
+  "aspect": "member_count",
+  "value": 3,
+  "section": "१४.४",
+  "page": 52,
+  "evidence": "पुनरीक्षण समिति में ३ सदस्य होते हैं, और उसका गठन मानव संसाधन प्रमुख द्वारा आवेदन प्राप्ति के ५ कार्यदिवस के भीतर किया जाता है।"
+ },
+ {
+  "subject": "review_committee",
+  "aspect": "constitution_working_days",
+  "value": 5,
+  "section": "१४.४",
+  "page": 52,
+  "evidence": "पुनरीक्षण समिति में ३ सदस्य होते हैं, और उसका गठन मानव संसाधन प्रमुख द्वारा आवेदन प्राप्ति के ५ कार्यदिवस के भीतर किया जाता है।"
+ },
+ {
+  "subject": "review_committee",
+  "aspect": "evaluator_explanation_working_days",
+  "value": 5,
+  "section": "१४.५",
+  "page": 53,
+  "evidence": "समिति प्राथमिक मूल्यांकनकर्ता से लिखित स्पष्टीकरण माँगती है, जिसे ५ कार्यदिवस के भीतर देना अनिवार्य है।"
+ },
+ {
+  "subject": "review_committee",
+  "aspect": "decision_working_days",
+  "value": 15,
+  "section": "१४.५",
+  "page": 53,
+  "evidence": "समिति का निर्णय आवेदन प्राप्ति की तिथि से १५ कार्यदिवस के भीतर दिया जाएगा।"
+ },
+ {
+  "subject": "review_committee",
+  "aspect": "extension_working_days",
+  "value": 5,
+  "section": "१४.५",
+  "page": 53,
+  "evidence": "यदि किसी प्रकरण में अतिरिक्त साक्ष्य एकत्र करना आवश्यक हो, तो अध्यक्ष एक बार में अधिकतम ५ कार्यदिवस का विस्तार ले सकता है, और इसकी सूचना कर्मचारी को लिखित रूप में दी जाएगी।"
+ },
+ {
+  "subject": "review_committee",
+  "aspect": "support_person_count",
+  "value": 1,
+  "section": "१४.५",
+  "page": 53,
+  "evidence": "कर्मचारी को समिति के समक्ष मौखिक रूप से अपनी बात रखने का अधिकार है, और वह इस सुनवाई में संगठन के किसी एक सहकर्मी को सहायक के रूप में साथ ला सकता है।"
+ },
+ {
+  "subject": "review_appeal",
+  "aspect": "applications_per_cycle",
+  "value": 1,
+  "section": "१४.८",
+  "page": 54,
+  "evidence": "एक कर्मचारी एक चक्र में एक ही पुनरीक्षण आवेदन प्रस्तुत कर सकता है।"
+ },
+ {
+  "subject": "reevaluation_remand",
+  "aspect": "new_evaluation_working_days",
+  "value": 10,
+  "section": "१४.६",
+  "page": 54,
+  "evidence": "पुनर्मूल्यांकन हेतु प्रत्यावर्तन। यदि चूक इतनी मूलभूत है कि समिति के पास निर्णय लेने योग्य सामग्री ही नहीं है — जैसे मूल्यांकन में औचित्य लिखा ही न गया हो — तो समिति संपूर्ण मूल्यांकन द्वितीय-स्तरीय समीक्षक के पास लौटा देती है, जो १० कार्यदिवस के भीतर नया मूल्यांकन तैयार कराएगा।"
+ },
+ {
+  "subject": "dispute_example",
+  "aspect": "recomputed_weighted_score",
+  "value": "३.६",
+  "section": "१४.९",
+  "page": 56,
+  "evidence": "पुनर्गणना इस प्रकार हुई: (४×३५) + (३×२०) + (३×१५) + (४×१२) + (३×१०) + (४×८) = १४० + ६० + ४५ + ४८ + ३० + ३२ = ३५५, अर्थात् भारित अंक ३.६।"
+ },
+ {
+  "subject": "low_rating",
+  "aspect": "rating_two_notification_working_days",
+  "value": 10,
+  "section": "१५.२",
+  "page": 57,
+  "evidence": "जिस कर्मचारी की समग्र रेटिंग २ है, उसके प्रकरण की सूचना प्राथमिक मूल्यांकनकर्ता संप्रेषण-संवाद के १० कार्यदिवस के भीतर मानव संसाधन व्यापार-भागीदार को देगा।"
+ },
+ {
+  "subject": "low_rating",
+  "aspect": "consecutive_two_review_working_days",
+  "value": 5,
+  "section": "१५.३",
+  "page": 58,
+  "evidence": "यदि किसी कर्मचारी की समग्र रेटिंग लगातार दो चक्रों में २ रही है, तो प्रकरण की समीक्षा विभागीय प्रमुख द्वारा की जाएगी, और यह समीक्षा द्वितीय चक्र के संप्रेषण के ५ कार्यदिवस के भीतर आरंभ होगी।"
+ },
+ {
+  "subject": "low_rating",
+  "aspect": "rating_one_notification_working_days",
+  "value": 5,
+  "section": "१५.४",
+  "page": 58,
+  "evidence": "समग्र रेटिंग १ के प्रत्येक प्रकरण की सूचना संप्रेषण के ५ कार्यदिवस के भीतर सीधे मानव संसाधन प्रमुख को जाएगी।"
+ },
+ {
+  "subject": "development_dialogue",
+  "aspect": "scheduling_working_days",
+  "value": 30,
+  "section": "१५.५",
+  "page": 59,
+  "evidence": "यह संवाद संप्रेषण के ३० कार्यदिवस के भीतर आयोजित होगा।"
+ },
+ {
+  "subject": "high_performance_list",
+  "aspect": "department_submission_working_days",
+  "value": 5,
+  "section": "१६.१",
+  "page": 60,
+  "evidence": "विभागीय सूची अंशांकन कार्यवृत्त की पुष्टि के ५ कार्यदिवस के भीतर विभागीय प्रमुख को, और समेकित संगठन-स्तरीय सूची १५ कार्यदिवस के भीतर संबंधित व्यवसाय-इकाई प्रमुख को प्रस्तुत होती है।"
+ },
+ {
+  "subject": "high_performance_list",
+  "aspect": "business_unit_submission_working_days",
+  "value": 15,
+  "section": "१६.१",
+  "page": 60,
+  "evidence": "विभागीय सूची अंशांकन कार्यवृत्त की पुष्टि के ५ कार्यदिवस के भीतर विभागीय प्रमुख को, और समेकित संगठन-स्तरीय सूची १५ कार्यदिवस के भीतर संबंधित व्यवसाय-इकाई प्रमुख को प्रस्तुत होती है।"
+ },
+ {
+  "subject": "high_performance_list",
+  "aspect": "evidence_summary_maximum_pages",
+  "value": 2,
+  "section": "१६.१",
+  "page": 60,
+  "evidence": "प्रत्येक नाम के साथ एक साक्ष्य-सारांश संलग्न होता है, जिसकी लंबाई २ पृष्ठ से अधिक नहीं होगी।"
+ },
+ {
+  "subject": "record_retention",
+  "aspect": "full_evaluation_record_years",
+  "value": 7,
+  "section": "१७.१",
+  "page": 61,
+  "evidence": "| पूर्ण मूल्यांकन अभिलेख | ७ वर्ष |"
+ },
+ {
+  "subject": "record_retention",
+  "aspect": "review_committee_record_years",
+  "value": 8,
+  "section": "१७.१",
+  "page": 61,
+  "evidence": "| पुनरीक्षण समिति का अभिलेख | ८ वर्ष |"
+ },
+ {
+  "subject": "record_retention",
+  "aspect": "calibration_minutes_years",
+  "value": 5,
+  "section": "१७.१",
+  "page": 61,
+  "evidence": "| अंशांकन बैठक का कार्यवृत्त | ५ वर्ष |"
+ },
+ {
+  "subject": "record_retention",
+  "aspect": "midyear_record_years",
+  "value": 4,
+  "section": "१७.१",
+  "page": 61,
+  "evidence": "| मध्य-वर्ष समीक्षा का अभिलेख | ४ वर्ष |"
+ },
+ {
+  "subject": "record_retention",
+  "aspect": "quarterly_record_years",
+  "value": 3,
+  "section": "१७.१",
+  "page": 61,
+  "evidence": "| त्रैमासिक विवरण | ३ वर्ष |"
+ },
+ {
+  "subject": "record_retention",
+  "aspect": "multi_source_raw_responses_months",
+  "value": 18,
+  "section": "१७.१",
+  "page": 61,
+  "evidence": "| बहु-स्रोत प्रतिपुष्टि के मूल उत्तर | १८ माह |"
+ },
+ {
+  "subject": "record_retention",
+  "aspect": "post_exit_active_system_years",
+  "value": 3,
+  "section": "१७.२",
+  "page": 62,
+  "evidence": "किसी कर्मचारी की सेवा समाप्त होने पर उसके निष्पादन अभिलेख सक्रिय प्रणाली में ३ वर्ष तक उपलब्ध रहते हैं, तत्पश्चात् संग्रहागार में स्थानांतरित हो जाते हैं।"
+ },
+ {
+  "subject": "record_access",
+  "aspect": "previous_cycles_visible_to_new_supervisor",
+  "value": 2,
+  "section": "१७.३",
+  "page": 62,
+  "evidence": "जब कोई कर्मचारी किसी नए पर्यवेक्षक के अधीन आता है, तो नए पर्यवेक्षक को उसके पिछले २ चक्रों के अभिलेख दिखाई देते हैं।"
+ },
+ {
+  "subject": "access_log",
+  "aspect": "retention_years",
+  "value": 5,
+  "section": "१७.३",
+  "page": 63,
+  "evidence": "यह पहुँच-अभिलेख ५ वर्ष तक संरक्षित रहता है।"
+ },
+ {
+  "subject": "record_copy",
+  "aspect": "provision_working_days",
+  "value": 10,
+  "section": "१७.४",
+  "page": 63,
+  "evidence": "कर्मचारी अपने किसी भी चक्र के संपूर्ण मूल्यांकन अभिलेख की प्रतिलिपि माँग सकता है, और वह उसे अनुरोध के १० कार्यदिवस के भीतर उपलब्ध कराई जाएगी।"
+ },
+ {
+  "subject": "interim_note",
+  "aspect": "trigger_months_with_outgoing_supervisor",
+  "value": 3,
+  "section": "१८.२",
+  "page": 64,
+  "evidence": "जब कोई कर्मचारी चक्र के मध्य में पर्यवेक्षक बदलता है, तो निवर्तमान पर्यवेक्षक एक *अंतरिम निष्पादन टिप्पणी* लिखेगा, यदि कर्मचारी उसके अधीन उस चक्र में ३ माह से अधिक रहा हो।"
+ },
+ {
+  "subject": "interim_note",
+  "aspect": "deadline_working_days",
+  "value": 10,
+  "section": "१८.२",
+  "page": 64,
+  "evidence": "यह टिप्पणी स्थानांतरण प्रभावी होने की तिथि से १० कार्यदिवस के भीतर प्रणाली में दर्ज की जाएगी।"
+ },
+ {
+  "subject": "interim_note",
+  "aspect": "maximum_words",
+  "value": 800,
+  "section": "१८.२",
+  "page": 64,
+  "evidence": "इसकी अधिकतम लंबाई ८०० शब्द है।"
+ },
+ {
+  "subject": "primary_evaluator",
+  "aspect": "supervisors_triggering_hrbp_coordination",
+  "value": 3,
+  "section": "१८.४",
+  "page": 65,
+  "evidence": "यदि किसी कर्मचारी के एक ही चक्र में ३ अथवा अधिक पर्यवेक्षक रहे हैं, तो मानव संसाधन व्यापार-भागीदार संयोजक की भूमिका निभाएगा।"
+ },
+ {
+  "subject": "transfer_example",
+  "aspect": "months_with_first_supervisor",
+  "value": 5,
+  "section": "१८.६",
+  "page": 66,
+  "evidence": "१ अप्रैल से ३१ अगस्त तक — अर्थात् ५ माह — वे प्रभाग के एक वरिष्ठ प्रबंधक के अधीन थीं।"
+ },
+ {
+  "subject": "transfer_example",
+  "aspect": "months_with_second_supervisor",
+  "value": 7,
+  "section": "१८.६",
+  "page": 66,
+  "evidence": "१ सितंबर को उनका दल पुनर्गठित हुआ और वे एक अन्य वरिष्ठ प्रबंधक के अधीन आ गईं, जिनके साथ उन्होंने शेष ७ माह कार्य किया।"
+ },
+ {
+  "subject": "transfer_example",
+  "aspect": "final_weighted_score",
+  "value": "४.०",
+  "section": "१८.६",
+  "page": 68,
+  "evidence": "भारित अंक की गणना: (४×३५) + (४×२०) + (४×१५) + (४×१२) + (४×१०) + (४×८) = ४००, अर्थात् भारित अंक ४.०, जिससे समग्र रेटिंग ४ निकली।"
+ },
+ {
+  "subject": "long_absence",
+  "aspect": "adjustment_note_threshold_working_days",
+  "value": 30,
+  "section": "१९.१",
+  "page": 68,
+  "evidence": "यदि किसी कर्मचारी की स्वीकृत अनुपस्थिति चक्र में कुल ३० कार्यदिवस से अधिक रही है, तो प्राथमिक मूल्यांकनकर्ता मूल्यांकन के आरंभ में एक *अवधि-समायोजन टिप्पणी* दर्ज करेगा।"
+ },
+ {
+  "subject": "long_absence",
+  "aspect": "reintegration_weeks",
+  "value": 6,
+  "section": "१९.३",
+  "page": 69,
+  "evidence": "दीर्घ अनुपस्थिति के पश्चात् कार्य पर लौटने वाले कर्मचारी के लिए ६ सप्ताह की पुनःसंयोजन अवधि मान्य है।"
+ },
+ {
+  "subject": "absence_example",
+  "aspect": "absence_months",
+  "value": 4,
+  "section": "१९.५",
+  "page": 70,
+  "evidence": "गुणवत्ता-आश्वासन प्रभाग की वरिष्ठ परीक्षक फ़रज़ाना अंसारी चक्र २०२५-२६ में १ जुलाई से ३१ अक्टूबर तक — अर्थात् ४ माह — स्वीकृत दीर्घ अवकाश पर रहीं।"
+ },
+ {
+  "subject": "absence_example",
+  "aspect": "feedback_responses_received",
+  "value": 2,
+  "section": "१९.५",
+  "page": 71,
+  "evidence": "उनके द्वारा नामित ६ प्रतिपुष्टिदाताओं में से केवल २ ने उत्तर दिया, क्योंकि शेष ४ ने अनुपस्थिति-अवधि में उनके साथ कार्य न होने के कारण अनुरोध अस्वीकार कर दिया।"
+ },
+ {
+  "subject": "absence_example",
+  "aspect": "final_weighted_score",
+  "value": "३.९",
+  "section": "१९.५",
+  "page": 71,
+  "evidence": "गणना: १४० + १०० + ४५ + ४८ + ३० + ३२ = ३९५, अर्थात् भारित अंक ३.९ और समग्र रेटिंग ४।"
+ },
+ {
+  "subject": "metrics",
+  "aspect": "timeline_adherence_target_percent",
+  "value": 95,
+  "section": "२१.१",
+  "page": 74,
+  "evidence": "इसका लक्ष्य ९५ प्रतिशत है।"
+ },
+ {
+  "subject": "metrics",
+  "aspect": "midyear_completion_target_percent",
+  "value": 100,
+  "section": "२१.१",
+  "page": 74,
+  "evidence": "मध्य-वर्ष समीक्षा पूर्णता। इसका लक्ष्य १०० प्रतिशत है, क्योंकि यह चरण अनिवार्य है और इसमें किसी प्रकार का सहनीय अंतर नहीं है।"
+ },
+ {
+  "subject": "metrics",
+  "aspect": "justification_audit_sample_percent",
+  "value": 5,
+  "section": "२१.१",
+  "page": 74,
+  "evidence": "औचित्य-गुणवत्ता का नमूना-परीक्षण। प्रत्येक चक्र में यथाच्छया चुने गए ५ प्रतिशत मूल्यांकनों की जाँच की जाती है कि उनमें औचित्य विशिष्ट, तिथियुक्त और निषिद्ध भाषा से मुक्त है या नहीं।"
+ },
+ {
+  "subject": "metrics",
+  "aspect": "appeal_rate_audit_threshold_percent",
+  "value": 6,
+  "section": "२१.१",
+  "page": 74,
+  "evidence": "यदि यह दर ६ प्रतिशत से अधिक होती है, तो संबंधित विभाग की प्रक्रिया-लेखापरीक्षा कराई जाती है।"
+ },
+ {
+  "subject": "perception_survey",
+  "aspect": "question_count",
+  "value": 7,
+  "section": "२१.२",
+  "page": 74,
+  "evidence": "चक्र समापन-घोषणा के पश्चात् समस्त मूल्यांकित कर्मचारियों को एक गुमनाम सर्वेक्षण भेजा जाता है, जिसमें ७ प्रश्न होते हैं।"
+ },
+ {
+  "subject": "perception_survey",
+  "aspect": "fairness_target_percent",
+  "value": 70,
+  "section": "२१.२",
+  "page": 74,
+  "evidence": "निष्पक्षता संबंधी प्रश्न पर सकारात्मक उत्तर का लक्ष्य ७० प्रतिशत है।"
+ },
+ {
+  "subject": "annual_report",
+  "aspect": "submission_deadline_date",
+  "value": "३१ अगस्त",
+  "section": "२१.३",
+  "page": 75,
+  "evidence": "मानव संसाधन प्रमुख प्रत्येक वर्ष ३१ अगस्त तक प्रबंधन मंडल को एक प्रतिवेदन प्रस्तुत करेगा, जिसमें उपर्युक्त समस्त सूचक, विभागवार वितरण, पुनरीक्षण प्रकरणों का सार, लेखापरीक्षा के निष्कर्ष और अगले चक्र के लिए प्रस्तावित सुधार सम्मिलित होंगे।"
+ },
+ {
+  "subject": "evaluator_orientation",
+  "aspect": "duration_hours",
+  "value": 3,
+  "section": "२२.४",
+  "page": 76,
+  "evidence": "प्रत्येक नए प्राथमिक मूल्यांकनकर्ता को प्रथम मूल्यांकन-अवधि में सहभागी होने से पूर्व इस निर्देशिका पर आधारित एक अभिमुखीकरण सत्र पूर्ण करना अनिवार्य है, जिसकी अवधि ३ घंटे है।"
+ },
+ {
+  "subject": "evaluator_orientation",
+  "aspect": "refresh_cycle_years",
+  "value": 3,
+  "section": "२२.४",
+  "page": 76,
+  "evidence": "यह सत्र प्रति ३ वर्ष में दोहराया जाएगा।"
+ }
+]

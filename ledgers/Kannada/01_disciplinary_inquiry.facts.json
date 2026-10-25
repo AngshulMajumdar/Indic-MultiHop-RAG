@@ -1,0 +1,1018 @@
+[
+ {
+  "subject": "formal_inquiry_order",
+  "aspect": "issuance_deadline",
+  "value": "3 working days from preliminary inquiry officer's report",
+  "section": "2",
+  "page": 3,
+  "evidence": "ಸಂಬಂಧಿತ ಶಿಸ್ತು ಪ್ರಾಧಿಕಾರಿ (Disciplinary Authority) ಈ ವರದಿಯನ್ನು ಪರಿಶೀಲಿಸಿ, ಔಪಚಾರಿಕ ವಿಚಾರಣೆಯನ್ನು ರಚಿಸಬೇಕೆಂಬ ಅಧಿಕೃತ ಆದೇಶವನ್ನು ಮೂರು ಕಾರ್ಯ ದಿನಗಳ ಒಳಗೆ ಲಿಖಿತವಾಗಿ ದಾಖಲಿಸಬೇಕು."
+ },
+ {
+  "subject": "inquiry_file_id",
+  "aspect": "format",
+  "value": "SIS-DI-YYYY-NNNN (e.g. SIS-DI-2025-0147)",
+  "section": "2",
+  "page": 3,
+  "evidence": "ಈ ಆದೇಶವು ಈ ದಾಖಲೆಯ ಪ್ರಕಾರ ಔಪಚಾರಿಕ ವಿಚಾರಣಾ ಕಡತದ (inquiry file) ಮೊದಲ ದಾಖಲೆಯಾಗಿ ಪರಿಗಣಿಸಲಾಗುತ್ತದೆ ಮತ್ತು ಪ್ರತಿ ವಿಚಾರಣಾ ಕಡತಕ್ಕೆ ಒಂದು ಅನನ್ಯ ಗುರುತಿನ ಸಂಖ್ಯೆಯನ್ನು (ಉದಾ: SIS-DI-2025-0147) ನೀಡಲಾಗುತ್ತದೆ, ಇದರಿಂದ ಕಾಲಮಿತಿ ಟ್ರ್ಯಾಕಿಂಗ್ ಸಾಧ್ಯವಾಗುತ್ತದೆ. ಈ ಅನನ್ಯ ಗುರುತಿನ ಸಂಖ್ಯೆಯ ರಚನೆಯ ಕ್ರಮವೂ ನಿಗದಿತವಾಗಿದೆ: ಮೊದಲ ಭಾಗ \"SIS-DI\" (ಸೂರ್ಯೋದಯ ಇಂಟಿಗ್ರೇಟೆಡ್ ಸೊಲ್ಯೂಷನ್ಸ್ – ಡಿಸಿಪ್ಲಿನರಿ ಇನ್‌ಕ್ವೈರಿ) ಸ್ಥಿರವಾಗಿರುತ್ತದೆ; ಎರಡನೇ ಭಾಗ ನಾಲ್ಕು ಅಂಕಿಯ ಕ್ಯಾಲೆಂಡರ್ ವರ್ಷ; ಮೂರನೇ ಭಾಗ ಆ ವರ್ಷದ ಕ್ರಮಾನುಗತ ಸರಣಿ ಸಂಖ್ಯೆ (ಕಂಪನಿಯಾದ್ಯಂತ, ಶಾಖೆ ಆಧಾರಿತವಲ್ಲ)."
+ },
+ {
+  "subject": "inquiry_file_id",
+  "aspect": "sequence_reset",
+  "value": "resets to 0001 on Jan 1 each year",
+  "section": "2",
+  "page": 3,
+  "evidence": "ಪ್ರತಿ ವರ್ಷದ ಜನವರಿ 1ರಂದು ಈ ಸರಣಿ ಸಂಖ್ಯೆ ಮರುಹೊಂದಿಕೆಯಾಗುತ್ತದೆ (ಮರಳಿ 0001ಕ್ಕೆ)."
+ },
+ {
+  "subject": "inquiry_file",
+  "aspect": "minimum_required_documents",
+  "value": "5 documents: original complaint, preliminary inquiry officer's signed report, documentary evidence, suspension order copy (if any), disciplinary authority's formal inquiry order",
+  "section": "2",
+  "page": 3,
+  "evidence": "ಕಡತ ಸಂಪೂರ್ಣತೆಯ ಪರಿಶೀಲನೆಯ ಭಾಗವಾಗಿ, ಮಾನವ ಸಂಪನ್ಮೂಲ ವಿಭಾಗವು ಕನಿಷ್ಠ ಈ ಕೆಳಗಿನ ಐದು ದಾಖಲೆಗಳು ಕಡತದಲ್ಲಿ ಇವೆಯೇ ಎಂದು ಪರಿಶೀಲಿಸಬೇಕು: (i) ಮೂಲ ದೂರಿನ ಪ್ರತಿ ಅಥವಾ ಘಟನೆಯ ಮೊದಲ ವರದಿ; (ii) ಪ್ರಾಥಮಿಕ ವಿಚಾರಣಾ ಅಧಿಕಾರಿಯ ಸಹಿ ಮಾಡಿದ ವರದಿ; (iii) ಪ್ರಾಥಮಿಕ ಹಂತದಲ್ಲಿ ಸಂಗ್ರಹಿಸಲಾದ ಯಾವುದೇ ದಾಖಲಾತ್ಮಕ ಸಾಕ್ಷ್ಯ; (iv) ಅಮಾನತು ಆದೇಶದ ಪ್ರತಿ, ಅಮಾನತು ಮಾಡಲಾಗಿದ್ದರೆ; (v) ಶಿಸ್ತು ಪ್ರಾಧಿಕಾರಿಯ ಔಪಚಾರಿಕ ವಿಚಾರಣಾ ಆದೇಶ."
+ },
+ {
+  "subject": "missing_documents",
+  "aspect": "hr_request_deadline",
+  "value": "2 working days",
+  "section": "2",
+  "page": 3,
+  "evidence": "ಈ ಐದರಲ್ಲಿ ಯಾವುದಾದರೂ ಕಾಣೆಯಾಗಿದ್ದರೆ, ಮಾನವ ಸಂಪನ್ಮೂಲ ವಿಭಾಗವು ಕಡತವನ್ನು \"ಅಪೂರ್ಣ\" ಎಂದು ಗುರುತಿಸಿ, ಎರಡು ಕಾರ್ಯ ದಿನಗಳ ಒಳಗೆ ಪ್ರಾಥಮಿಕ ವಿಚಾರಣಾ ಅಧಿಕಾರಿಯಿಂದ ಕಾಣೆಯಾದ ದಾಖಲೆಯನ್ನು ಕೋರುತ್ತದೆ."
+ },
+ {
+  "subject": "example_case_sis_di_2025_0147",
+  "aspect": "details",
+  "value": "Senior Accountant, Bangalore office, accused of 15 fake bills over 6 months, unauthorized amount Rs 1,85,000; preliminary inquiry took 10 days",
+  "section": "2",
+  "page": 4,
+  "evidence": "ಉದಾಹರಣೆ (ಪ್ರಚೋದಕ ಹಂತದ ಕಾಲ್ಪನಿಕ ನಿದರ್ಶನ): ಬೆಂಗಳೂರು ಕಚೇರಿಯ ಒಬ್ಬ ಹಿರಿಯ ಅಕೌಂಟೆಂಟ್ ವಿರುದ್ಧ, ಕಂಪನಿಯ ವೆಚ್ಚ ಮರುಪಾವತಿ (expense reimbursement) ವ್ಯವಸ್ಥೆಯಲ್ಲಿ ಆರು ತಿಂಗಳ ಅವಧಿಯಲ್ಲಿ ಹದಿನೈದು ನಕಲಿ ಬಿಲ್‌ಗಳನ್ನು ಸಲ್ಲಿಸಿ ₹1,85,000 ಅನಧಿಕೃತ ಮೊತ್ತ ಪಡೆದ ಆರೋಪ ಬಂದಿತು. ಪ್ರಾಥಮಿಕ ವಿಚಾರಣಾ ಅಧಿಕಾರಿ ಹತ್ತು ದಿನಗಳ ಪ್ರಾಥಮಿಕ ವಿಚಾರಣೆ ನಡೆಸಿ, ಬ್ಯಾಂಕ್ ಹೇಳಿಕೆ ಮತ್ತು ಪೂರೈಕೆದಾರರ ದೃಢೀಕರಣದ ಆಧಾರದ ಮೇಲೆ ಇದು ವರ್ಗ-ಬಿ ದುರ್ವರ್ತನೆಗೆ ಸರಿಹೊಂದುತ್ತದೆ ಎಂದು ವರದಿ ಮಾಡಿದರು."
+ },
+ {
+  "subject": "charge_sheet",
+  "aspect": "preparation_deadline",
+  "value": "5 working days from formal inquiry order",
+  "section": "3",
+  "page": 4,
+  "evidence": "ಔಪಚಾರಿಕ ವಿಚಾರಣೆಯ ಆದೇಶ ದಾಖಲಾದ ನಂತರ, ಸಂಬಂಧಿತ ವಿಭಾಗೀಯ ಮಾನವ ಸಂಪನ್ಮೂಲ ಪ್ರತಿನಿಧಿಯು ಆರೋಪ ಪತ್ರವನ್ನು (Charge-sheet / Memorandum of Charges) ಐದು ಕಾರ್ಯ ದಿನಗಳ ಒಳಗೆ ತಯಾರಿಸಬೇಕು."
+ },
+ {
+  "subject": "charge_sheet",
+  "aspect": "signatory",
+  "value": "Disciplinary Authority or authorized officer; preliminary inquiry officer cannot sign",
+  "section": "3",
+  "page": 4,
+  "evidence": "ಆರೋಪ ಪತ್ರವನ್ನು ಶಿಸ್ತು ಪ್ರಾಧಿಕಾರಿಯ ಅಥವಾ ಅವರಿಂದ ಅಧಿಕೃತವಾಗಿ ಅಧಿಕಾರ ಪಡೆದ ಅಧಿಕಾರಿಯ ಹಸ್ತಾಕ್ಷರದಲ್ಲಿ ಮಾತ್ರ ನೀಡಬಹುದು. ಪ್ರಾಥಮಿಕ ವಿಚಾರಣೆ ನಡೆಸಿದ ಅಧಿಕಾರಿಯೇ ಆರೋಪ ಪತ್ರಕ್ಕೆ ಸಹಿ ಮಾಡುವುದನ್ನು ಅನುಮತಿಸಲಾಗುವುದಿಲ್ಲ, ಏಕೆಂದರೆ ಪ್ರಕ್ರಿಯಾ ಪಾತ್ರಗಳ ಪ್ರತ್ಯೇಕತೆ (segregation of roles) ಕಾಪಾಡಬೇಕಾಗಿದೆ."
+ },
+ {
+  "subject": "charge_sheet",
+  "aspect": "required_elements",
+  "value": "Articles of Charge, Statement of Imputation, List of Documents, List of Witnesses, timeline/consequence notice",
+  "section": "3",
+  "page": 4,
+  "evidence": "ಆರೋಪ ಪತ್ರವು ಈ ಕೆಳಗಿನ ಅಂಶಗಳನ್ನು ಕಡ್ಡಾಯವಾಗಿ ಒಳಗೊಂಡಿರಬೇಕು: (ಎ) ಆರೋಪದ ಲೇಖನಗಳು (Articles of Charge) — ಪ್ರತಿ ಆರೋಪವನ್ನು ಪ್ರತ್ಯೇಕ ಸಂಖ್ಯೆಯಡಿ ಸ್ಪಷ್ಟವಾಗಿ, ನಿರ್ದಿಷ್ಟವಾಗಿ ಬರೆಯಬೇಕು, ಸಾಮಾನ್ಯೀಕೃತ ಅಥವಾ ಅಸ್ಪಷ್ಟ ಭಾಷೆಯನ್ನು ಉಪಯೋಗಿಸಬಾರದು; (ಬಿ) ಆರೋಪದ ಸಮಗ್ರ ಹೇಳಿಕೆ (Statement of Imputation) — ಪ್ರತಿ ಆರೋಪದ ಹಿಂದಿನ ನಿರ್ದಿಷ್ಟ ಘಟನೆ, ದಿನಾಂಕ, ಸಮಯ, ಸ್ಥಳ ಮತ್ತು ಒಳಗೊಂಡ ವ್ಯಕ್ತಿಗಳ ವಿವರ;"
+ },
+ {
+  "subject": "charge_sheet",
+  "aspect": "delivery_method",
+  "value": "hand delivery with signature or registered post; simultaneous email copy required",
+  "section": "3",
+  "page": 5,
+  "evidence": "ಆರೋಪ ಪತ್ರವನ್ನು ಉದ್ಯೋಗಿಗೆ ಎರಡು ವಿಧಾನಗಳ ಮೂಲಕ ವಿತರಿಸಬಹುದು: ನೇರವಾಗಿ ಕೈಗೆ ನೀಡಿ ಉದ್ಯೋಗಿಯಿಂದ ಸ್ವೀಕೃತಿಯ ಸಹಿ ಪಡೆಯುವುದು, ಅಥವಾ ನೋಂದಾಯಿತ ಅಂಚೆ ಮೂಲಕ ಉದ್ಯೋಗಿಯ ದಾಖಲಾದ ವಾಸಸ್ಥಳದ ವಿಳಾಸಕ್ಕೆ ಕಳುಹಿಸುವುದು. ಎರಡೂ ಸಂದರ್ಭಗಳಲ್ಲಿ, ಕಂಪನಿಯ ಅಧಿಕೃತ ಇಮೇಲ್ ಖಾತೆಯ ಮೂಲಕವೂ ಏಕಕಾಲಕ್ಕೆ ಒಂದು ಪ್ರತಿಯನ್ನು ಕಳುಹಿಸಬೇಕು."
+ },
+ {
+  "subject": "charge_sheet",
+  "aspect": "refusal_to_sign_procedure",
+  "value": "note of refusal recorded with 2 witnesses",
+  "section": "3",
+  "page": 5,
+  "evidence": "ಉದ್ಯೋಗಿ ನೇರ ವಿತರಣೆಗೆ ಸಹಿ ಮಾಡಲು ನಿರಾಕರಿಸಿದರೆ, ಇಬ್ಬರು ಸಾಕ್ಷಿಗಳ ಸಮ್ಮುಖದಲ್ಲಿ \"ಸ್ವೀಕಾರ ನಿರಾಕರಣೆ\" ಎಂಬ ಟಿಪ್ಪಣಿಯನ್ನು ದಾಖಲಿಸಿ, ಅದನ್ನೇ ಸೇವೆಯ ಸಾಕ್ಷ್ಯವಾಗಿ (proof of service) ಪರಿಗಣಿಸಲಾಗುತ್ತದೆ."
+ },
+ {
+  "subject": "employee_clarification",
+  "aspect": "response_period",
+  "value": "7 calendar days from receipt",
+  "section": "3",
+  "page": 6,
+  "evidence": "ಆರೋಪ ಪತ್ರ ಸ್ವೀಕೃತವಾದ ದಿನಾಂಕದಿಂದ ಉದ್ಯೋಗಿಗೆ ಲಿಖಿತ ಸ್ಪಷ್ಟೀಕರಣ (written explanation) ಸಲ್ಲಿಸಲು ಏಳು (7) ಕ್ಯಾಲೆಂಡರ್ ದಿನಗಳ ಕಾಲಮಿತಿ ನೀಡಲಾಗುತ್ತದೆ."
+ },
+ {
+  "subject": "employee_clarification",
+  "aspect": "extension_limit",
+  "value": "one extension max of additional 5 calendar days, with reasonable cause, approved only by Disciplinary Authority",
+  "section": "3",
+  "page": 6,
+  "evidence": "ಉದ್ಯೋಗಿಯು ಲಿಖಿತ ಮನವಿಯ ಮೇಲೆ, ಸಮಂಜಸ ಕಾರಣ ತೋರಿಸಿದರೆ, ಈ ಕಾಲಮಿತಿಯನ್ನು ಗರಿಷ್ಠ ಇನ್ನೂ ಐದು (5) ಕ್ಯಾಲೆಂಡರ್ ದಿನಗಳ ವರೆಗೆ ಒಂದೇ ಬಾರಿ ವಿಸ್ತರಿಸಬಹುದು; ಈ ವಿಸ್ತರಣೆಯನ್ನು ಅನುಮೋದಿಸುವ ಅಧಿಕಾರ ಶಿಸ್ತು ಪ್ರಾಧಿಕಾರಿಗೆ ಮಾತ್ರ ಇರುತ್ತದೆ."
+ },
+ {
+  "subject": "employee_clarification",
+  "aspect": "second_extension_policy",
+  "value": "generally refused except medical or judicial emergency",
+  "section": "3",
+  "page": 6,
+  "evidence": "ಎರಡನೇ ಬಾರಿ ವಿಸ್ತರಣೆ ಕೋರಿಕೆಯನ್ನು ಸಾಮಾನ್ಯವಾಗಿ ತಿರಸ್ಕರಿಸಲಾಗುತ್ತದೆ, ಹೊರತು ವೈದ್ಯಕೀಯ ಅಥವಾ ನ್ಯಾಯಾಂಗ ತುರ್ತುಸ್ಥಿತಿಯಂತಹ ಅಪವಾದಾತ್ಮಕ ಸಂದರ್ಭಗಳನ್ನು ಹೊರತುಪಡಿಸಿ."
+ },
+ {
+  "subject": "charge_sheet_email_delivery",
+  "aspect": "proof_requirement",
+  "value": "delivery confirmation plus read receipt, screenshots attached to file",
+  "section": "3",
+  "page": 6,
+  "evidence": "ಇಮೇಲ್ ಮೂಲಕ ಆರೋಪ ಪತ್ರ ಕಳುಹಿಸುವಾಗ, ಡೆಲಿವರಿ ದೃಢೀಕರಣ (delivery confirmation) ಮತ್ತು ಓದಿದ ದೃಢೀಕರಣ (read receipt) ಎರಡನ್ನೂ ಕೋರಬೇಕು, ಮತ್ತು ಈ ಎರಡೂ ದಾಖಲೆಗಳ ಸ್ಕ್ರೀನ್‌ಶಾಟ್ ಅಥವಾ ಪ್ರಿಂಟ್‌ಔಟ್ ಅನ್ನು ವಿಚಾರಣಾ ಕಡತಕ್ಕೆ ಲಗತ್ತಿಸಬೇಕು."
+ },
+ {
+  "subject": "sample_charge_sheet_rakesh_shetty",
+  "aspect": "case_details",
+  "value": "Employee No SIS-4521, Senior Accountant, Finance Dept, Bangalore; 3 charges (bills ST/2025/0089 Rs 12,400, GE/2025/0211 Rs 9,800, KS/2025/0154 Rs 6,200); witnesses Lalitha Rao, Mohan Kumar, Suresh Babu",
+  "section": "24",
+  "page": 30,
+  "evidence": "ಆರೋಪ ಸಂಖ್ಯೆ 1: ದಿನಾಂಕ 14.02.2025ರಂದು, ಬೆಳಿಗ್ಗೆ 10:45 ಗಂಟೆಗೆ, ಹಣಕಾಸು ವಿಭಾಗದ ಕಚೇರಿಯಲ್ಲಿ, ನೀವು ಪೂರೈಕೆದಾರ ಎಂ/ಎಸ್ ಸಾಯಿ ಟ್ರೇಡರ್ಸ್‌ನ ಹೆಸರಿನಲ್ಲಿ ಒಂದು ನಕಲಿ ಬಿಲ್ ಸಂಖ್ಯೆ ST/2025/0089 ಅನ್ನು ಸೃಷ್ಟಿಸಿ, ಅದನ್ನು ವೆಚ್ಚ ಮರುಪಾವತಿ ವ್ಯವಸ್ಥೆಗೆ ಸಲ್ಲಿಸಿ ₹12,400 ಪಡೆದಿದ್ದೀರಿ ಎಂಬ ಆರೋಪವಿದೆ. ಆರೋಪ ಸಂಖ್ಯೆ 2: ದಿನಾಂಕ 03.04.2025ರಂದು, ಇದೇ ರೀತಿ, ಪೂರೈಕೆದಾರ ಎಂ/ಎಸ್ ಗಣೇಶ್ ಎಂಟರ್‌ಪ್ರೈಸಸ್‌ನ ಹೆಸರಿನಲ್ಲಿ ನಕಲಿ ಬಿಲ್ ಸಂಖ್ಯೆ GE/2025/0211 ಸೃಷ್ಟಿಸಿ ₹9,800 ಪಡೆದಿದ್ದೀರಿ ಎಂಬ ಆರೋಪವಿದೆ. ಆರೋಪ ಸಂಖ್ಯೆ 3: ದಿನಾಂಕ 22.05.2025ರಂದು, ಪೂರೈಕೆದಾರ ಎಂ/ಎಸ್ ಕೃಷ್ಣ ಸ್ಟೇಷನರಿಯ ಹೆಸರಿನಲ್ಲಿ ಬಿಲ್ ಸಂಖ್ಯೆ KS/2025/0154 ಸೃಷ್ಟಿಸಿ ₹6,200 ಪಡೆದಿದ್ದೀರಿ ಎಂಬ ಆರೋಪವಿದೆ."
+ },
+ {
+  "subject": "employee_clarification_review",
+  "aspect": "decision_timeline",
+  "value": "3 working days",
+  "section": "4",
+  "page": 7,
+  "evidence": "ಉದ್ಯೋಗಿಯ ಲಿಖಿತ ಸ್ಪಷ್ಟೀಕರಣ ಸ್ವೀಕೃತವಾದ ನಂತರ, ಶಿಸ್ತು ಪ್ರಾಧಿಕಾರಿಯು ಅದನ್ನು ಮೂರು ಕಾರ್ಯ ದಿನಗಳ ಒಳಗೆ ಪರಿಶೀಲಿಸಬೇಕು ಮತ್ತು ಈ ಕೆಳಗಿನ ಎರಡು ಸಾಧ್ಯತೆಗಳಲ್ಲಿ ಒಂದನ್ನು ಆಯ್ಕೆ ಮಾಡಬೇಕು:"
+ },
+ {
+  "subject": "employee_clarification_review",
+  "aspect": "possible_outcomes",
+  "value": "drop inquiry (satisfactory) or continue (unsatisfactory/no response); partial satisfaction possible",
+  "section": "4",
+  "page": 7,
+  "evidence": "ಉದ್ಯೋಗಿಯ ಲಿಖಿತ ಸ್ಪಷ್ಟೀಕರಣ ಸ್ವೀಕೃತವಾದ ನಂತರ, ಶಿಸ್ತು ಪ್ರಾಧಿಕಾರಿಯು ಅದನ್ನು ಮೂರು ಕಾರ್ಯ ದಿನಗಳ ಒಳಗೆ ಪರಿಶೀಲಿಸಬೇಕು ಮತ್ತು ಈ ಕೆಳಗಿನ ಎರಡು ಸಾಧ್ಯತೆಗಳಲ್ಲಿ ಒಂದನ್ನು ಆಯ್ಕೆ ಮಾಡಬೇಕು: ಮೊದಲನೆಯದಾಗಿ, ಸ್ಪಷ್ಟೀಕರಣವು ತೃಪ್ತಿಕರವಾಗಿದ್ದರೆ — ಅಂದರೆ ಉದ್ಯೋಗಿಯು ಆರೋಪವನ್ನು ಸಂಪೂರ್ಣವಾಗಿ ನಿರಾಕರಿಸುವ ಅಥವಾ ಸಮಂಜಸಗೊಳಿಸುವ ವಿಶ್ವಾಸಾರ್ಹ ಸಾಕ್ಷ್ಯ ಅಥವಾ ವಿವರಣೆ ನೀಡಿದ್ದರೆ, ಮತ್ತು ಶಿಸ್ತು ಪ್ರಾಧಿಕಾರಿಯು ಈ ವಿವರಣೆಯಿಂದ ತೃಪ್ತರಾದರೆ — ಔಪಚಾರಿಕ ವಿಚಾರಣೆಯನ್ನು ಕೈಬಿಡಬಹುದು (drop the inquiry)."
+ },
+ {
+  "subject": "io_appointment",
+  "aspect": "timeline",
+  "value": "5 working days from decision to proceed",
+  "section": "5",
+  "page": 8,
+  "evidence": "ಔಪಚಾರಿಕ ವಿಚಾರಣೆಯನ್ನು ಮುಂದುವರಿಸಲು ನಿರ್ಧರಿಸಿದ ಐದು ಕಾರ್ಯ ದಿನಗಳ ಒಳಗೆ, ಶಿಸ್ತು ಪ್ರಾಧಿಕಾರಿಯು ಒಬ್ಬ ವಿಚಾರಣಾಧಿಕಾರಿಯನ್ನು (ಮುಂದೆ \"IO\" ಎಂದು ಉಲ್ಲೇಖಿಸಲಾಗುತ್ತದೆ) ನೇಮಕ ಮಾಡಬೇಕು."
+ },
+ {
+  "subject": "io_eligibility",
+  "aspect": "criteria",
+  "value": "at least one grade level above accused; outside direct supervisory chain; preliminary inquiry officer/complainant/named witness ineligible; for Band 7+ can be external retired judicial officer or independent person with 15+ years experience",
+  "section": "5",
+  "page": 8,
+  "evidence": "(ಬಿ) IO ಆರೋಪಿತ ಉದ್ಯೋಗಿಯ ನೇರ ಮೇಲ್ವಿಚಾರಕ ಸಮೂಹದಿಂದ ಹೊರಗಿರಬೇಕು, ಅಂದರೆ ಪ್ರಕರಣದ ಬಗ್ಗೆ ಯಾವುದೇ ವೈಯಕ್ತಿಕ ಹಿತಾಸಕ್ತಿ ಅಥವಾ ಪೂರ್ವಾಗ್ರಹ ಇಲ್ಲದಿರಬೇಕು; (ಸಿ) ಪ್ರಾಥಮಿಕ ವಿಚಾರಣೆ ನಡೆಸಿದ ಅಧಿಕಾರಿ, ಅಥವಾ ದೂರುದಾರ, ಅಥವಾ ಪ್ರಕರಣದಲ್ಲಿ ಸಾಕ್ಷಿಯಾಗಿ ಹೆಸರಿಸಲಾದ ಯಾವುದೇ ವ್ಯಕ್ತಿ IOಯಾಗಲು ಅನರ್ಹರಾಗಿರುತ್ತಾರೆ; (ಡಿ) IO ಕಂಪನಿಯ ಆಂತರಿಕ ಉದ್ಯೋಗಿಯಾಗಿರಬಹುದು, ಅಥವಾ ಬ್ಯಾಂಡ್ 7 ಮತ್ತು ಮೇಲಿನ ಹಿರಿಯ ಉದ್ಯೋಗಿಗಳ ಪ್ರಕರಣಗಳಲ್ಲಿ, ನಿವೃತ್ತ ನ್ಯಾಯಾಂಗ ಅಧಿಕಾರಿ ಅಥವಾ ಕನಿಷ್ಠ ಹದಿನೈದು ವರ್ಷಗಳ ಅನುಭವವುಳ್ಳ ಬಾಹ್ಯ ಸ್ವತಂತ್ರ ವ್ಯಕ್ತಿಯನ್ನು ಬಾಹ್ಯ IOಯಾಗಿ ನೇಮಿಸುವ ಆಯ್ಕೆ ಇರುತ್ತದೆ."
+ },
+ {
+  "subject": "io_caseload",
+  "aspect": "annual_limit",
+  "value": "not more than 2 active inquiries in same calendar year",
+  "section": "5",
+  "page": 8,
+  "evidence": "ಈ ನಾಲ್ಕು ಮಾನದಂಡಗಳ ಜೊತೆಗೆ, ಪ್ರಾಯೋಗಿಕ ಅನುಭವದ ಆಧಾರದ ಮೇಲೆ ಎರಡು ಹೆಚ್ಚುವರಿ ಮಾರ್ಗದರ್ಶಿ ಅಂಶಗಳನ್ನು ಅನುಸರಿಸಲಾಗುತ್ತದೆ: ಮೊದಲನೆಯದಾಗಿ, IO ಆಗಲು ಪ್ರಸ್ತಾಪಿಸಲಾದ ಅಧಿಕಾರಿಗೆ ಅದೇ ಕ್ಯಾಲೆಂಡರ್ ವರ್ಷದಲ್ಲಿ ಈಗಾಗಲೇ ಎರಡಕ್ಕಿಂತ ಹೆಚ್ಚು ಸಕ್ರಿಯ ವಿಚಾರಣೆಗಳು ಹಂಚಿಕೆಯಾಗಿದ್ದರೆ, ಕಾರ್ಯಭಾರ ಸಮತೋಲನದ ದೃಷ್ಟಿಯಿಂದ ಬೇರೆ ಅಧಿಕಾರಿಯನ್ನು ಆದ್ಯತೆ ನೀಡಲಾಗುತ್ತದೆ; ಎರಡನೆಯದಾಗಿ, IO ಆಗಲಿರುವ ಅಧಿಕಾರಿ ಈ ದಾಖಲೆಯ ವಿಭಾಗ 19ರಲ್ಲಿ ವಿವರಿಸಲಾದ IO ಪ್ರಮಾಣೀಕರಣ ತರಬೇತಿ ಪೂರ್ಣಗೊಳಿಸಿರಬೇಕು, ಅಥವಾ ಅನುಭವಿ IO ಜೊತೆ ವೀಕ್ಷಕರಾಗಿ ಕನಿಷ್ಠ ಒಂದು ಪ್ರಕರಣ ಪೂರ್ಣಗೊಳಿಸಿರಬೇಕು."
+ },
+ {
+  "subject": "io_certification",
+  "aspect": "prerequisite",
+  "value": "must have completed IO certification training or observed at least one case",
+  "section": "5",
+  "page": 8,
+  "evidence": "ಈ ನಾಲ್ಕು ಮಾನದಂಡಗಳ ಜೊತೆಗೆ, ಪ್ರಾಯೋಗಿಕ ಅನುಭವದ ಆಧಾರದ ಮೇಲೆ ಎರಡು ಹೆಚ್ಚುವರಿ ಮಾರ್ಗದರ್ಶಿ ಅಂಶಗಳನ್ನು ಅನುಸರಿಸಲಾಗುತ್ತದೆ: ಮೊದಲನೆಯದಾಗಿ, IO ಆಗಲು ಪ್ರಸ್ತಾಪಿಸಲಾದ ಅಧಿಕಾರಿಗೆ ಅದೇ ಕ್ಯಾಲೆಂಡರ್ ವರ್ಷದಲ್ಲಿ ಈಗಾಗಲೇ ಎರಡಕ್ಕಿಂತ ಹೆಚ್ಚು ಸಕ್ರಿಯ ವಿಚಾರಣೆಗಳು ಹಂಚಿಕೆಯಾಗಿದ್ದರೆ, ಕಾರ್ಯಭಾರ ಸಮತೋಲನದ ದೃಷ್ಟಿಯಿಂದ ಬೇರೆ ಅಧಿಕಾರಿಯನ್ನು ಆದ್ಯತೆ ನೀಡಲಾಗುತ್ತದೆ; ಎರಡನೆಯದಾಗಿ, IO ಆಗಲಿರುವ ಅಧಿಕಾರಿ ಈ ದಾಖಲೆಯ ವಿಭಾಗ 19ರಲ್ಲಿ ವಿವರಿಸಲಾದ IO ಪ್ರಮಾಣೀಕರಣ ತರಬೇತಿ ಪೂರ್ಣಗೊಳಿಸಿರಬೇಕು, ಅಥವಾ ಅನುಭವಿ IO ಜೊತೆ ವೀಕ್ಷಕರಾಗಿ ಕನಿಷ್ಠ ಒಂದು ಪ್ರಕರಣ ಪೂರ್ಣಗೊಳಿಸಿರಬೇಕು."
+ },
+ {
+  "subject": "io_appointment_objection",
+  "aspect": "employee_timeline",
+  "value": "within 3 working days of notification; reviewed by officer senior to appointing Disciplinary Authority",
+  "section": "5",
+  "page": 8,
+  "evidence": "ಉದ್ಯೋಗಿಗೆ IO ನೇಮಕದ ಬಗ್ಗೆ ವಾಂಧೆ (objection) ಇದ್ದರೆ, ನೇಮಕದ ಸೂಚನೆ ಸ್ವೀಕೃತವಾದ ಮೂರು (3) ಕಾರ್ಯ ದಿನಗಳ ಒಳಗೆ ಲಿಖಿತ ಕಾರಣಗಳೊಂದಿಗೆ ವಾಂಧೆಯನ್ನು ಸಲ್ಲಿಸಬಹುದು. ಈ ವಾಂಧೆಯನ್ನು ನೇಮಕ ಮಾಡಿದ ಶಿಸ್ತು ಪ್ರಾಧಿಕಾರಿಗಿಂತ ಮೇಲಿನ ಹಂತದ ಅಧಿಕಾರಿಯು ಪರಿಶೀಲಿಸಬೇಕು ಮತ್ತು ಕೇವಲ ಆಧಾರರಹಿತ ಅಥವಾ ವಿಳಂಬ ತಂತ್ರವಾಗಿ ಕಂಡುಬಂದರೆ ಮಾತ್ರ ತಿರಸ್ಕರಿಸಬಹುದು; ನಿಜವಾದ ಹಿತಾಸಕ್ತಿ ಸಂಘರ್ಷ ಕಂಡುಬಂದರೆ ಪರ್ಯಾಯ IOಯನ್ನು ನೇಮಿಸಲಾಗುತ್ತದೆ."
+ },
+ {
+  "subject": "presenting_officer",
+  "aspect": "typical_source",
+  "value": "usually HR or Legal department officer",
+  "section": "6",
+  "page": 9,
+  "evidence": "PO ಸಾಮಾನ್ಯವಾಗಿ ಮಾನವ ಸಂಪನ್ಮೂಲ ವಿಭಾಗ ಅಥವಾ ಕಾನೂನು ವಿಭಾಗದ ಅಧಿಕಾರಿಯಾಗಿರುತ್ತಾರೆ."
+ },
+ {
+  "subject": "presenting_officer",
+  "aspect": "witness_restriction",
+  "value": "cannot be a listed witness",
+  "section": "6",
+  "page": 9,
+  "evidence": "PO ಪ್ರಾಥಮಿಕ ವಿಚಾರಣೆ ನಡೆಸಿದ ಅಧಿಕಾರಿಯಾಗಿರಬಾರದು ಎಂಬ ನಿಯಮ ಇಲ್ಲ, ಆದರೆ PO ಸ್ವತಃ ಸಾಕ್ಷಿಯಾಗಿ ಪಟ್ಟಿಮಾಡಲ್ಪಟ್ಟಿದ್ದರೆ, ಅವರು PO ಪಾತ್ರ ವಹಿಸುವಂತಿಲ್ಲ — ಇದು ಸಾಕ್ಷ್ಯ ಮತ್ತು ಪ್ರಾತಿನಿಧ್ಯದ ನಡುವಿನ ಪಾತ್ರ ಸಂಘರ್ಷವನ್ನು ತಪ್ಪಿಸುತ್ತದೆ."
+ },
+ {
+  "subject": "po_appointment",
+  "aspect": "timeline",
+  "value": "same 5 working days as IO appointment",
+  "section": "6",
+  "page": 9,
+  "evidence": "PO ನೇಮಕದ ಆದೇಶವನ್ನು IO ನೇಮಕದ ಆದೇಶದೊಂದಿಗೆ ಒಟ್ಟಾಗಿ ಅಥವಾ ಪ್ರತ್ಯೇಕವಾಗಿ, ಅದೇ ಐದು ಕಾರ್ಯ ದಿನಗಳ ಕಾಲಮಿತಿಯೊಳಗೆ ಹೊರಡಿಸಬೇಕು."
+ },
+ {
+  "subject": "employee_assistant",
+  "aspect": "normal_source",
+  "value": "co-worker from same unit/branch",
+  "section": "7",
+  "page": 10,
+  "evidence": "ಸಾಮಾನ್ಯ ನಿಯಮವಾಗಿ, ಉದ್ಯೋಗಿಯು ಅದೇ ಘಟಕ/ಶಾಖೆಯ ಒಬ್ಬ ಸಹ-ಉದ್ಯೋಗಿಯನ್ನು (co-worker) ತನ್ನ ಸಹಾಯಕನಾಗಿ (defense assistant) ಆಯ್ಕೆ ಮಾಡಿಕೊಳ್ಳಬಹುದು."
+ },
+ {
+  "subject": "employee_assistant",
+  "aspect": "serious_case_option",
+  "value": "recognized employee association representative allowed when dismissal/discharge possible",
+  "section": "7",
+  "page": 10,
+  "evidence": "ಗಂಭೀರ ಪ್ರಕರಣಗಳಲ್ಲಿ, ಅಂದರೆ ಆರೋಪ ಸಾಬೀತಾದರೆ ವಜಾಗೊಳಿಸುವಿಕೆ ಅಥವಾ ಸೇವೆಯಿಂದ ವಿಸರ್ಜನೆಯ ಸಾಧ್ಯತೆ ಇರುವ ಪ್ರಕರಣಗಳಲ್ಲಿ, ಉದ್ಯೋಗಿಯು ಮಾನ್ಯತೆ ಪಡೆದ ಉದ್ಯೋಗಿ ಸಂಘದ (recognized employee association) ಪ್ರತಿನಿಧಿಯನ್ನು ಸಹಾಯಕನಾಗಿ ಆಯ್ಕೆ ಮಾಡಿಕೊಳ್ಳಬಹುದು, ಆ ಸಂಘ ಕಂಪನಿಯಲ್ಲಿ ಅಸ್ತಿತ್ವದಲ್ಲಿದ್ದರೆ."
+ },
+ {
+  "subject": "lawyer_representation",
+  "aspect": "exceptions",
+  "value": "allowed only if admin uses qualified lawyer as PO, or special written permission given case complexity/seriousness",
+  "section": "7",
+  "page": 10,
+  "evidence": "ಇದಕ್ಕೆ ಎರಡು ಅಪವಾದಗಳು ಮಾತ್ರ ಅನ್ವಯಿಸುತ್ತವೆ: ಮೊದಲನೆಯದಾಗಿ, ಆಡಳಿತವು ತನ್ನ PO ಆಗಿ ಒಬ್ಬ ಅರ್ಹ ಕಾನೂನು ಅಭ್ಯಾಸಿಯನ್ನು ನೇಮಿಸಿಕೊಂಡಿದ್ದರೆ, ಆ ಸಂದರ್ಭದಲ್ಲಿ ಮಾತ್ರ ಸಮಾನತೆಯ ತತ್ವದಡಿಯಲ್ಲಿ ಉದ್ಯೋಗಿಗೂ ವಕೀಲರ ಮೂಲಕ ಪ್ರತಿನಿಧಿಸಲ್ಪಡುವ ಹಕ್ಕು ಲಭ್ಯವಾಗುತ್ತದೆ; ಎರಡನೆಯದಾಗಿ, ಪ್ರಕರಣದ ಸಂಕೀರ್ಣತೆ ಅಥವಾ ಗಂಭೀರತೆಯನ್ನು ಗಮನಿಸಿ ಶಿಸ್ತು ಪ್ರಾಧಿಕಾರಿಯು ವಿಶೇಷ ಲಿಖಿತ ಅನುಮತಿ ನೀಡಿದರೆ ಮಾತ್ರ."
+ },
+ {
+  "subject": "lawyer_permission_request",
+  "aspect": "processing_timeline",
+  "value": "5 working days",
+  "section": "7",
+  "page": 10,
+  "evidence": "ಇಂತಹ ಅನುಮತಿ ಕೋರಿಕೆಯನ್ನು ಉದ್ಯೋಗಿಯು ಲಿಖಿತವಾಗಿ, ಕಾರಣ ಸಹಿತ ಸಲ್ಲಿಸಬೇಕು ಮತ್ತು ಶಿಸ್ತು ಪ್ರಾಧಿಕಾರಿಯು ಅದನ್ನು ಐದು ಕಾರ್ಯ ದಿನಗಳ ಒಳಗೆ ಲಿಖಿತ ಕಾರಣಗಳೊಂದಿಗೆ ಅನುಮೋದಿಸಬೇಕು ಅಥವಾ ತಿರಸ್ಕರಿಸಬೇಕು."
+ },
+ {
+  "subject": "document_inspection",
+  "aspect": "arrangement_timeline",
+  "value": "2 working days after written request",
+  "section": "8",
+  "page": 11,
+  "evidence": "ಹೆಚ್ಚುವರಿ ಅಥವಾ ಬೃಹತ್ ದಾಖಲೆಗಳ ಸಂದರ್ಭದಲ್ಲಿ, ಉದ್ಯೋಗಿಯು ಲಿಖಿತ ಮನವಿ ಸಲ್ಲಿಸಿದ ಎರಡು (2) ಕಾರ್ಯ ದಿನಗಳ ಒಳಗೆ, ಮಾನವ ಸಂಪನ್ಮೂಲ ವಿಭಾಗವು ಉದ್ಯೋಗಿಗೆ ದಾಖಲೆಗಳನ್ನು ಪರಿಶೀಲಿಸಲು ನಿಗದಿತ ಕಚೇರಿ ಸ್ಥಳದಲ್ಲಿ ಅವಕಾಶ ಕಲ್ಪಿಸಬೇಕು ಅಥವಾ ಪ್ರತಿಗಳನ್ನು ಒದಗಿಸಬೇಕು."
+ },
+ {
+  "subject": "document_inspection",
+  "aspect": "completion_deadline",
+  "value": "at least 5 calendar days before first meeting",
+  "section": "8",
+  "page": 11,
+  "evidence": "ಈ ಸಂಪೂರ್ಣ ದಾಖಲೆ ಪರಿಶೀಲನೆ ಪ್ರಕ್ರಿಯೆಯು ಮೊದಲ ವಿಚಾರಣಾ ಸಭೆಯ ಕನಿಷ್ಠ ಐದು (5) ಕ್ಯಾಲೆಂಡರ್ ದಿನಗಳ ಮುನ್ನ ಪೂರ್ಣಗೊಳ್ಳಬೇಕು, ಇದರಿಂದ ಉದ್ಯೋಗಿಗೆ ಸಾಕಷ್ಟು ಸಿದ್ಧತಾ ಸಮಯ ಸಿಗುತ್ತದೆ."
+ },
+ {
+  "subject": "first_meeting_notice",
+  "aspect": "minimum_period",
+  "value": "10 working days before meeting",
+  "section": "9",
+  "page": 12,
+  "evidence": "ಈ ಸೂಚನೆಯನ್ನು ಮೊದಲ ಸಭೆಯ ದಿನಾಂಕಕ್ಕಿಂತ ಕನಿಷ್ಠ ಹತ್ತು (10) ಕಾರ್ಯ ದಿನಗಳ ಮುನ್ನ ನೀಡಬೇಕು, ಇದರಿಂದ ಉದ್ಯೋಗಿಗೆ ಸಿದ್ಧತೆಗೆ ಮತ್ತು ದಾಖಲೆ ಪರಿಶೀಲನೆಗೆ ಸಾಕಷ್ಟು ಸಮಯ ಸಿಗುತ್ತದೆ."
+ },
+ {
+  "subject": "video_conference_inquiry",
+  "aspect": "consent_requirement",
+  "value": "requires employee's written consent",
+  "section": "9",
+  "page": 12,
+  "evidence": "ದೂರಸ್ಥ ಶಾಖೆಗಳ ಉದ್ಯೋಗಿಗಳ ಸಂದರ್ಭದಲ್ಲಿ, ವೀಡಿಯೋ-ಕಾನ್ಫರೆನ್ಸ್ ಮೂಲಕ ವಿಚಾರಣೆ ನಡೆಸುವ ಆಯ್ಕೆಯನ್ನು IO ಪರಿಗಣಿಸಬಹುದು, ಆದರೆ ಇದಕ್ಕೆ ಉದ್ಯೋಗಿಯ ಲಿಖಿತ ಒಪ್ಪಿಗೆ ಅಗತ್ಯ."
+ },
+ {
+  "subject": "adjournments",
+  "aspect": "limit",
+  "value": "max 3 per party, each max 15 calendar days; 4th request generally refused unless strong evidence",
+  "section": "9",
+  "page": 12,
+  "evidence": "ಪ್ರತಿ ಪಕ್ಷಕ್ಕೂ ಗರಿಷ್ಠ ಮೂರು (3) ಮುಂದೂಡಿಕೆಗಳನ್ನು ಒಟ್ಟಾರೆ ವಿಚಾರಣೆಯ ಅವಧಿಯಲ್ಲಿ ಮಂಜೂರು ಮಾಡಬಹುದು, ಮತ್ತು ಪ್ರತಿ ಮುಂದೂಡಿಕೆಯು ಹದಿನೈದು (15) ಕ್ಯಾಲೆಂಡರ್ ದಿನಗಳನ್ನು ಮೀರಬಾರದು. ನಾಲ್ಕನೇ ಮುಂದೂಡಿಕೆ ಕೋರಿಕೆಯನ್ನು IO ಸಾಮಾನ್ಯವಾಗಿ ತಿರಸ್ಕರಿಸುತ್ತಾರೆ, ಹೊರತು ವೈದ್ಯಕೀಯ ದಾಖಲೆ ಅಥವಾ ನ್ಯಾಯಾಲಯದ ಆದೇಶದಂತಹ ಬಲವಾದ ಸಾಕ್ಷ್ಯ ಇದ್ದರೆ."
+ },
+ {
+  "subject": "witness_examination",
+  "aspect": "order",
+  "value": "Management Witnesses first, then Defense Witnesses",
+  "section": "10",
+  "page": 13,
+  "evidence": "ಪರೀಕ್ಷೆಯ ಕ್ರಮ ಹೀಗಿರುತ್ತದೆ: ಮೊದಲಿಗೆ, ಆಡಳಿತದ ಸಾಕ್ಷಿಗಳನ್ನು (Management Witnesses) ಪರೀಕ್ಷಿಸಲಾಗುತ್ತದೆ, ಉದ್ಯೋಗಿಯ ಸಾಕ್ಷಿಗಳಿಗಿಂತ ಮೊದಲು."
+ },
+ {
+  "subject": "witness_examination",
+  "aspect": "stages",
+  "value": "Examination-in-Chief, Cross-Examination, Re-Examination",
+  "section": "10",
+  "page": 13,
+  "evidence": "ಪ್ರತಿ ಸಾಕ್ಷಿಯ ಪರೀಕ್ಷೆ ಮೂರು ಹಂತಗಳಲ್ಲಿ ನಡೆಯುತ್ತದೆ: (ಎ) ಮುಖ್ಯ ಪರೀಕ್ಷೆ (Examination-in-Chief) — PO ಸಾಕ್ಷಿಯನ್ನು ಪ್ರಶ್ನಿಸಿ ಅವರ ಹೇಳಿಕೆಯನ್ನು ದಾಖಲೆಗೆ ತರುತ್ತಾರೆ; (ಬಿ) ಅಡ್ಡ-ಪ್ರಶ್ನೆ (Cross-Examination) — ಉದ್ಯೋಗಿ ಅಥವಾ ಅವರ ಸಹಾಯಕ/ಪ್ರತಿನಿಧಿ ಸಾಕ್ಷಿಯನ್ನು ಪ್ರಶ್ನಿಸುವ ಹಕ್ಕು; (ಸಿ) ಮರು-ಪರೀಕ್ಷೆ (Re-Examination) — PO ಅಡ್ಡ-ಪ್ರಶ್ನೆಯಲ್ಲಿ ಉದ್ಭವಿಸಿದ ಗೊಂದಲಗಳನ್ನು ಸ್ಪಷ್ಟಪಡಿಸಲು ಮಾತ್ರ ಸೀಮಿತವಾದ ಪ್ರಶ್ನೆಗಳನ್ನು ಕೇಳಬಹುದು, ಹೊಸ ವಿಷಯ ಪ್ರಸ್ತಾಪಿಸುವಂತಿಲ್ಲ."
+ },
+ {
+  "subject": "re_examination",
+  "aspect": "scope_limit",
+  "value": "limited to clarifying cross-examination confusion only, no new topics",
+  "section": "10",
+  "page": 13,
+  "evidence": "ಪ್ರತಿ ಸಾಕ್ಷಿಯ ಪರೀಕ್ಷೆ ಮೂರು ಹಂತಗಳಲ್ಲಿ ನಡೆಯುತ್ತದೆ: (ಎ) ಮುಖ್ಯ ಪರೀಕ್ಷೆ (Examination-in-Chief) — PO ಸಾಕ್ಷಿಯನ್ನು ಪ್ರಶ್ನಿಸಿ ಅವರ ಹೇಳಿಕೆಯನ್ನು ದಾಖಲೆಗೆ ತರುತ್ತಾರೆ; (ಬಿ) ಅಡ್ಡ-ಪ್ರಶ್ನೆ (Cross-Examination) — ಉದ್ಯೋಗಿ ಅಥವಾ ಅವರ ಸಹಾಯಕ/ಪ್ರತಿನಿಧಿ ಸಾಕ್ಷಿಯನ್ನು ಪ್ರಶ್ನಿಸುವ ಹಕ್ಕು; (ಸಿ) ಮರು-ಪರೀಕ್ಷೆ (Re-Examination) — PO ಅಡ್ಡ-ಪ್ರಶ್ನೆಯಲ್ಲಿ ಉದ್ಭವಿಸಿದ ಗೊಂದಲಗಳನ್ನು ಸ್ಪಷ್ಟಪಡಿಸಲು ಮಾತ್ರ ಸೀಮಿತವಾದ ಪ್ರಶ್ನೆಗಳನ್ನು ಕೇಳಬಹುದು, ಹೊಸ ವಿಷಯ ಪ್ರಸ್ತಾಪಿಸುವಂತಿಲ್ಲ."
+ },
+ {
+  "subject": "final_written_submissions",
+  "aspect": "deadline",
+  "value": "5 working days each side after evidence completion",
+  "section": "10",
+  "page": 13,
+  "evidence": "ಎಲ್ಲಾ ಸಾಕ್ಷ್ಯ ಪೂರ್ಣಗೊಂಡ ನಂತರ, ಎರಡೂ ಪಕ್ಷಗಳಿಗೆ ಅಂತಿಮ ಲಿಖಿತ ವಾದ (final written submission) ಸಲ್ಲಿಸಲು ತಲಾ ಐದು (5) ಕಾರ್ಯ ದಿನಗಳ ಅವಕಾಶ ನೀಡಲಾಗುತ್ತದೆ."
+ },
+ {
+  "subject": "evidentiary_standard",
+  "aspect": "applicable_standard",
+  "value": "preponderance of probability, not beyond reasonable doubt",
+  "section": "11",
+  "page": 14,
+  "evidence": "ಔಪಚಾರಿಕ ಆಂತರಿಕ ವಿಚಾರಣೆಯಲ್ಲಿ ಅನ್ವಯಿಸುವ ಸಾಕ್ಷ್ಯಾಧಾರದ ಮಾನದಂಡವು ಕ್ರಿಮಿನಲ್ ನ್ಯಾಯಾಲಯದ \"ಸಂದೇಹಕ್ಕೆ ಅತೀತವಾಗಿ ಸಾಬೀತು\" (beyond reasonable doubt) ಎಂಬ ಕಠಿಣ ಮಾನದಂಡದಿಂದ ಭಿನ್ನವಾಗಿದೆ. ಇಲ್ಲಿ ಅನ್ವಯಿಸುವ ಮಾನದಂಡ \"ಸಂಭಾವ್ಯತೆಯ ಪ್ರಾಮುಖ್ಯತೆ\" (preponderance of probability) ಆಗಿದೆ — ಅಂದರೆ, ಲಭ್ಯ ಸಾಕ್ಷ್ಯಾಧಾರದ ಆಧಾರದ ಮೇಲೆ ಆರೋಪ ಸತ್ಯವಾಗಿರುವ ಸಾಧ್ಯತೆ, ಅದು ಸುಳ್ಳಾಗಿರುವ ಸಾಧ್ಯತೆಗಿಂತ ಹೆಚ್ಚು ಇದೆಯೇ ಎಂಬುದನ್ನು IO ಪರಿಗಣಿಸಬೇಕು."
+ },
+ {
+  "subject": "hearsay_evidence",
+  "aspect": "admissibility",
+  "value": "admissible but with lower evidentiary weight, needs corroboration",
+  "section": "11",
+  "page": 15,
+  "evidence": "ಕಿವಿಮಾತು/ಪರೋಕ್ಷ ಸಾಕ್ಷ್ಯದ (hearsay evidence) ವಿಷಯದಲ್ಲಿ, ಅಂತಹ ಸಾಕ್ಷ್ಯವನ್ನು ಸಂಪೂರ್ಣವಾಗಿ ಹೊರಗಿಡಲಾಗುವುದಿಲ್ಲ, ಆದರೆ ಅದಕ್ಕೆ ಪ್ರತ್ಯಕ್ಷ ಸಾಕ್ಷ್ಯಕ್ಕಿಂತ ಕಡಿಮೆ ಸಾಕ್ಷ್ಯ ಮೌಲ್ಯ (evidentiary weight) ನೀಡಲಾಗುತ್ತದೆ. IO ಕಿವಿಮಾತು ಸಾಕ್ಷ್ಯದ ಆಧಾರದ ಮೇಲೆ ಮಾತ್ರ ಯಾವುದೇ ಆರೋಪವನ್ನು ಸಾಬೀತಾಗಿದೆ ಎಂದು ಘೋಷಿಸುವಂತಿಲ್ಲ; ಅದಕ್ಕೆ ಸ್ವತಂತ್ರ ಪೂರಕ ಸಾಕ್ಷ್ಯ (corroborating evidence) ಅಗತ್ಯ."
+ },
+ {
+  "subject": "burden_of_proof",
+  "aspect": "allocation",
+  "value": "always on administration",
+  "section": "11",
+  "page": 15,
+  "evidence": "ಆರೋಪದ ಹೊರೆ (burden of proof) ಸಂಪೂರ್ಣ ವಿಚಾರಣೆಯ ಅವಧಿಯಲ್ಲಿ ಆಡಳಿತದ ಮೇಲೆ ಇರುತ್ತದೆ; ಉದ್ಯೋಗಿಗೆ ತನ್ನ ಮುಗ್ಧತೆಯನ್ನು ಸಾಬೀತುಪಡಿಸುವ ಹೊಣೆ ಇಲ್ಲ."
+ },
+ {
+  "subject": "daily_proceedings_record",
+  "aspect": "signing_requirement",
+  "value": "must be signed same day by IO, PO, employee/assistant",
+  "section": "12",
+  "page": 15,
+  "evidence": "ಪ್ರತಿ ವಿಚಾರಣಾ ಸಭೆಯ ದಿನದ ಕಾರ್ಯಕಲಾಪಗಳನ್ನು (proceedings) ಆ ದಿನವೇ ಸಂಪೂರ್ಣವಾಗಿ ಲಿಖಿತ ರೂಪದಲ್ಲಿ ದಾಖಲಿಸಬೇಕು. ಈ ದಾಖಲೆಯಲ್ಲಿ ಹಾಜರಾದ ಎಲ್ಲಾ ವ್ಯಕ್ತಿಗಳ ಹೆಸರು, ಪರೀಕ್ಷಿಸಲಾದ ಸಾಕ್ಷಿಗಳ ಹೇಳಿಕೆಗಳು, ಸಲ್ಲಿಸಲಾದ ದಾಖಲೆಗಳು, ಎತ್ತಲಾದ ಯಾವುದೇ ಆಕ್ಷೇಪಣೆಗಳು ಮತ್ತು ಅವುಗಳ ಮೇಲಿನ IOಯ ನಿರ್ಧಾರಗಳು ಒಳಗೊಂಡಿರಬೇಕು. ಪ್ರತಿ ದಿನದ ಕಾರ್ಯಕಲಾಪ ದಾಖಲೆಗೆ IO, PO ಮತ್ತು ಉದ್ಯೋಗಿ (ಅಥವಾ ಅವರ ಸಹಾಯಕ) ಮೂವರೂ ಸಹಿ ಮಾಡಬೇಕು."
+ },
+ {
+  "subject": "exparte_inquiry",
+  "aspect": "trigger",
+  "value": "two consecutive absences without reason triggers final warning before 3rd meeting",
+  "section": "13",
+  "page": 16,
+  "evidence": "ಉದ್ಯೋಗಿ ಸಕಾರಣವಿಲ್ಲದೆ ಸತತ ಎರಡು ವಿಚಾರಣಾ ಸಭೆಗಳಿಗೆ ಗೈರುಹಾಜರಾದರೆ, ಅಥವಾ ವಿಚಾರಣೆಯಲ್ಲಿ ಭಾಗವಹಿಸಲು ಸ್ಪಷ್ಟವಾಗಿ ನಿರಾಕರಿಸಿದರೆ, IO ಈ ಗೈರುಹಾಜರಿ/ನಿರಾಕರಣೆಯನ್ನು ಮೂರನೇ ಸಭೆಗೆ ಅಂತಿಮ ಎಚ್ಚರಿಕೆಯ ಲಿಖಿತ ಸೂಚನೆ ನೀಡಿ (\"ಒಂದು ಕೊನೆಯ ಅವಕಾಶ\" ಪತ್ರ) ದಾಖಲಿಸಬೇಕು."
+ },
+ {
+  "subject": "io_report",
+  "aspect": "deadline",
+  "value": "15 working days from last evidence/argument meeting",
+  "section": "14",
+  "page": 17,
+  "evidence": "ಸಾಕ್ಷ್ಯ ಮತ್ತು ಅಂತಿಮ ಲಿಖಿತ ವಾದಗಳು ಪೂರ್ಣಗೊಂಡ ಕೊನೆಯ ಸಭೆಯ ದಿನಾಂಕದಿಂದ ಹದಿನೈದು (15) ಕಾರ್ಯ ದಿನಗಳ ಒಳಗೆ, IO ತನ್ನ ಅಂತಿಮ ವಿಚಾರಣಾ ವರದಿಯನ್ನು (Inquiry Report) ಸಲ್ಲಿಸಬೇಕು."
+ },
+ {
+  "subject": "io_report",
+  "aspect": "extension_limit",
+  "value": "max 10 additional working days with Disciplinary Authority approval",
+  "section": "14",
+  "page": 17,
+  "evidence": "ಈ ಕಾಲಮಿತಿಯನ್ನು ಅತ್ಯಂತ ಸಂಕೀರ್ಣ ಪ್ರಕರಣಗಳಲ್ಲಿ, ಶಿಸ್ತು ಪ್ರಾಧಿಕಾರಿಯ ಲಿಖಿತ ಅನುಮೋದನೆಯೊಂದಿಗೆ, ಗರಿಷ್ಠ ಹತ್ತು (10) ಹೆಚ್ಚುವರಿ ಕಾರ್ಯ ದಿನಗಳ ವರೆಗೆ ಒಂದೇ ಬಾರಿ ವಿಸ್ತರಿಸಬಹುದು."
+ },
+ {
+  "subject": "io_report",
+  "aspect": "required_structure",
+  "value": "charge summary, chronological history, evidence summary, separate per-charge decision, reasoning",
+  "section": "14",
+  "page": 18,
+  "evidence": "ವಿಚಾರಣಾ ವರದಿಯು ಈ ಕೆಳಗಿನ ರಚನೆಯನ್ನು ಅನುಸರಿಸಬೇಕು: (ಎ) ಆರೋಪಗಳ ಸಂಕ್ಷಿಪ್ತ ಸಾರಾಂಶ; (ಬಿ) ವಿಚಾರಣೆಯ ಕಾಲಾನುಕ್ರಮಿಕ ಇತಿಹಾಸ (ಸಭೆಗಳ ದಿನಾಂಕ, ಮುಂದೂಡಿಕೆಗಳು, ಪ್ರಮುಖ ಘಟನೆಗಳು); (ಸಿ) ಪರಿಗಣಿಸಲಾದ ಸಾಕ್ಷ್ಯದ ಸಂಗ್ರಹಣೆ — ಪ್ರತಿ ಸಾಕ್ಷಿಯ ಹೇಳಿಕೆಯ ಸಾರ ಮತ್ತು ಪ್ರತಿ ದಾಖಲೆಯ ಪ್ರಾಮುಖ್ಯತೆ; (ಡಿ) ಪ್ರತಿ ಪ್ರತ್ಯೇಕ ಆರೋಪದ ಮೇಲಿನ ಸ್ಪಷ್ಟ ನಿರ್ಧಾರ (ಸಾಬೀತಾಗಿದೆ / ಭಾಗಶಃ ಸಾಬೀತಾಗಿದೆ / ಸಾಬೀತಾಗಿಲ್ಲ), ಪ್ರತಿ ಆರೋಪಕ್ಕೆ ಪ್ರತ್ಯೇಕವಾಗಿ, ಎಲ್ಲಾ ಆರೋಪಗಳನ್ನು ಒಟ್ಟಾಗಿ ಬ್ಲಾಕ್ ಆಗಿ ಅಲ್ಲ; (ಇ) ಪ್ರತಿ ನಿರ್ಧಾರದ ಹಿಂದಿನ ತಾರ್ಕಿಕ ಕಾರಣಗಳು (reasoning), ಯಾವ ಸಾಕ್ಷ್ಯವನ್ನು ಏಕೆ ಒಪ್ಪಿಕೊಳ್ಳಲಾಗಿದೆ ಅಥವಾ ತಿರಸ್ಕರಿಸಲಾಗಿದೆ ಎಂಬ ವಿವರಣೆ ಸಹಿತ."
+ },
+ {
+  "subject": "io_report",
+  "aspect": "penalty_recommendation_rule",
+  "value": "must NOT include any penalty recommendation",
+  "section": "14",
+  "page": 18,
+  "evidence": "IO ವರದಿಯಲ್ಲಿ ಯಾವುದೇ ದಂಡದ ಶಿಫಾರಸನ್ನು ಸೇರಿಸಬಾರದು — ದಂಡ ನಿರ್ಧಾರ ಸಂಪೂರ್ಣವಾಗಿ ಶಿಸ್ತು ಪ್ರಾಧಿಕಾರಿಯ ವ್ಯಾಪ್ತಿ."
+ },
+ {
+  "subject": "disciplinary_authority_review",
+  "aspect": "timeline",
+  "value": "10 working days from receipt of IO report",
+  "section": "15",
+  "page": 19,
+  "evidence": "ಶಿಸ್ತು ಪ್ರಾಧಿಕಾರಿಯು ವಿಚಾರಣಾ ವರದಿಯನ್ನು ಸ್ವೀಕೃತವಾದ ಹತ್ತು (10) ಕಾರ್ಯ ದಿನಗಳ ಒಳಗೆ ಪರಿಶೀಲಿಸಿ ಈ ಕೆಳಗಿನ ಆಯ್ಕೆಗಳಲ್ಲಿ ಒಂದನ್ನು ಆರಿಸಬೇಕು:"
+ },
+ {
+  "subject": "disciplinary_authority_review",
+  "aspect": "options",
+  "value": "fully accept, partially accept, remand (max 30 calendar days new timeline), disagree (only on same evidence)",
+  "section": "15",
+  "page": 19,
+  "evidence": "(ಬಿ) IOಯ ಸಂಶೋಧನೆಗಳನ್ನು ಭಾಗಶಃ ಒಪ್ಪಿಕೊಳ್ಳುವುದು (ಉದಾ: ಕೆಲವು ಆರೋಪಗಳನ್ನು ಒಪ್ಪಿ, ಇತರವುಗಳನ್ನು ತಿರಸ್ಕರಿಸಿ); (ಸಿ) ಹೆಚ್ಚಿನ ವಿಚಾರಣೆಗೆ ಪ್ರಕರಣವನ್ನು ಹಿಂದಿರುಗಿಸುವುದು (remand) — ಇದು ಸಾಕ್ಷ್ಯ ಅಪೂರ್ಣವಾಗಿದೆ ಅಥವಾ ಕಾರ್ಯವಿಧಾನದ ಲೋಪ ಕಂಡುಬಂದರೆ ಮಾತ್ರ ಅನ್ವಯಿಸುತ್ತದೆ, ಮತ್ತು ಮರಳಿಸುವ ಆದೇಶದಲ್ಲಿ ನಿರ್ದಿಷ್ಟ ಕಾರಣಗಳನ್ನು ಮತ್ತು ಹೆಚ್ಚಿನ ವಿಚಾರಣೆಗೆ ನಿಗದಿತ ಹೊಸ ಕಾಲಮಿತಿಯನ್ನು (ಸಾಮಾನ್ಯವಾಗಿ ಗರಿಷ್ಠ ಮೂವತ್ತು ಕ್ಯಾಲೆಂಡರ್ ದಿನಗಳು) ಸ್ಪಷ್ಟವಾಗಿ ನಮೂದಿಸಬೇಕು; (ಡಿ) IOಯ ಸಂಶೋಧನೆಗಳೊಂದಿಗೆ ಅಸಮ್ಮತಿ ವ್ಯಕ್ತಪಡಿಸುವುದು (disagreement) — ಇದನ್ನು ಶಿಸ್ತು ಪ್ರಾಧಿಕಾರಿಯು ಮಾಡಬಹುದಾದರೂ, ಕೇವಲ ಅದೇ ಸಾಕ್ಷ್ಯಾಧಾರದ ಮೇಲೆ ಮಾತ್ರ, ಹೊಸ ಸಾಕ್ಷ್ಯ ಸೇರಿಸದೆ ಮಾಡಬಹುದು, ಮತ್ತು ಈ ಅಸಮ್ಮತಿಗೆ ವಿವರವಾದ ಲಿಖಿತ ಕಾರಣಗಳನ್ನು ದಾಖಲಿಸಬೇಕು."
+ },
+ {
+  "subject": "second_show_cause_notice",
+  "aspect": "response_period",
+  "value": "7 calendar days, restricted to penalty quantum not guilt re-litigation",
+  "section": "16",
+  "page": 20,
+  "evidence": "ಉದ್ಯೋಗಿಗೆ ಪ್ರತಿಕ್ರಿಯಿಸಲು ಕನಿಷ್ಠ ಏಳು (7) ಕ್ಯಾಲೆಂಡರ್ ದಿನಗಳ ಕಾಲಮಿತಿ ನೀಡಬೇಕು. ಈ ಹಂತದಲ್ಲಿ ಉದ್ಯೋಗಿ ವಾದಿಸಬಹುದಾದ ವಿಷಯ ಬಹುಮುಖ್ಯ ಮಿತಿಗೆ ಒಳಪಟ್ಟಿದೆ: ಸಾಮಾನ್ಯ ನಿಯಮವಾಗಿ, ಉದ್ಯೋಗಿಯು ಈ ಹಂತದಲ್ಲಿ ತಪ್ಪಿತಸ್ಥ/ಮುಗ್ಧ ಎಂಬ ಪ್ರಶ್ನೆಯನ್ನು ಮತ್ತೆ ವಾದಿಸುವಂತಿಲ್ಲ (ಅಂದರೆ IOಯ ಸಂಶೋಧನೆಗಳನ್ನು ಪುನಃ ವಿಚಾರಣೆಗೆ ಒಳಪಡಿಸುವಂತಿಲ್ಲ); ಬದಲಿಗೆ ಅವರ ಪ್ರತಿಕ್ರಿಯೆಯು ಪ್ರಸ್ತಾವಿತ ದಂಡದ ಪ್ರಮಾಣ ಮತ್ತು ಸ್ವರೂಪದ ಬಗ್ಗೆ ಮಾತ್ರ ಕೇಂದ್ರೀಕೃತವಾಗಿರಬೇಕು — ಉದಾ: ಹಿಂದಿನ ಸೇವಾ ದಾಖಲೆ, ಸಂದರ್ಭಗಳು, ಅಥವಾ ಕಡಿಮೆ ಕಠಿಣ ದಂಡಕ್ಕೆ ಕಾರಣಗಳು."
+ },
+ {
+  "subject": "final_order",
+  "aspect": "deadline",
+  "value": "15 working days from second-notice response or deadline expiry",
+  "section": "17",
+  "page": 21,
+  "evidence": "ಎರಡನೇ ಕಾರಣ ಕೇಳುವ ಸೂಚನೆಗೆ ಉದ್ಯೋಗಿಯ ಪ್ರತಿಕ್ರಿಯೆ ಸ್ವೀಕೃತವಾದ (ಅಥವಾ ಪ್ರತಿಕ್ರಿಯೆ ಇಲ್ಲದಿದ್ದರೆ ಕಾಲಮಿತಿ ಮುಗಿದ) ದಿನಾಂಕದಿಂದ ಹದಿನೈದು (15) ಕಾರ್ಯ ದಿನಗಳ ಒಳಗೆ, ಶಿಸ್ತು ಪ್ರಾಧಿಕಾರಿಯು ಅಂತಿಮ ಆದೇಶವನ್ನು (Final Order) ಹೊರಡಿಸಬೇಕು."
+ },
+ {
+  "subject": "overall_timeline",
+  "aspect": "target",
+  "value": "90 calendar days from charge-sheet to final order",
+  "section": "18",
+  "page": 22,
+  "evidence": "ಆರೋಪ ಪತ್ರ ನೀಡಿದ ದಿನಾಂಕದಿಂದ ಅಂತಿಮ ಆದೇಶ ಹೊರಡಿಸುವ ದಿನಾಂಕದ ವರೆಗೆ ಇಡೀ ಔಪಚಾರಿಕ ವಿಚಾರಣಾ ಕಾರ್ಯವಿಧಾನ ಪೂರ್ಣಗೊಳಿಸಲು ಗುರಿ ಕಾಲಮಿತಿಯನ್ನು ತೊಂಬತ್ತು (90) ಕ್ಯಾಲೆಂಡರ್ ದಿನಗಳು ಎಂದು ನಿಗದಿಪಡಿಸಲಾಗಿದೆ."
+ },
+ {
+  "subject": "overall_timeline",
+  "aspect": "delayed_case_threshold",
+  "value": "exceeding 120 calendar days classified as delayed case, auto-escalated to HR Head monthly",
+  "section": "18",
+  "page": 22,
+  "evidence": "ಪ್ರಕರಣ 90 ದಿನಗಳನ್ನು ಮೀರಿದರೂ ನೂರಾ ಇಪ್ಪತ್ತು (120) ಕ್ಯಾಲೆಂಡರ್ ದಿನಗಳನ್ನು ದಾಟಿದರೆ, ಅದನ್ನು \"ವಿಳಂಬಿತ ಪ್ರಕರಣ\" (delayed case) ಎಂದು ವರ್ಗೀಕರಿಸಿ, ಸ್ವಯಂಚಾಲಿತವಾಗಿ ಮಾನವ ಸಂಪನ್ಮೂಲ ಮುಖ್ಯಸ್ಥರಿಗೆ ಮಾಸಿಕ ಉಲ್ಬಣ ವರದಿಯಲ್ಲಿ (escalation report) ಹೆಸರಿಸಲಾಗುತ್ತದೆ."
+ },
+ {
+  "subject": "quality_audit",
+  "aspect": "sample_size",
+  "value": "minimum 20% or minimum 5 files per quarter, whichever greater",
+  "section": "19",
+  "page": 23,
+  "evidence": "ಮಾನವ ಸಂಪನ್ಮೂಲ ವಿಭಾಗವು ಪ್ರತಿ ತ್ರೈಮಾಸಿಕದಲ್ಲಿ ಪೂರ್ಣಗೊಂಡ ಎಲ್ಲಾ ಔಪಚಾರಿಕ ವಿಚಾರಣಾ ಕಡತಗಳಲ್ಲಿ ಕನಿಷ್ಠ ಇಪ್ಪತ್ತು ಪ್ರತಿಶತ (20%) ಅಥವಾ ಕನಿಷ್ಠ ಐದು ಕಡತಗಳನ್ನು (ಯಾವುದು ಹೆಚ್ಚು) ಆಯ್ಕೆ ಮಾಡಿ ಗುಣಮಟ್ಟ ಲೆಕ್ಕಪರಿಶೋಧನೆ (quality audit) ನಡೆಸುತ್ತದೆ."
+ },
+ {
+  "subject": "quality_audit",
+  "aspect": "scoring_breakdown",
+  "value": "out of 100: natural justice compliance max 40 (charge-sheet clarity 10, document review 10, cross-exam opportunity 10, response opportunity 10); documentation completeness max 25; timeline compliance max 20; IO report logical quality max 15",
+  "section": "19",
+  "page": 23,
+  "evidence": "ಅಂಕ ನೀಡಿಕೆಯ ವಿಭಜನೆ ಹೀಗಿದೆ: ಪ್ರಕೃತಿ ನ್ಯಾಯದ ಅನುಸರಣೆಗೆ ಗರಿಷ್ಠ 40 ಅಂಕ (ಆರೋಪ ಪತ್ರದ ಸ್ಪಷ್ಟತೆ 10, ದಾಖಲೆ ಪರಿಶೀಲನೆ ಅವಕಾಶ 10, ಸಾಕ್ಷಿ ಅಡ್ಡ-ಪ್ರಶ್ನೆ ಅವಕಾಶ 10, ಪ್ರತಿಕ್ರಿಯಾ ಅವಕಾಶ 10); ದಾಖಲಾತಿಯ ಸಂಪೂರ್ಣತೆಗೆ ಗರಿಷ್ಠ 25 ಅಂಕ; ಕಾಲಮಿತಿ ಅನುಸರಣೆಗೆ ಗರಿಷ್ಠ 20 ಅಂಕ; ಮತ್ತು IO ವರದಿಯ ತಾರ್ಕಿಕ ಗುಣಮಟ್ಟಕ್ಕೆ ಗರಿಷ್ಠ 15 ಅಂಕ."
+ },
+ {
+  "subject": "quality_audit",
+  "aspect": "flagging_thresholds",
+  "value": "<90 flagged; 75-89 needs improvement (feedback meeting); <75 serious deficiency (6-month case freeze + retraining)",
+  "section": "19",
+  "page": 23,
+  "evidence": "ಪ್ರತಿ ಲೆಕ್ಕಪರಿಶೋಧಿತ ಕಡತಕ್ಕೆ ನೂರಕ್ಕೆ ಅಂಕ ನೀಡಲಾಗುತ್ತದೆ, ಮತ್ತು 90ಕ್ಕಿಂತ ಕಡಿಮೆ ಅಂಕ ಪಡೆದ ಕಡತಗಳ ಬಗ್ಗೆ ಸಂಬಂಧಿತ IOಗೆ ಪ್ರತ್ಯೇಕ ಪ್ರತಿಕ್ರಿಯಾ ಸಭೆ ನಡೆಸಲಾಗುತ್ತದೆ. ಅಂಕ ನೀಡಿಕೆಯ ವಿಭಜನೆ ಹೀಗಿದೆ: ಪ್ರಕೃತಿ ನ್ಯಾಯದ ಅನುಸರಣೆಗೆ ಗರಿಷ್ಠ 40 ಅಂಕ (ಆರೋಪ ಪತ್ರದ ಸ್ಪಷ್ಟತೆ 10, ದಾಖಲೆ ಪರಿಶೀಲನೆ ಅವಕಾಶ 10, ಸಾಕ್ಷಿ ಅಡ್ಡ-ಪ್ರಶ್ನೆ ಅವಕಾಶ 10, ಪ್ರತಿಕ್ರಿಯಾ ಅವಕಾಶ 10); ದಾಖಲಾತಿಯ ಸಂಪೂರ್ಣತೆಗೆ ಗರಿಷ್ಠ 25 ಅಂಕ; ಕಾಲಮಿತಿ ಅನುಸರಣೆಗೆ ಗರಿಷ್ಠ 20 ಅಂಕ; ಮತ್ತು IO ವರದಿಯ ತಾರ್ಕಿಕ ಗುಣಮಟ್ಟಕ್ಕೆ ಗರಿಷ್ಠ 15 ಅಂಕ. 90ಕ್ಕಿಂತ ಕಡಿಮೆ ಅಂಕ ಬಂದ ಕಡತಗಳಲ್ಲಿ, 75ರಿಂದ 89ರ ನಡುವಿನ ಅಂಕ \"ಸುಧಾರಣೆ ಅಗತ್ಯ\" ಎಂದೂ, 75ಕ್ಕಿಂತ ಕಡಿಮೆ ಅಂಕ \"ಗಂಭೀರ ನ್ಯೂನತೆ\" ಎಂದೂ ವರ್ಗೀಕರಿಸಲಾಗುತ್ತದೆ; ಗಂಭೀರ ನ್ಯೂನತೆಯ ಪ್ರಕರಣಗಳಲ್ಲಿ, ಆ IOಗೆ ಮುಂದಿನ ಆರು ತಿಂಗಳ ಕಾಲ ಹೊಸ ಪ್ರಕರಣ ಹಂಚಿಕೆ ತಡೆಹಿಡಿಯಲಾಗುತ್ತದೆ, ಮರು-ತರಬೇತಿ ಪೂರ್ಣಗೊಳ್ಳುವ ತನಕ."
+ },
+ {
+  "subject": "io_panel",
+  "aspect": "size",
+  "value": "25 officers plus 3 external retired judicial officers",
+  "section": "19",
+  "page": 23,
+  "evidence": "ಕಂಪನಿಯು ಒಂದು ಕೇಂದ್ರೀಕೃತ ವಿಚಾರಣಾಧಿಕಾರಿಗಳ ಫಲಕ (IO Panel / Empanelment List) ಅನ್ನು ನಿರ್ವಹಿಸುತ್ತದೆ, ಇದರಲ್ಲಿ ಪ್ರಸ್ತುತ ಇಪ್ಪತ್ತೈದು (25) ಅಧಿಕಾರಿಗಳನ್ನು (ವಿವಿಧ ವಿಭಾಗಗಳು ಮತ್ತು ಶಾಖೆಗಳಿಂದ) ಸೇರಿಸಲಾಗಿದೆ, ಜೊತೆಗೆ ಹಿರಿಯ ಪ್ರಕರಣಗಳಿಗೆ ಮೂರು ಬಾಹ್ಯ ನಿವೃತ್ತ ನ್ಯಾಯಾಂಗ ಅಧಿಕಾರಿಗಳ ಪ್ರತ್ಯೇಕ ಪಟ್ಟಿ ಇದೆ."
+ },
+ {
+  "subject": "io_panel",
+  "aspect": "review_cycle",
+  "value": "reviewed every 2 years",
+  "section": "19",
+  "page": 23,
+  "evidence": "ಈ ಫಲಕವನ್ನು ಪ್ರತಿ ಎರಡು (2) ವರ್ಷಗಳಿಗೊಮ್ಮೆ ಪರಿಶೀಲಿಸಿ ನವೀಕರಿಸಲಾಗುತ್ತದೆ, ಮತ್ತು ಫಲಕದ ಸದಸ್ಯರಾಗಲು ಕನಿಷ್ಠ ಎಂಟು ವರ್ಷಗಳ ಸೇವಾ ಅನುಭವ ಅಗತ್ಯ."
+ },
+ {
+  "subject": "io_panel",
+  "aspect": "minimum_experience",
+  "value": "minimum 8 years service experience required",
+  "section": "19",
+  "page": 23,
+  "evidence": "ಈ ಫಲಕವನ್ನು ಪ್ರತಿ ಎರಡು (2) ವರ್ಷಗಳಿಗೊಮ್ಮೆ ಪರಿಶೀಲಿಸಿ ನವೀಕರಿಸಲಾಗುತ್ತದೆ, ಮತ್ತು ಫಲಕದ ಸದಸ್ಯರಾಗಲು ಕನಿಷ್ಠ ಎಂಟು ವರ್ಷಗಳ ಸೇವಾ ಅನುಭವ ಅಗತ್ಯ."
+ },
+ {
+  "subject": "io_certification_training",
+  "aspect": "duration_and_structure",
+  "value": "mandatory 16 hours, repeated every 2 years, divided into 4 modules of 4 hours each",
+  "section": "19",
+  "page": 24,
+  "evidence": "ಈ ತರಬೇತಿಯನ್ನು ಪ್ರತಿ ಎರಡು (2) ವರ್ಷಗಳಿಗೊಮ್ಮೆ ರಿಫ್ರೆಶರ್ ಆಗಿ ಪುನರಾವರ್ತಿಸಲಾಗುತ್ತದೆ. ಹೊಸದಾಗಿ ಫಲಕಕ್ಕೆ ಸೇರ್ಪಡೆಯಾಗುವ ಅಧಿಕಾರಿಯು ಪ್ರಮಾಣೀಕರಣ ಪಡೆಯುವ ತನಕ, ಅನುಭವಿ IO ಜೊತೆ ಕನಿಷ್ಠ ಒಂದು ಪ್ರಕರಣದಲ್ಲಿ ವೀಕ್ಷಕರಾಗಿ (observer) ಕಾರ್ಯ ನಿರ್ವಹಿಸಬೇಕು, ಸ್ವತಂತ್ರವಾಗಿ IO ಆಗಿ ನೇಮಕಗೊಳ್ಳುವ ಮುನ್ನ. ಈ ಹದಿನಾರು ಗಂಟೆಗಳ ತರಬೇತಿ ಕಾರ್ಯಕ್ರಮವು ನಾಲ್ಕು ಮಾಡ್ಯೂಲ್‌ಗಳಲ್ಲಿ ವಿಂಗಡಿಸಲ್ಪಟ್ಟಿದೆ: ಮಾಡ್ಯೂಲ್ 1 (ನಾಲ್ಕು ಗಂಟೆ) — ಪ್ರಕೃತಿ ನ್ಯಾಯದ ಮೂಲ ತತ್ವಗಳು ಮತ್ತು ಔದ್ಯೋಗಿಕ ನ್ಯಾಯಶಾಸ್ತ್ರದ ಪರಿಚಯ; ಮಾಡ್ಯೂಲ್ 2 (ನಾಲ್ಕು ಗಂಟೆ) — ಸಾಕ್ಷ್ಯ ಪರೀಕ್ಷೆ ಕೌಶಲ್ಯ, ಪ್ರಶ್ನಿಸುವ ತಂತ್ರಗಳು, ಮತ್ತು ಆಕ್ಷೇಪಣೆ ನಿರ್ವಹಣೆ (ಅಣಕು ವಿಚಾರಣೆಯ ಅಭ್ಯಾಸ ಸೆಷನ್ ಸಹಿತ); ಮಾಡ್ಯೂಲ್ 3 (ನಾಲ್ಕು ಗಂಟೆ) — ವರದಿ ಬರೆಯುವ ವಿಧಾನ, ಸಾಕ್ಷ್ಯ ಮೌಲ್ಯಮಾಪನ, ಮತ್ತು ತಾರ್ಕಿಕ ನಿರ್ಣಯ ರಚನೆ; ಮಾಡ್ಯೂಲ್ 4 (ನಾಲ್ಕು ಗಂಟೆ) — ಕಾಲಮಿತಿ ನಿರ್ವಹಣೆ, ದಾಖಲಾತಿ ಅಗತ್ಯತೆಗಳು, ಮತ್ತು ಕೇಸ್ ಸ್ಟಡಿ ಚರ್ಚೆ."
+ },
+ {
+  "subject": "io_certification_training",
+  "aspect": "module_topics",
+  "value": "Module 1 natural justice principles; Module 2 evidence examination with mock trial; Module 3 report writing/evidence evaluation; Module 4 timeline management/documentation/case studies",
+  "section": "19",
+  "page": 24,
+  "evidence": "ಈ ಹದಿನಾರು ಗಂಟೆಗಳ ತರಬೇತಿ ಕಾರ್ಯಕ್ರಮವು ನಾಲ್ಕು ಮಾಡ್ಯೂಲ್‌ಗಳಲ್ಲಿ ವಿಂಗಡಿಸಲ್ಪಟ್ಟಿದೆ: ಮಾಡ್ಯೂಲ್ 1 (ನಾಲ್ಕು ಗಂಟೆ) — ಪ್ರಕೃತಿ ನ್ಯಾಯದ ಮೂಲ ತತ್ವಗಳು ಮತ್ತು ಔದ್ಯೋಗಿಕ ನ್ಯಾಯಶಾಸ್ತ್ರದ ಪರಿಚಯ; ಮಾಡ್ಯೂಲ್ 2 (ನಾಲ್ಕು ಗಂಟೆ) — ಸಾಕ್ಷ್ಯ ಪರೀಕ್ಷೆ ಕೌಶಲ್ಯ, ಪ್ರಶ್ನಿಸುವ ತಂತ್ರಗಳು, ಮತ್ತು ಆಕ್ಷೇಪಣೆ ನಿರ್ವಹಣೆ (ಅಣಕು ವಿಚಾರಣೆಯ ಅಭ್ಯಾಸ ಸೆಷನ್ ಸಹಿತ); ಮಾಡ್ಯೂಲ್ 3 (ನಾಲ್ಕು ಗಂಟೆ) — ವರದಿ ಬರೆಯುವ ವಿಧಾನ, ಸಾಕ್ಷ್ಯ ಮೌಲ್ಯಮಾಪನ, ಮತ್ತು ತಾರ್ಕಿಕ ನಿರ್ಣಯ ರಚನೆ; ಮಾಡ್ಯೂಲ್ 4 (ನಾಲ್ಕು ಗಂಟೆ) — ಕಾಲಮಿತಿ ನಿರ್ವಹಣೆ, ದಾಖಲಾತಿ ಅಗತ್ಯತೆಗಳು, ಮತ್ತು ಕೇಸ್ ಸ್ಟಡಿ ಚರ್ಚೆ."
+ },
+ {
+  "subject": "io_certification_training",
+  "aspect": "minimum_passing_score",
+  "value": "minimum 70% score in each module",
+  "section": "19",
+  "page": 24,
+  "evidence": "ಪ್ರತಿ ಮಾಡ್ಯೂಲ್ ಕೊನೆಯಲ್ಲಿ ಒಂದು ಸಣ್ಣ ಮೌಲ್ಯಮಾಪನ ಪರೀಕ್ಷೆ ಇರುತ್ತದೆ, ಮತ್ತು ಎಲ್ಲಾ ನಾಲ್ಕು ಮಾಡ್ಯೂಲ್‌ಗಳಲ್ಲಿ ಕನಿಷ್ಠ 70% ಅಂಕ ಪಡೆದರೆ ಮಾತ್ರ ಪ್ರಮಾಣೀಕರಣ ಪ್ರಮಾಣಪತ್ರ ನೀಡಲಾಗುತ್ತದೆ."
+ },
+ {
+  "subject": "kpi_avg_inquiry_duration",
+  "aspect": "target",
+  "value": "average inquiry duration target ≤90 calendar days",
+  "section": "21",
+  "page": 25,
+  "evidence": "ಸರಾಸರಿ ವಿಚಾರಣಾ ಅವಧಿ (Average Inquiry Duration): ಆರೋಪ ಪತ್ರದಿಂದ ಅಂತಿಮ ಆದೇಶದ ವರೆಗೆ ಸರಾಸರಿ ದಿನಗಳ ಸಂಖ್ಯೆ; ಗುರಿ: 90 ಕ್ಯಾಲೆಂಡರ್ ದಿನಗಳು ಅಥವಾ ಕಡಿಮೆ."
+ },
+ {
+  "subject": "kpi_timeline_completion_rate",
+  "aspect": "target",
+  "value": "percent completed within timeline target ≥85%",
+  "section": "21",
+  "page": 25,
+  "evidence": "ಕಾಲಮಿತಿಯೊಳಗೆ ಪೂರ್ಣಗೊಂಡ ವಿಚಾರಣೆಗಳ ಪ್ರತಿಶತ: ಗುರಿ ಅವಧಿ (90 ದಿನಗಳು) ಒಳಗೆ ಪೂರ್ಣಗೊಂಡ ಕಡತಗಳ ಅನುಪಾತ; ಗುರಿ: 85% ಅಥವಾ ಹೆಚ್ಚು."
+ },
+ {
+  "subject": "kpi_exparte_rate",
+  "aspect": "target",
+  "value": "percent ex-parte inquiries target ≤5%",
+  "section": "21",
+  "page": 25,
+  "evidence": "ಏಕಪಕ್ಷೀಯ (Ex-parte) ವಿಚಾರಣೆಗಳ ಪ್ರತಿಶತ: ಒಟ್ಟು ವಿಚಾರಣೆಗಳಲ್ಲಿ ಉದ್ಯೋಗಿಯ ಅಸಹಕಾರದಿಂದ ಏಕಪಕ್ಷೀಯವಾಗಿ ಪೂರ್ಣಗೊಂಡವುಗಳ ಅನುಪಾತ; ಗುರಿ: 5% ಅಥವಾ ಕಡಿಮೆ."
+ },
+ {
+  "subject": "kpi_adjournment_rate",
+  "aspect": "target",
+  "value": "adjournment rate target ≤10% of files exceeding limit",
+  "section": "21",
+  "page": 25,
+  "evidence": "ಮುಂದೂಡಿಕೆ ದರ (Adjournment Rate): ಪ್ರತಿ ವಿಚಾರಣೆಗೆ ಸರಾಸರಿ ಮುಂದೂಡಿಕೆಗಳ ಸಂಖ್ಯೆ, ಗರಿಷ್ಠ ಮಿತಿಯ ಅನುಪಾತದಲ್ಲಿ; ಗುರಿ: ಪ್ರತಿ ಪಕ್ಷದ ಮೂರು ಮುಂದೂಡಿಕೆ ಮಿತಿಯನ್ನು ಮೀರಿದ ಕಡತಗಳು 10% ಅಥವಾ ಕಡಿಮೆ."
+ },
+ {
+  "subject": "kpi_io_training_compliance",
+  "aspect": "target",
+  "value": "IO panel training compliance target 100%",
+  "section": "21",
+  "page": 25,
+  "evidence": "IO ಫಲಕ ತರಬೇತಿ ಅನುಸರಣೆ ದರ: ಪ್ರಮಾಣೀಕರಣ ಮತ್ತು ರಿಫ್ರೆಶರ್ ತರಬೇತಿ ಪೂರ್ಣಗೊಳಿಸಿದ ಫಲಕ ಸದಸ್ಯರ ಪ್ರತಿಶತ; ಗುರಿ: 100%."
+ },
+ {
+  "subject": "kpi_quality_audit_score",
+  "aspect": "target",
+  "value": "quality audit average score target ≥90/100",
+  "section": "21",
+  "page": 25,
+  "evidence": "ಗುಣಮಟ್ಟ ಲೆಕ್ಕಪರಿಶೋಧನಾ ಸರಾಸರಿ ಅಂಕ: ಲೆಕ್ಕಪರಿಶೋಧಿತ ಕಡತಗಳ ಸರಾಸರಿ ಗುಣಮಟ್ಟ ಅಂಕ; ಗುರಿ: 90 ಅಥವಾ ಹೆಚ್ಚು (100ಕ್ಕೆ)."
+ },
+ {
+  "subject": "kpi_aged_backlog",
+  "aspect": "target",
+  "value": "aged backlog (>120 days) target 0 files",
+  "section": "21",
+  "page": 25,
+  "evidence": "120 ದಿನ ಮೀರಿದ ಬಾಕಿ ಪ್ರಕರಣಗಳು (Aged Backlog): ಯಾವುದೇ ಒಂದು ತ್ರೈಮಾಸಿಕದ ಅಂತ್ಯದಲ್ಲಿ 120 ಕ್ಯಾಲೆಂಡರ್ ದಿನಗಳಿಗಿಂತ ಹೆಚ್ಚು ಕಾಲ ಬಾಕಿ ಇರುವ ಮುಕ್ತ ವಿಚಾರಣಾ ಕಡತಗಳ ಸಂಖ್ಯೆ; ಗುರಿ: ಶೂನ್ಯ (0) ಕಡತಗಳು."
+ },
+ {
+  "subject": "kpi_remand_rate",
+  "aspect": "target",
+  "value": "remand rate target ≤8%",
+  "section": "21",
+  "page": 26,
+  "evidence": "ಈ ಎಂಟು ಸೂಚಕಗಳ ಜೊತೆಗೆ, ಒಂಬತ್ತನೇ ಪೂರಕ ಸೂಚಕವನ್ನೂ ಕೆಲವು ತ್ರೈಮಾಸಿಕಗಳಲ್ಲಿ ಟ್ರ್ಯಾಕ್ ಮಾಡಲಾಗುತ್ತದೆ: ರಿಮಾಂಡ್ ದರ (Remand Rate) — ಶಿಸ್ತು ಪ್ರಾಧಿಕಾರಿಯಿಂದ ಹೆಚ್ಚಿನ ವಿಚಾರಣೆಗೆ ಹಿಂದಿರುಗಿಸಲ್ಪಟ್ಟ ಕಡತಗಳ ಪ್ರತಿಶತ; ಗುರಿ: 8% ಅಥವಾ ಕಡಿಮೆ, ಏಕೆಂದರೆ ಹೆಚ್ಚಿನ ರಿಮಾಂಡ್ ದರ IOಯ ಮೊದಲ ಹಂತದ ಕೆಲಸದ ಗುಣಮಟ್ಟದ ಬಗ್ಗೆ ಪ್ರಶ್ನೆ ಎತ್ತಬಹುದು."
+ },
+ {
+  "subject": "record_retention",
+  "aspect": "minimum_period",
+  "value": "minimum 8 years after employee's service ends, or until related legal proceeding concludes, whichever longer",
+  "section": "24",
+  "page": 33,
+  "evidence": "ಪೂರ್ಣಗೊಂಡ ವಿಚಾರಣಾ ಕಡತವನ್ನು (ಅಂತಿಮ ಆದೇಶ ಸೇರಿದಂತೆ) ಮಾನವ ಸಂಪನ್ಮೂಲ ದಾಖಲಾತಿ ವ್ಯವಸ್ಥೆಯಲ್ಲಿ ಉದ್ಯೋಗಿಯ ಸೇವಾ ಅವಧಿ ಮುಗಿದ ನಂತರವೂ ಕನಿಷ್ಠ ಎಂಟು ವರ್ಷಗಳ ಕಾಲ, ಅಥವಾ ಯಾವುದೇ ಸಂಬಂಧಿತ ಕಾನೂನು ಪ್ರಕ್ರಿಯೆ ಇತ್ಯರ್ಥವಾಗುವ ವರೆಗೆ (ಯಾವುದು ಹೆಚ್ಚು), ಸಂಗ್ರಹಿಸಿ ಇಡಬೇಕು."
+ },
+ {
+  "subject": "appendix_h_document_dispute_case",
+  "aspect": "details",
+  "value": "case SIS-DI-2025-0312, warehouse manager; 15 documents requested, 12 provided in 2 working days, 3 withheld as confidential (provided with pricing info redacted); caused 5-day postponement not counted against adjournment quota",
+  "section": "24",
+  "page": 34,
+  "evidence": "ಮಾನವ ಸಂಪನ್ಮೂಲ ವಿಭಾಗ ಎರಡು ಕಾರ್ಯ ದಿನಗಳ ಒಳಗೆ ಹನ್ನೆರಡು ದಾಖಲೆಗಳನ್ನು ಒದಗಿಸಿದರು, ಆದರೆ ಮೂರು ದಾಖಲೆಗಳು \"ಗೌಪ್ಯ ವ್ಯಾಪಾರ ಮಾಹಿತಿ\" ಎಂಬ ಕಾರಣ ನೀಡಿ ತಡೆಹಿಡಿಯಲಾಯಿತು. ಉದ್ಯೋಗಿ ಈ ವಿಷಯವನ್ನು IOಗೆ ಲಿಖಿತವಾಗಿ ತಿಳಿಸಿದಾಗ, IO ಪರಿಶೀಲಿಸಿ, ಆ ಮೂರು ದಾಖಲೆಗಳು ನೇರವಾಗಿ ಆರೋಪಕ್ಕೆ ಸಂಬಂಧಿಸಿದ್ದರಿಂದ, ಗೌಪ್ಯತೆಯ ಕಾರಣ ಅವುಗಳನ್ನು ಸಂಪೂರ್ಣವಾಗಿ ತಡೆಹಿಡಿಯುವಂತಿಲ್ಲ ಎಂದು ತೀರ್ಪು ನೀಡಿದರು, ಆದರೆ ಆ ದಾಖಲೆಗಳಲ್ಲಿದ್ದ ಇತರ ಗ್ರಾಹಕರ ಬೆಲೆ ಮಾಹಿತಿಯನ್ನು ಮಾತ್ರ ಮರೆಮಾಚಿ (redact) ಪ್ರತಿ ನೀಡುವಂತೆ ಸೂಚಿಸಿದರು. ಇದರಿಂದ ಮೊದಲ ಸಭೆಯನ್ನು ಐದು ದಿನ ಮುಂದೂಡಬೇಕಾಯಿತು, ಆದರೆ ಈ ಮುಂದೂಡಿಕೆಯನ್ನು ಉದ್ಯೋಗಿಯ ಅಥವಾ PO ಪಕ್ಷದ ಮುಂದೂಡಿಕೆಗಳ ಎಣಿಕೆಯಲ್ಲಿ ಸೇರಿಸಲಾಗಿಲ್ಲ ಏಕೆಂದರೆ ಇದು ಆಡಳಿತದ ಸ್ವಂತ ದಾಖಲೆ ಒದಗಿಸುವಿಕೆಯ ವಿಳಂಬದಿಂದ ಉಂಟಾಗಿತ್ತು."
+ },
+ {
+  "subject": "appendix_i_po_conflict_case",
+  "aspect": "details",
+  "value": "PO was eyewitness, recused; alternate PO appointed within 2 working days",
+  "section": "24",
+  "page": 34,
+  "evidence": "ಇನ್ನೊಂದು ಪ್ರಕರಣದಲ್ಲಿ, ನೇಮಕಗೊಂಡ PO ವಿಚಾರಣೆ ಪ್ರಾರಂಭವಾದ ನಂತರ, ತಾವು ಸ್ವತಃ ಘಟನೆಯ ದಿನ ಕಚೇರಿಯಲ್ಲಿ ಹಾಜರಿದ್ದು ಕೆಲವು ಅಂಶಗಳನ್ನು ಕಣ್ಣಾರೆ ಕಂಡಿದ್ದೇನೆ ಎಂದು ಗಮನಿಸಿದರು. ಈ ಸಂದರ್ಭದಲ್ಲಿ, PO ಸ್ವತಃ ಈ ವಿಷಯವನ್ನು ಶಿಸ್ತು ಪ್ರಾಧಿಕಾರಿಗೆ ವರದಿ ಮಾಡಿ, ತಾವು ಈ ಪಾತ್ರದಿಂದ ಹಿಂದೆ ಸರಿದು ಸಾಕ್ಷಿಯಾಗಿ ಹೇಳಿಕೆ ನೀಡುವುದಾಗಿ ತಿಳಿಸಿದರು — ಇದು ವಿಭಾಗ 6ರಲ್ಲಿ ವಿವರಿಸಲಾದ \"PO ಸ್ವತಃ ಸಾಕ್ಷಿಯಾಗಿದ್ದರೆ ಆ ಪಾತ್ರ ವಹಿಸುವಂತಿಲ್ಲ\" ಎಂಬ ನಿಯಮದ ಸರಿಯಾದ ಅನ್ವಯ. ಶಿಸ್ತು ಪ್ರಾಧಿಕಾರಿ ಎರಡು ಕಾರ್ಯ ದಿನಗಳಲ್ಲಿ ಪರ್ಯಾಯ PO ನೇಮಿಸಿ, ವಿಚಾರಣೆಯನ್ನು ಅದೇ ಹಂತದಿಂದ ಮುಂದುವರಿಸಲಾಯಿತು."
+ },
+ {
+  "subject": "appendix_j_quality_audit_q2_2025",
+  "aspect": "results",
+  "value": "22 total files completed, 5 audited (20%-min-5 rule); 4 scored >90 avg 94; 1 scored 82 due to missing signatures on 2 meeting records, classified needs improvement",
+  "section": "24",
+  "page": 34,
+  "evidence": "2025ರ ಎರಡನೇ ತ್ರೈಮಾಸಿಕದಲ್ಲಿ ಪೂರ್ಣಗೊಂಡ ಒಟ್ಟು 22 ವಿಚಾರಣಾ ಕಡತಗಳಲ್ಲಿ, ಮಾನವ ಸಂಪನ್ಮೂಲ ವಿಭಾಗ ಐದು ಕಡತಗಳನ್ನು (20%ಕ್ಕಿಂತ ಹೆಚ್ಚು, ಕನಿಷ್ಠ ಐದರ ನಿಯಮದ ಪ್ರಕಾರ) ಲೆಕ್ಕಪರಿಶೋಧನೆಗೆ ಆಯ್ಕೆ ಮಾಡಿತು. ಈ ಐದರಲ್ಲಿ ನಾಲ್ಕು ಕಡತಗಳು 90ಕ್ಕಿಂತ ಹೆಚ್ಚು ಅಂಕ ಗಳಿಸಿದವು (ಸರಾಸರಿ 94); ಒಂದು ಕಡತ 82 ಅಂಕ ಗಳಿಸಿತು, ಏಕೆಂದರೆ ಎರಡು ಸಭೆಗಳ ಕಾರ್ಯಕಲಾಪ ದಾಖಲೆಯಲ್ಲಿ ಉದ್ಯೋಗಿಯ ಸಹಿ ಕಾಣೆಯಾಗಿತ್ತು ಮತ್ತು ಈ ಕಾಣೆಯಾದ ಬಗ್ಗೆ ಯಾವುದೇ ಟಿಪ್ಪಣಿಯೂ ಇರಲಿಲ್ಲ."
+ },
+ {
+  "subject": "appendix_k_kpi_dashboard_q2_2025",
+  "aspect": "results",
+  "value": "Average Inquiry Duration 102 days (red flag); timeline completion 73% (red flag); ex-parte 4.5% (green); adjournment rate 8% (within target); IO training compliance 96% (yellow); quality audit average 91 (within target); aged backlog >120 days = 3 files (red flag)",
+  "section": "24",
+  "page": 35,
+  "evidence": "2025ರ ಎರಡನೇ ತ್ರೈಮಾಸಿಕದ ಡ್ಯಾಶ್‌ಬೋರ್ಡ್ ಹೀಗೆ ವರದಿಯಾಯಿತು: ಸರಾಸರಿ ವಿಚಾರಣಾ ಅವಧಿ — 102 ದಿನ (ಗುರಿ 90ಕ್ಕಿಂತ ಹೆಚ್ಚು, ಕೆಂಪು ಫ್ಲ್ಯಾಗ್); ಕಾಲಮಿತಿಯೊಳಗೆ ಪೂರ್ಣಗೊಂಡ ವಿಚಾರಣೆಗಳು — 73% (ಗುರಿ 85%ಕ್ಕಿಂತ ಕಡಿಮೆ, ಕೆಂಪು ಫ್ಲ್ಯಾಗ್); ಏಕಪಕ್ಷೀಯ ವಿಚಾರಣೆಗಳು — 4.5% (ಗುರಿಯೊಳಗೆ, ಹಸಿರು); ಮುಂದೂಡಿಕೆ ದರ — 8% ಕಡತಗಳು ಮಿತಿ ಮೀರಿದ (ಗುರಿಯೊಳಗೆ); IO ತರಬೇತಿ ಅನುಸರಣೆ — 96% (ಗುರಿಗಿಂತ ಸ್ವಲ್ಪ ಕಡಿಮೆ, ಹಳದಿ); ಗುಣಮಟ್ಟ ಲೆಕ್ಕಪರಿಶೋಧನಾ ಸರಾಸರಿ — 91 (ಗುರಿಯೊಳಗೆ); 120 ದಿನ ಮೀರಿದ ಬಾಕಿ ಪ್ರಕರಣಗಳು — 3 ಕಡತಗಳು (ಗುರಿ ಶೂನ್ಯ, ಕೆಂಪು ಫ್ಲ್ಯಾಗ್)."
+ },
+ {
+  "subject": "appendix_l_witness_statement_example",
+  "aspect": "details",
+  "value": "witness Lalitha Rao, Finance Manager, examined on bill ST/2025/0089: bill approved Feb 2025 but supplier M/s Sai Traders denied issuing it; uploading user account was SIS-4521 (accused employee's account); email confirmation dated 20.02.2025 2:30pm",
+  "section": "24",
+  "page": 37,
+  "evidence": "ಪ್ರ2: ಬಿಲ್ ಸಂಖ್ಯೆ ST/2025/0089ಯ ಬಗ್ಗೆ ನಿಮಗೆ ಏನು ಗೊತ್ತು? ಉ2: ಈ ಬಿಲ್ ಅನ್ನು ಫೆಬ್ರವರಿ 2025ರಲ್ಲಿ ಅನುಮೋದಿಸಲಾಗಿತ್ತು. ಆದರೆ ಜೂನ್ ಮಾಸದ ಆಂತರಿಕ ಆಡಿಟ್‌ನಲ್ಲಿ, ಪೂರೈಕೆದಾರ ಎಂ/ಎಸ್ ಸಾಯಿ ಟ್ರೇಡರ್ಸ್‌ ಅಂತಹ ಬಿಲ್ ನೀಡಿಲ್ಲ ಎಂದು ತಿಳಿಯಿತು."
+ },
+ {
+  "subject": "external_io_honorarium",
+  "aspect": "policy",
+  "value": "fixed honorarium per meeting for external IOs (Band 7+ cases), rate reviewed annually by HR; travel expenses reimbursed separately per travel policy",
+  "section": "24",
+  "page": 39,
+  "evidence": "ಬ್ಯಾಂಡ್ 7 ಮತ್ತು ಮೇಲಿನ ಹಿರಿಯ ಉದ್ಯೋಗಿಗಳ ಪ್ರಕರಣಗಳಲ್ಲಿ ನೇಮಕಗೊಳ್ಳುವ ಬಾಹ್ಯ IOಗಳಿಗೆ (ನಿವೃತ್ತ ನ್ಯಾಯಾಂಗ ಅಧಿಕಾರಿಗಳು ಅಥವಾ ಹದಿನೈದು ವರ್ಷಗಳ ಅನುಭವವುಳ್ಳ ಸ್ವತಂತ್ರ ವ್ಯಕ್ತಿಗಳು) ಕಂಪನಿ ಪ್ರತಿ ಸಭೆಗೆ ಒಂದು ಸ್ಥಿರ ಗೌರವಧನ ಪಾವತಿಸುತ್ತದೆ, ಇದರ ದರಪಟ್ಟಿಯನ್ನು ಮಾನವ ಸಂಪನ್ಮೂಲ ವಿಭಾಗ ಪ್ರತಿ ವರ್ಷ ಪರಿಶೀಲಿಸಿ ನವೀಕರಿಸುತ್ತದೆ. ಬಾಹ್ಯ IOಗೆ ಪ್ರಯಾಣ ವೆಚ್ಚವನ್ನು ಕಂಪನಿಯ ಪ್ರಯಾಣ ನೀತಿಯ ಪ್ರಕಾರ ಪ್ರತ್ಯೇಕವಾಗಿ ಮರುಪಾವತಿಸಲಾಗುತ್ತದೆ."
+ },
+ {
+  "subject": "external_io_confidentiality",
+  "aspect": "requirement",
+  "value": "confidentiality agreement signature mandatory before appointment order issued",
+  "section": "24",
+  "page": 39,
+  "evidence": "ಬಾಹ್ಯ IOಯೊಂದಿಗೆ ಗೌಪ್ಯತಾ ಒಪ್ಪಂದಕ್ಕೆ (confidentiality agreement) ಸಹಿ ಮಾಡಿಸಿಕೊಳ್ಳುವುದು ಕಡ್ಡಾಯ, ನೇಮಕದ ಆದೇಶ ಹೊರಡಿಸುವ ಮುನ್ನವೇ."
+ },
+ {
+  "subject": "digital_archival",
+  "aspect": "scan_standard",
+  "value": "PDF/A format, minimum 300 DPI resolution",
+  "section": "24",
+  "page": 39,
+  "evidence": "ಪ್ರತಿ ಸ್ಕ್ಯಾನ್ ಮಾಡಲಾದ ಪುಟ PDF/A ಸ್ವರೂಪದಲ್ಲಿ, ಕನಿಷ್ಠ 300 DPI ರೆಸಲ್ಯೂಶನ್‌ನಲ್ಲಿ ಇರಬೇಕು, ಇದರಿಂದ ಸಹಿಗಳು ಮತ್ತು ತಿದ್ದುಪಡಿ ಆದ್ಯಕ್ಷರಗಳು ಸ್ಪಷ್ಟವಾಗಿ ಕಾಣುತ್ತವೆ."
+ },
+ {
+  "subject": "digital_archival",
+  "aspect": "folder_structure",
+  "value": "8 standard sub-folders: charge sheet, clarification, appointment orders, meeting records, evidence documents, IO report, second notice, final order",
+  "section": "24",
+  "page": 39,
+  "evidence": "ಡಿಜಿಟಲ್ ಕಡತದ ಫೋಲ್ಡರ್ ರಚನೆ ಹೀಗಿರಬೇಕು: ಮುಖ್ಯ ಫೋಲ್ಡರ್ ಹೆಸರು ವಿಚಾರಣಾ ಕಡತ ಸಂಖ್ಯೆ (ಉದಾ: SIS-DI-2025-0147); ಅದರೊಳಗೆ ಉಪ-ಫೋಲ್ಡರ್‌ಗಳು — \"01_ಆರೋಪ_ಪತ್ರ\", \"02_ಸ್ಪಷ್ಟೀಕರಣ\", \"03_ನೇಮಕ_ಆದೇಶಗಳು\", \"04_ಸಭಾ_ದಾಖಲೆಗಳು\", \"05_ಸಾಕ್ಷ್ಯ_ದಾಖಲೆಗಳು\", \"06_IO_ವರದಿ\", \"07_ಎರಡನೇ_ಸೂಚನೆ\", \"08_ಅಂತಿಮ_ಆದೇಶ\"."
+ },
+ {
+  "subject": "video_conference_guidance",
+  "aspect": "dry_run_requirement",
+  "value": "IO must conduct technical dry-run before first-time use",
+  "section": "24",
+  "page": 40,
+  "evidence": "ವೀಡಿಯೋ-ಕಾನ್ಫರೆನ್ಸ್ ಮೂಲಕ ವಿಚಾರಣೆ ನಡೆಸುವ ಅಗತ್ಯ ಬಂದಾಗ (ಉದಾ: ಉದ್ಯೋಗಿ ದೂರಸ್ಥ ಶಾಖೆಯಲ್ಲಿದ್ದರೆ, ಅಥವಾ ಪ್ರವಾಸ ನಿರ್ಬಂಧಗಳಿದ್ದರೆ), ಈ ಕೆಳಗಿನ ಹೆಚ್ಚುವರಿ ಕ್ರಮಗಳನ್ನು ಪಾಲಿಸಬೇಕು: ಮೊದಲ ಬಾರಿ ಬಳಸುವ ಮುನ್ನ, IO ಒಂದು ಪೂರ್ವಭಾವಿ ತಾಂತ್ರಿಕ ಪರೀಕ್ಷೆ (technical dry-run) ನಡೆಸಬೇಕು, ಇದರಿಂದ ಎಲ್ಲಾ ಪಕ್ಷಗಳ ಆಡಿಯೋ/ವೀಡಿಯೋ ಗುಣಮಟ್ಟ ಸಮಂಜಸವಾಗಿದೆ ಎಂದು ಖಚಿತಪಡಿಸಿಕೊಳ್ಳಬಹುದು; ಸಂಪರ್ಕ ಸ್ಥಗಿತಗೊಂಡರೆ (ಉದಾ: ಅಂತರ್ಜಾಲ ಕಡಿತ), ಆ ಕ್ಷಣದ ಕಾರ್ಯಕಲಾಪವನ್ನು ಸ್ಥಗಿತಗೊಳಿಸಿ, ಸಂಪರ್ಕ ಪುನಃಸ್ಥಾಪನೆಯಾದ ಮೇಲೆ ಅದೇ ಹಂತದಿಂದ ಮುಂದುವರಿಸಬೇಕು, ಮತ್ತು ಈ ಅಡಚಣೆಯ ಅವಧಿಯನ್ನು ಕಾರ್ಯಕಲಾಪ ದಾಖಲೆಯಲ್ಲಿ ನಿಖರವಾಗಿ ದಾಖಲಿಸಬೇಕು; ಸಾಕ್ಷಿ ಪರೀಕ್ಷೆಯ ಸಂದರ್ಭದಲ್ಲಿ, ಸಾಕ್ಷಿ ತಮ್ಮ ಪರಿಸರದಲ್ಲಿ ಏಕಾಂಗಿಯಾಗಿ ಇರುವುದನ್ನು ಕ್ಯಾಮೆರಾ 360-ಡಿಗ್ರಿ ಸ್ಕ್ಯಾನ್ ಮೂಲಕ ಪ್ರಾರಂಭದಲ್ಲಿ ಖಚಿತಪಡಿಸಿಕೊಳ್ಳಬೇಕು."
+ },
+ {
+  "subject": "video_conference_guidance",
+  "aspect": "disconnection_protocol",
+  "value": "pause proceedings on disconnection, resume from same point, document interruption duration",
+  "section": "24",
+  "page": 40,
+  "evidence": "ವೀಡಿಯೋ-ಕಾನ್ಫರೆನ್ಸ್ ಮೂಲಕ ವಿಚಾರಣೆ ನಡೆಸುವ ಅಗತ್ಯ ಬಂದಾಗ (ಉದಾ: ಉದ್ಯೋಗಿ ದೂರಸ್ಥ ಶಾಖೆಯಲ್ಲಿದ್ದರೆ, ಅಥವಾ ಪ್ರವಾಸ ನಿರ್ಬಂಧಗಳಿದ್ದರೆ), ಈ ಕೆಳಗಿನ ಹೆಚ್ಚುವರಿ ಕ್ರಮಗಳನ್ನು ಪಾಲಿಸಬೇಕು: ಮೊದಲ ಬಾರಿ ಬಳಸುವ ಮುನ್ನ, IO ಒಂದು ಪೂರ್ವಭಾವಿ ತಾಂತ್ರಿಕ ಪರೀಕ್ಷೆ (technical dry-run) ನಡೆಸಬೇಕು, ಇದರಿಂದ ಎಲ್ಲಾ ಪಕ್ಷಗಳ ಆಡಿಯೋ/ವೀಡಿಯೋ ಗುಣಮಟ್ಟ ಸಮಂಜಸವಾಗಿದೆ ಎಂದು ಖಚಿತಪಡಿಸಿಕೊಳ್ಳಬಹುದು; ಸಂಪರ್ಕ ಸ್ಥಗಿತಗೊಂಡರೆ (ಉದಾ: ಅಂತರ್ಜಾಲ ಕಡಿತ), ಆ ಕ್ಷಣದ ಕಾರ್ಯಕಲಾಪವನ್ನು ಸ್ಥಗಿತಗೊಳಿಸಿ, ಸಂಪರ್ಕ ಪುನಃಸ್ಥಾಪನೆಯಾದ ಮೇಲೆ ಅದೇ ಹಂತದಿಂದ ಮುಂದುವರಿಸಬೇಕು, ಮತ್ತು ಈ ಅಡಚಣೆಯ ಅವಧಿಯನ್ನು ಕಾರ್ಯಕಲಾಪ ದಾಖಲೆಯಲ್ಲಿ ನಿಖರವಾಗಿ ದಾಖಲಿಸಬೇಕು; ಸಾಕ್ಷಿ ಪರೀಕ್ಷೆಯ ಸಂದರ್ಭದಲ್ಲಿ, ಸಾಕ್ಷಿ ತಮ್ಮ ಪರಿಸರದಲ್ಲಿ ಏಕಾಂಗಿಯಾಗಿ ಇರುವುದನ್ನು ಕ್ಯಾಮೆರಾ 360-ಡಿಗ್ರಿ ಸ್ಕ್ಯಾನ್ ಮೂಲಕ ಪ್ರಾರಂಭದಲ್ಲಿ ಖಚಿತಪಡಿಸಿಕೊಳ್ಳಬೇಕು."
+ },
+ {
+  "subject": "video_conference_guidance",
+  "aspect": "witness_isolation_check",
+  "value": "360-degree camera scan to confirm witness is alone",
+  "section": "24",
+  "page": 40,
+  "evidence": "ವೀಡಿಯೋ-ಕಾನ್ಫರೆನ್ಸ್ ಮೂಲಕ ವಿಚಾರಣೆ ನಡೆಸುವ ಅಗತ್ಯ ಬಂದಾಗ (ಉದಾ: ಉದ್ಯೋಗಿ ದೂರಸ್ಥ ಶಾಖೆಯಲ್ಲಿದ್ದರೆ, ಅಥವಾ ಪ್ರವಾಸ ನಿರ್ಬಂಧಗಳಿದ್ದರೆ), ಈ ಕೆಳಗಿನ ಹೆಚ್ಚುವರಿ ಕ್ರಮಗಳನ್ನು ಪಾಲಿಸಬೇಕು: ಮೊದಲ ಬಾರಿ ಬಳಸುವ ಮುನ್ನ, IO ಒಂದು ಪೂರ್ವಭಾವಿ ತಾಂತ್ರಿಕ ಪರೀಕ್ಷೆ (technical dry-run) ನಡೆಸಬೇಕು, ಇದರಿಂದ ಎಲ್ಲಾ ಪಕ್ಷಗಳ ಆಡಿಯೋ/ವೀಡಿಯೋ ಗುಣಮಟ್ಟ ಸಮಂಜಸವಾಗಿದೆ ಎಂದು ಖಚಿತಪಡಿಸಿಕೊಳ್ಳಬಹುದು; ಸಂಪರ್ಕ ಸ್ಥಗಿತಗೊಂಡರೆ (ಉದಾ: ಅಂತರ್ಜಾಲ ಕಡಿತ), ಆ ಕ್ಷಣದ ಕಾರ್ಯಕಲಾಪವನ್ನು ಸ್ಥಗಿತಗೊಳಿಸಿ, ಸಂಪರ್ಕ ಪುನಃಸ್ಥಾಪನೆಯಾದ ಮೇಲೆ ಅದೇ ಹಂತದಿಂದ ಮುಂದುವರಿಸಬೇಕು, ಮತ್ತು ಈ ಅಡಚಣೆಯ ಅವಧಿಯನ್ನು ಕಾರ್ಯಕಲಾಪ ದಾಖಲೆಯಲ್ಲಿ ನಿಖರವಾಗಿ ದಾಖಲಿಸಬೇಕು; ಸಾಕ್ಷಿ ಪರೀಕ್ಷೆಯ ಸಂದರ್ಭದಲ್ಲಿ, ಸಾಕ್ಷಿ ತಮ್ಮ ಪರಿಸರದಲ್ಲಿ ಏಕಾಂಗಿಯಾಗಿ ಇರುವುದನ್ನು ಕ್ಯಾಮೆರಾ 360-ಡಿಗ್ರಿ ಸ್ಕ್ಯಾನ್ ಮೂಲಕ ಪ್ರಾರಂಭದಲ್ಲಿ ಖಚಿತಪಡಿಸಿಕೊಳ್ಳಬೇಕು."
+ },
+ {
+  "subject": "multi_accused_cases",
+  "aspect": "coordination_rule",
+  "value": "separate charge-sheet and inquiry file number per employee; same IO can be appointed for efficiency but separate cross-examination, IO report, and final order mandatory per employee",
+  "section": "24",
+  "page": 41,
+  "evidence": "ಒಂದಕ್ಕಿಂತ ಹೆಚ್ಚು ಉದ್ಯೋಗಿಗಳ ವಿರುದ್ಧ ಒಂದೇ ಘಟನೆ ಸಂಬಂಧಿಸಿದ ಆರೋಪಗಳು ಬಂದಾಗ (ಉದಾ: ಮೂವರು ಉದ್ಯೋಗಿಗಳು ಒಟ್ಟಾಗಿ ಒಂದು ವಂಚನೆಯ ಸ್ಕೀಮ್‌ನಲ್ಲಿ ಭಾಗಿಯಾಗಿದ್ದರೆ), ಈ ಕೆಳಗಿನ ಸಮನ್ವಯ ಮಾರ್ಗದರ್ಶನ ಅನ್ವಯಿಸುತ್ತದೆ: ಪ್ರತಿ ಉದ್ಯೋಗಿಗೆ ಪ್ರತ್ಯೇಕ ಆರೋಪ ಪತ್ರ ಮತ್ತು ಪ್ರತ್ಯೇಕ ವಿಚಾರಣಾ ಕಡತ ಸಂಖ್ಯೆ ನೀಡಬೇಕು; ಆದರೆ ಕಾರ್ಯಕ್ಷಮತೆಯ ದೃಷ್ಟಿಯಿಂದ, ಶಿಸ್ತು ಪ್ರಾಧಿಕಾರಿ ಒಂದೇ IOಯನ್ನು ಎಲ್ಲಾ ಸಂಬಂಧಿತ ಪ್ರಕರಣಗಳಿಗೆ ನೇಮಿಸಬಹುದು, ಇದರಿಂದ ಸಾಮಾನ್ಯ ಸಾಕ್ಷ್ಯವನ್ನು (ಉದಾ: ಪೊಲೀಸ್ ವರದಿ, ಆಡಿಟ್ ವರದಿ, ಅಥವಾ ಸಾಮಾನ್ಯ ಸಾಕ್ಷಿ) ಪ್ರತ್ಯೇಕ ಸಭೆಗಳಲ್ಲಿ ಪುನರಾವರ್ತಿಸುವ ಅಗತ್ಯ ಬೀಳುವುದಿಲ್ಲ. ಆದಾಗ್ಯೂ, ಪ್ರತಿ ಉದ್ಯೋಗಿಗೆ ಪ್ರತ್ಯೇಕ ಅಡ್ಡ-ಪ್ರಶ್ನೆಯ ಹಕ್ಕು, ಪ್ರತ್ಯೇಕ IO ವರದಿ ಮತ್ತು ಪ್ರತ್ಯೇಕ ಅಂತಿಮ ಆದೇಶ ಕಡ್ಡಾಯ — ಒಬ್ಬ ಉದ್ಯೋಗಿಯ ವಿರುದ್ಧದ ಸಂಶೋಧನೆ ಇನ್ನೊಬ್ಬರ ಪ್ರಕರಣದ ಮೇಲೆ ಸ್ವಯಂಚಾಲಿತವಾಗಿ ಪರಿಣಾಮ ಬೀರುವಂತಿಲ್ಲ, ಪ್ರತಿ ಪ್ರಕರಣ ಸ್ವತಂತ್ರ ಸಾಕ್ಷ್ಯಾಧಾರದ ಮೇಲೆ ನಿರ್ಧರಿತವಾಗಬೇಕು."
+ },
+ {
+  "subject": "co_accused_witness_testimony",
+  "aspect": "evidentiary_weight",
+  "value": "lower evidentiary value than ordinary witness, requires independent corroborating evidence",
+  "section": "24",
+  "page": 42,
+  "evidence": "ಇಂತಹ ಸಂದರ್ಭದಲ್ಲಿ, ಆ ಉದ್ಯೋಗಿಗೆ ತಮ್ಮ ಸ್ವಂತ ಪ್ರಕರಣದಲ್ಲಿ ಆರೋಪಿತ ಸ್ಥಾನಮಾನ ಮುಂದುವರಿಯುತ್ತದೆ, ಆದರೆ ಅವರ ಹೇಳಿಕೆಯನ್ನು ಇತರ ಸಹ-ಆರೋಪಿಯ ಪ್ರಕರಣದಲ್ಲಿ ಸಾಕ್ಷಿಯಾಗಿ ಪರಿಗಣಿಸಬಹುದು, ಆದರೆ ಈ ಹೇಳಿಕೆಗೆ ಸಾಮಾನ್ಯ ಸಾಕ್ಷಿಯ ಹೇಳಿಕೆಗಿಂತ ಕಡಿಮೆ ಸಾಕ್ಷ್ಯ ಮೌಲ್ಯ ನೀಡಬೇಕು (ಏಕೆಂದರೆ ಅವರಿಗೆ ಸ್ವಂತ ಜವಾಬ್ದಾರಿ ಕಡಿಮೆ ಮಾಡುವ ಪ್ರೇರಣೆ ಇರಬಹುದು), ಮತ್ತು ಸ್ವತಂತ್ರ ಪೂರಕ ಸಾಕ್ಷ್ಯ ಅಗತ್ಯ."
+ },
+ {
+  "subject": "preliminary_to_formal_transition",
+  "aspect": "quality_checks",
+  "value": "verify specific date/time/location noted, authenticity of collected documents verified, preliminary inquiry officer not personally involved in incident",
+  "section": "24",
+  "page": 42,
+  "evidence": "ಪ್ರಾಥಮಿಕ ವಿಚಾರಣೆಯ ವರದಿ ಔಪಚಾರಿಕ ವಿಚಾರಣೆಗೆ ಶಿಫಾರಸು ಮಾಡಿದಾಗ, ಮಾನವ ಸಂಪನ್ಮೂಲ ವಿಭಾಗ ಈ ಹೆಚ್ಚುವರಿ ಗುಣಮಟ್ಟ ಪರಿಶೀಲನೆ ನಡೆಸಬೇಕು: ಪ್ರಾಥಮಿಕ ವಿಚಾರಣೆಯ ವರದಿಯಲ್ಲಿ ಕನಿಷ್ಠ ಒಂದು ನಿರ್ದಿಷ್ಟ ದಿನಾಂಕ, ಸಮಯ ಮತ್ತು ಸ್ಥಳ ಉಲ್ಲೇಖಿಸಲಾಗಿದೆಯೇ; ಪ್ರಾಥಮಿಕ ಹಂತದಲ್ಲಿ ಸಂಗ್ರಹಿಸಲಾದ ದಾಖಲೆಗಳ ಪ್ರಾಮಾಣಿಕತೆ ಪರಿಶೀಲಿಸಲಾಗಿದೆಯೇ; ಮತ್ತು ಪ್ರಾಥಮಿಕ ವಿಚಾರಣಾ ಅಧಿಕಾರಿ ಸ್ವತಃ ಘಟನೆಯ ಭಾಗಿಯಾಗಿರಲಿಲ್ಲ ಎಂಬುದನ್ನು ದಾಖಲಿಸಲಾಗಿದೆಯೇ."
+ },
+ {
+  "subject": "administrative_disruption",
+  "aspect": "time_exclusion_limit",
+  "value": "maximum 30 calendar days per case, requires HR Head written approval",
+  "section": "24",
+  "page": 44,
+  "evidence": "ಈ ಕಡಿತವನ್ನು ಮಾನವ ಸಂಪನ್ಮೂಲ ಮುಖ್ಯಸ್ಥರ ಲಿಖಿತ ಅನುಮೋದನೆಯೊಂದಿಗೆ ಮಾತ್ರ ಅನ್ವಯಿಸಬಹುದು, ಮತ್ತು ಗರಿಷ್ಠ ಮಿತಿ ಪ್ರತಿ ಪ್ರಕರಣಕ್ಕೆ ಮೂವತ್ತು ಕ್ಯಾಲೆಂಡರ್ ದಿನಗಳು."
+ },
+ {
+  "subject": "witness_recall",
+  "aspect": "process",
+  "value": "written request to IO identifying exact new matter; if permitted, limited strictly to that new matter",
+  "section": "24",
+  "page": 44,
+  "evidence": "ಇಂತಹ ಸಂದರ್ಭದಲ್ಲಿ, ಯಾವುದೇ ಪಕ್ಷ (PO ಅಥವಾ ಉದ್ಯೋಗಿ/ಸಹಾಯಕ) IOಗೆ ಲಿಖಿತ ಮನವಿಯೊಂದಿಗೆ ಸಾಕ್ಷಿಯ ಮರು-ಕರೆಯುವಿಕೆ ಕೋರಬಹುದು, ಮನವಿಯಲ್ಲಿ ನಿಖರವಾಗಿ ಯಾವ ಹೊಸ ವಿಷಯದ ಬಗ್ಗೆ ಮರು-ಪ್ರಶ್ನಿಸಬೇಕು ಎಂಬುದನ್ನು ಗುರುತಿಸಬೇಕು. IO ಈ ಮನವಿಯನ್ನು ಪರಿಶೀಲಿಸಿ, ಅನುಮತಿಸಿದರೆ, ಮರು-ಕರೆಯಲಾದ ಸಾಕ್ಷಿಯ ಪರೀಕ್ಷೆಯನ್ನು ಕೇವಲ ಆ ನಿರ್ದಿಷ್ಟ ಹೊಸ ವಿಷಯಕ್ಕೆ ಮಾತ್ರ ಸೀಮಿತಗೊಳಿಸಬೇಕು, ಸಂಪೂರ್ಣ ಮುಖ್ಯ ಪರೀಕ್ಷೆಯನ್ನು ಮರು-ಪ್ರಾರಂಭಿಸುವಂತಿಲ್ಲ."
+ },
+ {
+  "subject": "working_day",
+  "aspect": "definition",
+  "value": "excludes Saturday, Sunday, and company-declared public holidays",
+  "section": "24",
+  "page": 43,
+  "evidence": "\"ಕಾರ್ಯ ದಿನ\" (working day) ಎಂದು ನಿರ್ದಿಷ್ಟಪಡಿಸಲಾದ ಕಾಲಮಿತಿಗಳು ಶನಿವಾರ, ಭಾನುವಾರ ಮತ್ತು ಕಂಪನಿ-ಘೋಷಿತ ಸಾರ್ವಜನಿಕ ರಜಾದಿನಗಳನ್ನು ಹೊರತುಪಡಿಸಿ ಎಣಿಸಲಾಗುತ್ತದೆ; \"ಕ್ಯಾಲೆಂಡರ್ ದಿನ\" ಎಂದು ನಿರ್ದಿಷ್ಟಪಡಿಸಲಾದ ಕಾಲಮಿತಿಗಳು ಎಲ್ಲಾ ದಿನಗಳನ್ನೂ (ರಜಾದಿನಗಳೂ ಸೇರಿ) ಎಣಿಸುತ್ತವೆ."
+ },
+ {
+  "subject": "calendar_day",
+  "aspect": "definition",
+  "value": "counts all days including holidays",
+  "section": "24",
+  "page": 43,
+  "evidence": "\"ಕಾರ್ಯ ದಿನ\" (working day) ಎಂದು ನಿರ್ದಿಷ್ಟಪಡಿಸಲಾದ ಕಾಲಮಿತಿಗಳು ಶನಿವಾರ, ಭಾನುವಾರ ಮತ್ತು ಕಂಪನಿ-ಘೋಷಿತ ಸಾರ್ವಜನಿಕ ರಜಾದಿನಗಳನ್ನು ಹೊರತುಪಡಿಸಿ ಎಣಿಸಲಾಗುತ್ತದೆ; \"ಕ್ಯಾಲೆಂಡರ್ ದಿನ\" ಎಂದು ನಿರ್ದಿಷ್ಟಪಡಿಸಲಾದ ಕಾಲಮಿತಿಗಳು ಎಲ್ಲಾ ದಿನಗಳನ್ನೂ (ರಜಾದಿನಗಳೂ ಸೇರಿ) ಎಣಿಸುತ್ತವೆ."
+ },
+ {
+  "subject": "counter_allegation",
+  "aspect": "handling",
+  "value": "treated as separate complaint requiring its own preliminary inquiry, does not stop current inquiry",
+  "section": "24",
+  "page": 47,
+  "evidence": "ಉದ್ಯೋಗಿಯ ಪ್ರತಿ-ಆರೋಪವನ್ನು (ಉದಾ: \"ಮೇಲ್ವಿಚಾರಕರೇ ನನ್ನ ಮೇಲೆ ಸುಳ್ಳು ಆರೋಪ ಹೊರಿಸುತ್ತಿದ್ದಾರೆ\") ಪ್ರಸ್ತುತ ವಿಚಾರಣೆಯ ಭಾಗವಾಗಿ ಪರಿಗಣಿಸಲಾಗುವುದಿಲ್ಲ; ಇದನ್ನು ಪ್ರತ್ಯೇಕ ದೂರಾಗಿ ದಾಖಲಿಸಿ, ಅಗತ್ಯವಿದ್ದರೆ ಪ್ರತ್ಯೇಕ ಪ್ರಾಥಮಿಕ ವಿಚಾರಣೆಗೆ ಶಿಫಾರಸು ಮಾಡಬೇಕು (ಹಿಂದಿ ಮಾರ್ಗಸೂಚಿ ಸಂಖ್ಯೆ 05ರ ಪ್ರಕ್ರಿಯೆಯ ಪ್ರಕಾರ), ಆದರೆ ಇದರಿಂದ ಪ್ರಸ್ತುತ ವಿಚಾರಣೆ ಸ್ಥಗಿತಗೊಳ್ಳುವುದಿಲ್ಲ."
+ },
+ {
+  "subject": "new_witness_addition",
+  "aspect": "process",
+  "value": "PO submits written request with reason to IO; employee gets advance notice and reasonable preparation time",
+  "section": "24",
+  "page": 47,
+  "evidence": "ಹೌದು, PO ಹೊಸ ಸಾಕ್ಷಿಯನ್ನು ಸೇರಿಸಲು IOಗೆ ಲಿಖಿತ ಮನವಿ ಸಲ್ಲಿಸಬಹುದು, ಕಾರಣ ಸಹಿತ; IO ಅನುಮತಿಸಿದರೆ, ಉದ್ಯೋಗಿಗೆ ಈ ಹೊಸ ಸಾಕ್ಷಿಯ ಬಗ್ಗೆ ಮುಂಚಿತ ಸೂಚನೆ ಮತ್ತು ಸಿದ್ಧತೆಗೆ ಸಮಂಜಸ ಸಮಯ ನೀಡಬೇಕು."
+ },
+ {
+  "subject": "io_report_language",
+  "aspect": "objectivity_requirement",
+  "value": "must be objective, evidence-based; prejudicial language negatively marked in quality audit",
+  "section": "24",
+  "page": 47,
+  "evidence": "IO ವರದಿಯ ಭಾಷೆಯಲ್ಲಿ ಪೂರ್ವಾಗ್ರಹ ಸೂಚಿಸುವ ಪದಗಳು (ಉದಾ: \"ಸ್ಪಷ್ಟವಾಗಿ ಅಪರಾಧಿ\") ಕಂಡುಬಂದರೆ ಏನಾಗುತ್ತದೆ? ಇಂತಹ ಭಾಷೆ ಗುಣಮಟ್ಟ ಲೆಕ್ಕಪರಿಶೋಧನೆಯ ಸಮಯದಲ್ಲಿ \"ತಾರ್ಕಿಕ ಗುಣಮಟ್ಟ\" ಅಂಕದ ಭಾಗದಲ್ಲಿ ಋಣಾತ್ಮಕವಾಗಿ ಗುರುತಿಸಲ್ಪಡುತ್ತದೆ; IO ವರದಿಯ ಭಾಷೆ ಯಾವಾಗಲೂ ವಸ್ತುನಿಷ್ಠ ಮತ್ತು ಸಾಕ್ಷ್ಯ-ಆಧಾರಿತ ಆಗಿರಬೇಕು (\"ಸಾಕ್ಷ್ಯದ ಆಧಾರದ ಮೇಲೆ ಆರೋಪ ಸಾಬೀತಾಗಿದೆ\" ಎಂಬಂತೆ), ವ್ಯಕ್ತಿನಿಷ್ಠ ತೀರ್ಪು ಸೂಚಿಸುವ ಭಾಷೆ ಅಲ್ಲ."
+ },
+ {
+  "subject": "day_zero_counting",
+  "aspect": "rule",
+  "value": "day of receipt is day 0; timeline counting starts the next day (day 1)",
+  "section": "24",
+  "page": 49,
+  "evidence": "ಪ್ರಮಾಣಿತ ಅಭ್ಯಾಸವಾಗಿ, ಯಾವುದೇ ಸೂಚನೆ/ದಾಖಲೆ ಸ್ವೀಕೃತವಾದ ದಿನವನ್ನೇ \"ದಿನ 0\" ಎಂದು ಪರಿಗಣಿಸಿ, ಕಾಲಮಿತಿಯ ಎಣಿಕೆ ಮರುದಿನದಿಂದ (ದಿನ 1) ಪ್ರಾರಂಭವಾಗುತ್ತದೆ."
+ },
+ {
+  "subject": "deadline_on_holiday",
+  "aspect": "rule",
+  "value": "deadline falling on public holiday or weekend auto-extends to next working day",
+  "section": "24",
+  "page": 49,
+  "evidence": "ಕಾಲಮಿತಿಯ ಕೊನೆಯ ದಿನ ಸಾರ್ವಜನಿಕ ರಜಾದಿನ ಅಥವಾ ವಾರಾಂತ್ಯ ಬಂದರೆ, ಕಾಲಮಿತಿಯನ್ನು ಮುಂದಿನ ಕಾರ್ಯ ದಿನದ ವರೆಗೆ ಸ್ವಯಂಚಾಲಿತವಾಗಿ ವಿಸ್ತರಿಸಲಾಗುತ್ತದೆ, ಇದು \"ಕಾರ್ಯ ದಿನ\" ಮತ್ತು \"ಕ್ಯಾಲೆಂಡರ್ ದಿನ\" ಎಂಬ ಎರಡೂ ಬಗೆಯ ಕಾಲಮಿತಿಗಳಿಗೆ ಅನ್ವಯಿಸುತ್ತದೆ."
+ },
+ {
+  "subject": "employee_death_during_inquiry",
+  "aspect": "outcome",
+  "value": "inquiry immediately dropped, file closed as stopped due to death, no posthumous penalty",
+  "section": "24",
+  "page": 47,
+  "evidence": "ಉದ್ಯೋಗಿ ಮೃತರಾದರೆ, ಔಪಚಾರಿಕ ವಿಚಾರಣೆಯನ್ನು ತಕ್ಷಣ ಕೈಬಿಡಲಾಗುತ್ತದೆ ಮತ್ತು ಕಡತವನ್ನು \"ಸ್ಥಗಿತಗೊಳಿಸಲಾಗಿದೆ — ಉದ್ಯೋಗಿಯ ಮರಣದಿಂದ\" ಎಂಬ ಟಿಪ್ಪಣಿಯೊಂದಿಗೆ ಮುಚ್ಚಲಾಗುತ್ತದೆ; ಯಾವುದೇ ಮರಣೋತ್ತರ ದಂಡ ಅಥವಾ ಶಿಸ್ತು ಕ್ರಮ ಅನ್ವಯಿಸುವುದಿಲ್ಲ."
+ },
+ {
+  "subject": "acquisition_merger_applicability",
+  "aspect": "rule",
+  "value": "procedure applies to all employees who become formal employees of the company after acquisition/merger, absent specific transition clause",
+  "section": "24",
+  "page": 47,
+  "evidence": "ಹೌದು, ಸ್ವಾಧೀನ ಅಥವಾ ವಿಲೀನದ ನಂತರ ಸೂರ್ಯೋದಯ ಇಂಟಿಗ್ರೇಟೆಡ್ ಸೊಲ್ಯೂಷನ್ಸ್ ಪ್ರೈವೇಟ್ ಲಿಮಿಟೆಡ್‌ನ ಔಪಚಾರಿಕ ಉದ್ಯೋಗಿಯಾಗುವ ಎಲ್ಲರಿಗೂ ಈ ದಾಖಲೆ ಅನ್ವಯಿಸುತ್ತದೆ, ಸ್ವಾಧೀನ ಒಪ್ಪಂದದಲ್ಲಿ ಪರಿವರ್ತನಾ ಅವಧಿಗೆ ಬೇರೆ ನಿರ್ದಿಷ್ಟ ಷರತ್ತು ಇಲ್ಲದಿದ್ದರೆ."
+ },
+ {
+  "subject": "inquiry_confidentiality",
+  "aspect": "disclosure_restriction",
+  "value": "no inquiry detail, finding, or final order may be disclosed beyond parties involved; breach is itself a separate disciplinary violation",
+  "section": "24",
+  "page": 48,
+  "evidence": "ಇಲ್ಲ, ಯಾವುದೇ ಔಪಚಾರಿಕ ವಿಚಾರಣೆಯ ವಿವರ, ಸಂಶೋಧನೆ ಅಥವಾ ಅಂತಿಮ ಆದೇಶವನ್ನು ಸಂಬಂಧಿತ ಪಕ್ಷಗಳ (ಶಿಸ್ತು ಪ್ರಾಧಿಕಾರಿ, IO, PO, ಮಾನವ ಸಂಪನ್ಮೂಲ ವಿಭಾಗ, ಉದ್ಯೋಗಿ) ಹೊರತಾಗಿ ಯಾರಿಗೂ ಬಹಿರಂಗಪಡಿಸಲಾಗುವುದಿಲ್ಲ; ಗೌಪ್ಯತೆ ಉಲ್ಲಂಘನೆ ಸ್ವತಃ ಒಂದು ಪ್ರತ್ಯೇಕ ಶಿಸ್ತು ಉಲ್ಲಂಘನೆಯಾಗಿ ಪರಿಗಣಿಸಲ್ಪಡುತ್ತದೆ."
+ },
+ {
+  "subject": "cross_examination_guidance",
+  "aspect": "three_goals",
+  "value": "test internal consistency of testimony, test source of knowledge (personal vs hearsay), reveal potential bias or interest",
+  "section": "24",
+  "page": 48,
+  "evidence": "ಅಡ್ಡ-ಪ್ರಶ್ನೆಯ ಮೂರು ಮೂಲ ಗುರಿಗಳು: (ಎ) ಸಾಕ್ಷಿಯ ಹೇಳಿಕೆಯ ಅಂತರಸಂಗತ್ಯವನ್ನು ಪರೀಕ್ಷಿಸುವುದು (ಅದೇ ಸಾಕ್ಷಿ ಹಿಂದೆ ಹೇಳಿದ್ದಕ್ಕೆ ಹೊಂದಿಕೆಯಾಗುತ್ತದೆಯೇ); (ಬಿ) ಸಾಕ್ಷಿಯ ಜ್ಞಾನದ ಮೂಲವನ್ನು (personal knowledge vs. hearsay) ಪರೀಕ್ಷಿಸುವುದು; (ಸಿ) ಸಾಕ್ಷಿಯ ಸಂಭಾವ್ಯ ಪೂರ್ವಾಗ್ರಹ ಅಥವಾ ಹಿತಾಸಕ್ತಿಯನ್ನು ಬಹಿರಂಗಪಡಿಸುವುದು."
+ },
+ {
+  "subject": "evidence_evaluation",
+  "aspect": "four_factor_test",
+  "value": "source (direct vs hearsay), consistency, corroboration, motive to lie or exaggerate",
+  "section": "24",
+  "page": 48,
+  "evidence": "IO ಪ್ರತಿ ಸಾಕ್ಷ್ಯದ ತುಣುಕನ್ನು ಮೌಲ್ಯಮಾಪನ ಮಾಡುವಾಗ ಈ ನಾಲ್ಕು ಪ್ರಶ್ನೆಗಳನ್ನು ಕ್ರಮವಾಗಿ ಕೇಳಿಕೊಳ್ಳಬಹುದು, ಇದು ವರದಿಯ ತಾರ್ಕಿಕ ಗುಣಮಟ್ಟವನ್ನು ಬಲಪಡಿಸುತ್ತದೆ: (1) ಮೂಲ — ಈ ಸಾಕ್ಷ್ಯ ಪ್ರತ್ಯಕ್ಷ (direct) ಆಗಿದೆಯೇ ಅಥವಾ ಪರೋಕ್ಷ/ಕಿವಿಮಾತು ಆಗಿದೆಯೇ; (2) ಸ್ಥಿರತೆ — ಇದು ಇತರ ಸ್ವೀಕೃತ ಸಾಕ್ಷ್ಯದೊಂದಿಗೆ ಹೊಂದಿಕೆಯಾಗುತ್ತದೆಯೇ ಅಥವಾ ವಿರೋಧಾಭಾಸ ತೋರುತ್ತದೆಯೇ; (3) ಪೂರಕತೆ — ಇದನ್ನು ಬೆಂಬಲಿಸುವ ಸ್ವತಂತ್ರ ಎರಡನೇ ಮೂಲ ಇದೆಯೇ; (4) ಪ್ರೇರಣೆ — ಈ ಸಾಕ್ಷ್ಯ ನೀಡಿದ ವ್ಯಕ್ತಿಗೆ ಸುಳ್ಳು ಹೇಳಲು ಅಥವಾ ಉತ್ಪ್ರೇಕ್ಷಿಸಲು ಯಾವುದೇ ಸ್ಪಷ್ಟ ಪ್ರೇರಣೆ ಇದೆಯೇ."
+ },
+ {
+  "subject": "voluntary_additional_documents",
+  "aspect": "rule",
+  "value": "employee may voluntarily submit any supporting document with or before their clarification",
+  "section": "24",
+  "page": 48,
+  "evidence": "ಹೌದು, ಉದ್ಯೋಗಿ ತಮ್ಮ ಸ್ಪಷ್ಟೀಕರಣದೊಂದಿಗೆ ಅಥವಾ ಅದಕ್ಕೂ ಮುನ್ನ, ತಮ್ಮ ಸಮರ್ಥನೆಗೆ ಸಹಾಯಕವಾಗುವ ಯಾವುದೇ ದಾಖಲೆಯನ್ನು ಸ್ವಯಂಪ್ರೇರಿತವಾಗಿ ಸಲ್ಲಿಸಬಹುದು; ಇದನ್ನು ಆರೋಪ ಪತ್ರಕ್ಕೆ ಪ್ರತಿಕ್ರಿಯೆಯ ಭಾಗವಾಗಿ ಪರಿಗಣಿಸಲಾಗುತ್ತದೆ."
+ },
+ {
+  "subject": "io_panel_diversity",
+  "aspect": "women_representation_target",
+  "value": "at least one-third of the 25-member IO panel targeted to be women officers",
+  "section": "24",
+  "page": 49,
+  "evidence": "ಕಂಪನಿಯ ವೈವಿಧ್ಯ ಮತ್ತು ಒಳಗೊಳ್ಳುವಿಕೆ ನೀತಿಗೆ ಅನುಗುಣವಾಗಿ, ಇಪ್ಪತ್ತೈದು ಸದಸ್ಯರ IO ಫಲಕದಲ್ಲಿ ಕನಿಷ್ಠ ಮೂರನೇ ಒಂದು ಭಾಗ ಮಹಿಳಾ ಅಧಿಕಾರಿಗಳನ್ನು ಸೇರಿಸುವ ಗುರಿ ಹೊಂದಲಾಗಿದೆ, ಮತ್ತು ಮಹಿಳಾ ಉದ್ಯೋಗಿ ಆರೋಪಿತರಾಗಿದ್ದ ಪ್ರಕರಣಗಳಲ್ಲಿ, ಸಾಧ್ಯವಾದಲ್ಲಿ ಫಲಕದಲ್ಲಿ ಕನಿಷ್ಠ ಒಬ್ಬ ಮಹಿಳಾ ಅಧಿಕಾರಿಯನ್ನು IO ಅಥವಾ ಮೇಲ್ವಿಚಾರಣೆಗೆ ಪರಿಗಣಿಸುವ ಅಭ್ಯಾಸ ಅನುಸರಿಸಲಾಗುತ್ತದೆ."
+ },
+ {
+  "subject": "clerical_error_correction",
+  "aspect": "method",
+  "value": "corrected via corrigendum attached to original record, no need to re-sign entire document",
+  "section": "24",
+  "page": 45,
+  "evidence": "ಇಂತಹ ಕ್ಲರಿಕಲ್ ದೋಷವನ್ನು IO ಅಥವಾ ಮಾನವ ಸಂಪನ್ಮೂಲ ವಿಭಾಗ ಒಂದು ತಿದ್ದುಪಡಿ ಟಿಪ್ಪಣಿಯ (corrigendum) ಮೂಲಕ ಸರಿಪಡಿಸಬಹುದು, ಇದನ್ನು ಮೂಲ ದಾಖಲೆಗೆ ಲಗತ್ತಿಸಿ ಎಲ್ಲಾ ಪಕ್ಷಗಳಿಗೆ ಸೂಚಿಸಬೇಕು; ಇದಕ್ಕೆ ಇಡೀ ದಾಖಲೆಯನ್ನು ಮರು-ಸಹಿ ಮಾಡುವ ಅಗತ್ಯವಿಲ್ಲ."
+ },
+ {
+  "subject": "assistant_dual_case_conflict",
+  "aspect": "rule",
+  "value": "assistant having own separate pending case does not disqualify them unless direct conflict of interest (e.g. shared evidence/witness) exists",
+  "section": "24",
+  "page": 45,
+  "evidence": "ಹೌದು, ಸಹಾಯಕನ ಸ್ವಂತ ಪ್ರತ್ಯೇಕ ಪ್ರಕರಣ ಇರುವಿಕೆ ಅವರನ್ನು ಸಹಾಯಕನಾಗಿ ಕಾರ್ಯ ನಿರ್ವಹಿಸಲು ಅನರ್ಹಗೊಳಿಸುವುದಿಲ್ಲ, ಹೊರತು ಎರಡು ಪ್ರಕರಣಗಳ ನಡುವೆ ನೇರ ಹಿತಾಸಕ್ತಿ ಸಂಘರ್ಷ (ಉದಾ: ಒಂದೇ ಸಾಕ್ಷ್ಯ/ಸಾಕ್ಷಿ ಹಂಚಿಕೊಂಡಿದ್ದರೆ) ಇದ್ದರೆ ಮಾತ್ರ."
+ },
+ {
+  "subject": "io_report_page_limit",
+  "aspect": "rule",
+  "value": "no numeric page limit; must follow mandatory 5-element structure from Section 14",
+  "section": "24",
+  "page": 45,
+  "evidence": "ಸಂಖ್ಯಾತ್ಮಕ ಪುಟ ಮಿತಿ ಇಲ್ಲ; ವರದಿಯ ಉದ್ದ ಪ್ರಕರಣದ ಸಂಕೀರ್ಣತೆ ಮತ್ತು ಆರೋಪಗಳ ಸಂಖ್ಯೆಗೆ ಅನುಗುಣವಾಗಿ ಬದಲಾಗುತ್ತದೆ; ಆದಾಗ್ಯೂ, ಪ್ರತಿ ವರದಿ ಕಡ್ಡಾಯವಾಗಿ ವಿಭಾಗ 14ರಲ್ಲಿ ವಿವರಿಸಲಾದ ಐದು ಅಂಶಗಳ ರಚನೆಯನ್ನು (ಸಾರಾಂಶ, ಇತಿಹಾಸ, ಸಾಕ್ಷ್ಯ ಸಂಗ್ರಹಣೆ, ಪ್ರತ್ಯೇಕ ನಿರ್ಧಾರಗಳು, ತಾರ್ಕಿಕ ಕಾರಣಗಳು) ಅನುಸರಿಸಬೇಕು."
+ },
+ {
+  "subject": "io_disciplinary_authority_separation",
+  "aspect": "rule",
+  "value": "IO and Disciplinary Authority can never be the same person",
+  "section": "24",
+  "page": 45,
+  "evidence": "ಇಲ್ಲ, ಎಂದಿಗೂ ಆಗುವಂತಿಲ್ಲ."
+ },
+ {
+  "subject": "office_hours",
+  "aspect": "standard_timing",
+  "value": "9:30 AM to 6:00 PM; submissions after this considered received next working day",
+  "section": "24",
+  "page": 53,
+  "evidence": "ಕಂಪನಿಯ ಪ್ರಮಾಣಿತ ಕಚೇರಿ ಸಮಯ ಬೆಳಿಗ್ಗೆ 9:30ರಿಂದ ಸಂಜೆ 6:00ರ ವರೆಗೆ; ಯಾವುದೇ ದಾಖಲೆ ಅಥವಾ ಸೂಚನೆಯನ್ನು ಈ ಸಮಯದ ನಂತರ ಸ್ವೀಕರಿಸಿದರೆ, ಅದನ್ನು ಮುಂದಿನ ಕಾರ್ಯ ದಿನದಂದು ಸ್ವೀಕೃತವಾಗಿದೆ ಎಂದು ಪರಿಗಣಿಸಲಾಗುತ್ತದೆ."
+ },
+ {
+  "subject": "email_submission_deadline",
+  "aspect": "midnight_cutoff",
+  "value": "for calendar-day deadlines, email received up to 11:59 PM on last day considered timely",
+  "section": "24",
+  "page": 54,
+  "evidence": "ಹೌದು, ಕ್ಯಾಲೆಂಡರ್ ದಿನಗಳ ಕಾಲಮಿತಿಯ ಸಂದರ್ಭದಲ್ಲಿ, ಕೊನೆಯ ದಿನದ ಮಧ್ಯರಾತ್ರಿ 11:59ರ ವರೆಗೆ ಸ್ವೀಕೃತವಾದ ಯಾವುದೇ ಇಮೇಲ್ ಸಲ್ಲಿಕೆಯನ್ನು ಸಕಾಲಿಕ ಎಂದು ಪರಿಗಣಿಸಲಾಗುತ್ತದೆ, ಟೈಮ್‌ಸ್ಟ್ಯಾಂಪ್ ದಾಖಲೆಯ ಆಧಾರದ ಮೇಲೆ."
+ },
+ {
+  "subject": "exhibit_numbering",
+  "aspect": "system",
+  "value": "management exhibits numbered MX-1, MX-2...; employee/defense exhibits numbered DX-1, DX-2...",
+  "section": "24",
+  "page": 52,
+  "evidence": "ಆಡಳಿತದ ದಾಖಲೆಗಳಿಗೆ \"MX-1\", \"MX-2\" ಎಂಬಂತೆ (Management Exhibit) ಮತ್ತು ಉದ್ಯೋಗಿಯ ದಾಖಲೆಗಳಿಗೆ \"DX-1\", \"DX-2\" ಎಂಬಂತೆ (Defense Exhibit) ಗುರುತು ಸಂಖ್ಯೆ ನೀಡುವ ಅಭ್ಯಾಸ ಅನುಸರಿಸಲಾಗುತ್ತದೆ."
+ },
+ {
+  "subject": "inquiry_file_number_reuse",
+  "aspect": "rule",
+  "value": "each inquiry file number permanently reserved for one case, never reused regardless of closure method",
+  "section": "24",
+  "page": 53,
+  "evidence": "ಇಲ್ಲ, ಪ್ರತಿ ವಿಚಾರಣಾ ಕಡತ ಸಂಖ್ಯೆ (SIS-DI-YYYY-NNNN) ಶಾಶ್ವತವಾಗಿ ಆ ಒಂದು ಪ್ರಕರಣಕ್ಕೆ ಮಾತ್ರ ಮೀಸಲಾಗಿರುತ್ತದೆ ಮತ್ತು ಎಂದಿಗೂ ಮರುಬಳಕೆ ಮಾಡಲಾಗುವುದಿಲ್ಲ, ಕಡತ ಮುಕ್ತಾಯಗೊಂಡ ಬಳಕೆಯ ಕ್ರಮವೇ ಇರಲಿ (ಅಂತಿಮ ಆದೇಶ, ಕೈಬಿಡುವಿಕೆ, ಅಥವಾ ಮರಣದಿಂದ ಸ್ಥಗಿತ)."
+ },
+ {
+  "subject": "partial_charge_satisfaction",
+  "aspect": "rule",
+  "value": "if some charges satisfactorily clarified but others not, revised charge sheet issued for information only; no new clarification timeline required",
+  "section": "24",
+  "page": 53,
+  "evidence": "ಇಲ್ಲ, ಏಕೆಂದರೆ ಉದ್ಯೋಗಿ ಈಗಾಗಲೇ ಉಳಿದ ಆರೋಪಗಳ ಬಗ್ಗೆ ಸ್ಪಷ್ಟೀಕರಣ ಸಲ್ಲಿಸಿದ್ದಾರೆ; ಪರಿಷ್ಕೃತ ಆರೋಪ ಪತ್ರ (ಕೈಬಿಟ್ಟ ಆರೋಪಗಳನ್ನು ತೆಗೆದು) ಕೇವಲ ಮಾಹಿತಿ ಉದ್ದೇಶಕ್ಕಾಗಿ ಮಾತ್ರ IOಗೆ ಹಸ್ತಾಂತರಿಸಲಾಗುತ್ತದೆ, ಹೊಸ ಸ್ಪಷ್ಟೀಕರಣ ಕಾಲಮಿತಿ ಅಗತ್ಯವಿಲ್ಲ."
+ },
+ {
+  "subject": "witness_emotional_distress",
+  "aspect": "handling",
+  "value": "proceedings paused, break documented in record; postponement if needed, not counted against either party's adjournment quota",
+  "section": "24",
+  "page": 50,
+  "evidence": "IO ಸಭೆಯನ್ನು ತಾತ್ಕಾಲಿಕವಾಗಿ ವಿರಾಮಗೊಳಿಸಿ, ಸಾಕ್ಷಿಗೆ ಸಾಮಾನ್ಯ ಸ್ಥಿತಿಗೆ ಬರಲು ಸಮಯ ನೀಡಬೇಕು; ಈ ವಿರಾಮವನ್ನು ಕಾರ್ಯಕಲಾಪ ದಾಖಲೆಯಲ್ಲಿ (\"ಸಾಕ್ಷಿಯ ಮನವಿಯ ಮೇರೆಗೆ ಹದಿನೈದು ನಿಮಿಷ ವಿರಾಮ\" ಎಂಬಂತೆ) ದಾಖಲಿಸಬೇಕು; ಸಾಕ್ಷಿ ಮುಂದುವರಿಯಲು ಸಾಧ್ಯವಾಗದಿದ್ದರೆ, ಸಭೆಯನ್ನು ಮುಂದಿನ ದಿನಕ್ಕೆ ಮುಂದೂಡಬಹುದು, ಆದರೆ ಇದನ್ನು ಯಾವುದೇ ಪಕ್ಷದ ಮುಂದೂಡಿಕೆ ಎಣಿಕೆಯಲ್ಲಿ ಸೇರಿಸಲಾಗುವುದಿಲ್ಲ."
+ },
+ {
+  "subject": "meeting_room_access",
+  "aspect": "restriction",
+  "value": "only IO, PO, employee, assistant, and current witness permitted; extra support person not allowed inside but may wait outside",
+  "section": "24",
+  "page": 51,
+  "evidence": "ಕಾರ್ಯಕಲಾಪ ಕೊಠಡಿಯಲ್ಲಿ ಔಪಚಾರಿಕ ಪಾತ್ರ ಹೊಂದಿರುವ ವ್ಯಕ್ತಿಗಳಿಗೆ (IO, PO, ಉದ್ಯೋಗಿ, ಸಹಾಯಕ, ಪ್ರಸ್ತುತ ಸಾಕ್ಷಿ) ಮಾತ್ರ ಪ್ರವೇಶ ಇರುತ್ತದೆ; ಹೆಚ್ಚುವರಿ ಬೆಂಬಲ ವ್ಯಕ್ತಿಗೆ ಕೊಠಡಿಯೊಳಗೆ ಪ್ರವೇಶ ಸಾಮಾನ್ಯವಾಗಿ ಅನುಮತಿಸಲಾಗುವುದಿಲ್ಲ, ಆದರೆ ಸಭೆಯ ಹೊರಗೆ ಕಾಯುವ ಹಕ್ಕು ಇರುತ್ತದೆ."
+ },
+ {
+  "subject": "disciplinary_authority_change",
+  "aspect": "continuity_rule",
+  "value": "new authority continues all in-progress files from same stage; prior orders need not be re-validated",
+  "section": "24",
+  "page": 51,
+  "evidence": "ಹೊಸ ಶಿಸ್ತು ಪ್ರಾಧಿಕಾರಿ ಅದೇ ಹುದ್ದೆಯ ಹೊಣೆಗಾರಿಕೆಯನ್ನು ವಹಿಸಿಕೊಳ್ಳುತ್ತಾರೆ ಮತ್ತು ಈಗಾಗಲೇ ಪ್ರಗತಿಯಲ್ಲಿರುವ ಎಲ್ಲಾ ವಿಚಾರಣಾ ಕಡತಗಳನ್ನು ಅದೇ ಹಂತದಿಂದ ಮುಂದುವರಿಸುತ್ತಾರೆ; ಹಿಂದಿನ ಪ್ರಾಧಿಕಾರಿ ಈಗಾಗಲೇ ಹೊರಡಿಸಿದ ಆದೇಶಗಳು (ಉದಾ: ಆರೋಪ ಪತ್ರ, IO ನೇಮಕ) ಮರು-ಊರ್ಜಿತಗೊಳಿಸುವ ಅಗತ್ಯವಿಲ್ಲ."
+ },
+ {
+  "subject": "information_sharing",
+  "aspect": "need_to_know_principle",
+  "value": "inquiry information shared only with those with a defined role; witnesses disclose only own statement details, not others'",
+  "section": "24",
+  "page": 51,
+  "evidence": "ಔಪಚಾರಿಕ ವಿಚಾರಣೆಯ ಯಾವುದೇ ಹಂತದ ಮಾಹಿತಿಯನ್ನು, ಅದು ಆರೋಪ ಪತ್ರವಾಗಿರಲಿ, ಸಾಕ್ಷಿ ಹೇಳಿಕೆಯಾಗಿರಲಿ, ಅಥವಾ IO ವರದಿಯಾಗಿರಲಿ, ಪ್ರಕ್ರಿಯೆಯಲ್ಲಿ ನಿರ್ದಿಷ್ಟ ಪಾತ್ರ ಹೊಂದಿರುವ ವ್ಯಕ್ತಿಗಳ ಹೊರತು ಯಾರೊಂದಿಗೂ (\"ಅಗತ್ಯ ಆಧಾರದ ಮೇಲೆ ಮಾತ್ರ ತಿಳಿಸುವಿಕೆ\" / need-to-know principle) ಹಂಚಿಕೊಳ್ಳುವಂತಿಲ್ಲ. ಸಾಕ್ಷಿಗಳಿಗೆ ಕೇವಲ ತಮ್ಮ ಸ್ವಂತ ಹೇಳಿಕೆಗೆ ಸಂಬಂಧಿಸಿದ ಮಾಹಿತಿಯನ್ನು ಮಾತ್ರ ಬಹಿರಂಗಪಡಿಸಬೇಕು, ಇತರ ಸಾಕ್ಷಿಗಳ ಹೇಳಿಕೆಯ ವಿವರಗಳನ್ನು ಅಲ್ಲ — ಇದರಿಂದ ಸಾಕ್ಷಿಗಳ ನಡುವೆ ಹೇಳಿಕೆಗಳ ಸಮನ್ವಯ (collusion) ಅಥವಾ ಪ್ರಭಾವ ಬೀರುವಿಕೆ ತಡೆಗಟ್ಟಲಾಗುತ್ತದೆ."
+ },
+ {
+  "subject": "witness_list_revision",
+  "aspect": "process",
+  "value": "PO proposes alternate witness with written reason to IO; employee given at least 3 working days advance notice",
+  "section": "24",
+  "page": 51,
+  "evidence": "ಇಂತಹ ಸಂದರ್ಭದಲ್ಲಿ, PO ಪರ್ಯಾಯ ಸಾಕ್ಷಿಯನ್ನು (ಅದೇ ಘಟನೆಯ ಬಗ್ಗೆ ನೇರ ಜ್ಞಾನ ಹೊಂದಿರುವ ಇನ್ನೊಬ್ಬ ವ್ಯಕ್ತಿ) ಪ್ರಸ್ತಾಪಿಸಬಹುದು, ಆದರೆ ಈ ಪರಿಷ್ಕರಣೆಯನ್ನು ಲಿಖಿತವಾಗಿ IOಗೆ ಸಲ್ಲಿಸಿ ಕಾರಣ ಸಹಿತ ಅನುಮೋದನೆ ಪಡೆಯಬೇಕು, ಮತ್ತು ಉದ್ಯೋಗಿಗೆ ಈ ಹೊಸ ಸಾಕ್ಷಿಯ ಬಗ್ಗೆ ಕನಿಷ್ಠ ಮೂರು ಕಾರ್ಯ ದಿನಗಳ ಮುಂಚಿತ ಸೂಚನೆ ನೀಡಬೇಕು."
+ },
+ {
+  "subject": "suspended_employee_meeting_access",
+  "aspect": "arrangement",
+  "value": "special limited access permit (only meeting room and route) issued by HR before each meeting",
+  "section": "24",
+  "page": 51,
+  "evidence": "ಅಮಾನತಿನಲ್ಲಿರುವ ಉದ್ಯೋಗಿಗೆ ಸಾಮಾನ್ಯವಾಗಿ ಕಚೇರಿ ಆವರಣಕ್ಕೆ ಪ್ರವೇಶ ನಿರ್ಬಂಧಿಸಲಾಗಿರುತ್ತದೆ; ಆದಾಗ್ಯೂ, ವಿಚಾರಣಾ ಸಭೆಗೆ ಹಾಜರಾಗಲು ಅವರಿಗೆ ವಿಶೇಷ, ಸೀಮಿತ ಪ್ರವೇಶ ಅನುಮತಿ (ಕೇವಲ ಸಭಾ ಕೊಠಡಿ ಮತ್ತು ಅದಕ್ಕೆ ಹೋಗುವ ಮಾರ್ಗಕ್ಕೆ ಮಾತ್ರ, ಇತರ ಕಾರ್ಯ ಪ್ರದೇಶಕ್ಕೆ ಅಲ್ಲ) ಪ್ರತಿ ಸಭೆಯ ಮುನ್ನ ಮಾನವ ಸಂಪನ್ಮೂಲ ವಿಭಾಗ ನೀಡಬೇಕು."
+ },
+ {
+  "subject": "employee_own_notes",
+  "aspect": "permission",
+  "value": "employee/assistant may take personal notes during meetings; not an official record substitute",
+  "section": "24",
+  "page": 53,
+  "evidence": "ಹೌದು, ಉದ್ಯೋಗಿ ಅಥವಾ ಅವರ ಸಹಾಯಕ ಸಭೆಯ ಸಮಯದಲ್ಲಿ ತಮ್ಮ ಸ್ವಂತ ಟಿಪ್ಪಣಿ ಮಾಡಿಕೊಳ್ಳಬಹುದು; ಇದು ಅಧಿಕೃತ ಕಾರ್ಯಕಲಾಪ ದಾಖಲೆಯ ಪ್ರತಿಯಾಗಿ ಕಾರ್ಯನಿರ್ವಹಿಸುವುದಿಲ್ಲ, ಆದರೆ ತಮ್ಮ ಸ್ವಂತ ಸಿದ್ಧತೆಗೆ ಉಪಯುಕ್ತವಾಗಬಹುದು."
+ },
+ {
+  "subject": "exhibit_withdrawal",
+  "aspect": "process",
+  "value": "party submits written request; if allowed, withdrawn exhibit number never reused, marked withdrawn in record",
+  "section": "24",
+  "page": 53,
+  "evidence": "ಹೌದು, ಆ ಪಕ್ಷ ಸ್ವತಃ ಆ ದಾಖಲೆಯನ್ನು ಹಿಂಪಡೆಯಲು ಲಿಖಿತ ಮನವಿ ಸಲ್ಲಿಸಬಹುದು; IO ಇದನ್ನು ಅನುಮತಿಸಿದರೆ, ಹಿಂಪಡೆಯಲಾದ ದಾಖಲೆಯ ಗುರುತು ಸಂಖ್ಯೆಯನ್ನು ಮತ್ತೆ ಬೇರೆ ದಾಖಲೆಗೆ ಮರುಬಳಕೆ ಮಾಡಲಾಗುವುದಿಲ್ಲ, ಕಾರ್ಯಕಲಾಪ ದಾಖಲೆಯಲ್ಲಿ \"ಹಿಂಪಡೆಯಲಾಗಿದೆ\" ಎಂಬ ಟಿಪ್ಪಣಿಯೊಂದಿಗೆ ಮಾತ್ರ ಗುರುತಿಸಲಾಗುತ್ತದೆ."
+ },
+ {
+  "subject": "final_order_copy_requests",
+  "aspect": "limit",
+  "value": "no numeric limit on number of times employee may request a copy",
+  "section": "24",
+  "page": 52,
+  "evidence": "ಸಂಖ್ಯಾತ್ಮಕ ಮಿತಿ ಇಲ್ಲ; ಉದ್ಯೋಗಿ ತಮ್ಮ ಸ್ವಂತ ಸೇವಾ ದಾಖಲೆಗೆ ಸಂಬಂಧಿಸಿದ ಈ ದಾಖಲೆಯ ಪ್ರತಿಯನ್ನು ಯಾವುದೇ ಸಮಯದಲ್ಲಿ ಮಾನವ ಸಂಪನ್ಮೂಲ ವಿಭಾಗದಿಂದ ಕೋರಬಹುದು."
+ },
+ {
+  "subject": "internal_vs_external_io_choice",
+  "aspect": "factors",
+  "value": "case sensitivity, accused seniority, availability of conflict-free internal officer, legal/technical complexity",
+  "section": "24",
+  "page": 50,
+  "evidence": "ಬ್ಯಾಂಡ್ 7 ಮತ್ತು ಮೇಲಿನ ಉದ್ಯೋಗಿಗಳ ಪ್ರಕರಣಗಳಲ್ಲಿ, ಶಿಸ್ತು ಪ್ರಾಧಿಕಾರಿ ಆಂತರಿಕ ಮತ್ತು ಬಾಹ್ಯ IO ನಡುವೆ ಆಯ್ಕೆ ಮಾಡುವಾಗ ಈ ಅಂಶಗಳನ್ನು ಪರಿಗಣಿಸಬಹುದು: ಪ್ರಕರಣದ ಸಾರ್ವಜನಿಕ ಅಥವಾ ಆಂತರಿಕ ಸೂಕ್ಷ್ಮತೆಯ ಮಟ್ಟ; ಆರೋಪಿತ ಉದ್ಯೋಗಿಯ ಹಿರಿತನ (ಅತ್ಯಂತ ಹಿರಿಯ ಹುದ್ದೆಗಳಲ್ಲಿ ಬಾಹ್ಯ IO ಆದ್ಯತೆ); ಆಂತರಿಕ ಫಲಕದಲ್ಲಿ ಸೂಕ್ತ ಹಿತಾಸಕ್ತಿ-ಸಂಘರ್ಷ-ಮುಕ್ತ ಅಧಿಕಾರಿಯ ಲಭ್ಯತೆ; ಮತ್ತು ಪ್ರಕರಣದ ಕಾನೂನು ಅಥವಾ ತಾಂತ್ರಿಕ ಸಂಕೀರ್ಣತೆ (ಉದಾ: ಸೈಬರ್ ಅಪರಾಧ ಅಥವಾ ಹಣಕಾಸು ವಂಚನೆಯ ಪ್ರಕರಣಗಳಲ್ಲಿ ವಿಶೇಷ ಪರಿಣತಿಯ ಅಗತ್ಯ)."
+ },
+ {
+  "subject": "email_clarification_acceptability",
+  "aspect": "rule",
+  "value": "written clarification via company official email account accepted as valid; physical signature not mandatory",
+  "section": "24",
+  "page": 50,
+  "evidence": "ಹೌದು, ಕಂಪನಿಯ ಅಧಿಕೃತ ಇಮೇಲ್ ಖಾತೆಯಿಂದ ಕಳುಹಿಸಲಾದ ಲಿಖಿತ ಸ್ಪಷ್ಟೀಕರಣವನ್ನು ಸ್ವೀಕಾರಾರ್ಹ \"ಲಿಖಿತ ಸ್ಪಷ್ಟೀಕರಣ\" ಎಂದು ಪರಿಗಣಿಸಲಾಗುತ್ತದೆ; ಭೌತಿಕ ಹಸ್ತಾಕ್ಷರ ಕಡ್ಡಾಯವಲ್ಲ."
+ },
+ {
+  "subject": "probationary_employee_inquiry",
+  "aspect": "applicability",
+  "value": "full formal inquiry procedure applies to Category A/B misconduct despite probation status",
+  "section": "1",
+  "page": 2,
+  "evidence": "ಪ್ರೊಬೇಷನರಿ ಉದ್ಯೋಗಿಗಳ ಸಂದರ್ಭದಲ್ಲಿ ಒಂದು ವಿಶೇಷ ಸ್ಪಷ್ಟೀಕರಣ ಅಗತ್ಯ: ಪ್ರೊಬೇಷನ್ ಅವಧಿಯಲ್ಲಿ ಕಾರ್ಯಕ್ಷಮತೆ ಅತೃಪ್ತಿಕರವಾಗಿದ್ದ ಮಾತ್ರಕ್ಕೆ ಔಪಚಾರಿಕ ವಿಚಾರಣೆಯ ಅಗತ್ಯವಿಲ್ಲ; ಆದರೆ ಪ್ರೊಬೇಷನರಿ ಉದ್ಯೋಗಿಯ ಮೇಲೆ ವರ್ಗ-ಎ ಅಥವಾ ವರ್ಗ-ಬಿ ದುರ್ವರ್ತನೆಯ ಆರೋಪ ಬಂದರೆ, ಅವರಿಗೂ ಈ ದಾಖಲೆಯಲ್ಲಿ ವಿವರಿಸಲಾದ ಸಂಪೂರ್ಣ ಔಪಚಾರಿಕ ವಿಚಾರಣಾ ಕಾರ್ಯವಿಧಾನವೇ ಅನ್ವಯಿಸುತ್ತದೆ; ಪ್ರೊಬೇಷನ್ ಸ್ಥಾನಮಾನವು ನ್ಯಾಯಯುತ ವಿಚಾರಣೆಯ ಹಕ್ಕನ್ನು ಕಡಿಮೆ ಮಾಡುವುದಿಲ್ಲ."
+ },
+ {
+  "subject": "procedure_scope",
+  "aspect": "coverage",
+  "value": "applies to all permanent employees across all branches; contract/probationary employees within limits",
+  "section": "1",
+  "page": 2,
+  "evidence": "ಈ ಮಾರ್ಗದರ್ಶಿಯು ಸಂಸ್ಥೆಯ ಎಲ್ಲಾ ಶಾಖೆಗಳು, ಎಲ್ಲಾ ಹುದ್ದೆ ಶ್ರೇಣಿಗಳ ಕಾಯಂ ಉದ್ಯೋಗಿಗಳಿಗೆ, ಮತ್ತು ಅನ್ವಯವಾಗುವ ಮಿತಿಯೊಳಗೆ ಗುತ್ತಿಗೆ ಹಾಗೂ ಪ್ರೊಬೇಷನರಿ ಉದ್ಯೋಗಿಗಳಿಗೆ ಅನ್ವಯಿಸುತ್ತದೆ."
+ },
+ {
+  "subject": "role_segregation_principle",
+  "aspect": "disqualifications",
+  "value": "preliminary inquiry officer cannot sign charge-sheet; preliminary inquiry officer/complainant/listed witness cannot be IO; direct supervisor cannot be IO; listed witness cannot be PO; assistant cannot be third party or external client representative",
+  "section": "24",
+  "page": 38,
+  "evidence": "ಈ ದಾಖಲೆಯಲ್ಲಿ ಪುನರಾವರ್ತಿತವಾಗಿ ಒತ್ತಿ ಹೇಳಲಾದ ಒಂದು ಕೇಂದ್ರ ತತ್ವ — ಪ್ರಕ್ರಿಯಾ ಪಾತ್ರಗಳ ಪ್ರತ್ಯೇಕತೆ (segregation of roles) — ಅನ್ನು ಇಲ್ಲಿ ಒಂದು ಕೋಷ್ಟಕದ ಮೂಲಕ ಸಂಗ್ರಹಿಸಲಾಗಿದೆ, ಇದರಿಂದ ಯಾವ ಪಾತ್ರ ಯಾವ ಇತರ ಪಾತ್ರದೊಂದಿಗೆ ಹೊಂದಾಣಿಕೆಯಾಗುವುದಿಲ್ಲ ಎಂಬುದು ಸ್ಪಷ್ಟವಾಗುತ್ತದೆ: ಪ್ರಾಥಮಿಕ ವಿಚಾರಣಾ ಅಧಿಕಾರಿ ಆರೋಪ ಪತ್ರಕ್ಕೆ ಸಹಿ ಮಾಡುವಂತಿಲ್ಲ; ಪ್ರಾಥಮಿಕ ವಿಚಾರಣಾ ಅಧಿಕಾರಿ, ದೂರುದಾರ, ಅಥವಾ ಪಟ್ಟಿಮಾಡಲಾದ ಯಾವುದೇ ಸಾಕ್ಷಿ IOಯಾಗುವಂತಿಲ್ಲ; ಆರೋಪಿತ ಉದ್ಯೋಗಿಯ ನೇರ ಮೇಲ್ವಿಚಾರಕ ಸಮೂಹದ ಸದಸ್ಯ IOಯಾಗುವಂತಿಲ್ಲ; ಸಾಕ್ಷಿಯಾಗಿ ಪಟ್ಟಿಮಾಡಲಾದ ವ್ಯಕ್ತಿ PO ಆಗುವಂತಿಲ್ಲ; ಉದ್ಯೋಗಿಯ ಸಹಾಯಕ ಮೂರನೇ ವ್ಯಕ್ತಿ ಅಥವಾ ಬಾಹ್ಯ ಗ್ರಾಹಕರ ಪ್ರತಿನಿಧಿಯಾಗುವಂತಿಲ್ಲ."
+ },
+ {
+  "subject": "four_eyes_review_appendix_n",
+  "aspect": "rationale",
+  "value": "role separation prevents appearance of partiality and protects natural justice foundation",
+  "section": "24",
+  "page": 38,
+  "evidence": "ಈ ಪ್ರತ್ಯೇಕತೆಯ ಹಿಂದಿನ ತಾರ್ಕಿಕತೆ ಸರಳ: ಪ್ರತಿ ಪಾತ್ರ ತನ್ನದೇ ವಿಶಿಷ್ಟ ಜವಾಬ್ದಾರಿ ಹೊಂದಿದ್ದು, ಒಂದು ವ್ಯಕ್ತಿ ಎರಡು ಪಾತ್ರ ವಹಿಸಿದರೆ, ನಿಷ್ಪಕ್ಷಪಾತತೆಯ ಗೋಚರತೆಗೆ (appearance of impartiality) ಹಾನಿಯಾಗುತ್ತದೆ, ಇದು ಪ್ರಕೃತಿ ನ್ಯಾಯದ ಮೂಲ ಅಡಿಪಾಯವನ್ನೇ ದುರ್ಬಲಗೊಳಿಸುತ್ತದೆ."
+ }
+]

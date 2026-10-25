@@ -1,0 +1,1138 @@
+[
+ {
+  "subject": "intern_accident_cover",
+  "aspect": "sum_insured_inr",
+  "value": 300000,
+  "section": "१.२",
+  "page": 4,
+  "evidence": "शिक्षानवीस प्रशिक्षणार्थियों तथा ग्रीष्मकालीन इंटर्न को समूह स्वास्थ्य बीमा में सम्मिलित नहीं किया जाता; उनके लिए संस्था एक पृथक दुर्घटना आवरण लेती है जिसकी बीमित राशि ३,००,००० रुपये है और जो केवल प्रशिक्षण अवधि तक प्रभावी रहता है।"
+ },
+ {
+  "subject": "fixed_term_contract_eligibility",
+  "aspect": "minimum_remaining_days",
+  "value": 180,
+  "section": "१.२",
+  "page": 3,
+  "evidence": "नियत अवधि के अनुबंध पर नियुक्त कर्मचारियों पर इस नीति की धारा ५ से धारा ९ तक तथा धारा १५ लागू होगी, बशर्ते उनके अनुबंध की शेष अवधि नियुक्ति की तिथि से कम से कम १८० दिन हो।"
+ },
+ {
+  "subject": "pre_existing_disease",
+  "aspect": "definition_lookback_months",
+  "value": 48,
+  "section": "२",
+  "page": 8,
+  "evidence": "पूर्व-विद्यमान रोग वह रोग, चोट अथवा शारीरिक अवस्था है जिसका निदान अथवा जिसके लिए चिकित्सा-परामर्श सदस्य को पॉलिसी में सम्मिलित होने की तिथि से पूर्व के ४८ मास के भीतर प्राप्त हो चुका हो।"
+ },
+ {
+  "subject": "new_joiner_enrolment",
+  "aspect": "insurer_notification_working_days",
+  "value": 3,
+  "section": "४.१",
+  "page": 11,
+  "evidence": "लाभ प्रशासन कक्ष प्रत्येक नए कर्मचारी का नाम बीमाकर्ता को कार्यग्रहण के ३ कार्यदिवस के भीतर अग्रेषित करेगा।"
+ },
+ {
+  "subject": "parent_cover",
+  "aspect": "pre_existing_waiting_days",
+  "value": 90,
+  "section": "४.२",
+  "page": 11,
+  "evidence": "आश्रित माता-पिता के लिए पूर्व-विद्यमान रोगों पर ९० दिन की प्रतीक्षा अवधि लागू रहेगी, जो उनके नामांकन की तिथि से गिनी जाएगी।"
+ },
+ {
+  "subject": "specified_procedures",
+  "aspect": "waiting_period_months",
+  "value": 24,
+  "section": "४.२",
+  "page": 12,
+  "evidence": "कुछ विशिष्ट उपचारों पर पॉलिसी में २४ मास की प्रतीक्षा अवधि निर्धारित है।"
+ },
+ {
+  "subject": "maternity_benefit",
+  "aspect": "waiting_period_months",
+  "value": 9,
+  "section": "४.२",
+  "page": 12,
+  "evidence": "प्रसूति संबंधी व्यय पर ९ मास की प्रतीक्षा अवधि लागू है, जो सदस्यता आरंभ की तिथि से गिनी जाएगी।"
+ },
+ {
+  "subject": "welfare_fund_benefits",
+  "aspect": "minimum_service_months",
+  "value": 12,
+  "section": "४.३",
+  "page": 12,
+  "evidence": "किंतु धारा १७ से धारा १९ तक वर्णित कल्याण कोष के लाभ — अर्थात् अनुग्रह सहायता, शिक्षा सहायता और विवाह सहायता — के लिए कर्मचारी की न्यूनतम सेवा-अवधि १२ मास पूर्ण होनी आवश्यक है।"
+ },
+ {
+  "subject": "group_health_insurance",
+  "aspect": "sum_insured_inr_grade_s1",
+  "value": 300000,
+  "section": "५.२",
+  "page": 14,
+  "evidence": "| एस-१ — सहयोगी | ३,००,००० | ३,००० | ६,००० |"
+ },
+ {
+  "subject": "group_health_insurance",
+  "aspect": "sum_insured_inr_grade_s2",
+  "value": 400000,
+  "section": "५.२",
+  "page": 14,
+  "evidence": "| एस-२ — कार्यकारी | ४,००,००० | ४,००० | ८,००० |"
+ },
+ {
+  "subject": "group_health_insurance",
+  "aspect": "sum_insured_inr_grade_s3",
+  "value": 500000,
+  "section": "५.२",
+  "page": 14,
+  "evidence": "| एस-३ — वरिष्ठ कार्यकारी | ५,००,००० | ५,००० | १०,००० |"
+ },
+ {
+  "subject": "group_health_insurance",
+  "aspect": "sum_insured_inr_grade_s4",
+  "value": 750000,
+  "section": "५.२",
+  "page": 14,
+  "evidence": "| एस-४ — प्रबंधक | ७,५०,००० | ७,५०० | १५,००० |"
+ },
+ {
+  "subject": "group_health_insurance",
+  "aspect": "sum_insured_inr_grade_s5",
+  "value": 1000000,
+  "section": "५.२",
+  "page": 14,
+  "evidence": "| एस-५ — वरिष्ठ प्रबंधक | १०,००,००० | १०,००० | २०,००० |"
+ },
+ {
+  "subject": "group_health_insurance",
+  "aspect": "sum_insured_inr_grade_s6",
+  "value": 1500000,
+  "section": "५.२",
+  "page": 14,
+  "evidence": "| एस-६ — उप महाप्रबंधक | १५,००,००० | १५,००० | ३०,००० |"
+ },
+ {
+  "subject": "group_health_insurance",
+  "aspect": "sum_insured_inr_grade_s7",
+  "value": 2500000,
+  "section": "५.२",
+  "page": 14,
+  "evidence": "| एस-७ — कार्यकारी नेतृत्व | २५,००,००० | कोई उप-सीमा नहीं | कोई उप-सीमा नहीं |"
+ },
+ {
+  "subject": "room_rent_sublimit",
+  "aspect": "percent_of_sum_insured",
+  "value": 1,
+  "section": "५.२",
+  "page": 14,
+  "evidence": "उपर्युक्त तालिका में कक्ष किराया उप-सीमा की गणना बीमित राशि के एक प्रतिशत के आधार पर की गई है, और गहन चिकित्सा कक्ष के लिए वह दुगुनी है।"
+ },
+ {
+  "subject": "mid_year_grade_revision",
+  "aspect": "batches_per_year",
+  "value": 2,
+  "section": "५.३",
+  "page": 15,
+  "evidence": "ऐसे अनुरोध वर्ष में अधिकतम दो बार, अर्थात् ३० सितंबर और ३१ दिसंबर को समाप्त होने वाली तिमाहियों के अंत में, एकत्रित रूप से भेजे जाते हैं।"
+ },
+ {
+  "subject": "pre_hospitalisation_expenses",
+  "aspect": "days_before_admission",
+  "value": 60,
+  "section": "५.४",
+  "page": 16,
+  "evidence": "भर्ती से पूर्व के ६० दिन तथा छुट्टी के पश्चात् के ९० दिन के भीतर हुए वे व्यय जो उसी रोग से संबंधित हों।"
+ },
+ {
+  "subject": "day_care_procedures",
+  "aspect": "listed_count",
+  "value": 171,
+  "section": "५.४",
+  "page": 16,
+  "evidence": "इन्हें दिवस-देखभाल उपचार कहा जाता है और पॉलिसी अनुसूची में ऐसी १७१ प्रक्रियाएँ सूचीबद्ध हैं।"
+ },
+ {
+  "subject": "domiciliary_treatment",
+  "aspect": "annual_limit_inr",
+  "value": 50000,
+  "section": "५.४",
+  "page": 17,
+  "evidence": "ऐसे घरेलू उपचार की सीमा प्रति पॉलिसी वर्ष ५०,००० रुपये है।"
+ },
+ {
+  "subject": "ayush_treatment",
+  "aspect": "percent_of_sum_insured",
+  "value": 50,
+  "section": "५.४",
+  "page": 17,
+  "evidence": "ऐसे उपचार पर बीमित राशि का ५० प्रतिशत तक दावा स्वीकार्य है।"
+ },
+ {
+  "subject": "road_ambulance",
+  "aspect": "per_admission_limit_inr",
+  "value": 3000,
+  "section": "५.४",
+  "page": 17,
+  "evidence": "आपातकालीन सड़क-मार्ग से रोगी-वाहन का व्यय, प्रति भर्ती अधिकतम ३,००० रुपये तक।"
+ },
+ {
+  "subject": "air_ambulance",
+  "aspect": "annual_limit_inr",
+  "value": 200000,
+  "section": "५.४",
+  "page": 17,
+  "evidence": "वायुमार्ग से रोगी-परिवहन केवल एस-५ और उससे ऊपर के स्तर पर, प्रति पॉलिसी वर्ष २,००,००० रुपये की सीमा तक, और वह भी तृतीय पक्ष प्रशासक की पूर्वानुमति से।"
+ },
+ {
+  "subject": "maternity_benefit",
+  "aspect": "normal_delivery_limit_inr",
+  "value": 50000,
+  "section": "५.५",
+  "page": 17,
+  "evidence": "सामान्य प्रसव के लिए यह सीमा ५०,००० रुपये है और शल्यक्रिया द्वारा प्रसव के लिए ७५,००० रुपये।"
+ },
+ {
+  "subject": "maternity_benefit",
+  "aspect": "max_live_deliveries",
+  "value": 2,
+  "section": "५.५",
+  "page": 18,
+  "evidence": "प्रसूति आवरण जीवन भर में अधिकतम दो जीवित प्रसवों तक सीमित है।"
+ },
+ {
+  "subject": "newborn_cover",
+  "aspect": "additional_limit_inr",
+  "value": 50000,
+  "section": "५.५",
+  "page": 18,
+  "evidence": "नवजात शिशु की देखभाल पर होने वाला व्यय जन्म की तिथि से ९० दिन तक माता की प्रसूति उप-सीमा से अतिरिक्त रूप से देय है, अधिकतम ५०,००० रुपये तक।"
+ },
+ {
+  "subject": "newborn_cover",
+  "aspect": "days_from_birth",
+  "value": 90,
+  "section": "५.५",
+  "page": 18,
+  "evidence": "नवजात शिशु की देखभाल पर होने वाला व्यय जन्म की तिथि से ९० दिन तक माता की प्रसूति उप-सीमा से अतिरिक्त रूप से देय है, अधिकतम ५०,००० रुपये तक।"
+ },
+ {
+  "subject": "dependant_children",
+  "aspect": "max_count",
+  "value": 3,
+  "section": "६.१",
+  "page": 19,
+  "evidence": "संतान — अधिकतम तीन।"
+ },
+ {
+  "subject": "dependant_children",
+  "aspect": "max_age_years",
+  "value": 25,
+  "section": "६.१",
+  "page": 19,
+  "evidence": "संतान की पात्रता आयु २५ वर्ष पूर्ण होने तक है।"
+ },
+ {
+  "subject": "disabled_child_cover",
+  "aspect": "disability_percent_threshold",
+  "value": 40,
+  "section": "६.१",
+  "page": 19,
+  "evidence": "इस नियम का एकमात्र अपवाद वह संतान है जिसे ४० प्रतिशत अथवा उससे अधिक की स्थायी नि:शक्तता का शासकीय प्रमाणपत्र प्राप्त हो; ऐसी संतान आजीवन आश्रित बनी रह सकती है।"
+ },
+ {
+  "subject": "family_unit",
+  "aspect": "max_members",
+  "value": 8,
+  "section": "६.१",
+  "page": 19,
+  "evidence": "इस प्रकार एक परिवार-इकाई में अधिकतम आठ व्यक्ति हो सकते हैं — कर्मचारी स्वयं, जीवनसाथी, तीन संतानें तथा दो अभिभावक।"
+ },
+ {
+  "subject": "parent_cover",
+  "aspect": "employer_premium_share_percent",
+  "value": 60,
+  "section": "६.२",
+  "page": 19,
+  "evidence": "अभिभावकों के आवरण का प्रीमियम साझा आधार पर है — संस्था ६० प्रतिशत और कर्मचारी ४० प्रतिशत।"
+ },
+ {
+  "subject": "parent_cover",
+  "aspect": "employee_annual_contribution_inr_s1_s3",
+  "value": 9600,
+  "section": "६.२",
+  "page": 20,
+  "evidence": "स्तर एस-१ से एस-३ तक के कर्मचारियों के लिए अभिभावक-आवरण का वार्षिक कर्मचारी-अंशदान ९,६०० रुपये है, एस-४ और एस-५ के लिए १४,४०० रुपये, तथा एस-६ एवं एस-७ के लिए २१,६०० रुपये।"
+ },
+ {
+  "subject": "parent_cover",
+  "aspect": "max_enrolment_age_years",
+  "value": 80,
+  "section": "६.२",
+  "page": 20,
+  "evidence": "अभिभावकों की आयु ८० वर्ष से अधिक होने पर उनका नामांकन नवीनीकरण के समय अस्वीकार किया जा सकता है, किंतु जो अभिभावक पहले से नामांकित हैं, उनका आवरण आयु के आधार पर समाप्त नहीं किया जाएगा — यह निरंतरता का संरक्षण संस्था ने अनुबंध में विशेष रूप से समाविष्ट कराया है।"
+ },
+ {
+  "subject": "cataract_surgery",
+  "aspect": "per_eye_limit_inr",
+  "value": 40000,
+  "section": "७.४",
+  "page": 24,
+  "evidence": "मोतियाबिंद शल्यक्रिया पर प्रति नेत्र ४०,००० रुपये।"
+ },
+ {
+  "subject": "joint_replacement",
+  "aspect": "per_joint_limit_inr",
+  "value": 180000,
+  "section": "७.४",
+  "page": 24,
+  "evidence": "घुटने अथवा कूल्हे के जोड़ के पूर्ण प्रतिस्थापन पर प्रति जोड़ १,८०,००० रुपये।"
+ },
+ {
+  "subject": "hernia_repair",
+  "aspect": "limit_inr",
+  "value": 60000,
+  "section": "७.४",
+  "page": 24,
+  "evidence": "हर्निया के शल्य-सुधार पर ६०,००० रुपये।"
+ },
+ {
+  "subject": "cholecystectomy",
+  "aspect": "limit_inr",
+  "value": 70000,
+  "section": "७.४",
+  "page": 24,
+  "evidence": "पित्ताशय-उच्छेदन पर ७०,००० रुपये।"
+ },
+ {
+  "subject": "hysterectomy",
+  "aspect": "limit_inr",
+  "value": 90000,
+  "section": "७.४",
+  "page": 24,
+  "evidence": "गर्भाशय-उच्छेदन पर ९०,००० रुपये।"
+ },
+ {
+  "subject": "piles_fistula",
+  "aspect": "limit_inr",
+  "value": 35000,
+  "section": "७.४",
+  "page": 24,
+  "evidence": "बवासीर, भगंदर एवं संबद्ध प्रक्रियाओं पर ३५,००० रुपये।"
+ },
+ {
+  "subject": "modern_treatments",
+  "aspect": "percent_of_sum_insured",
+  "value": 50,
+  "section": "७.४",
+  "page": 24,
+  "evidence": "आधुनिक उपचार-पद्धतियाँ — जैसे रोबोट-सहायित शल्यक्रिया, स्टीरियोटैक्टिक विकिरण-चिकित्सा, मौखिक रसायन-चिकित्सा तथा कोशिका-आधारित चिकित्सा — बीमित राशि के ५० प्रतिशत की संयुक्त सीमा तक आवृत हैं।"
+ },
+ {
+  "subject": "non_payable_admin_charges",
+  "aspect": "percent_of_bill_range",
+  "value": "२–५",
+  "section": "७.५",
+  "page": 25,
+  "evidence": "ये सामान्यतः विपत्र के कुल का दो से पाँच प्रतिशत तक होते हैं और कर्मचारी को स्वयं वहन करने पड़ते हैं।"
+ },
+ {
+  "subject": "network_hospitals",
+  "aspect": "count",
+  "value": 6800,
+  "section": "९.१",
+  "page": 27,
+  "evidence": "तृतीय पक्ष प्रशासक की सूची में वर्तमान में देश भर के ६,८०० से अधिक अस्पताल सम्मिलित हैं, और यह सूची कर्मचारी पोर्टल पर प्रतिमास अद्यतन की जाती है।"
+ },
+ {
+  "subject": "planned_admission",
+  "aspect": "pre_authorisation_hours_before",
+  "value": 48,
+  "section": "९.२",
+  "page": 28,
+  "evidence": "यह अनुरोध भर्ती की प्रस्तावित तिथि से कम से कम ४८ घंटे पूर्व भेजा जाना चाहिए।"
+ },
+ {
+  "subject": "cashless_preauth",
+  "aspect": "tpa_decision_hours",
+  "value": 6,
+  "section": "९.२",
+  "page": 28,
+  "evidence": "अनुबंध के अनुसार पूर्ण दस्तावेज़ प्राप्त होने के ६ घंटे के भीतर निर्णय देना अनिवार्य है।"
+ },
+ {
+  "subject": "cashless_enhancement",
+  "aspect": "decision_hours",
+  "value": 3,
+  "section": "९.२",
+  "page": 29,
+  "evidence": "इस पर निर्णय ३ घंटे के भीतर अपेक्षित है, क्योंकि रोगी छुट्टी की प्रतीक्षा में रहता है।"
+ },
+ {
+  "subject": "emergency_admission",
+  "aspect": "notification_hours",
+  "value": 24,
+  "section": "९.३",
+  "page": 29,
+  "evidence": "सूचना देने की अधिकतम अवधि भर्ती से २४ घंटे है।"
+ },
+ {
+  "subject": "emergency_admission",
+  "aspect": "tpa_decision_hours",
+  "value": 2,
+  "section": "९.३",
+  "page": 29,
+  "evidence": "आपातकालीन प्रकरणों में तृतीय पक्ष प्रशासक को निर्णय २ घंटे के भीतर देना होता है।"
+ },
+ {
+  "subject": "unreasoned_cashless_denial",
+  "aspect": "threshold_per_policy_year",
+  "value": 5,
+  "section": "९.४",
+  "page": 30,
+  "evidence": "एक पॉलिसी वर्ष में ऐसी ५ से अधिक घटनाएँ नवीनीकरण-वार्ता का विषय बनेंगी।"
+ },
+ {
+  "subject": "reimbursement_claim",
+  "aspect": "submission_window_days",
+  "value": 30,
+  "section": "१०.१",
+  "page": 31,
+  "evidence": "प्रतिपूर्ति दावा अस्पताल से छुट्टी की तिथि से ३० दिन के भीतर तृतीय पक्ष प्रशासक को प्रस्तुत करना अनिवार्य है।"
+ },
+ {
+  "subject": "benefits_cell",
+  "aspect": "claim_forwarding_working_days",
+  "value": 2,
+  "section": "१०.१",
+  "page": 31,
+  "evidence": "कक्ष को दस्तावेज़ प्राप्त होने के २ कार्यदिवस के भीतर उन्हें अग्रेषित करना होगा।"
+ },
+ {
+  "subject": "claim_settlement",
+  "aspect": "sla_working_days",
+  "value": 15,
+  "section": "१०.३",
+  "page": 32,
+  "evidence": "तृतीय पक्ष प्रशासक को पूर्ण दस्तावेज़ प्राप्त होने के १५ कार्यदिवस के भीतर दावे का निपटान करना है।"
+ },
+ {
+  "subject": "claim_payment",
+  "aspect": "transfer_working_days",
+  "value": 7,
+  "section": "१०.३",
+  "page": 32,
+  "evidence": "स्वीकृत राशि का अंतरण कर्मचारी के बैंक खाते में निपटान-निर्णय के ७ कार्यदिवस के भीतर होगा।"
+ },
+ {
+  "subject": "delayed_settlement",
+  "aspect": "interest_premium_over_bank_rate_percent",
+  "value": 2,
+  "section": "१०.३",
+  "page": 32,
+  "evidence": "यदि निपटान में १५ कार्यदिवस से अधिक विलंब हो, तो बीमाकर्ता विलंबित अवधि के लिए बैंक-दर से २ प्रतिशत अधिक की दर से ब्याज देने का दायी है; यह प्रावधान अनुबंध में समाविष्ट है और कर्मचारी को इसका दावा करने के लिए पृथक आवेदन नहीं देना पड़ता।"
+ },
+ {
+  "subject": "late_claim",
+  "aspect": "outer_limit_days",
+  "value": 90,
+  "section": "१०.४",
+  "page": 33,
+  "evidence": "छुट्टी की तिथि से ९० दिन बीत जाने के पश्चात् प्राप्त दावा किसी भी कारण से स्वीकार नहीं किया जाएगा; यह बाह्य सीमा अपरिवर्तनीय है।"
+ },
+ {
+  "subject": "claim_appeal",
+  "aspect": "first_level_filing_days",
+  "value": 21,
+  "section": "११.२",
+  "page": 34,
+  "evidence": "कर्मचारी अस्वीकृति की सूचना प्राप्त होने के २१ दिन के भीतर तृतीय पक्ष प्रशासक के प्रकरण-पुनरीक्षण प्रकोष्ठ में अपील कर सकता है।"
+ },
+ {
+  "subject": "claim_appeal",
+  "aspect": "first_level_decision_working_days",
+  "value": 10,
+  "section": "११.२",
+  "page": 34,
+  "evidence": "प्रथम स्तर की अपील पर निर्णय १० कार्यदिवस के भीतर अपेक्षित है।"
+ },
+ {
+  "subject": "medical_claim_review_committee",
+  "aspect": "member_count",
+  "value": 3,
+  "section": "११.३",
+  "page": 34,
+  "evidence": "यह समिति त्रैमासिक रूप से बैठती है और इसमें तीन सदस्य होते हैं — लाभ प्रशासक, वित्त विभाग का एक नामित अधिकारी, तथा संस्था द्वारा अनुबंधित एक स्वतंत्र चिकित्सा परामर्शदाता।"
+ },
+ {
+  "subject": "ombudsman_support",
+  "aspect": "document_supply_working_days",
+  "value": 10,
+  "section": "११.४",
+  "page": 35,
+  "evidence": "संस्था इस मार्ग में कर्मचारी का विरोध नहीं करेगी और अपेक्षित दस्तावेज़ १० कार्यदिवस के भीतर उपलब्ध कराएगी।"
+ },
+ {
+  "subject": "top_up_cover",
+  "aspect": "option_low_inr",
+  "value": 500000,
+  "section": "१२.२",
+  "page": 36,
+  "evidence": "तीन विकल्प उपलब्ध हैं — ५,००,००० रुपये का अतिरिक्त आवरण, १०,००,००० रुपये का अतिरिक्त आवरण, तथा २०,००,००० रुपये का अतिरिक्त आवरण।"
+ },
+ {
+  "subject": "top_up_cover",
+  "aspect": "annual_contribution_inr_self_spouse_low",
+  "value": 4200,
+  "section": "१२.२",
+  "page": 36,
+  "evidence": "केवल कर्मचारी अथवा कर्मचारी और जीवनसाथी की इकाई के लिए तीनों विकल्पों का वार्षिक अंशदान क्रमशः ४,२०० रुपये, ६,९०० रुपये तथा ११,४०० रुपये है।"
+ },
+ {
+  "subject": "top_up_cover",
+  "aspect": "annual_contribution_inr_with_children_low",
+  "value": 6300,
+  "section": "१२.२",
+  "page": 36,
+  "evidence": "संतान सहित इकाई के लिए यह क्रमशः ६,३०० रुपये, १०,३५० रुपये तथा १७,१०० रुपये है।"
+ },
+ {
+  "subject": "top_up_cover",
+  "aspect": "annual_contribution_inr_with_parents_low",
+  "value": 13800,
+  "section": "१२.२",
+  "page": 36,
+  "evidence": "यदि इकाई में अभिभावक भी सम्मिलित हैं, तो अंशदान क्रमशः १३,८०० रुपये, २२,५०० रुपये तथा ३७,२०० रुपये होगा।"
+ },
+ {
+  "subject": "top_up_cover",
+  "aspect": "new_joiner_election_days",
+  "value": 30,
+  "section": "१२.३",
+  "page": 37,
+  "evidence": "नवनियुक्त कर्मचारी कार्यग्रहण के ३० दिन के भीतर यह विकल्प चुन सकते हैं; उनके लिए अंशदान शेष मासों के अनुपात में लिया जाएगा।"
+ },
+ {
+  "subject": "group_accident_insurance",
+  "aspect": "sum_insured_minimum_inr",
+  "value": 1000000,
+  "section": "१३.२",
+  "page": 38,
+  "evidence": "दुर्घटना बीमा की बीमित राशि कर्मचारी के वार्षिक स्थिर पारिश्रमिक के तिगुने के बराबर है, जिसकी न्यूनतम सीमा १०,००,००० रुपये तथा अधिकतम सीमा १,५०,००,००० रुपये है।"
+ },
+ {
+  "subject": "permanent_partial_disability",
+  "aspect": "one_eye_percent",
+  "value": 50,
+  "section": "१३.३",
+  "page": 39,
+  "evidence": "उदाहरणतः एक नेत्र की दृष्टि के लोप पर ५० प्रतिशत, एक हाथ के लोप पर ५० प्रतिशत, अँगूठे के लोप पर २० प्रतिशत, तथा किसी एक अन्य अंगुली के लोप पर ८ प्रतिशत।"
+ },
+ {
+  "subject": "permanent_partial_disability",
+  "aspect": "thumb_percent",
+  "value": 20,
+  "section": "१३.३",
+  "page": 39,
+  "evidence": "उदाहरणतः एक नेत्र की दृष्टि के लोप पर ५० प्रतिशत, एक हाथ के लोप पर ५० प्रतिशत, अँगूठे के लोप पर २० प्रतिशत, तथा किसी एक अन्य अंगुली के लोप पर ८ प्रतिशत।"
+ },
+ {
+  "subject": "temporary_total_disability",
+  "aspect": "max_weeks",
+  "value": 104,
+  "section": "१३.३",
+  "page": 39,
+  "evidence": "अस्थायी पूर्ण नि:शक्तता की दशा में साप्ताहिक क्षतिपूर्ति देय होगी, जो कर्मचारी के साप्ताहिक स्थिर पारिश्रमिक के बराबर होगी और अधिकतम १०४ सप्ताह तक चलेगी।"
+ },
+ {
+  "subject": "temporary_total_disability",
+  "aspect": "waiting_days",
+  "value": 7,
+  "section": "१३.३",
+  "page": 39,
+  "evidence": "इस लाभ पर प्रथम ७ दिन की प्रतीक्षा अवधि लागू है।"
+ },
+ {
+  "subject": "accidental_hospitalisation",
+  "aspect": "percent_of_accident_sum_insured",
+  "value": 10,
+  "section": "१३.३",
+  "page": 40,
+  "evidence": "दुर्घटनाजन्य अस्पताल-भर्ती का व्यय बीमित राशि के १० प्रतिशत तक इस पॉलिसी से भी देय है।"
+ },
+ {
+  "subject": "funeral_expense_benefit",
+  "aspect": "amount_inr",
+  "value": 30000,
+  "section": "१३.३",
+  "page": 40,
+  "evidence": "दुर्घटना में मृत्यु की दशा में अंत्येष्टि व्यय के लिए ३०,००० रुपये की एकमुश्त राशि अतिरिक्त रूप से देय है, जो बिना किसी विपत्र के, केवल मृत्यु-प्रमाणपत्र के आधार पर दी जाती है।"
+ },
+ {
+  "subject": "accident_claim",
+  "aspect": "notification_days",
+  "value": 7,
+  "section": "१३.५",
+  "page": 41,
+  "evidence": "दुर्घटना की सूचना लाभ प्रशासन कक्ष को यथासंभव शीघ्र, किंतु किसी भी दशा में ७ दिन के भीतर दी जानी चाहिए।"
+ },
+ {
+  "subject": "accident_claim",
+  "aspect": "settlement_working_days",
+  "value": 30,
+  "section": "१३.५",
+  "page": 41,
+  "evidence": "दुर्घटना-दावों के निपटान की समय-सीमा पूर्ण दस्तावेज़ प्राप्ति से ३० कार्यदिवस है।"
+ },
+ {
+  "subject": "term_life_insurance",
+  "aspect": "sum_insured_minimum_inr",
+  "value": 2000000,
+  "section": "१४.१",
+  "page": 42,
+  "evidence": "बीमित राशि कर्मचारी के वार्षिक स्थिर पारिश्रमिक के चौगुने के बराबर है, न्यूनतम २०,००,००० रुपये तथा अधिकतम २,००,००,००० रुपये की सीमा के भीतर।"
+ },
+ {
+  "subject": "term_life_insurance",
+  "aspect": "free_cover_limit_inr",
+  "value": 7500000,
+  "section": "१४.२",
+  "page": 42,
+  "evidence": "सूर्योदय की पॉलिसी में यह सीमा ७५,००,००० रुपये है।"
+ },
+ {
+  "subject": "nomination",
+  "aspect": "filing_working_days",
+  "value": 15,
+  "section": "१४.३",
+  "page": 43,
+  "evidence": "प्रत्येक कर्मचारी को जीवन बीमा तथा दुर्घटना बीमा के लिए नामनिर्देशन कार्यग्रहण के १५ कार्यदिवस के भीतर दर्ज कराना अनिवार्य है।"
+ },
+ {
+  "subject": "annual_health_check",
+  "aspect": "frequency_months_under_40",
+  "value": 24,
+  "section": "१५.१",
+  "page": 44,
+  "evidence": "परीक्षण की आवृत्ति आयु पर निर्भर है — ४० वर्ष से कम आयु के कर्मचारियों के लिए प्रत्येक २४ मास में एक बार, तथा ४० वर्ष अथवा उससे अधिक आयु के कर्मचारियों के लिए प्रत्येक १२ मास में एक बार।"
+ },
+ {
+  "subject": "annual_health_check",
+  "aspect": "eligibility_after_months",
+  "value": 6,
+  "section": "१५.१",
+  "page": 44,
+  "evidence": "परीक्षण के लिए पात्रता कार्यग्रहण से ६ मास पूर्ण होने पर आरंभ होती है।"
+ },
+ {
+  "subject": "health_check_group_a",
+  "aspect": "max_age_years",
+  "value": 35,
+  "section": "१५.२",
+  "page": 45,
+  "evidence": "समूह क — ३५ वर्ष से कम आयु। संपूर्ण रक्त-गणना, उपवास-रक्तशर्करा, मूत्र-परीक्षण, वृक्क-क्रिया परीक्षण, यकृत-क्रिया परीक्षण, वसा-प्रालेख, थायरॉयड-उत्तेजक हार्मोन, विटामिन डी तथा विटामिन बी-१२ का स्तर, तथा एक सामान्य चिकित्सकीय परामर्श।"
+ },
+ {
+  "subject": "health_check_group_b",
+  "aspect": "age_band",
+  "value": "३५–५०",
+  "section": "१५.२",
+  "page": 45,
+  "evidence": "समूह ख — ३५ वर्ष से ५० वर्ष तक। समूह क के समस्त परीक्षण, तथा इनके अतिरिक्त विश्रामावस्था का विद्युत्-हृद्लेख, वक्ष का एक्स-रे, उदर की अल्ट्रासोनोग्राफी, ग्लाइकोसिलेटेड हीमोग्लोबिन, नेत्र-परीक्षण तथा दंत-परीक्षण।"
+ },
+ {
+  "subject": "health_check_group_c",
+  "aspect": "min_age_years",
+  "value": 50,
+  "section": "१५.२",
+  "page": 45,
+  "evidence": "समूह ग — ५० वर्ष से अधिक आयु। समूह ख के समस्त परीक्षण, तथा इनके अतिरिक्त श्रम-परीक्षण अथवा हृदय की इकोकार्डियोग्राफी, अस्थि-घनत्व मापन, तथा मल में गुप्त रक्त की जाँच।"
+ },
+ {
+  "subject": "spouse_health_check",
+  "aspect": "frequency_months",
+  "value": 24,
+  "section": "१५.२",
+  "page": 45,
+  "evidence": "आश्रित जीवनसाथी के लिए भी एक आधारभूत परीक्षण उपलब्ध है, जिसका दायरा समूह क के बराबर है और जिसकी आवृत्ति २४ मास है।"
+ },
+ {
+  "subject": "health_check_reimbursement",
+  "aspect": "cap_inr_group_a",
+  "value": 3500,
+  "section": "१५.३",
+  "page": 46,
+  "evidence": "किसी अन्य केंद्र का चयन करने पर कर्मचारी को प्रतिपूर्ति मिलेगी, किंतु समूह क के लिए अधिकतम ३,५०० रुपये, समूह ख के लिए ६,५०० रुपये तथा समूह ग के लिए ९,५०० रुपये तक।"
+ },
+ {
+  "subject": "health_check_reimbursement",
+  "aspect": "claim_window_days",
+  "value": 45,
+  "section": "१५.३",
+  "page": 46,
+  "evidence": "प्रतिपूर्ति का दावा परीक्षण की तिथि से ४५ दिन के भीतर प्रस्तुत करना होगा।"
+ },
+ {
+  "subject": "health_check",
+  "aspect": "paid_attendance_days",
+  "value": 1,
+  "section": "१५.३",
+  "page": 46,
+  "evidence": "परीक्षण के लिए कर्मचारी को अवकाश लेने की आवश्यकता नहीं है; परीक्षण के दिन को उपस्थिति में गिना जाएगा, अधिकतम एक कार्यदिवस तक।"
+ },
+ {
+  "subject": "health_check_participation",
+  "aspect": "voluntary_uptake_percent",
+  "value": 40,
+  "section": "१५.५",
+  "page": 47,
+  "evidence": "किंतु संस्था प्रत्येक वर्ष अक्टूबर मास में एक स्मरण-अभियान चलाती है, क्योंकि अनुभव यह बताता है कि पात्र कर्मचारियों में से लगभग ४० प्रतिशत ही स्वयं पहल करके परीक्षण कराते हैं।"
+ },
+ {
+  "subject": "tetanus_diphtheria_booster",
+  "aspect": "interval_years",
+  "value": 10,
+  "section": "१६.१",
+  "page": 47,
+  "evidence": "संस्था अपने परिसरों में प्रतिवर्ष एक टीकाकरण शिविर आयोजित करती है, जिसमें निम्नलिखित टीके नि:शुल्क उपलब्ध रहते हैं — मौसमी इन्फ्लुएंज़ा का वार्षिक टीका, तथा टिटनेस-डिप्थीरिया का बूस्टर, जो प्रत्येक १० वर्ष में एक बार देय है।"
+ },
+ {
+  "subject": "subsidised_vaccines",
+  "aspect": "employer_share_percent",
+  "value": 70,
+  "section": "१६.२",
+  "page": 48,
+  "evidence": "कुछ टीके संस्था द्वारा अनुबंधित दर पर उपलब्ध कराए जाते हैं, जिनमें संस्था ७० प्रतिशत व्यय वहन करती है और कर्मचारी ३० प्रतिशत।"
+ },
+ {
+  "subject": "hpv_vaccine",
+  "aspect": "eligible_age_band",
+  "value": "९–२६",
+  "section": "१६.२",
+  "page": 48,
+  "evidence": "अंतिम टीका ९ वर्ष से २६ वर्ष की आयु की नामांकित संतानों एवं जीवनसाथी के लिए उपलब्ध है।"
+ },
+ {
+  "subject": "child_immunisation_support",
+  "aspect": "annual_limit_inr",
+  "value": 8000,
+  "section": "१६.३",
+  "page": 49,
+  "evidence": "नामांकित संतान की आयु ५ वर्ष पूर्ण होने तक शासकीय सार्वभौम टीकाकरण अनुसूची के अंतर्गत आने वाले टीकों का व्यय प्रति संतान प्रति वर्ष ८,००० रुपये तक प्रतिपूर्त किया जाता है।"
+ },
+ {
+  "subject": "child_immunisation_support",
+  "aspect": "claim_window_days",
+  "value": 60,
+  "section": "१६.३",
+  "page": 49,
+  "evidence": "दावा टीकाकरण-अभिलेख की प्रति तथा विपत्र के साथ, व्यय की तिथि से ६० दिन के भीतर, लाभ प्रशासन कक्ष को प्रस्तुत करना होगा।"
+ },
+ {
+  "subject": "child_immunisation_support",
+  "aspect": "settlement_working_days",
+  "value": 10,
+  "section": "१६.३",
+  "page": 49,
+  "evidence": "निपटान १० कार्यदिवस में होगा।"
+ },
+ {
+  "subject": "employee_welfare_fund",
+  "aspect": "annual_allocation_inr_2025_26",
+  "value": 6500000,
+  "section": "१७.१",
+  "page": 49,
+  "evidence": "वर्ष २०२५-२६ के लिए यह आवंटन ६५,००,००० रुपये है।"
+ },
+ {
+  "subject": "welfare_committee",
+  "aspect": "member_count",
+  "value": 5,
+  "section": "१७.२",
+  "page": 50,
+  "evidence": "समिति में पाँच सदस्य होते हैं — मानव संसाधन प्रमुख अथवा उनका नामिती, जो अध्यक्षता करते हैं; वित्त नियंत्रक का एक नामित अधिकारी; लाभ प्रशासक, जो सदस्य-सचिव का कार्य करते हैं; तथा कर्मचारी प्रतिनिधियों में से दो, जिनका चयन आवर्तन के आधार पर होता है और जिनकी पदावधि २ वर्ष होती है।"
+ },
+ {
+  "subject": "welfare_committee",
+  "aspect": "employee_representative_tenure_years",
+  "value": 2,
+  "section": "१७.२",
+  "page": 50,
+  "evidence": "समिति में पाँच सदस्य होते हैं — मानव संसाधन प्रमुख अथवा उनका नामिती, जो अध्यक्षता करते हैं; वित्त नियंत्रक का एक नामित अधिकारी; लाभ प्रशासक, जो सदस्य-सचिव का कार्य करते हैं; तथा कर्मचारी प्रतिनिधियों में से दो, जिनका चयन आवर्तन के आधार पर होता है और जिनकी पदावधि २ वर्ष होती है।"
+ },
+ {
+  "subject": "welfare_committee",
+  "aspect": "quorum",
+  "value": 3,
+  "section": "१७.२",
+  "page": 50,
+  "evidence": "गणपूर्ति के लिए तीन सदस्यों की उपस्थिति आवश्यक है, जिनमें कम से कम एक कर्मचारी प्रतिनिधि होना चाहिए।"
+ },
+ {
+  "subject": "welfare_committee",
+  "aspect": "fast_track_threshold_inr",
+  "value": 50000,
+  "section": "१७.२",
+  "page": 50,
+  "evidence": "यदि सहायता की माँग ५०,००० रुपये से कम है और प्रकरण में विलंब हानिकारक है, तो मानव संसाधन प्रमुख और वित्त नियंत्रक संयुक्त रूप से तत्काल स्वीकृति दे सकते हैं, जिसकी पुष्टि अगली नियमित बैठक में करा ली जाएगी।"
+ },
+ {
+  "subject": "ex_gratia_medical_support",
+  "aspect": "annual_cap_inr",
+  "value": 250000,
+  "section": "१७.३",
+  "page": 51,
+  "evidence": "सहायता की अधिकतम सीमा प्रति कर्मचारी प्रति वित्तीय वर्ष २,५०,००० रुपये है।"
+ },
+ {
+  "subject": "ex_gratia_medical_support",
+  "aspect": "typical_share_percent",
+  "value": 50,
+  "section": "१७.३",
+  "page": 51,
+  "evidence": "समिति सामान्यतः अस्वीकृत अथवा अनावृत व्यय के ५० प्रतिशत तक सहायता देती है; शेष भार कर्मचारी पर रहता है, क्योंकि पूर्ण प्रतिपूर्ति का प्रावधान इस लाभ को बीमा का विकल्प बना देता, जो अभीष्ट नहीं है।"
+ },
+ {
+  "subject": "ex_gratia_medical_support",
+  "aspect": "decision_working_days",
+  "value": 20,
+  "section": "१७.३",
+  "page": 51,
+  "evidence": "निर्णय की समय-सीमा आवेदन की प्राप्ति से २० कार्यदिवस है।"
+ },
+ {
+  "subject": "critical_illness_support",
+  "aspect": "per_case_cap_inr",
+  "value": 500000,
+  "section": "१७.४",
+  "page": 52,
+  "evidence": "ऐसी संस्तुति पर अंतिम निर्णय प्रबंध निदेशक का होगा और वह प्रति प्रकरण ५,००,००० रुपये से अधिक नहीं होगा।"
+ },
+ {
+  "subject": "education_support",
+  "aspect": "primary_secondary_inr",
+  "value": 18000,
+  "section": "१८.२",
+  "page": 53,
+  "evidence": "सहायता शैक्षिक स्तर के अनुसार निर्धारित है — प्राथमिक एवं माध्यमिक शिक्षा के लिए प्रति संतान प्रति शैक्षिक वर्ष १८,००० रुपये; उच्चतर माध्यमिक के लिए २७,००० रुपये; तथा स्नातक अथवा समकक्ष व्यावसायिक पाठ्यक्रम के लिए ४८,००० रुपये।"
+ },
+ {
+  "subject": "education_support",
+  "aspect": "max_children",
+  "value": 2,
+  "section": "१८.२",
+  "page": 54,
+  "evidence": "एक कर्मचारी अधिकतम दो संतानों के लिए यह सहायता ले सकता है।"
+ },
+ {
+  "subject": "education_support",
+  "aspect": "application_window",
+  "value": "१ जून–३१ जुलाई",
+  "section": "१८.३",
+  "page": 54,
+  "evidence": "आवेदन प्रत्येक वर्ष १ जून से ३१ जुलाई के बीच स्वीकार किए जाते हैं।"
+ },
+ {
+  "subject": "education_support",
+  "aspect": "result_announcement_date",
+  "value": "३१ अगस्त",
+  "section": "१८.३",
+  "page": 54,
+  "evidence": "समिति के निर्णय ३१ अगस्त तक घोषित होंगे और भुगतान सितंबर मास में किया जाएगा।"
+ },
+ {
+  "subject": "education_support_on_death",
+  "aspect": "age_limit_years",
+  "value": 21,
+  "section": "१८.४",
+  "page": 55,
+  "evidence": "सेवाकाल में कर्मचारी की मृत्यु हो जाने पर उसकी संतानों के लिए यह सहायता उपर्युक्त स्तर-शर्त की परवाह किए बिना जारी रहेगी, और वह संतान की आयु २१ वर्ष पूर्ण होने तक अथवा स्नातक शिक्षा पूर्ण होने तक, जो भी पहले हो, तब तक चलेगी।"
+ },
+ {
+  "subject": "marriage_assistance",
+  "aspect": "amount_inr",
+  "value": 25000,
+  "section": "१९.१",
+  "page": 55,
+  "evidence": "कर्मचारी के स्वयं के विवाह पर एकमुश्त २५,००० रुपये की सहायता देय है।"
+ },
+ {
+  "subject": "marriage_assistance",
+  "aspect": "application_window_days",
+  "value": 90,
+  "section": "१९.१",
+  "page": 55,
+  "evidence": "आवेदन विवाह की तिथि से ९० दिन के भीतर प्रस्तुत करना होगा।"
+ },
+ {
+  "subject": "bereavement_assistance",
+  "aspect": "dependant_death_amount_inr",
+  "value": 15000,
+  "section": "१९.२",
+  "page": 56,
+  "evidence": "नामांकित परिवार-इकाई के किसी सदस्य की मृत्यु पर कर्मचारी को तत्काल १५,००० रुपये की शोक सहायता दी जाती है।"
+ },
+ {
+  "subject": "bereavement_assistance",
+  "aspect": "dependant_payment_working_days",
+  "value": 2,
+  "section": "१९.२",
+  "page": 56,
+  "evidence": "यह राशि बिना समिति की बैठक की प्रतीक्षा किए, लाभ प्रशासक के अनुमोदन से, सूचना प्राप्ति के २ कार्यदिवस के भीतर वितरित की जाती है।"
+ },
+ {
+  "subject": "employee_death_immediate_relief",
+  "aspect": "amount_inr",
+  "value": 75000,
+  "section": "१९.२",
+  "page": 56,
+  "evidence": "स्वयं कर्मचारी की मृत्यु की दशा में उसके नामनिर्देशिती को तात्कालिक सहायता के रूप में ७५,००० रुपये दिए जाते हैं।"
+ },
+ {
+  "subject": "employee_death_immediate_relief",
+  "aspect": "payment_working_days",
+  "value": 3,
+  "section": "१९.२",
+  "page": 56,
+  "evidence": "भुगतान मृत्यु की सूचना प्राप्त होने के ३ कार्यदिवस के भीतर अनिवार्य है।"
+ },
+ {
+  "subject": "creche_support",
+  "aspect": "subsidy_percent",
+  "value": 50,
+  "section": "१९.३",
+  "page": 56,
+  "evidence": "सहायता की मात्रा वास्तविक क्रेच शुल्क का ५० प्रतिशत है, अधिकतम ६,५०० रुपये प्रति मास प्रति संतान।"
+ },
+ {
+  "subject": "creche_support",
+  "aspect": "max_months_per_child",
+  "value": 30,
+  "section": "१९.३",
+  "page": 57,
+  "evidence": "यह सहायता अधिकतम दो संतानों के लिए ली जा सकती है और प्रत्येक संतान के लिए अधिकतम ३० मास तक चलेगी।"
+ },
+ {
+  "subject": "meal_subsidy",
+  "aspect": "per_working_day_inr",
+  "value": 110,
+  "section": "२०.१",
+  "page": 57,
+  "evidence": "सब्सिडी की दर स्तर-निरपेक्ष है और प्रति कार्यदिवस ११० रुपये है।"
+ },
+ {
+  "subject": "night_shift_meal_supplement",
+  "aspect": "per_shift_inr",
+  "value": 70,
+  "section": "२०.१",
+  "page": 58,
+  "evidence": "रात्रिकालीन पाली में कार्यरत कर्मचारियों को उपर्युक्त के अतिरिक्त ७० रुपये प्रति पाली का अनुपूरक भत्ता मिलता है, क्योंकि उस समय भोजनालय की पूर्ण सेवा उपलब्ध नहीं रहती।"
+ },
+ {
+  "subject": "bus_service",
+  "aspect": "site_headcount_threshold",
+  "value": 200,
+  "section": "२०.२",
+  "page": 58,
+  "evidence": "संस्था उन कार्यालयों में, जहाँ कर्मचारी-संख्या २०० से अधिक है, नियत मार्गों पर बस-सेवा संचालित करती है।"
+ },
+ {
+  "subject": "bus_service",
+  "aspect": "employee_monthly_contribution_inr",
+  "value": 800,
+  "section": "२०.२",
+  "page": 58,
+  "evidence": "इस सेवा का उपयोग ऐच्छिक है और इसके लिए कर्मचारी से प्रति मास ८०० रुपये का सांकेतिक अंशदान लिया जाता है, शेष व्यय संस्था वहन करती है।"
+ },
+ {
+  "subject": "transport_allowance",
+  "aspect": "monthly_inr_s1_s2",
+  "value": 1800,
+  "section": "२०.२",
+  "page": 59,
+  "evidence": "जिन कार्यालयों में यह सेवा उपलब्ध नहीं है, वहाँ स्तर एस-१ एवं एस-२ के कर्मचारियों को प्रति मास १,८०० रुपये का परिवहन भत्ता दिया जाता है।"
+ },
+ {
+  "subject": "temporary_disability_transport",
+  "aspect": "max_working_days",
+  "value": 60,
+  "section": "२०.२",
+  "page": 59,
+  "evidence": "अस्थायी शारीरिक अक्षमता की दशा में — जैसे अस्थिभंग अथवा शल्यक्रिया के पश्चात् की स्वास्थ्यलाभ अवधि — कर्मचारी को अधिकतम ६० कार्यदिवस तक द्वार-से-द्वार परिवहन की सुविधा दी जा सकती है, जिसकी स्वीकृति विभागाध्यक्ष देंगे।"
+ },
+ {
+  "subject": "enrolment_window",
+  "aspect": "duration_days",
+  "value": 21,
+  "section": "२१.१",
+  "page": 59,
+  "evidence": "ऐच्छिक लाभों के चयन तथा आश्रितों के नामांकन के लिए प्रत्येक वर्ष एक खिड़की खुलती है, जो १ मार्च से २१ मार्च तक, अर्थात् २१ दिवसीय, होती है।"
+ },
+ {
+  "subject": "life_event_change",
+  "aspect": "request_window_days",
+  "value": 30,
+  "section": "२१.२",
+  "page": 60,
+  "evidence": "ऐसी घटना पर परिवर्तन का अनुरोध घटना की तिथि से ३० दिन के भीतर प्रस्तुत करना अनिवार्य है।"
+ },
+ {
+  "subject": "enrolment_documents",
+  "aspect": "verification_working_days",
+  "value": 5,
+  "section": "२१.३",
+  "page": 61,
+  "evidence": "लाभ प्रशासन कक्ष इन दस्तावेज़ों की जाँच ५ कार्यदिवस के भीतर करेगा।"
+ },
+ {
+  "subject": "enrolment_documents",
+  "aspect": "cure_period_working_days",
+  "value": 10,
+  "section": "२१.३",
+  "page": 61,
+  "evidence": "अपूर्ण दस्तावेज़ की दशा में कक्ष एक ही बार समेकित कमी-सूचना भेजेगा, और कर्मचारी को उसे पूरा करने के लिए १० कार्यदिवस मिलेंगे।"
+ },
+ {
+  "subject": "fixed_term_term_life",
+  "aspect": "flat_sum_insured_inr",
+  "value": 2000000,
+  "section": "२२",
+  "page": 63,
+  "evidence": "विशेष रूप से, नियत अवधि अनुबंध पर आश्रित नामांकन केवल जीवनसाथी और संतान तक सीमित है, और सावधि जीवन बीमा की बीमित राशि वहाँ एक समान २०,००,००० रुपये रहती है, पारिश्रमिक-आधारित गणना लागू नहीं होती।"
+ },
+ {
+  "subject": "policy_conversion",
+  "aspect": "request_window_days",
+  "value": 30,
+  "section": "२४.२",
+  "page": 65,
+  "evidence": "इसके लिए अनुरोध अंतिम कार्यदिवस से ३० दिन के भीतर सीधे बीमाकर्ता को भेजना होगा।"
+ },
+ {
+  "subject": "retiree_health_policy",
+  "aspect": "entry_window_days",
+  "value": 60,
+  "section": "२४.३",
+  "page": 66,
+  "evidence": "अधिवर्षिता पर सेवानिवृत्त होने वाले कर्मचारियों के लिए संस्था एक पृथक सेवानिवृत्त-समूह स्वास्थ्य पॉलिसी संधारित करती है, जिसमें प्रवेश सेवानिवृत्ति के ६० दिन के भीतर लेना होगा।"
+ },
+ {
+  "subject": "retiree_health_policy",
+  "aspect": "sum_insured_inr",
+  "value": 500000,
+  "section": "२४.३",
+  "page": 66,
+  "evidence": "उसकी बीमित राशि ५,००,००० रुपये की एकसमान है और प्रीमियम पूर्णतः सेवानिवृत्त का दायित्व है, यद्यपि दर समूह-दर पर ही रहती है।"
+ },
+ {
+  "subject": "death_in_service_dependant_cover",
+  "aspect": "free_extension_days",
+  "value": 180,
+  "section": "२४.३",
+  "page": 66,
+  "evidence": "सेवाकाल में कर्मचारी की मृत्यु हो जाने पर उसके नामांकित आश्रितों का स्वास्थ्य आवरण मृत्यु की तिथि से आगे १८० दिन तक नि:शुल्क जारी रहेगा।"
+ },
+ {
+  "subject": "enrolment_records",
+  "aspect": "retention_years",
+  "value": 8,
+  "section": "२८",
+  "page": 74,
+  "evidence": "नामांकन-प्रपत्र, आश्रित-प्रमाण तथा नामनिर्देशन-प्रपत्र कर्मचारी की सेवा-समाप्ति के पश्चात् ८ वर्ष तक संधारित किए जाएँगे।"
+ },
+ {
+  "subject": "claim_records",
+  "aspect": "retention_years",
+  "value": 5,
+  "section": "२८",
+  "page": 74,
+  "evidence": "दावा-अभिलेख निपटान की तिथि से ५ वर्ष तक।"
+ },
+ {
+  "subject": "renewal_amendment",
+  "aspect": "employee_notice_days",
+  "value": 21,
+  "section": "२९",
+  "page": 74,
+  "evidence": "ऐसे संशोधन मानव संसाधन प्रमुख एवं वित्त नियंत्रक के संयुक्त अनुमोदन से प्रभावी होंगे और उनकी सूचना कर्मचारियों को प्रभावी तिथि से कम से कम २१ दिन पूर्व दी जाएगी।"
+ },
+ {
+  "subject": "benefit_withdrawal",
+  "aspect": "notice_days",
+  "value": 90,
+  "section": "२९",
+  "page": 75,
+  "evidence": "धारा ३ में वर्णित लाभों में से किसी को पूर्णतः वापस लेने के लिए प्रबंध मंडल का अनुमोदन आवश्यक होगा, और ऐसी वापसी की सूचना कम से कम ९० दिन पूर्व देनी होगी।"
+ },
+ {
+  "subject": "insurance_id_card",
+  "aspect": "issue_working_days",
+  "value": 10,
+  "section": "३०.३",
+  "page": 76,
+  "evidence": "प्रत्येक कर्मचारी को बीमा-पहचान पत्र की एक भौतिक प्रति तथा एक अंकीय प्रति नामांकन की पुष्टि के १० कार्यदिवस के भीतर उपलब्ध कराई जाती है।"
+ },
+ {
+  "subject": "grievance",
+  "aspect": "benefits_administrator_working_days",
+  "value": 7,
+  "section": "२७",
+  "page": 73,
+  "evidence": "इस नीति के संचालन से संबंधित कोई भी शिकायत प्रथमतः लाभ प्रशासक के समक्ष रखी जाएगी, जो उसे ७ कार्यदिवस के भीतर निपटाएँगे।"
+ },
+ {
+  "subject": "grievance",
+  "aspect": "hr_head_working_days",
+  "value": 15,
+  "section": "२७",
+  "page": 73,
+  "evidence": "असंतोष रहने पर शिकायत मानव संसाधन प्रमुख के समक्ष जाएगी, जिनका निर्णय १५ कार्यदिवस के भीतर अपेक्षित है।"
+ },
+ {
+  "subject": "benefits_cell_reporting",
+  "aspect": "quarterly_working_days",
+  "value": 15,
+  "section": "२६.१",
+  "page": 72,
+  "evidence": "कक्ष प्रत्येक तिमाही के समापन से १५ कार्यदिवस के भीतर मानव संसाधन प्रमुख एवं वित्त नियंत्रक को एक प्रतिवेदन प्रस्तुत करेगा, जिसमें प्रस्तुत दावों की संख्या, स्वीकृत एवं अस्वीकृत दावों का अनुपात, औसत निपटान-अवधि, तथा सेवा-मानकों के उल्लंघन की घटनाएँ अंकित होंगी।"
+ },
+ {
+  "subject": "worked_example_two",
+  "aspect": "self_paid_amount_inr",
+  "value": 104000,
+  "section": "२५.२",
+  "page": 69,
+  "evidence": "श्रीमती देशमुख ने स्वयं १,०४,००० रुपये का भुगतान किया और छुट्टी के पश्चात् धारा १० की प्रक्रिया से प्रतिपूर्ति दावा प्रस्तुत किया।"
+ },
+ {
+  "subject": "worked_example_two",
+  "aspect": "uncovered_balance_inr",
+  "value": 34000,
+  "section": "२५.२",
+  "page": 69,
+  "evidence": "शेष ३४,००० रुपये उनके अपने भार पर रहे।"
+ },
+ {
+  "subject": "worked_example_two",
+  "aspect": "days_since_parent_enrolment",
+  "value": 225,
+  "section": "२५.२",
+  "page": 69,
+  "evidence": "कक्ष ने अभिलेख से यह सिद्ध किया कि उनकी माता का नामांकन १ अप्रैल २०२५ से प्रभावी था, अर्थात् भर्ती की तिथि तक २२५ दिन बीत चुके थे और प्रतीक्षा अवधि कब की पूर्ण हो चुकी थी।"
+ },
+ {
+  "subject": "worked_example_three",
+  "aspect": "self_paid_amount_inr",
+  "value": 38500,
+  "section": "२५.३",
+  "page": 70,
+  "evidence": "भर्ती एक ग़ैर-नेटवर्क अस्पताल में हुई, अतः उन्होंने ३८,५०० रुपये स्वयं दिए।"
+ },
+ {
+  "subject": "worked_example_three",
+  "aspect": "days_past_deadline",
+  "value": 15,
+  "section": "२५.३",
+  "page": 70,
+  "evidence": "उन्होंने २० फरवरी को दावा प्रस्तुत किया, अर्थात् समय-सीमा के १५ दिन पश्चात्।"
+ }
+]

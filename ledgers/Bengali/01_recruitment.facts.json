@@ -1,0 +1,1478 @@
+[
+ {
+  "subject": "document_control",
+  "aspect": "effective_date_day",
+  "value": 1,
+  "unit": "এপ্রিল ২০২৫ তারিখ",
+  "section": "masthead",
+  "page": 1,
+  "evidence": "কার্যকর তারিখ: ১ এপ্রিল ২০২৫"
+ },
+ {
+  "subject": "document_control",
+  "aspect": "next_review_date_day",
+  "value": 31,
+  "unit": "মার্চ ২০২৮ তারিখ",
+  "section": "masthead",
+  "page": 1,
+  "evidence": "পরবর্তী পর্যালোচনা: ৩১ মার্চ ২০২৮"
+ },
+ {
+  "subject": "workforce_plan",
+  "aspect": "submission_deadline_day_january",
+  "value": 15,
+  "unit": "জানুয়ারি তারিখ",
+  "section": "৪.১",
+  "page": 4,
+  "evidence": "এই পরিকল্পনা জমা দেওয়ার শেষ তারিখ প্রতি বছরের ১৫ জানুয়ারি।"
+ },
+ {
+  "subject": "workforce_plan",
+  "aspect": "consolidated_draft_deadline_day_february",
+  "value": 10,
+  "unit": "ফেব্রুয়ারি তারিখ",
+  "section": "৪.১",
+  "page": 4,
+  "evidence": "মানবসম্পদ বিভাগ এই পরিকল্পনাগুলি একত্রিত করে অর্থ বিভাগের সঙ্গে আলোচনা করে এবং ১০ ফেব্রুয়ারির মধ্যে একটি সমন্বিত খসড়া প্রস্তুত করে।"
+ },
+ {
+  "subject": "workforce_plan",
+  "aspect": "board_approval_deadline_day_february",
+  "value": 28,
+  "unit": "ফেব্রুয়ারি তারিখ",
+  "section": "৪.১",
+  "page": 4,
+  "evidence": "ব্যবস্থাপনা পর্ষদ ২৮ ফেব্রুয়ারির মধ্যে এই খসড়া অনুমোদন করে।"
+ },
+ {
+  "subject": "vacancy_request",
+  "aspect": "approver_decision_working_days",
+  "value": 5,
+  "unit": "কার্যদিবস",
+  "section": "৪.৩",
+  "page": 5,
+  "evidence": "শূন্যপদ অনুরোধ দাখিলের পর অনুমোদনকারীকে ৫ কার্যদিবসের মধ্যে সিদ্ধান্ত জানাতে হবে।"
+ },
+ {
+  "subject": "vacancy_request",
+  "aspect": "escalation_wait_working_days",
+  "value": 3,
+  "unit": "কার্যদিবস",
+  "section": "৪.৩",
+  "page": 5,
+  "evidence": "এই সময়সীমার মধ্যে কোনো সাড়া না এলে মানবসম্পদ বিভাগ স্মারক পাঠায়, এবং আরও ৩ কার্যদিবস অতিবাহিত হলে বিষয়টি পরবর্তী উচ্চতর স্তরে উপস্থাপিত হয়।"
+ },
+ {
+  "subject": "vacancy_approval",
+  "aspect": "validity_days",
+  "value": 120,
+  "unit": "দিন",
+  "section": "৪.৪",
+  "page": 6,
+  "evidence": "একটি অনুমোদিত শূন্যপদ অনুমোদনের তারিখ থেকে ১২০ দিন পর্যন্ত বৈধ থাকে।"
+ },
+ {
+  "subject": "vacancy_approval",
+  "aspect": "extension_days",
+  "value": 45,
+  "unit": "দিন",
+  "section": "৪.৪",
+  "page": 6,
+  "evidence": "তবে যে পদের জন্য অন্তত দুইজন প্রার্থী চূড়ান্ত পর্যায়ে পৌঁছেছেন, সেই পদের অনুমোদন মানবসম্পদ প্রধানের সম্মতিক্রমে আরও ৪৫ দিন বাড়ানো যেতে পারে।"
+ },
+ {
+  "subject": "job_description",
+  "aspect": "max_reuse_age_months",
+  "value": 18,
+  "unit": "মাস",
+  "section": "৫.১",
+  "page": 6,
+  "evidence": "পুরনো বিবরণ অপরিবর্তিত অবস্থায় পুনর্ব্যবহার করা যাবে না যদি সেটি ১৮ মাসের বেশি পুরনো হয়; সেক্ষেত্রে নিয়োগকারী ব্যবস্থাপককে বিবরণটি পর্যালোচনা করে সংশোধন করতে হবে।"
+ },
+ {
+  "subject": "internal_posting",
+  "aspect": "min_open_working_days",
+  "value": 7,
+  "unit": "কার্যদিবস",
+  "section": "৬.১",
+  "page": 7,
+  "evidence": "অভ্যন্তরীণ ঘোষণা কর্মী পোর্টালে প্রকাশিত হয় এবং অন্তত ৭ কার্যদিবস খোলা থাকে।"
+ },
+ {
+  "subject": "internal_applicant_eligibility",
+  "aspect": "min_tenure_months",
+  "value": 18,
+  "unit": "মাস",
+  "section": "৬.২",
+  "page": 7,
+  "evidence": "অভ্যন্তরীণ পদে আবেদনের জন্য কর্মীকে বর্তমান পদে অন্তত ১৮ মাস কর্মরত থাকতে হবে।"
+ },
+ {
+  "subject": "internal_candidate_feedback",
+  "aspect": "feedback_working_days",
+  "value": 10,
+  "unit": "কার্যদিবস",
+  "section": "৬.৩",
+  "page": 8,
+  "evidence": "নির্বাচিত না হওয়া অভ্যন্তরীণ প্রার্থীকে সিদ্ধান্তের ১০ কার্যদিবসের মধ্যে ব্যক্তিগতভাবে প্রতিক্রিয়া জানাতে হবে, যাতে তিনি জানতে পারেন কোন ক্ষেত্রে উন্নতি প্রয়োজন।"
+ },
+ {
+  "subject": "talent_pool",
+  "aspect": "retention_months",
+  "value": 24,
+  "unit": "মাস",
+  "section": "৭.১",
+  "page": 8,
+  "evidence": "এই তালিকায় কোনো প্রার্থীর তথ্য সর্বাধিক ২৪ মাস সংরক্ষিত থাকে, তারপর মুছে ফেলা হয় যদি না প্রার্থী পুনরায় সম্মতি দেন।"
+ },
+ {
+  "subject": "sourcing",
+  "aspect": "agency_use_wait_days",
+  "value": 30,
+  "unit": "দিন",
+  "section": "৭.১",
+  "page": 8,
+  "evidence": "কেবল সেই পদগুলির জন্য যেখানে উপরের উৎসগুলি ৩০ দিনের মধ্যে পর্যাপ্তসংখ্যক যোগ্য প্রার্থী দিতে ব্যর্থ হয়েছে, অথবা যেখানে পদের গোপনীয়তা বজায় রাখা প্রয়োজন।"
+ },
+ {
+  "subject": "recruitment_agency",
+  "aspect": "free_replacement_days",
+  "value": 90,
+  "unit": "দিন",
+  "section": "৭.২",
+  "page": 9,
+  "evidence": "প্রতিটি নিয়োগ সংস্থার সঙ্গে চুক্তিতে একটি প্রতিস্থাপন শর্ত থাকতে হবে: সংস্থার মাধ্যমে নিযুক্ত কোনো প্রার্থী যদি যোগদানের ৯০ দিনের মধ্যে প্রতিষ্ঠান ত্যাগ করেন, তবে সংস্থা বিনামূল্যে একজন বিকল্প প্রার্থী সরবরাহ করবে।"
+ },
+ {
+  "subject": "recruitment_agency",
+  "aspect": "candidate_ownership_months",
+  "value": 6,
+  "unit": "মাস",
+  "section": "৭.২",
+  "page": 9,
+  "evidence": "প্রার্থীর মালিকানা নির্ধারিত হয় প্রথম প্রাপ্তির তারিখ অনুসারে, এবং সেই দাবি ৬ মাস পর্যন্ত বৈধ থাকে।"
+ },
+ {
+  "subject": "initial_screening",
+  "aspect": "completion_working_days",
+  "value": 4,
+  "unit": "কার্যদিবস",
+  "section": "৮.১",
+  "page": 9,
+  "evidence": "প্রাথমিক বাছাই আবেদন প্রাপ্তির ৪ কার্যদিবসের মধ্যে সম্পন্ন করতে হবে।"
+ },
+ {
+  "subject": "manager_screening",
+  "aspect": "completion_working_days",
+  "value": 6,
+  "unit": "কার্যদিবস",
+  "section": "৮.২",
+  "page": 10,
+  "evidence": "নিয়োগকারী ব্যবস্থাপককে বিস্তারিত মূল্যায়ন ৬ কার্যদিবসের মধ্যে শেষ করতে হবে।"
+ },
+ {
+  "subject": "candidate_pool",
+  "aspect": "min_qualified_candidates",
+  "value": 5,
+  "unit": "জন",
+  "section": "৮.৩",
+  "page": 10,
+  "evidence": "কোনো পদের জন্য সাক্ষাৎকার শুরু করার আগে অন্তত ৫ জন যোগ্য প্রার্থী চিহ্নিত থাকতে হবে।"
+ },
+ {
+  "subject": "candidate_pool",
+  "aspect": "jd_review_trigger_days",
+  "value": 21,
+  "unit": "দিন",
+  "section": "৮.৩",
+  "page": 10,
+  "evidence": "যদি ২১ দিনের মধ্যে এই সংখ্যা পূরণ না হয়, তবে নিয়োগকারী ব্যবস্থাপক ও নিয়োগ শাখা যৌথভাবে পদ-বিবরণ পুনর্বিবেচনা করবেন — সম্ভবত আবশ্যিক যোগ্যতার তালিকা অতিরিক্ত সংকীর্ণ, অথবা প্রস্তাবিত পারিশ্রমিক বাজারের তুলনায় কম।"
+ },
+ {
+  "subject": "selection_panel",
+  "aspect": "min_members",
+  "value": 3,
+  "unit": "জন",
+  "section": "৯.১",
+  "page": 10,
+  "evidence": "নির্বাচন প্যানেলের ন্যূনতম সদস্যসংখ্যা ৩ এবং সর্বাধিক ৫।"
+ },
+ {
+  "subject": "selection_panel",
+  "aspect": "max_members",
+  "value": 5,
+  "unit": "জন",
+  "section": "৯.১",
+  "page": 10,
+  "evidence": "নির্বাচন প্যানেলের ন্যূনতম সদস্যসংখ্যা ৩ এবং সর্বাধিক ৫।"
+ },
+ {
+  "subject": "panel_composition",
+  "aspect": "women_member_required_from_size",
+  "value": 3,
+  "unit": "জন",
+  "section": "৯.২",
+  "page": 11,
+  "evidence": "যে প্যানেলের সদস্যসংখ্যা ৩ বা তার বেশি, সেই প্যানেলে অন্তত একজন নারী সদস্য থাকতে হবে।"
+ },
+ {
+  "subject": "panel_training",
+  "aspect": "validity_months",
+  "value": 24,
+  "unit": "মাস",
+  "section": "৯.৩",
+  "page": 11,
+  "evidence": "এই প্রশিক্ষণের বৈধতা ২৪ মাস; তারপর পুনরায় সম্পন্ন করতে হয়।"
+ },
+ {
+  "subject": "interview_preparation",
+  "aspect": "document_dispatch_lead_hours",
+  "value": 72,
+  "unit": "ঘণ্টা",
+  "section": "১০.১",
+  "page": 11,
+  "evidence": "নিয়োগ শাখা প্রথম সাক্ষাৎকারের অন্তত ৭২ ঘণ্টা আগে প্যানেলের প্রত্যেক সদস্যের কাছে নিম্নলিখিত নথিগুলি পাঠাবে: হালনাগাদ পদ-বিবরণ; প্রার্থীর জীবনবৃত্তান্ত ও আবেদনপত্র; পূর্ববর্তী পর্যায়ের মূল্যায়ন মন্তব্য; অনুমোদিত প্রশ্নগুচ্ছ; এবং নম্বর প্রদানের ছক।"
+ },
+ {
+  "subject": "interview_preparation",
+  "aspect": "briefing_lead_hours",
+  "value": 48,
+  "unit": "ঘণ্টা",
+  "section": "১০.১",
+  "page": 12,
+  "evidence": "নিয়োগকারী ব্যবস্থাপক প্রথম সাক্ষাৎকারের অন্তত ৪৮ ঘণ্টা আগে একটি প্রস্তুতি বৈঠক আহ্বান করবেন।"
+ },
+ {
+  "subject": "interview_preparation",
+  "aspect": "briefing_duration_minutes",
+  "value": 30,
+  "unit": "মিনিট",
+  "section": "১০.১",
+  "page": 12,
+  "evidence": "এই বৈঠকের কার্যকাল সাধারণত ৩০ মিনিট, এবং এর তিনটি উদ্দেশ্য: প্রশ্নগুচ্ছের চূড়ান্ত অনুমোদন; প্যানেল সদস্যদের মধ্যে প্রশ্নের বণ্টন নির্ধারণ; এবং কোন মাপকাঠিতে কে প্রধান মূল্যায়কের ভূমিকা নেবেন তা স্থির করা।"
+ },
+ {
+  "subject": "interview_opening",
+  "aspect": "duration_minutes",
+  "value": 6,
+  "unit": "মিনিট",
+  "section": "১০.২",
+  "page": 13,
+  "evidence": "সূচনা পর্বের জন্য ৬ মিনিট বরাদ্দ।"
+ },
+ {
+  "subject": "question_set",
+  "aspect": "total_questions",
+  "value": 9,
+  "unit": "টি প্রশ্ন",
+  "section": "১০.৩",
+  "page": 13,
+  "evidence": "প্রতিটি পদের জন্য একটি অনুমোদিত মূল প্রশ্নগুচ্ছ থাকবে, যাতে থাকবে ৯টি প্রশ্ন।"
+ },
+ {
+  "subject": "question_set",
+  "aspect": "identical_questions_per_candidate",
+  "value": 9,
+  "unit": "টি প্রশ্ন",
+  "section": "১০.৩",
+  "page": 13,
+  "evidence": "এই ৯টি প্রশ্ন প্রত্যেক প্রার্থীকে একই ভাষায় ও একই ক্রমে করা হবে।"
+ },
+ {
+  "subject": "question_set",
+  "aspect": "behavioural_questions",
+  "value": 4,
+  "unit": "টি প্রশ্ন",
+  "section": "১০.৩",
+  "page": 13,
+  "evidence": "৪টি প্রশ্ন হবে আচরণভিত্তিক, অর্থাৎ অতীতে সংঘটিত নির্দিষ্ট ঘটনা সম্পর্কে।"
+ },
+ {
+  "subject": "question_set",
+  "aspect": "technical_questions",
+  "value": 3,
+  "unit": "টি প্রশ্ন",
+  "section": "১০.৩",
+  "page": 13,
+  "evidence": "৩টি প্রশ্ন হবে কারিগরি বা বিষয়ভিত্তিক।"
+ },
+ {
+  "subject": "question_set",
+  "aspect": "situational_questions",
+  "value": 1,
+  "unit": "টি প্রশ্ন",
+  "section": "১০.৩",
+  "page": 13,
+  "evidence": "১টি প্রশ্ন হবে পরিস্থিতিভিত্তিক, অর্থাৎ একটি কাল্পনিক অথচ বাস্তবসম্মত পরিস্থিতিতে প্রার্থী কী করবেন।"
+ },
+ {
+  "subject": "question_set",
+  "aspect": "work_approach_questions",
+  "value": 1,
+  "unit": "টি প্রশ্ন",
+  "section": "১০.৩",
+  "page": 13,
+  "evidence": "অবশিষ্ট ১টি প্রশ্ন হবে প্রার্থীর পেশাগত অগ্রাধিকার ও কর্মপদ্ধতি সম্পর্কিত।"
+ },
+ {
+  "subject": "question_set",
+  "aspect": "max_reuse_months",
+  "value": 18,
+  "unit": "মাস",
+  "section": "১০.৩",
+  "page": 14,
+  "evidence": "একই প্রশ্নগুচ্ছ একটানা ১৮ মাসের বেশি ব্যবহার করা যাবে না, কারণ দীর্ঘদিন অপরিবর্তিত থাকলে প্রশ্নগুলি বাইরে ছড়িয়ে পড়ে এবং প্রস্তুত উত্তর মুখস্থ করে আসা সম্ভব হয়ে ওঠে।"
+ },
+ {
+  "subject": "probing_questions",
+  "aspect": "max_probes_per_question",
+  "value": 3,
+  "unit": "টি প্রশ্ন",
+  "section": "১০.৫",
+  "page": 15,
+  "evidence": "সাধারণ নিয়ম হিসেবে একটি মূল প্রশ্নের পরে সর্বাধিক ৩টি অনুসন্ধানী প্রশ্ন যথেষ্ট; তার পরেও উত্তর অস্পষ্ট থাকলে সেই অস্পষ্টতা নিজেই একটি মূল্যায়নযোগ্য তথ্য।"
+ },
+ {
+  "subject": "interview_notes",
+  "aspect": "upload_deadline_hours",
+  "value": 2,
+  "unit": "ঘণ্টা",
+  "section": "১০.৬",
+  "page": 16,
+  "evidence": "নোট সাক্ষাৎকার শেষ হওয়ার ২ ঘণ্টার মধ্যে নিয়োগ ব্যবস্থায় তুলতে হবে।"
+ },
+ {
+  "subject": "interview_scheduling",
+  "aspect": "duration_associate_minutes",
+  "value": 40,
+  "unit": "মিনিট",
+  "section": "১০.৭",
+  "page": 16,
+  "evidence": "সহযোগী স্তরে ৪০ মিনিট, নির্বাহী ও ব্যবস্থাপক স্তরে ৬০ মিনিট, এবং ঊর্ধ্বতন ব্যবস্থাপক ও তদূর্ধ্ব স্তরে ৮০ মিনিট বরাদ্দ।"
+ },
+ {
+  "subject": "interview_scheduling",
+  "aspect": "duration_manager_minutes",
+  "value": 60,
+  "unit": "মিনিট",
+  "section": "১০.৭",
+  "page": 16,
+  "evidence": "সহযোগী স্তরে ৪০ মিনিট, নির্বাহী ও ব্যবস্থাপক স্তরে ৬০ মিনিট, এবং ঊর্ধ্বতন ব্যবস্থাপক ও তদূর্ধ্ব স্তরে ৮০ মিনিট বরাদ্দ।"
+ },
+ {
+  "subject": "interview_scheduling",
+  "aspect": "duration_senior_minutes",
+  "value": 80,
+  "unit": "মিনিট",
+  "section": "১০.৭",
+  "page": 16,
+  "evidence": "সহযোগী স্তরে ৪০ মিনিট, নির্বাহী ও ব্যবস্থাপক স্তরে ৬০ মিনিট, এবং ঊর্ধ্বতন ব্যবস্থাপক ও তদূর্ধ্ব স্তরে ৮০ মিনিট বরাদ্দ।"
+ },
+ {
+  "subject": "interview_scheduling",
+  "aspect": "gap_between_interviews_minutes",
+  "value": 15,
+  "unit": "মিনিট",
+  "section": "১০.৭",
+  "page": 16,
+  "evidence": "পরপর দুইটি সাক্ষাৎকারের মধ্যে অন্তত ১৫ মিনিটের ব্যবধান রাখতে হবে।"
+ },
+ {
+  "subject": "interview_scheduling",
+  "aspect": "max_interviews_per_member_per_day",
+  "value": 4,
+  "unit": "টি সাক্ষাৎকার",
+  "section": "১০.৭",
+  "page": 16,
+  "evidence": "একজন প্যানেল সদস্য একই দিনে ৪টির বেশি সাক্ষাৎকারে অংশ নিতে পারবেন না।"
+ },
+ {
+  "subject": "interview_scheduling",
+  "aspect": "late_candidate_wait_minutes",
+  "value": 10,
+  "unit": "মিনিট",
+  "section": "১০.৭",
+  "page": 16,
+  "evidence": "প্রার্থী নির্ধারিত সময়ে উপস্থিত না হলে প্যানেল ১০ মিনিট অপেক্ষা করবে।"
+ },
+ {
+  "subject": "interview_scheduling",
+  "aspect": "max_reschedule_requests",
+  "value": 2,
+  "unit": "বার",
+  "section": "১০.৭",
+  "page": 16,
+  "evidence": "একজন প্রার্থী সর্বাধিক ২ বার সাক্ষাৎকারের সময় পরিবর্তনের অনুরোধ করতে পারেন, এবং প্রতিটি অনুরোধ নির্ধারিত সময়ের অন্তত ২৪ ঘণ্টা আগে জানাতে হবে।"
+ },
+ {
+  "subject": "interview_scheduling",
+  "aspect": "reschedule_notice_hours",
+  "value": 24,
+  "unit": "ঘণ্টা",
+  "section": "১০.৭",
+  "page": 16,
+  "evidence": "একজন প্রার্থী সর্বাধিক ২ বার সাক্ষাৎকারের সময় পরিবর্তনের অনুরোধ করতে পারেন, এবং প্রতিটি অনুরোধ নির্ধারিত সময়ের অন্তত ২৪ ঘণ্টা আগে জানাতে হবে।"
+ },
+ {
+  "subject": "interview_scheduling",
+  "aspect": "max_rounds_upto_manager",
+  "value": 3,
+  "unit": "টি পর্যায়",
+  "section": "১০.৭",
+  "page": 17,
+  "evidence": "কোনো পদের জন্য সাক্ষাৎকারের পর্যায়সংখ্যা ব্যবস্থাপক স্তর পর্যন্ত সর্বাধিক ৩ এবং ঊর্ধ্বতন স্তরে সর্বাধিক ৪।"
+ },
+ {
+  "subject": "interview_scheduling",
+  "aspect": "max_rounds_senior",
+  "value": 4,
+  "unit": "টি পর্যায়",
+  "section": "১০.৭",
+  "page": 17,
+  "evidence": "কোনো পদের জন্য সাক্ষাৎকারের পর্যায়সংখ্যা ব্যবস্থাপক স্তর পর্যন্ত সর্বাধিক ৩ এবং ঊর্ধ্বতন স্তরে সর্বাধিক ৪।"
+ },
+ {
+  "subject": "interview_scheduling",
+  "aspect": "first_interview_to_decision_working_days",
+  "value": 20,
+  "unit": "কার্যদিবস",
+  "section": "১০.৭",
+  "page": 17,
+  "evidence": "প্রথম সাক্ষাৎকারের তারিখ থেকে চূড়ান্ত নির্বাচনী সিদ্ধান্ত পর্যন্ত সময় ২০ কার্যদিবসের মধ্যে সীমাবদ্ধ রাখতে হবে।"
+ },
+ {
+  "subject": "candidate_questions",
+  "aspect": "reserved_minutes",
+  "value": 12,
+  "unit": "মিনিট",
+  "section": "১০.৯",
+  "page": 17,
+  "evidence": "সাক্ষাৎকারের শেষে প্রার্থীর প্রশ্নের জন্য অন্তত ১২ মিনিট সংরক্ষিত রাখতে হবে।"
+ },
+ {
+  "subject": "permitted_question_example",
+  "aspect": "weight_kg",
+  "value": 15,
+  "unit": "কিলোগ্রাম",
+  "section": "১১.৩",
+  "page": 20,
+  "evidence": "বৈধ বিকল্প: \"এই পদে সপ্তাহে দুই দিন গুদামে উপস্থিত থেকে ১৫ কিলোগ্রাম পর্যন্ত ওজনের উপকরণ পরিবহণের প্রয়োজন হয়।"
+ },
+ {
+  "subject": "prohibited_question_complaint",
+  "aspect": "filing_days",
+  "value": 14,
+  "unit": "দিন",
+  "section": "১১.৪",
+  "page": 21,
+  "evidence": "প্রার্থী নিজে অভিযোগ করতে চাইলে সাক্ষাৎকারের তারিখ থেকে ১৪ দিনের মধ্যে নিয়োগ শাখায় লিখিতভাবে জানাতে পারেন।"
+ },
+ {
+  "subject": "prohibited_question_complaint",
+  "aspect": "retraining_days",
+  "value": 60,
+  "unit": "দিন",
+  "section": "১১.৪",
+  "page": 21,
+  "evidence": "প্রথমবার লঙ্ঘনের ক্ষেত্রে সংশ্লিষ্ট প্যানেল সদস্যকে লিখিত পরামর্শ দেওয়া হবে এবং তাঁকে ৬০ দিনের মধ্যে সাক্ষাৎকার পরিচালনার প্রশিক্ষণ পুনরায় সম্পন্ন করতে হবে।"
+ },
+ {
+  "subject": "prohibited_question_complaint",
+  "aspect": "repeat_violation_window_months",
+  "value": 12,
+  "unit": "মাস",
+  "section": "১১.৪",
+  "page": 21,
+  "evidence": "একই ব্যক্তির ক্ষেত্রে ১২ মাসের মধ্যে দ্বিতীয়বার লঙ্ঘন প্রমাণিত হলে তাঁর নাম অনুমোদিত প্যানেল তালিকা থেকে অপসারিত হবে এবং বিষয়টি শৃঙ্খলা প্রক্রিয়ায় হস্তান্তরিত হবে।"
+ },
+ {
+  "subject": "scoring_weights",
+  "aspect": "technical_skill_percent",
+  "value": 35,
+  "unit": "শতাংশ",
+  "section": "১২.১",
+  "page": 21,
+  "evidence": "সাধারণ ভারাঙ্ক বিন্যাস নিম্নরূপ: কারিগরি ও বিষয়ভিত্তিক দক্ষতা ৩৫ শতাংশ; পদসংশ্লিষ্ট প্রাসঙ্গিক অভিজ্ঞতা ২৫ শতাংশ; সমস্যা বিশ্লেষণ ও সিদ্ধান্তগ্রহণ ২০ শতাংশ; সহযোগিতা ও যোগাযোগ ১২ শতাংশ; এবং শিখনক্ষমতা ও অভিযোজনক্ষমতা ৮ শতাংশ।"
+ },
+ {
+  "subject": "scoring_weights",
+  "aspect": "relevant_experience_percent",
+  "value": 25,
+  "unit": "শতাংশ",
+  "section": "১২.১",
+  "page": 21,
+  "evidence": "সাধারণ ভারাঙ্ক বিন্যাস নিম্নরূপ: কারিগরি ও বিষয়ভিত্তিক দক্ষতা ৩৫ শতাংশ; পদসংশ্লিষ্ট প্রাসঙ্গিক অভিজ্ঞতা ২৫ শতাংশ; সমস্যা বিশ্লেষণ ও সিদ্ধান্তগ্রহণ ২০ শতাংশ; সহযোগিতা ও যোগাযোগ ১২ শতাংশ; এবং শিখনক্ষমতা ও অভিযোজনক্ষমতা ৮ শতাংশ।"
+ },
+ {
+  "subject": "scoring_weights",
+  "aspect": "problem_solving_percent",
+  "value": 20,
+  "unit": "শতাংশ",
+  "section": "১২.১",
+  "page": 21,
+  "evidence": "সাধারণ ভারাঙ্ক বিন্যাস নিম্নরূপ: কারিগরি ও বিষয়ভিত্তিক দক্ষতা ৩৫ শতাংশ; পদসংশ্লিষ্ট প্রাসঙ্গিক অভিজ্ঞতা ২৫ শতাংশ; সমস্যা বিশ্লেষণ ও সিদ্ধান্তগ্রহণ ২০ শতাংশ; সহযোগিতা ও যোগাযোগ ১২ শতাংশ; এবং শিখনক্ষমতা ও অভিযোজনক্ষমতা ৮ শতাংশ।"
+ },
+ {
+  "subject": "scoring_weights",
+  "aspect": "collaboration_percent",
+  "value": 12,
+  "unit": "শতাংশ",
+  "section": "১২.১",
+  "page": 21,
+  "evidence": "সাধারণ ভারাঙ্ক বিন্যাস নিম্নরূপ: কারিগরি ও বিষয়ভিত্তিক দক্ষতা ৩৫ শতাংশ; পদসংশ্লিষ্ট প্রাসঙ্গিক অভিজ্ঞতা ২৫ শতাংশ; সমস্যা বিশ্লেষণ ও সিদ্ধান্তগ্রহণ ২০ শতাংশ; সহযোগিতা ও যোগাযোগ ১২ শতাংশ; এবং শিখনক্ষমতা ও অভিযোজনক্ষমতা ৮ শতাংশ।"
+ },
+ {
+  "subject": "scoring_weights",
+  "aspect": "learning_agility_percent",
+  "value": 8,
+  "unit": "শতাংশ",
+  "section": "১২.১",
+  "page": 21,
+  "evidence": "সাধারণ ভারাঙ্ক বিন্যাস নিম্নরূপ: কারিগরি ও বিষয়ভিত্তিক দক্ষতা ৩৫ শতাংশ; পদসংশ্লিষ্ট প্রাসঙ্গিক অভিজ্ঞতা ২৫ শতাংশ; সমস্যা বিশ্লেষণ ও সিদ্ধান্তগ্রহণ ২০ শতাংশ; সহযোগিতা ও যোগাযোগ ১২ শতাংশ; এবং শিখনক্ষমতা ও অভিযোজনক্ষমতা ৮ শতাংশ।"
+ },
+ {
+  "subject": "scoring_weights",
+  "aspect": "max_single_criterion_percent",
+  "value": 50,
+  "unit": "শতাংশ",
+  "section": "১২.১",
+  "page": 21,
+  "evidence": "এই বিন্যাস পদভেদে পরিবর্তন করা যেতে পারে, তবে পরিবর্তিত বিন্যাস শূন্যপদ অনুমোদনের সঙ্গেই নথিভুক্ত হতে হবে এবং কোনো একক মাপকাঠির ভারাঙ্ক ৫০ শতাংশ অতিক্রম করতে পারবে না।"
+ },
+ {
+  "subject": "scoring_scale",
+  "aspect": "min_score",
+  "value": 1,
+  "unit": "নম্বর",
+  "section": "১২.২",
+  "page": 22,
+  "evidence": "প্রতিটি মাপকাঠিতে নম্বর দেওয়া হবে ১ থেকে ৫ মাত্রায়, ভগ্নাংশ ছাড়া।"
+ },
+ {
+  "subject": "scoring_scale",
+  "aspect": "max_score",
+  "value": 5,
+  "unit": "নম্বর",
+  "section": "১২.২",
+  "page": 22,
+  "evidence": "প্রতিটি মাপকাঠিতে নম্বর দেওয়া হবে ১ থেকে ৫ মাত্রায়, ভগ্নাংশ ছাড়া।"
+ },
+ {
+  "subject": "scoring_scale",
+  "aspect": "band_1_definition",
+  "value": 1,
+  "unit": "নম্বর মাত্রা",
+  "section": "১২.২",
+  "page": 22,
+  "evidence": "১ — স্পষ্টতই অপর্যাপ্ত।"
+ },
+ {
+  "subject": "scoring_scale",
+  "aspect": "band_2_definition",
+  "value": 2,
+  "unit": "নম্বর মাত্রা",
+  "section": "১২.২",
+  "page": 22,
+  "evidence": "২ — প্রয়োজনের নিচে।"
+ },
+ {
+  "subject": "scoring_scale",
+  "aspect": "band_3_definition",
+  "value": 3,
+  "unit": "নম্বর মাত্রা",
+  "section": "১২.২",
+  "page": 22,
+  "evidence": "৩ — প্রয়োজন অনুযায়ী পর্যাপ্ত।"
+ },
+ {
+  "subject": "scoring_scale",
+  "aspect": "band_4_definition",
+  "value": 4,
+  "unit": "নম্বর মাত্রা",
+  "section": "১২.২",
+  "page": 22,
+  "evidence": "৪ — প্রত্যাশার অধিক।"
+ },
+ {
+  "subject": "scoring_scale",
+  "aspect": "band_5_definition",
+  "value": 5,
+  "unit": "নম্বর মাত্রা",
+  "section": "১২.২",
+  "page": 22,
+  "evidence": "৫ — ব্যতিক্রমী।"
+ },
+ {
+  "subject": "scoring_scale",
+  "aspect": "evidence_mandatory_at_score",
+  "value": 5,
+  "unit": "নম্বর",
+  "section": "১২.২",
+  "page": 22,
+  "evidence": "এই নম্বর বিরল হওয়া উচিত; প্রতিটি ৫ নম্বরের বিপরীতে নোটে সুনির্দিষ্ট উদ্ধৃতিযোগ্য প্রমাণ থাকতে হবে।"
+ },
+ {
+  "subject": "selection_threshold",
+  "aspect": "min_weighted_average",
+  "value": 3.4,
+  "unit": "নম্বর",
+  "section": "১২.৩",
+  "page": 22,
+  "evidence": "ভারাঙ্কযুক্ত গড় নম্বর ৫-এর মধ্যে অন্তত ৩.৪ না হলে কোনো প্রার্থী নির্বাচনযোগ্য নন।"
+ },
+ {
+  "subject": "selection_threshold",
+  "aspect": "disqualifying_score_mandatory_criterion",
+  "value": 2,
+  "unit": "নম্বর",
+  "section": "১২.৩",
+  "page": 22,
+  "evidence": "প্রথমত, কোনো আবশ্যিক মাপকাঠিতে ২ বা তার কম নম্বর পেলে প্রার্থী গড় নির্বিশেষে অযোগ্য বিবেচিত হবেন।"
+ },
+ {
+  "subject": "selection_threshold",
+  "aspect": "min_technical_score",
+  "value": 3,
+  "unit": "নম্বর",
+  "section": "১২.৩",
+  "page": 22,
+  "evidence": "দ্বিতীয়ত, কারিগরি মাপকাঠিতে অন্তত ৩ নম্বর অপরিহার্য।"
+ },
+ {
+  "subject": "panel_debrief",
+  "aspect": "deadline_working_days",
+  "value": 2,
+  "unit": "কার্যদিবস",
+  "section": "১২.৫",
+  "page": 23,
+  "evidence": "এই আলোচনা শেষ সাক্ষাৎকারের তারিখ থেকে ২ কার্যদিবসের মধ্যে সম্পন্ন করতে হবে।"
+ },
+ {
+  "subject": "score_disagreement",
+  "aspect": "significant_gap_points",
+  "value": 2,
+  "unit": "নম্বর",
+  "section": "১২.৬",
+  "page": 24,
+  "evidence": "একই প্রার্থীর একই মাপকাঠিতে দুইজন সদস্যের নম্বরের ব্যবধান ২ বা তার অধিক হলে সেটিকে *উল্লেখযোগ্য মতপার্থক্য* বলা হয় এবং তা নিরসন না করে এগোনো যাবে না।"
+ },
+ {
+  "subject": "score_disagreement",
+  "aspect": "additional_assessor_working_days",
+  "value": 8,
+  "unit": "কার্যদিবস",
+  "section": "১২.৬",
+  "page": 24,
+  "evidence": "তিনি সাক্ষাৎকারের নথি ও নোট পর্যালোচনা করে, প্রয়োজনে প্রার্থীর সঙ্গে সংক্ষিপ্ত পুনরালোচনা করে, ৮ কার্যদিবসের মধ্যে নিজের স্বাধীন নম্বর দেবেন।"
+ },
+ {
+  "subject": "score_disagreement",
+  "aspect": "veto_review_window_months",
+  "value": 12,
+  "unit": "মাস",
+  "section": "১২.৬",
+  "page": 24,
+  "evidence": "একই ব্যবস্থাপক ১২ মাসে দুইবারের বেশি প্রতিষেধ প্রয়োগ করলে তাঁর নিয়োগসংক্রান্ত অনুশীলন পর্যালোচনার আওতায় আসবে।"
+ },
+ {
+  "subject": "all_rejected_review",
+  "aspect": "deadline_working_days",
+  "value": 9,
+  "unit": "কার্যদিবস",
+  "section": "১২.৭",
+  "page": 25,
+  "evidence": "সমস্ত প্রার্থী প্রত্যাখ্যাত হলে নিয়োগ শাখা ও নিয়োগকারী ব্যবস্থাপক যৌথভাবে একটি পর্যালোচনা করবেন এবং নিম্নলিখিত প্রশ্নগুলির উত্তর নথিভুক্ত করবেন: পদ-বিবরণে বর্ণিত প্রত্যাশা কি বাজারে প্রাপ্ত দক্ষতার সঙ্গে সঙ্গতিপূর্ণ? প্রার্থীপুঞ্জ কি যথেষ্ট প্রশস্ত উৎস থেকে সংগৃহীত হয়েছিল? মাপকাঠি বা উত্তীর্ণতার সীমা কি অবাস্তবভাবে উচ্চ ছিল? এই পর্যালোচনা ৯ কার্যদিবসের মধ্যে সম্পন্ন করে নতুন উৎস সন্ধান শুরু করতে হবে।"
+ },
+ {
+  "subject": "work_sample_test",
+  "aspect": "max_duration_entry_minutes",
+  "value": 90,
+  "unit": "মিনিট",
+  "section": "১৩.৩",
+  "page": 26,
+  "evidence": "অনুশীলনের প্রাক্কলিত সময় প্রবেশ ও সহযোগী স্তরে ৯০ মিনিট এবং ব্যবস্থাপক পর্যন্ত স্তরে ১৮০ মিনিটের বেশি হতে পারবে না।"
+ },
+ {
+  "subject": "work_sample_test",
+  "aspect": "max_duration_manager_minutes",
+  "value": 180,
+  "unit": "মিনিট",
+  "section": "১৩.৩",
+  "page": 26,
+  "evidence": "অনুশীলনের প্রাক্কলিত সময় প্রবেশ ও সহযোগী স্তরে ৯০ মিনিট এবং ব্যবস্থাপক পর্যন্ত স্তরে ১৮০ মিনিটের বেশি হতে পারবে না।"
+ },
+ {
+  "subject": "work_sample_test",
+  "aspect": "min_submission_days",
+  "value": 5,
+  "unit": "দিন",
+  "section": "১৩.৩",
+  "page": 26,
+  "evidence": "প্রার্থীকে জমা দেওয়ার জন্য অন্তত ৫ দিন সময় দিতে হবে, যাতে তিনি নিজের কর্মসময়ের বাইরে সুবিধামতো সময়ে কাজটি করতে পারেন।"
+ },
+ {
+  "subject": "work_sample_test",
+  "aspect": "evaluation_days",
+  "value": 7,
+  "unit": "দিন",
+  "section": "১৩.৩",
+  "page": 27,
+  "evidence": "জমা পড়া অনুশীলনের মূল্যায়ন ৭ দিনের মধ্যে সম্পন্ন করতে হবে এবং প্রার্থীকে ফলাফল জানাতে হবে।"
+ },
+ {
+  "subject": "live_assessment",
+  "aspect": "max_duration_minutes",
+  "value": 50,
+  "unit": "মিনিট",
+  "section": "১৩.৪",
+  "page": 27,
+  "evidence": "এই অধিবেশনের দৈর্ঘ্য সর্বাধিক ৫০ মিনিট।"
+ },
+ {
+  "subject": "accommodation_request",
+  "aspect": "advance_notice_days",
+  "value": 3,
+  "unit": "দিন",
+  "section": "১৪.২",
+  "page": 29,
+  "evidence": "তবে প্রস্তুতির সুবিধার্থে প্রার্থীদের সাক্ষাৎকারের অন্তত ৩ দিন আগে জানাতে উৎসাহিত করা হয়।"
+ },
+ {
+  "subject": "accommodation_request",
+  "aspect": "acknowledgement_working_days",
+  "value": 1,
+  "unit": "কার্যদিবস",
+  "section": "১৪.২",
+  "page": 29,
+  "evidence": "নিয়োগ শাখা অনুরোধ প্রাপ্তির ১ কার্যদিবসের মধ্যে প্রাপ্তি স্বীকার করবে।"
+ },
+ {
+  "subject": "accommodation_provision",
+  "aspect": "extra_time_percent",
+  "value": 25,
+  "unit": "শতাংশ",
+  "section": "১৪.৩",
+  "page": 29,
+  "evidence": "লিখিত বা কারিগরি মূল্যায়নে অতিরিক্ত সময়, সাধারণত নির্ধারিত সময়ের ২৫ শতাংশ, প্রয়োজনে তার অধিক।"
+ },
+ {
+  "subject": "accommodation_provision",
+  "aspect": "non_standard_decision_working_days",
+  "value": 4,
+  "unit": "কার্যদিবস",
+  "section": "১৪.৩",
+  "page": 30,
+  "evidence": "কোনো অনুরোধ যদি এই তালিকার বাইরে হয় এবং উল্লেখযোগ্য ব্যয় বা পুনর্বিন্যাসের প্রয়োজন হয়, তবে মানবসম্পদ প্রধান ৪ কার্যদিবসের মধ্যে সিদ্ধান্ত নেবেন।"
+ },
+ {
+  "subject": "remote_interview_setup",
+  "aspect": "tech_check_lead_days",
+  "value": 1,
+  "unit": "দিন",
+  "section": "১৫.২",
+  "page": 31,
+  "evidence": "এই পরীক্ষার ব্যবস্থা সাক্ষাৎকারের অন্তত ১ দিন আগে দেওয়া হবে এবং তাতে অংশ নেওয়া প্রার্থীর ইচ্ছাধীন।"
+ },
+ {
+  "subject": "remote_interview_setup",
+  "aspect": "panel_join_early_minutes",
+  "value": 10,
+  "unit": "মিনিট",
+  "section": "১৫.২",
+  "page": 31,
+  "evidence": "প্যানেল সদস্যরা সাক্ষাৎকার শুরুর ১০ মিনিট আগে সংযুক্ত হবেন এবং নিজেদের মধ্যে প্রস্তুতি সম্পন্ন করবেন, যাতে প্রার্থী সংযুক্ত হওয়ামাত্র সাক্ষাৎকার শুরু করা যায়।"
+ },
+ {
+  "subject": "remote_interview_failure",
+  "aspect": "reconnect_wait_minutes",
+  "value": 5,
+  "unit": "মিনিট",
+  "section": "১৫.৪",
+  "page": 32,
+  "evidence": "বিচ্ছিন্নতা ঘটলে প্যানেল ৫ মিনিট পর্যন্ত পুনঃসংযোগের অপেক্ষা করবে।"
+ },
+ {
+  "subject": "remote_interview_failure",
+  "aspect": "reschedule_working_days",
+  "value": 2,
+  "unit": "কার্যদিবস",
+  "section": "১৫.৪",
+  "page": 32,
+  "evidence": "দূরভাষেও সংযোগ সম্ভব না হলে সাক্ষাৎকারটি স্থগিত হবে এবং ২ কার্যদিবসের মধ্যে পুনর্নির্ধারিত হবে।"
+ },
+ {
+  "subject": "interview_recording",
+  "aspect": "consent_request_lead_days",
+  "value": 2,
+  "unit": "দিন",
+  "section": "১৫.৫",
+  "page": 33,
+  "evidence": "সম্মতির অনুরোধ সাক্ষাৎকারের অন্তত ২ দিন আগে পাঠাতে হবে এবং তাতে স্পষ্টভাবে উল্লেখ থাকবে: ধারণের উদ্দেশ্য; কারা দেখতে পাবেন; কত দিন সংরক্ষিত থাকবে; এবং অস্বীকার করলে কোনো প্রতিকূল পরিণতি হবে না।"
+ },
+ {
+  "subject": "interview_recording",
+  "aspect": "deletion_days",
+  "value": 45,
+  "unit": "দিন",
+  "section": "১৫.৫",
+  "page": 33,
+  "evidence": "নির্বাচনের সিদ্ধান্ত চূড়ান্ত হওয়ার ৪৫ দিনের মধ্যে ধারণকৃত উপাদান স্থায়ীভাবে মুছে ফেলা হবে।"
+ },
+ {
+  "subject": "reference_check",
+  "aspect": "min_referees",
+  "value": 2,
+  "unit": "জন",
+  "section": "১৬.৩",
+  "page": 35,
+  "evidence": "প্রতিষ্ঠান অন্তত ২ জন তথ্যসূত্রদাতার নাম চাইবে, যাঁদের মধ্যে অন্তত ১ জন প্রার্থীর প্রত্যক্ষ তত্ত্বাবধায়ক ছিলেন।"
+ },
+ {
+  "subject": "reference_check",
+  "aspect": "min_supervisor_referees",
+  "value": 1,
+  "unit": "জন",
+  "section": "১৬.৩",
+  "page": 35,
+  "evidence": "প্রতিষ্ঠান অন্তত ২ জন তথ্যসূত্রদাতার নাম চাইবে, যাঁদের মধ্যে অন্তত ১ জন প্রার্থীর প্রত্যক্ষ তত্ত্বাবধায়ক ছিলেন।"
+ },
+ {
+  "subject": "reference_check",
+  "aspect": "referees_manager_and_above",
+  "value": 3,
+  "unit": "জন",
+  "section": "১৬.৩",
+  "page": 35,
+  "evidence": "ব্যবস্থাপক ও তদূর্ধ্ব পদের ক্ষেত্রে ৩ জন তথ্যসূত্রদাতা আবশ্যক, এবং তাঁদের মধ্যে একজন এমন ব্যক্তি হবেন যিনি প্রার্থীর অধীনে কাজ করেছেন।"
+ },
+ {
+  "subject": "employment_verification",
+  "aspect": "lookback_years",
+  "value": 7,
+  "unit": "বছর",
+  "section": "১৬.৫",
+  "page": 36,
+  "evidence": "গত ৭ বছরের কর্মজীবন যাচাই করাই যথেষ্ট; তার চেয়ে পুরনো নিয়োগ যাচাইয়ের প্রয়োজন নেই যদি না সেই অভিজ্ঞতা পদের আবশ্যিক যোগ্যতার ভিত্তি হয়।"
+ },
+ {
+  "subject": "employment_verification",
+  "aspect": "employment_gap_threshold_months",
+  "value": 4,
+  "unit": "মাস",
+  "section": "১৬.৫",
+  "page": 37,
+  "evidence": "কর্মজীবনে ৪ মাসের অধিক কোনো বিরতি থাকলে প্রার্থীকে সে সম্পর্কে জিজ্ঞাসা করা যেতে পারে, তবে উত্তর হিসেবে \"ব্যক্তিগত কারণ\" গ্রহণযোগ্য এবং তার অধিক বিবরণ দাবি করা যাবে না।"
+ },
+ {
+  "subject": "discrepancy_handling",
+  "aspect": "candidate_explanation_days",
+  "value": 6,
+  "unit": "দিন",
+  "section": "১৬.৬",
+  "page": 37,
+  "evidence": "প্রতিটি শ্রেণির ক্ষেত্রেই প্রার্থীকে ব্যাখ্যার সুযোগ দিতে হবে এবং ব্যাখ্যা দেওয়ার জন্য অন্তত ৬ দিন সময় দিতে হবে।"
+ },
+ {
+  "subject": "criminal_record_check",
+  "aspect": "applicable_roles_review_months",
+  "value": 36,
+  "unit": "মাস",
+  "section": "১৬.৭",
+  "page": 38,
+  "evidence": "কোন কোন পদে এই যাচাই প্রযোজ্য তার তালিকা মানবসম্পদ প্রধান ও আইন বিভাগ যৌথভাবে প্রস্তুত করবেন এবং তা প্রতি ৩৬ মাসে পুনর্বিবেচিত হবে।"
+ },
+ {
+  "subject": "criminal_record_check",
+  "aspect": "conviction_disregard_years",
+  "value": 10,
+  "unit": "বছর",
+  "section": "১৬.৭",
+  "page": 38,
+  "evidence": "১০ বছরের অধিক পুরনো দণ্ডাদেশ সাধারণত বিবেচনায় আনা হবে না।"
+ },
+ {
+  "subject": "criminal_record_check",
+  "aspect": "data_destruction_days",
+  "value": 30,
+  "unit": "দিন",
+  "section": "১৬.৭",
+  "page": 38,
+  "evidence": "তা পৃথক সীমিত-প্রবেশাধিকার নথিতে রাখা হবে, যেখানে কেবল মানবসম্পদ প্রধান ও আইন বিভাগের প্রধানের প্রবেশাধিকার থাকবে, এবং সিদ্ধান্ত চূড়ান্ত হওয়ার ৩০ দিনের মধ্যে তা বিনষ্ট করা হবে।"
+ },
+ {
+  "subject": "background_verification",
+  "aspect": "completion_working_days",
+  "value": 14,
+  "unit": "কার্যদিবস",
+  "section": "১৬.৮",
+  "page": 38,
+  "evidence": "সম্পূর্ণ যাচাই প্রক্রিয়া ১৪ কার্যদিবসের মধ্যে সম্পন্ন করতে হবে।"
+ },
+ {
+  "subject": "selection_decision",
+  "aspect": "max_hold_working_days",
+  "value": 5,
+  "unit": "কার্যদিবস",
+  "section": "১৭.১",
+  "page": 39,
+  "evidence": "তৃতীয় ফলাফলের ক্ষেত্রে কোন তথ্য প্রয়োজন এবং তা কবের মধ্যে সংগৃহীত হবে তা নির্দিষ্টভাবে উল্লেখ করতে হবে; স্থগিতাদেশ ৫ কার্যদিবসের বেশি স্থায়ী হতে পারবে না।"
+ },
+ {
+  "subject": "selection_decision",
+  "aspect": "reserve_candidate_validity_days",
+  "value": 25,
+  "unit": "দিন",
+  "section": "১৭.১",
+  "page": 39,
+  "evidence": "বিকল্প প্রার্থীর মর্যাদা নির্বাচনের তারিখ থেকে ২৫ দিন বৈধ থাকে।"
+ },
+ {
+  "subject": "selection_report",
+  "aspect": "completion_working_days",
+  "value": 3,
+  "unit": "কার্যদিবস",
+  "section": "১৭.২",
+  "page": 40,
+  "evidence": "নির্বাচনী প্রতিবেদন চূড়ান্ত সিদ্ধান্তের ৩ কার্যদিবসের মধ্যে সম্পূর্ণ হতে হবে।"
+ },
+ {
+  "subject": "candidate_communication",
+  "aspect": "application_acknowledgement_hours",
+  "value": 1,
+  "unit": "ঘণ্টা",
+  "section": "১৮.১",
+  "page": 41,
+  "evidence": "আবেদন প্রাপ্তির স্বীকৃতি স্বয়ংক্রিয়ভাবে ১ ঘণ্টার মধ্যে পাঠানো হবে।"
+ },
+ {
+  "subject": "candidate_communication",
+  "aspect": "screening_rejection_days",
+  "value": 8,
+  "unit": "দিন",
+  "section": "১৮.১",
+  "page": 41,
+  "evidence": "প্রাথমিক বাছাইয়ে অনুত্তীর্ণ প্রার্থীকে সিদ্ধান্তের ৮ দিনের মধ্যে জানানো হবে।"
+ },
+ {
+  "subject": "candidate_communication",
+  "aspect": "post_interview_rejection_days",
+  "value": 4,
+  "unit": "দিন",
+  "section": "১৮.১",
+  "page": 41,
+  "evidence": "সাক্ষাৎকারে অংশগ্রহণকারী অথচ অনির্বাচিত প্রার্থীকে চূড়ান্ত সিদ্ধান্তের ৪ দিনের মধ্যে জানানো হবে।"
+ },
+ {
+  "subject": "candidate_communication",
+  "aspect": "process_suspension_notice_days",
+  "value": 2,
+  "unit": "দিন",
+  "section": "১৮.১",
+  "page": 41,
+  "evidence": "কোনো পর্যায়ে প্রক্রিয়া স্থগিত বা বাতিল হলে সমস্ত সক্রিয় প্রার্থীকে ২ দিনের মধ্যে অবহিত করতে হবে, এমনকি যদি পরবর্তীকালে পদটি পুনরায় খোলার সম্ভাবনা থাকে।"
+ },
+ {
+  "subject": "candidate_feedback",
+  "aspect": "request_window_days",
+  "value": 22,
+  "unit": "দিন",
+  "section": "১৮.৩",
+  "page": 41,
+  "evidence": "অনুরোধ জানানোর সময়সীমা প্রত্যাখ্যান বার্তা প্রাপ্তির ২২ দিন।"
+ },
+ {
+  "subject": "candidate_feedback",
+  "aspect": "delivery_working_days",
+  "value": 6,
+  "unit": "কার্যদিবস",
+  "section": "১৮.৩",
+  "page": 41,
+  "evidence": "অনুরোধ পাওয়ার পর নিয়োগ শাখা ৬ কার্যদিবসের মধ্যে প্রতিক্রিয়া দেবে।"
+ },
+ {
+  "subject": "reapplication",
+  "aspect": "waiting_days",
+  "value": 180,
+  "unit": "দিন",
+  "section": "১৮.৪",
+  "page": 42,
+  "evidence": "প্রত্যাখ্যাত প্রার্থী একই পদে বা সমতুল্য কোনো পদে পুনরায় আবেদন করতে পারেন, তবে পূর্ববর্তী প্রত্যাখ্যানের তারিখ থেকে অন্তত ১৮০ দিন অতিবাহিত হওয়ার পর।"
+ },
+ {
+  "subject": "reapplication",
+  "aspect": "disqualification_years",
+  "value": 5,
+  "unit": "বছর",
+  "section": "১৮.৪",
+  "page": 42,
+  "evidence": "গুরুতর অসঙ্গতির কারণে যাঁর প্রার্থিতা বাতিল হয়েছে, তিনি ৫ বছর পর্যন্ত কোনো পদে আবেদনের অযোগ্য থাকবেন।"
+ },
+ {
+  "subject": "candidate_data_access",
+  "aspect": "review_cycle_weeks",
+  "value": 6,
+  "unit": "সপ্তাহ",
+  "section": "১৯.২",
+  "page": 43,
+  "evidence": "এই নথি প্রতি ৬ সপ্তাহে যাচাই করা হবে।"
+ },
+ {
+  "subject": "candidate_data_retention",
+  "aspect": "unselected_candidate_months",
+  "value": 18,
+  "unit": "মাস",
+  "section": "১৯.৩",
+  "page": 43,
+  "evidence": "অনির্বাচিত প্রার্থীদের আবেদন, মূল্যায়ন ও সংশ্লিষ্ট নথি নির্বাচনী প্রক্রিয়া সমাপ্তির তারিখ থেকে ১৮ মাস সংরক্ষিত থাকবে, তারপর স্থায়ীভাবে মুছে ফেলা হবে।"
+ },
+ {
+  "subject": "candidate_data_request",
+  "aspect": "fulfilment_working_days",
+  "value": 11,
+  "unit": "কার্যদিবস",
+  "section": "১৯.৪",
+  "page": 44,
+  "evidence": "অনুরোধ প্রাপ্তির ১১ কার্যদিবসের মধ্যে তা সরবরাহ করতে হবে।"
+ },
+ {
+  "subject": "grievance",
+  "aspect": "filing_days",
+  "value": 20,
+  "unit": "দিন",
+  "section": "২০.৩",
+  "page": 45,
+  "evidence": "অভিযোগ লিখিতভাবে নিয়োগ শাখার প্রধানের কাছে দাখিল করতে হবে, ঘটনার তারিখ থেকে ২০ দিনের মধ্যে।"
+ },
+ {
+  "subject": "grievance",
+  "aspect": "acknowledgement_working_days",
+  "value": 2,
+  "unit": "কার্যদিবস",
+  "section": "২০.৩",
+  "page": 45,
+  "evidence": "অভিযোগ প্রাপ্তির স্বীকৃতি ২ কার্যদিবসের মধ্যে পাঠানো হবে।"
+ },
+ {
+  "subject": "grievance",
+  "aspect": "investigation_working_days",
+  "value": 16,
+  "unit": "কার্যদিবস",
+  "section": "২০.৩",
+  "page": 45,
+  "evidence": "তদন্ত সম্পন্ন ও সিদ্ধান্ত জ্ঞাপন ১৬ কার্যদিবসের মধ্যে করতে হবে।"
+ },
+ {
+  "subject": "appeal",
+  "aspect": "filing_days",
+  "value": 13,
+  "unit": "দিন",
+  "section": "২০.৪",
+  "page": 46,
+  "evidence": "আপিল দাখিলের সময়সীমা প্রত্যাখ্যান বার্তা প্রাপ্তির ১৩ দিন।"
+ },
+ {
+  "subject": "appeal",
+  "aspect": "decision_days",
+  "value": 23,
+  "unit": "দিন",
+  "section": "২০.৪",
+  "page": 46,
+  "evidence": "কমিটির সিদ্ধান্ত আপিল প্রাপ্তির ২৩ দিনের মধ্যে জ্ঞাপিত হবে এবং তা প্রতিষ্ঠানের অভ্যন্তরে চূড়ান্ত।"
+ },
+ {
+  "subject": "metrics_reporting",
+  "aspect": "board_submission_working_days",
+  "value": 12,
+  "unit": "কার্যদিবস",
+  "section": "২১.১",
+  "page": 47,
+  "evidence": "সূচকগুলি ত্রৈমাসিক ভিত্তিতে সংকলিত হবে এবং ত্রৈমাসিক শেষ হওয়ার ১২ কার্যদিবসের মধ্যে ব্যবস্থাপনা পর্ষদে উপস্থাপিত হবে।"
+ },
+ {
+  "subject": "time_to_fill",
+  "aspect": "target_associate_days",
+  "value": 42,
+  "unit": "দিন",
+  "section": "২১.২",
+  "page": 47,
+  "evidence": "প্রতিষ্ঠানের লক্ষ্যমাত্রা: সহযোগী ও নির্বাহী স্তরে গড়ে ৪২ দিন, ব্যবস্থাপক স্তরে ৬৫ দিন, এবং ঊর্ধ্বতন স্তরে ৯৫ দিন।"
+ },
+ {
+  "subject": "time_to_fill",
+  "aspect": "target_manager_days",
+  "value": 65,
+  "unit": "দিন",
+  "section": "২১.২",
+  "page": 47,
+  "evidence": "প্রতিষ্ঠানের লক্ষ্যমাত্রা: সহযোগী ও নির্বাহী স্তরে গড়ে ৪২ দিন, ব্যবস্থাপক স্তরে ৬৫ দিন, এবং ঊর্ধ্বতন স্তরে ৯৫ দিন।"
+ },
+ {
+  "subject": "time_to_fill",
+  "aspect": "target_senior_days",
+  "value": 95,
+  "unit": "দিন",
+  "section": "২১.২",
+  "page": 47,
+  "evidence": "প্রতিষ্ঠানের লক্ষ্যমাত্রা: সহযোগী ও নির্বাহী স্তরে গড়ে ৪২ দিন, ব্যবস্থাপক স্তরে ৬৫ দিন, এবং ঊর্ধ্বতন স্তরে ৯৫ দিন।"
+ },
+ {
+  "subject": "offer_acceptance_rate",
+  "aspect": "acceptable_threshold_percent",
+  "value": 85,
+  "unit": "শতাংশ",
+  "section": "২১.৩",
+  "page": 47,
+  "evidence": "প্রতিষ্ঠানের গ্রহণযোগ্য সীমা ৮৫ শতাংশ।"
+ },
+ {
+  "subject": "panel_workload",
+  "aspect": "max_quarterly_hours",
+  "value": 18,
+  "unit": "ঘণ্টা",
+  "section": "২১.৪",
+  "page": 48,
+  "evidence": "কোনো একক কর্মীর ত্রৈমাসিক কার্যভার ১৮ ঘণ্টা অতিক্রম করলে নিয়োগ শাখা সেই কর্মীর নাম পরবর্তী প্যানেল বণ্টন থেকে বাদ রাখবে।"
+ },
+ {
+  "subject": "panel_workload",
+  "aspect": "trained_members_target_percent",
+  "value": 16,
+  "unit": "শতাংশ",
+  "section": "২১.৪",
+  "page": 48,
+  "evidence": "প্রতিষ্ঠান একটি বিস্তৃত প্যানেল তালিকা রক্ষণাবেক্ষণ করবে, এবং লক্ষ্য হবে প্রতিটি বিভাগে প্রশিক্ষিত প্যানেল সদস্যের সংখ্যা সেই বিভাগের কর্মীসংখ্যার অন্তত ১৬ শতাংশ।"
+ },
+ {
+  "subject": "quality_of_hire",
+  "aspect": "assessment_point_months",
+  "value": 11,
+  "unit": "মাস",
+  "section": "২১.৫",
+  "page": 48,
+  "evidence": "প্রথম উপাদান — যোগদানের ১১ মাস পর সংশ্লিষ্ট ব্যবস্থাপকের একটি সংক্ষিপ্ত মূল্যায়ন, যেখানে তিনি জানাবেন প্রত্যাশা ও বাস্তবতার মধ্যে সঙ্গতি কতটুকু ছিল।"
+ },
+ {
+  "subject": "quality_of_hire",
+  "aspect": "early_attrition_alert_percent",
+  "value": 7,
+  "unit": "শতাংশ",
+  "section": "২১.৫",
+  "page": 48,
+  "evidence": "এই হার ৭ শতাংশের বেশি হলে তা নির্বাচন প্রক্রিয়ার ত্রুটির ইঙ্গিত হিসেবে বিবেচিত হবে, যদিও প্রকৃত কারণ নির্বাচনের বাইরেও থাকতে পারে।"
+ },
+ {
+  "subject": "quality_of_hire",
+  "aspect": "analysis_cycle_months",
+  "value": 24,
+  "unit": "মাস",
+  "section": "২১.৫",
+  "page": 48,
+  "evidence": "এই বিশ্লেষণ প্রতি ২৪ মাসে অন্তত একবার সম্পন্ন করতে হবে এবং তার জন্য অন্তত ৪০টি নিয়োগের তথ্য প্রয়োজন, যাতে ফলাফল আকস্মিকতার উপর নির্ভরশীল না হয়।"
+ },
+ {
+  "subject": "quality_of_hire",
+  "aspect": "min_sample_hires",
+  "value": 40,
+  "unit": "টি নিয়োগ",
+  "section": "২১.৫",
+  "page": 48,
+  "evidence": "এই বিশ্লেষণ প্রতি ২৪ মাসে অন্তত একবার সম্পন্ন করতে হবে এবং তার জন্য অন্তত ৪০টি নিয়োগের তথ্য প্রয়োজন, যাতে ফলাফল আকস্মিকতার উপর নির্ভরশীল না হয়।"
+ },
+ {
+  "subject": "candidate_experience_survey",
+  "aspect": "max_questions",
+  "value": 6,
+  "unit": "টি প্রশ্ন",
+  "section": "২১.৬",
+  "page": 49,
+  "evidence": "প্রশ্নসংখ্যা ৬-এর বেশি হবে না।"
+ },
+ {
+  "subject": "candidate_experience_survey",
+  "aspect": "positive_response_target_percent",
+  "value": 75,
+  "unit": "শতাংশ",
+  "section": "২১.৬",
+  "page": 49,
+  "evidence": "শেষ প্রশ্নটির ইতিবাচক উত্তরের হার প্রতিষ্ঠানের নিয়োগ প্রক্রিয়ার স্বাস্থ্যের প্রধান সূচক হিসেবে বিবেচিত হবে, এবং এই হারের লক্ষ্যমাত্রা ৭৫ শতাংশ।"
+ },
+ {
+  "subject": "exception_regularisation",
+  "aspect": "application_working_days",
+  "value": 2,
+  "unit": "কার্যদিবস",
+  "section": "২৩.১",
+  "page": 52,
+  "evidence": "কার্যসম্পাদনের পর অনুমোদন চাওয়া — অর্থাৎ ঘটনার পরে নিয়মিতকরণ — কেবল তখনই বিবেচিত হবে যখন পরিস্থিতি প্রকৃতপক্ষে আকস্মিক ছিল, এবং সেক্ষেত্রেও ঘটনার ২ কার্যদিবসের মধ্যে আবেদন করতে হবে।"
+ },
+ {
+  "subject": "exception_authority",
+  "aspect": "recruitment_head_interview_duration_percent",
+  "value": 15,
+  "unit": "শতাংশ",
+  "section": "২৩.৩",
+  "page": 52,
+  "evidence": "*নিয়োগ শাখার প্রধান* অনুমোদন দিতে পারেন সময়সীমাসংক্রান্ত সামান্য শিথিলতা, প্যানেলের সদস্যসংখ্যা নির্ধারিত সীমার মধ্যে সমন্বয়, এবং সাক্ষাৎকারের দৈর্ঘ্যে ১৫ শতাংশ পর্যন্ত পরিবর্তন।"
+ },
+ {
+  "subject": "exception_authority",
+  "aspect": "hr_head_threshold_relaxation_points",
+  "value": 0.2,
+  "unit": "নম্বর",
+  "section": "২৩.৩",
+  "page": 52,
+  "evidence": "*মানবসম্পদ প্রধান* অনুমোদন দিতে পারেন অভ্যন্তরীণ ঘোষণা এড়ানো, শূন্যপদ অনুমোদনের মেয়াদ বৃদ্ধি, নিয়োগ সংস্থার ব্যবহার, অতিরিক্ত মূল্যায়ক নিয়োগ, পারিশ্রমিকযুক্ত কারিগরি মূল্যায়ন, এবং উত্তীর্ণতার সীমায় সর্বাধিক ০.২ নম্বরের শিথিলতা।"
+ },
+ {
+  "subject": "exception_limits",
+  "aspect": "max_validity_days",
+  "value": 60,
+  "unit": "দিন",
+  "section": "২৩.৪",
+  "page": 53,
+  "evidence": "কোনো ব্যতিক্রম ৬০ দিনের বেশি বলবৎ থাকবে না, তারপর নতুন করে অনুমোদন প্রয়োজন।"
+ },
+ {
+  "subject": "exception_limits",
+  "aspect": "max_per_clause_per_year",
+  "value": 12,
+  "unit": "টি ব্যতিক্রম",
+  "section": "২৩.৪",
+  "page": 53,
+  "evidence": "একই ধারায় ১২টির বেশি ব্যতিক্রম কোনো অর্থবর্ষে অনুমোদিত হলে সেই ধারাটি পুনর্বিবেচনার জন্য চিহ্নিত হবে — বারবার লঙ্ঘিত নিয়ম সাধারণত ত্রুটিপূর্ণ নিয়ম।"
+ },
+ {
+  "subject": "disagreement_worked_example",
+  "aspect": "hiring_manager_score",
+  "value": 4,
+  "unit": "নম্বর",
+  "section": "২৪.২",
+  "page": 54,
+  "evidence": "স্বাধীন নম্বর জমা পড়ার পর দেখা যায়, \"সমস্যা বিশ্লেষণ ও সিদ্ধান্তগ্রহণ\" মাপকাঠিতে নিয়োগকারী ব্যবস্থাপক একজন প্রার্থীকে ৪ দিয়েছেন এবং অন্য বিভাগের প্রতিনিধি একই প্রার্থীকে ২ দিয়েছেন।"
+ },
+ {
+  "subject": "disagreement_worked_example",
+  "aspect": "other_member_score",
+  "value": 2,
+  "unit": "নম্বর",
+  "section": "২৪.২",
+  "page": 54,
+  "evidence": "স্বাধীন নম্বর জমা পড়ার পর দেখা যায়, \"সমস্যা বিশ্লেষণ ও সিদ্ধান্তগ্রহণ\" মাপকাঠিতে নিয়োগকারী ব্যবস্থাপক একজন প্রার্থীকে ৪ দিয়েছেন এবং অন্য বিভাগের প্রতিনিধি একই প্রার্থীকে ২ দিয়েছেন।"
+ },
+ {
+  "subject": "disagreement_worked_example",
+  "aspect": "agreed_score",
+  "value": 3,
+  "unit": "নম্বর",
+  "section": "২৪.২",
+  "page": 54,
+  "evidence": "তৃতীয় ধাপ প্রয়োজন হয়নি, কারণ উভয় সদস্য ৩ নম্বরে একমত হন এবং সেই সমন্বয়ের কারণ কার্যবিবরণীতে লিপিবদ্ধ হয়।"
+ },
+ {
+  "subject": "decision_audit",
+  "aspect": "sample_percent",
+  "value": 34,
+  "unit": "শতাংশ",
+  "section": "২৫.২",
+  "page": 57,
+  "evidence": "নমুনার আকার হবে অর্থবর্ষে সম্পন্ন নিয়োগের ৩৪ শতাংশ, দৈবচয়নে নির্বাচিত, তবে এমনভাবে যাতে প্রতিটি বিভাগ ও প্রতিটি পদ-স্তর নমুনায় প্রতিনিধিত্ব পায়।"
+ },
+ {
+  "subject": "audit_follow_up",
+  "aspect": "serious_finding_days",
+  "value": 38,
+  "unit": "দিন",
+  "section": "২৫.৪",
+  "page": 58,
+  "evidence": "গুরুতর পর্যবেক্ষণের ক্ষেত্রে সংশোধনী পদক্ষেপ ৩৮ দিনের মধ্যে এবং অন্যান্য ক্ষেত্রে ৬৩ দিনের মধ্যে সম্পন্ন করতে হবে।"
+ },
+ {
+  "subject": "audit_follow_up",
+  "aspect": "other_finding_days",
+  "value": 63,
+  "unit": "দিন",
+  "section": "২৫.৪",
+  "page": 58,
+  "evidence": "গুরুতর পর্যবেক্ষণের ক্ষেত্রে সংশোধনী পদক্ষেপ ৩৮ দিনের মধ্যে এবং অন্যান্য ক্ষেত্রে ৬৩ দিনের মধ্যে সম্পন্ন করতে হবে।"
+ },
+ {
+  "subject": "audit_follow_up",
+  "aspect": "board_submission_days",
+  "value": 54,
+  "unit": "দিন",
+  "section": "২৫.৪",
+  "page": 58,
+  "evidence": "নিরীক্ষা প্রতিবেদন অর্থবর্ষ সমাপ্তির ৫৪ দিনের মধ্যে ব্যবস্থাপনা পর্ষদে পেশ হবে, এবং তাতে পূর্ববর্তী বছরের সংশোধনীগুলির বাস্তবায়ন-অবস্থা অন্তর্ভুক্ত থাকবে।"
+ },
+ {
+  "subject": "audit_follow_up",
+  "aspect": "record_retention_months",
+  "value": 43,
+  "unit": "মাস",
+  "section": "২৫.৪",
+  "page": 58,
+  "evidence": "নিরীক্ষার নথি ৪৩ মাস সংরক্ষিত থাকবে।"
+ },
+ {
+  "subject": "manual_review",
+  "aspect": "full_review_cycle_months",
+  "value": 36,
+  "unit": "মাস",
+  "section": "২৬.২",
+  "page": 58,
+  "evidence": "এই নির্দেশিকা প্রতি ৩৬ মাসে পূর্ণাঙ্গভাবে পর্যালোচিত হবে।"
+ },
+ {
+  "subject": "document_audit",
+  "aspect": "min_annual_sample",
+  "value": 20,
+  "unit": "টি নিয়োগ",
+  "section": "২৬.৩",
+  "page": 59,
+  "evidence": "অভ্যন্তরীণ নিরীক্ষা প্রতি বছর অন্তত ২০টি সম্পন্ন নিয়োগের নথি দৈবচয়নে পরীক্ষা করবে এবং প্রতিটির ক্ষেত্রে যাচাই করবে: প্রয়োজনীয় অনুমোদন ছিল কি না; প্যানেল গঠন ও প্রশিক্ষণ শর্ত পূরিত হয়েছিল কি না; স্বাধীন নম্বর আলোচনার আগে জমা পড়েছিল কি না; নির্বাচনী প্রতিবেদন সম্পূর্ণ ছিল কি না; এবং সময়সীমাগুলি রক্ষিত হয়েছিল কি না।"
+ },
+ {
+  "subject": "manual_amendment",
+  "aspect": "comment_period_days",
+  "value": 15,
+  "unit": "দিন",
+  "section": "২৬.৪",
+  "page": 59,
+  "evidence": "প্রস্তাবিত সংশোধন খসড়া আকারে প্রস্তুত করে অন্তত ১৫ দিনের জন্য মন্তব্যের জন্য উন্মুক্ত রাখা হবে।"
+ },
+ {
+  "subject": "manual_amendment",
+  "aspect": "prior_version_retention_years",
+  "value": 7,
+  "unit": "বছর",
+  "section": "২৬.৪",
+  "page": 59,
+  "evidence": "পূর্ববর্তী সংস্করণগুলি ৭ বছর সংরক্ষিত থাকবে, কারণ অতীতের কোনো নিয়োগ সম্পর্কে প্রশ্ন উঠলে তৎকালীন বিধান জানা প্রয়োজন হয়।"
+ },
+ {
+  "subject": "amendment_notice",
+  "aspect": "min_notice_days",
+  "value": 10,
+  "unit": "দিন",
+  "section": "২৬.৫",
+  "page": 60,
+  "evidence": "সংশোধন কার্যকর হওয়ার আগে অন্তত ১০ দিনের নোটিশ দিতে হবে, এবং সমস্ত অনুমোদিত প্যানেল সদস্যকে পরিবর্তনের সারসংক্ষেপ পাঠাতে হবে।"
+ },
+ {
+  "subject": "campus_hiring",
+  "aspect": "institution_list_review_months",
+  "value": 28,
+  "unit": "মাস",
+  "section": "২৭.১",
+  "page": 60,
+  "evidence": "প্রবেশ স্তরের নিয়োগে নির্বাচিত শিক্ষাপ্রতিষ্ঠানের তালিকা প্রতি ২৮ মাস অন্তর পুনর্বিবেচিত হবে।"
+ },
+ {
+  "subject": "campus_hiring",
+  "aspect": "min_panel_members",
+  "value": 2,
+  "unit": "জন",
+  "section": "২৭.১",
+  "page": 60,
+  "evidence": "শিক্ষায়তন নিয়োগে প্যানেলের ন্যূনতম সদস্যসংখ্যা ২, এবং কারিগরি মূল্যায়ন ও সাক্ষাৎকার একই দিনে সম্পন্ন করা যাবে।"
+ },
+ {
+  "subject": "campus_hiring",
+  "aspect": "offer_validity_months",
+  "value": 9,
+  "unit": "মাস",
+  "section": "২৭.১",
+  "page": 60,
+  "evidence": "শিক্ষায়তন প্রস্তাবপত্রের বৈধতা ৯ মাস, কারণ পাঠ সমাপ্তি ও যোগদানের মধ্যে দীর্ঘ ব্যবধান থাকে।"
+ },
+ {
+  "subject": "campus_hiring",
+  "aspect": "contact_interval_months",
+  "value": 3,
+  "unit": "মাস",
+  "section": "২৭.১",
+  "page": 60,
+  "evidence": "এই সময়ে প্রতি ৩ মাস অন্তর প্রার্থীর সঙ্গে যোগাযোগ রাখতে হবে।"
+ },
+ {
+  "subject": "rehire_former_employee",
+  "aspect": "cooling_period_days",
+  "value": 75,
+  "unit": "দিন",
+  "section": "২৭.২",
+  "page": 61,
+  "evidence": "প্রস্থানের তারিখ থেকে ৭৫ দিন অতিক্রান্ত না হলে পুনর্নিয়োগ বিবেচিত হবে না।"
+ },
+ {
+  "subject": "urgent_hiring",
+  "aspect": "max_declarations_per_year",
+  "value": 8,
+  "unit": "টি ঘোষণা",
+  "section": "২৭.৪",
+  "page": 61,
+  "evidence": "কোনো পদকে অত্যাবশ্যক ঘোষণা করতে পারেন কেবল ব্যবস্থাপনা পরিচালক, এবং এক অর্থবর্ষে এমন ঘোষণার সংখ্যা ৮-এ সীমাবদ্ধ।"
+ },
+ {
+  "subject": "urgent_hiring",
+  "aspect": "first_interview_to_decision_working_days",
+  "value": 25,
+  "unit": "কার্যদিবস",
+  "section": "২৭.৪",
+  "page": 61,
+  "evidence": "এমন পদে প্রথম সাক্ষাৎকার থেকে সিদ্ধান্ত পর্যন্ত সময় সমান্তরাল সময়সূচির মাধ্যমে ২৫ কার্যদিবসে নামিয়ে আনা হবে; প্যানেলের আকার, ন্যূনতম প্রার্থীপুঞ্জ ও যাচাইয়ের শর্ত অপরিবর্তিত থাকবে।"
+ },
+ {
+  "subject": "confidential_search",
+  "aspect": "max_persons_with_data_access",
+  "value": 4,
+  "unit": "জন",
+  "section": "২৭.৫",
+  "page": 62,
+  "evidence": "এমন অনুসন্ধানে প্রার্থীর তথ্যে প্রবেশাধিকার সর্বাধিক ৪ জনের মধ্যে সীমাবদ্ধ থাকবে, পদটির জন্য একটি সাংকেতিক নাম ব্যবহৃত হবে, এবং নথি পৃথক সীমাবদ্ধ সংগ্রহে রক্ষিত হবে।"
+ },
+ {
+  "subject": "confidential_search",
+  "aspect": "record_transfer_working_days",
+  "value": 10,
+  "unit": "কার্যদিবস",
+  "section": "২৭.৫",
+  "page": 62,
+  "evidence": "অনুসন্ধান সমাপ্তির ১০ কার্যদিবসের মধ্যে সমস্ত নথি স্বাভাবিক নিয়োগ ব্যবস্থায় স্থানান্তরিত হবে।"
+ },
+ {
+  "subject": "candidate_travel_reimbursement",
+  "aspect": "max_fare_rupees",
+  "value": 11500,
+  "unit": "টাকা",
+  "section": "২৭.৬",
+  "page": 62,
+  "evidence": "রেলপথে দ্বিতীয় শ্রেণির শীতাতপনিয়ন্ত্রিত ভাড়া অথবা সাশ্রয়ী বিমানভাড়া সর্বোচ্চ ১১,৫০০ টাকা পর্যন্ত গ্রাহ্য হবে।"
+ },
+ {
+  "subject": "candidate_travel_reimbursement",
+  "aspect": "max_accommodation_rupees",
+  "value": 3400,
+  "unit": "টাকা",
+  "section": "২৭.৬",
+  "page": 62,
+  "evidence": "রাত্রিযাপন অপরিহার্য হলে এক রাত্রির আবাসন বাবদ অতিরিক্ত ৩,৪০০ টাকা প্রতিদেয়।"
+ },
+ {
+  "subject": "candidate_travel_reimbursement",
+  "aspect": "claim_submission_working_days",
+  "value": 12,
+  "unit": "কার্যদিবস",
+  "section": "২৭.৬",
+  "page": 62,
+  "evidence": "প্রার্থীকে সাক্ষাৎকারের ১২ কার্যদিবসের মধ্যে প্রমাণপত্রসহ দাবি জমা দিতে হবে এবং নিয়োগ শাখা ২১ কার্যদিবসের মধ্যে পরিশোধের ব্যবস্থা করবে।"
+ },
+ {
+  "subject": "candidate_travel_reimbursement",
+  "aspect": "reimbursement_working_days",
+  "value": 21,
+  "unit": "কার্যদিবস",
+  "section": "২৭.৬",
+  "page": 62,
+  "evidence": "প্রার্থীকে সাক্ষাৎকারের ১২ কার্যদিবসের মধ্যে প্রমাণপত্রসহ দাবি জমা দিতে হবে এবং নিয়োগ শাখা ২১ কার্যদিবসের মধ্যে পরিশোধের ব্যবস্থা করবে।"
+ }
+]

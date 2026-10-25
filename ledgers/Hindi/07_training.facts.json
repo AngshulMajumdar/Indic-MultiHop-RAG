@@ -1,0 +1,1346 @@
+[
+ {
+  "subject": "training_budget",
+  "aspect": "percent_of_payroll",
+  "value": 2.2,
+  "section": "१६.१",
+  "page": 44,
+  "evidence": "संस्था का वार्षिक प्रशिक्षण बजट पिछले वित्तीय वर्ष के कुल वेतन-व्यय के दो दशमलव दो प्रतिशत के बराबर निर्धारित किया जाता है।"
+ },
+ {
+  "subject": "internal_delivery",
+  "aspect": "target_share_percent",
+  "value": 55,
+  "section": "१४.१",
+  "page": 36,
+  "evidence": "संस्था का लक्ष्य है कि प्रत्येक वर्ष कुल संपर्क-घंटों का कम से कम पचपन प्रतिशत आंतरिक प्रशिक्षकों द्वारा वितरित हो।"
+ },
+ {
+  "subject": "minimum_training_hours",
+  "aspect": "grade_a_hours_per_year",
+  "value": 48,
+  "section": "९.१",
+  "page": 22,
+  "evidence": "| ए | सहयोगी | ४८ | ३ | १८,००० |"
+ },
+ {
+  "subject": "minimum_training_hours",
+  "aspect": "grade_b1_hours_per_year",
+  "value": 40,
+  "section": "९.१",
+  "page": 22,
+  "evidence": "| बी१ | कार्यकारी | ४० | ३ | २४,००० |"
+ },
+ {
+  "subject": "minimum_training_hours",
+  "aspect": "grade_b2_hours_per_year",
+  "value": 40,
+  "section": "९.१",
+  "page": 22,
+  "evidence": "| बी२ | वरिष्ठ कार्यकारी | ४० | ३ | ३०,००० |"
+ },
+ {
+  "subject": "minimum_training_hours",
+  "aspect": "grade_c1_hours_per_year",
+  "value": 36,
+  "section": "९.१",
+  "page": 22,
+  "evidence": "| सी१ | प्रबंधक | ३६ | २ | ४२,००० |"
+ },
+ {
+  "subject": "minimum_training_hours",
+  "aspect": "grade_c2_hours_per_year",
+  "value": 32,
+  "section": "९.१",
+  "page": 22,
+  "evidence": "| सी२ | वरिष्ठ प्रबंधक | ३२ | २ | ६०,००० |"
+ },
+ {
+  "subject": "minimum_training_hours",
+  "aspect": "grade_d_hours_per_year",
+  "value": 24,
+  "section": "९.१",
+  "page": 22,
+  "evidence": "| डी | नेतृत्व स्तर | २४ | २ | ९०,००० |"
+ },
+ {
+  "subject": "mandatory_programme",
+  "aspect": "information_security_hours",
+  "value": 3,
+  "section": "७.१",
+  "page": 17,
+  "evidence": "| सूचना सुरक्षा एवं डेटा संरक्षण जागरूकता | समस्त कर्मचारी | प्रति वर्ष | ३ |"
+ },
+ {
+  "subject": "mandatory_programme",
+  "aspect": "code_of_conduct_hours",
+  "value": 4,
+  "section": "७.१",
+  "page": 17,
+  "evidence": "| आचरण संहिता एवं व्यावसायिक नैतिकता | समस्त कर्मचारी | प्रति दो वर्ष | ४ |"
+ },
+ {
+  "subject": "mandatory_programme",
+  "aspect": "harassment_prevention_hours",
+  "value": 2,
+  "section": "७.१",
+  "page": 17,
+  "evidence": "| कार्यस्थल पर उत्पीड़न निवारण | समस्त कर्मचारी | प्रति वर्ष | २ |"
+ },
+ {
+  "subject": "mandatory_programme",
+  "aspect": "fire_safety_hours",
+  "value": 1.5,
+  "section": "७.१",
+  "page": 17,
+  "evidence": "| अग्नि सुरक्षा एवं निष्क्रमण अभ्यास | समस्त कर्मचारी, स्थलवार | प्रति छह माह | १.५ |"
+ },
+ {
+  "subject": "mandatory_programme",
+  "aspect": "first_aid_hours",
+  "value": 8,
+  "section": "७.१",
+  "page": 17,
+  "evidence": "| प्राथमिक चिकित्सा | नामित प्रतिसादकर्ता | प्रति दो वर्ष | ८ |"
+ },
+ {
+  "subject": "mandatory_programme",
+  "aspect": "anti_bribery_hours",
+  "value": 3,
+  "section": "७.१",
+  "page": 17,
+  "evidence": "| भ्रष्टाचार-निरोध एवं उपहार-मर्यादा | ग्रेड सी एवं ऊपर, क्रय एवं विक्रय कर्मी | प्रति दो वर्ष | ३ |"
+ },
+ {
+  "subject": "mandatory_programme",
+  "aspect": "new_manager_programme_hours",
+  "value": 16,
+  "section": "७.१",
+  "page": 17,
+  "evidence": "| नव-प्रबंधक आधारभूत कार्यक्रम | प्रथम बार प्रबंधकीय भूमिका पाने वाले | पदभार से ९० दिन के भीतर, एक बार | १६ |"
+ },
+ {
+  "subject": "mandatory_programme",
+  "aspect": "client_confidentiality_hours",
+  "value": 2,
+  "section": "७.१",
+  "page": 17,
+  "evidence": "| ग्राहक-गोपनीयता एवं अनुबंधगत दायित्व | ग्राहक परियोजनाओं पर कार्यरत कर्मी | प्रति वर्ष | २ |"
+ },
+ {
+  "subject": "mandatory_programme",
+  "aspect": "secure_coding_hours",
+  "value": 6,
+  "section": "७.१",
+  "page": 17,
+  "evidence": "| सुरक्षित कोडिंग पद्धतियाँ | अभियंता एवं परीक्षक | प्रति वर्ष | ६ |"
+ },
+ {
+  "subject": "mandatory_programme",
+  "aspect": "quality_system_hours",
+  "value": 4,
+  "section": "७.१",
+  "page": 17,
+  "evidence": "| गुणवत्ता प्रबंधन प्रणाली जागरूकता | वितरण एवं गुणवत्ता विभाग | प्रति तीन वर्ष | ४ |"
+ },
+ {
+  "subject": "mandatory_programme",
+  "aspect": "electrical_safety_hours",
+  "value": 2,
+  "section": "७.१",
+  "page": 17,
+  "evidence": "| विद्युत एवं उपकरण सुरक्षा | सुविधा एवं प्रयोगशाला कर्मी | प्रति वर्ष | २ |"
+ },
+ {
+  "subject": "budget_allocation",
+  "aspect": "mandatory_share_percent",
+  "value": 30,
+  "section": "१६.२",
+  "page": 45,
+  "evidence": "| अनिवार्य एवं अनुपालन प्रशिक्षण | ३० प्रतिशत |"
+ },
+ {
+  "subject": "budget_allocation",
+  "aspect": "technical_share_percent",
+  "value": 32,
+  "section": "१६.२",
+  "page": 45,
+  "evidence": "| तकनीकी एवं कार्यात्मक प्रशिक्षण | ३२ प्रतिशत |"
+ },
+ {
+  "subject": "budget_allocation",
+  "aspect": "managerial_share_percent",
+  "value": 16,
+  "section": "१६.२",
+  "page": 45,
+  "evidence": "| प्रबंधकीय एवं व्यवहारगत प्रशिक्षण | १६ प्रतिशत |"
+ },
+ {
+  "subject": "budget_allocation",
+  "aspect": "conference_share_percent",
+  "value": 8,
+  "section": "१६.२",
+  "page": 45,
+  "evidence": "| बाह्य सम्मेलन एवं कार्यशाला | ८ प्रतिशत |"
+ },
+ {
+  "subject": "budget_allocation",
+  "aspect": "high_cost_share_percent",
+  "value": 8,
+  "section": "१६.२",
+  "page": 45,
+  "evidence": "| उच्च लागत वाले दीर्घ कार्यक्रम | ८ प्रतिशत |"
+ },
+ {
+  "subject": "budget_allocation",
+  "aspect": "central_reserve_share_percent",
+  "value": 6,
+  "section": "१६.२",
+  "page": 45,
+  "evidence": "| केंद्रीय आरक्षित निधि | ६ प्रतिशत |"
+ },
+ {
+  "subject": "budget_allocation",
+  "aspect": "headcount_weight_percent",
+  "value": 70,
+  "section": "१६.३",
+  "page": 45,
+  "evidence": "तकनीकी, कार्यात्मक तथा प्रबंधकीय मदों का विभागों में वितरण दो कारकों से होता है: विभाग की कर्मचारी-संख्या, जिसका भार सत्तर प्रतिशत है; तथा विभाग की अनुमोदित प्राथमिकता-अंकों की कुल राशि, जिसका भार तीस प्रतिशत है।"
+ },
+ {
+  "subject": "budget_reappropriation",
+  "aspect": "within_department_limit_percent",
+  "value": 20,
+  "section": "१६.४",
+  "page": 46,
+  "evidence": "कोई भी विभाग अपने आवंटन के भीतर मदों के बीच बीस प्रतिशत तक की राशि स्वयं पुनर्विनियोजित कर सकता है, केवल सूचना देकर।"
+ },
+ {
+  "subject": "budget_control",
+  "aspect": "monthly_statement_day",
+  "value": 10,
+  "section": "१६.४",
+  "page": 46,
+  "evidence": "प्रशिक्षण प्रकोष्ठ प्रत्येक माह की दस तारीख तक पिछले माह की बजट-उपयोग विवरणी परिचालित करता है, जिसमें मदवार तथा विभागवार व्यय, प्रतिबद्ध किंतु अव्ययित राशि, तथा शेष उपलब्धता दर्शाई जाती है।"
+ },
+ {
+  "subject": "budget_control",
+  "aspect": "underspend_threshold_percent",
+  "value": 40,
+  "section": "१६.४",
+  "page": 46,
+  "evidence": "तिमाही की समाप्ति पर जिस विभाग का व्यय उसके आनुपातिक आवंटन के चालीस प्रतिशत से नीचे रह जाता है, उसकी अव्ययित राशि का आधा भाग केंद्रीय आरक्षित निधि में लौटाया जा सकता है।"
+ },
+ {
+  "subject": "per_employee_spend",
+  "aspect": "annual_cap_rupees",
+  "value": 45000,
+  "section": "१६.५",
+  "page": 47,
+  "evidence": "किसी एक कर्मचारी पर, ऐच्छिक प्रशिक्षण एवं बाह्य सम्मेलन को मिलाकर, एक वित्तीय वर्ष में पैंतालीस हज़ार रुपये से अधिक व्यय नहीं किया जाएगा।"
+ },
+ {
+  "subject": "needs_survey",
+  "aspect": "start_date_december",
+  "value": 5,
+  "section": "५.१",
+  "page": 10,
+  "evidence": "प्रत्येक वर्ष ५ दिसंबर से २४ दिसंबर तक एक संरचित सर्वेक्षण चलाया जाता है जिसमें प्रत्येक कर्मचारी अपने वर्तमान कार्य के लिए आवश्यक कौशलों में अपनी स्थिति अंकित करता है और उसका प्रबंधक उसी सूची पर स्वतंत्र रूप से अपना अंकन करता है।"
+ },
+ {
+  "subject": "needs_statement",
+  "aspect": "submission_deadline_january",
+  "value": 7,
+  "section": "५.३",
+  "page": 13,
+  "evidence": "विभागीय प्रशिक्षण आवश्यकता विवरणी, निर्धारित प्रपत्र प्र-१ में, प्रत्येक वर्ष ७ जनवरी तक प्रशिक्षण प्रकोष्ठ को प्राप्त हो जानी चाहिए।"
+ },
+ {
+  "subject": "training_calendar",
+  "aspect": "consolidated_draft_deadline_february",
+  "value": 2,
+  "section": "६.१",
+  "page": 14,
+  "evidence": "प्रशिक्षण प्रकोष्ठ उन्हें संकलित कर, स्रोतों की जाँच कर और प्राथमिकता-अंकों के आधार पर क्रमबद्ध कर २ फ़रवरी तक समेकित मसौदा तैयार करता है।"
+ },
+ {
+  "subject": "training_calendar",
+  "aspect": "committee_review_date_february",
+  "value": 18,
+  "section": "६.१",
+  "page": 14,
+  "evidence": "प्रशिक्षण संचालन समिति १८ फ़रवरी को मसौदे पर विचार करती है और आवश्यक संशोधन के साथ उसे संस्तुत करती है।"
+ },
+ {
+  "subject": "training_calendar",
+  "aspect": "board_approval_deadline_march",
+  "value": 11,
+  "section": "६.१",
+  "page": 14,
+  "evidence": "प्रबंधन मंडल ११ मार्च तक कैलेंडर एवं उससे जुड़े बजट का अनुमोदन करता है।"
+ },
+ {
+  "subject": "training_calendar",
+  "aspect": "publication_deadline_march",
+  "value": 20,
+  "section": "६.१",
+  "page": 14,
+  "evidence": "अनुमोदित कैलेंडर २० मार्च तक कर्मचारी पोर्टल पर प्रकाशित कर दिया जाता है।"
+ },
+ {
+  "subject": "training_calendar",
+  "aspect": "latest_publication_date_april",
+  "value": 5,
+  "section": "६.१",
+  "page": 15,
+  "evidence": "यदि किसी कारण से मंडल का अनुमोदन ११ मार्च तक न हो सके, तो प्रकाशन की तिथि उतने ही दिन आगे खिसकती है, किंतु किसी भी स्थिति में ५ अप्रैल के बाद नहीं जा सकती।"
+ },
+ {
+  "subject": "training_calendar",
+  "aspect": "advance_notice_days",
+  "value": 30,
+  "section": "६.३",
+  "page": 16,
+  "evidence": "पाँचवाँ, प्रत्येक कार्यक्रम की सूचना, तिथि एवं स्थान सहित, उसके आरंभ से कम से कम तीस दिन पूर्व पोर्टल पर आ जानी चाहिए।"
+ },
+ {
+  "subject": "training_calendar",
+  "aspect": "quarter_end_blackout_days",
+  "value": 5,
+  "section": "६.३",
+  "page": 15,
+  "evidence": "पहला, किसी भी तिमाही के अंतिम पाँच कार्यदिवसों में कोई कार्यक्रम निर्धारित नहीं होगा, क्योंकि उन दिनों में वितरण एवं वित्त दोनों विभाग तिमाही-समापन में व्यस्त रहते हैं और उपस्थिति सबसे अधिक इन्हीं दिनों टूटती है।"
+ },
+ {
+  "subject": "training_calendar",
+  "aspect": "max_share_last_quarter_percent",
+  "value": 30,
+  "section": "६.३",
+  "page": 16,
+  "evidence": "तीसरा, वर्ष भर के कुल कार्यक्रमों में से अधिकतम तीस प्रतिशत ही अंतिम तिमाही में रखे जा सकते हैं।"
+ },
+ {
+  "subject": "training_calendar",
+  "aspect": "max_department_share_same_week_percent",
+  "value": 25,
+  "section": "६.३",
+  "page": 16,
+  "evidence": "चौथा, किसी एक विभाग के पचीस प्रतिशत से अधिक कर्मचारी एक ही सप्ताह में प्रशिक्षण पर नहीं भेजे जाएँगे, जिससे कार्य-संचालन प्रभावित न हो।"
+ },
+ {
+  "subject": "training_calendar",
+  "aspect": "cancellation_notice_working_days",
+  "value": 7,
+  "section": "६.४",
+  "page": 17,
+  "evidence": "रद्दीकरण की सूचना नामांकित प्रतिभागियों को कम से कम सात कार्यदिवस पूर्व दी जाएगी।"
+ },
+ {
+  "subject": "priority_scoring",
+  "aspect": "calendar_entry_threshold",
+  "value": 12,
+  "section": "५.२",
+  "page": 13,
+  "evidence": "जिन आवश्यकताओं का प्राथमिकता-अंक बारह या उससे अधिक है, वे कैलेंडर में स्थान पाने की अधिकारी हैं।"
+ },
+ {
+  "subject": "priority_scoring",
+  "aspect": "max_score",
+  "value": 25,
+  "section": "५.२",
+  "page": 13,
+  "evidence": "दोनों अंकों का गुणनफल ही प्राथमिकता-अंक है, जिसका परास एक से पच्चीस तक रहता है।"
+ },
+ {
+  "subject": "needs_identification",
+  "aspect": "new_technology_trained_staff_threshold",
+  "value": 15,
+  "section": "५.१",
+  "page": 11,
+  "evidence": "यदि किसी प्रौद्योगिकी पर संस्था में पंद्रह से कम प्रशिक्षित कर्मी हैं और आगामी वर्ष में उस पर कार्य प्रस्तावित है, तो वह स्वतः प्राथमिकता-सूची में आती है।"
+ },
+ {
+  "subject": "needs_identification",
+  "aspect": "regulatory_notice_days",
+  "value": 90,
+  "section": "५.१",
+  "page": 11,
+  "evidence": "विधि एवं अनुपालन विभाग किसी नए विधिक दायित्व की सूचना प्रशिक्षण प्रकोष्ठ को उसके प्रभावी होने से कम से कम नब्बे दिन पूर्व देगा, ताकि तदनुरूप कार्यक्रम की व्यवस्था हो सके।"
+ },
+ {
+  "subject": "needs_identification",
+  "aspect": "incident_training_days",
+  "value": 60,
+  "section": "५.१",
+  "page": 11,
+  "evidence": "ऐसे मामलों में कार्यक्रम की व्यवस्था विश्लेषण-प्रतिवेदन के साठ दिन के भीतर की जाएगी।"
+ },
+ {
+  "subject": "mandatory_compliance",
+  "aspect": "first_reminder_days_before",
+  "value": 15,
+  "section": "७.२",
+  "page": 18,
+  "evidence": "नियत तिथि से पंद्रह दिन पूर्व प्रणाली स्वतः प्रथम सूचना भेजती है, और पाँच दिन पूर्व द्वितीय सूचना।"
+ },
+ {
+  "subject": "mandatory_compliance",
+  "aspect": "grace_period_days",
+  "value": 15,
+  "section": "७.२",
+  "page": 18,
+  "evidence": "नियत तिथि के बाद पंद्रह दिन की छूट-अवधि रहती है, जिसके भीतर पूर्ण कर लेने पर अनुपालन अखंडित माना जाता है।"
+ },
+ {
+  "subject": "mandatory_compliance",
+  "aspect": "new_joiner_first_programmes_days",
+  "value": 30,
+  "section": "७.२",
+  "page": 18,
+  "evidence": "नवनियुक्त कर्मचारी के लिए सूचना सुरक्षा तथा उत्पीड़न निवारण कार्यक्रम कार्यग्रहण के तीस दिन के भीतर पूर्ण करने होंगे; शेष लागू अनिवार्य कार्यक्रम साठ दिन के भीतर।"
+ },
+ {
+  "subject": "mandatory_compliance",
+  "aspect": "elective_block_after_days",
+  "value": 30,
+  "section": "७.३",
+  "page": 19,
+  "evidence": "नियत तिथि से तीस दिन बीतने पर उस कर्मचारी का कोई भी ऐच्छिक नामांकन स्वीकृत नहीं होगा और उसका कोई लंबित ऐच्छिक नामांकन स्थगित कर दिया जाएगा।"
+ },
+ {
+  "subject": "mandatory_compliance",
+  "aspect": "head_of_department_escalation_days",
+  "value": 60,
+  "section": "७.३",
+  "page": 19,
+  "evidence": "नियत तिथि से साठ दिन बीतने पर मामला विभागाध्यक्ष के समक्ष प्रस्तुत होता है, जिन्हें दस कार्यदिवस के भीतर यह लिखित रूप से बताना होता है कि कर्मचारी को प्रशिक्षण के लिए समय क्यों नहीं मिल सका।"
+ },
+ {
+  "subject": "mandatory_compliance",
+  "aspect": "hr_head_report_days",
+  "value": 90,
+  "section": "७.३",
+  "page": 19,
+  "evidence": "नियत तिथि से नब्बे दिन बीतने पर प्रशिक्षण प्रमुख मानव संसाधन प्रमुख को प्रतिवेदन देता है, और विषय आगामी प्रशिक्षण संचालन समिति की बैठक में नामतः रखा जाता है।"
+ },
+ {
+  "subject": "mandatory_compliance",
+  "aspect": "post_leave_extension_days",
+  "value": 45,
+  "section": "७.३",
+  "page": 19,
+  "evidence": "दीर्घ अवकाश, प्रसूति अवकाश अथवा चिकित्सकीय कारण से अनुपस्थित कर्मचारी के लिए नियत तिथि कार्य पर लौटने की तिथि से पैंतालीस दिन आगे स्वतः खिसक जाती है, और यह स्थगन प्रणाली में अभिलिखित होता है।"
+ },
+ {
+  "subject": "elective_training",
+  "aspect": "minimum_service_months",
+  "value": 6,
+  "section": "८.२",
+  "page": 20,
+  "evidence": "पहली, कर्मचारी की निरंतर सेवा नामांकन की तिथि को कम से कम छह माह पूर्ण हो चुकी हो।"
+ },
+ {
+  "subject": "elective_training",
+  "aspect": "repeat_interval_months",
+  "value": 24,
+  "section": "८.२",
+  "page": 20,
+  "evidence": "तीसरी, उसने उसी कार्यक्रम अथवा उसी विषय-वस्तु के किसी कार्यक्रम में पिछले चौबीस माह के भीतर भाग न लिया हो।"
+ },
+ {
+  "subject": "elective_training",
+  "aspect": "annual_hours_cap",
+  "value": 30,
+  "section": "८.३",
+  "page": 21,
+  "evidence": "किसी भी कर्मचारी के ऐच्छिक कार्यक्रमों के कुल संपर्क-घंटे एक वर्ष में तीस से अधिक नहीं होंगे।"
+ },
+ {
+  "subject": "interest_register",
+  "aspect": "batch_trigger_names",
+  "value": 12,
+  "section": "८.४",
+  "page": 21,
+  "evidence": "जब किसी एक विषय पर अभिरुचि-पंजी में बारह नाम एकत्र हो जाते हैं, तो प्रशिक्षण प्रकोष्ठ उस विषय पर बैच की व्यवहार्यता की जाँच करने के लिए बाध्य है और उसे तीस दिन के भीतर लिखित उत्तर देना होता है — या तो आगामी तिमाही में बैच की तिथि, अथवा बैच न कराने का कारण।"
+ },
+ {
+  "subject": "interest_register",
+  "aspect": "response_days",
+  "value": 30,
+  "section": "८.४",
+  "page": 21,
+  "evidence": "जब किसी एक विषय पर अभिरुचि-पंजी में बारह नाम एकत्र हो जाते हैं, तो प्रशिक्षण प्रकोष्ठ उस विषय पर बैच की व्यवहार्यता की जाँच करने के लिए बाध्य है और उसे तीस दिन के भीतर लिखित उत्तर देना होता है — या तो आगामी तिमाही में बैच की तिथि, अथवा बैच न कराने का कारण।"
+ },
+ {
+  "subject": "training_hours_counting",
+  "aspect": "minimum_session_minutes",
+  "value": 60,
+  "section": "९.२",
+  "page": 22,
+  "evidence": "गणना में केवल वे सत्र आते हैं जिनकी अवधि कम से कम साठ मिनट हो।"
+ },
+ {
+  "subject": "training_hours_counting",
+  "aspect": "self_paced_online_cap_hours",
+  "value": 12,
+  "section": "९.२",
+  "page": 23,
+  "evidence": "स्व-गति ऑनलाइन मॉड्यूल गिने जाते हैं, किंतु एक वर्ष में अधिकतम बारह घंटे तक।"
+ },
+ {
+  "subject": "training_hours_counting",
+  "aspect": "conference_cap_hours",
+  "value": 8,
+  "section": "९.२",
+  "page": 23,
+  "evidence": "बाह्य सम्मेलन में भागीदारी प्रति आयोजन अधिकतम आठ घंटे तक गिनी जाती है, चाहे आयोजन कितने भी दिन का हो।"
+ },
+ {
+  "subject": "training_hours_counting",
+  "aspect": "carry_forward_cap_hours",
+  "value": 6,
+  "section": "९.३",
+  "page": 23,
+  "evidence": "यदि कर्मचारी ने न्यूनतम से अधिक घंटे किए हैं, तो अधिशेष में से अधिकतम छह घंटे अगले वर्ष में अग्रेनीत किए जा सकते हैं।"
+ },
+ {
+  "subject": "training_hours_counting",
+  "aspect": "shortfall_makeup_deadline_june",
+  "value": 30,
+  "section": "९.३",
+  "page": 23,
+  "evidence": "वर्ष के अंत में यदि किसी कर्मचारी के घंटे न्यूनतम से कम रह जाते हैं, तो वह कमी अगले वर्ष की ३० जून तक पूरी की जानी है, और वे घंटे उसी पिछले वर्ष के विरुद्ध अभिलिखित होते हैं।"
+ },
+ {
+  "subject": "training_hours_counting",
+  "aspect": "long_leave_threshold_days",
+  "value": 90,
+  "section": "९.४",
+  "page": 24,
+  "evidence": "जो कर्मचारी वर्ष में नब्बे दिन या उससे अधिक अवकाश पर रहा हो, उसके न्यूनतम घंटे उसी अनुपात में घटाए जाते हैं।"
+ },
+ {
+  "subject": "nomination",
+  "aspect": "manager_decision_working_days",
+  "value": 4,
+  "section": "१०.१",
+  "page": 25,
+  "evidence": "तात्कालिक प्रबंधक को नामांकन प्राप्ति से चार कार्यदिवस के भीतर निर्णय देना है।"
+ },
+ {
+  "subject": "nomination",
+  "aspect": "closing_working_days_before",
+  "value": 15,
+  "section": "१०.२",
+  "page": 25,
+  "evidence": "किसी भी कार्यक्रम के लिए नामांकन उसके आरंभ से पंद्रह कार्यदिवस पूर्व बंद हो जाता है।"
+ },
+ {
+  "subject": "nomination",
+  "aspect": "cell_confirmation_working_days_before",
+  "value": 8,
+  "section": "१०.१",
+  "page": 25,
+  "evidence": "प्रशिक्षण प्रकोष्ठ पात्रता, बजट-उपलब्धता एवं स्थान की जाँच कर कार्यक्रम आरंभ से आठ कार्यदिवस पूर्व तक अंतिम पुष्टि भेजता है।"
+ },
+ {
+  "subject": "nomination",
+  "aspect": "final_list_working_days_before",
+  "value": 3,
+  "section": "१०.१",
+  "page": 25,
+  "evidence": "कार्यक्रम आरंभ से तीन कार्यदिवस पूर्व अंतिम प्रतिभागी सूची एवं उपस्थिति-पत्रक तैयार होता है और प्रदाता को संख्या भेज दी जाती है।"
+ },
+ {
+  "subject": "nomination",
+  "aspect": "minimum_viable_batch_size",
+  "value": 10,
+  "section": "१०.२",
+  "page": 26,
+  "evidence": "यदि निर्धारित तिथि तक बैच की न्यूनतम व्यवहार्य संख्या — जो सामान्यतः दस है — पूरी नहीं होती, तो प्रशिक्षण प्रकोष्ठ के पास दो विकल्प हैं: नामांकन-अवधि पाँच कार्यदिवस बढ़ाना, अथवा बैच स्थगित कर उसे अगली तिमाही में रखना।"
+ },
+ {
+  "subject": "nomination",
+  "aspect": "reconsideration_request_working_days",
+  "value": 10,
+  "section": "१०.४",
+  "page": 27,
+  "evidence": "जिस कर्मचारी का ऐच्छिक नामांकन अस्वीकृत हुआ है, वह अस्वीकृति की सूचना से दस कार्यदिवस के भीतर प्रशिक्षण प्रमुख से पुनर्विचार का अनुरोध कर सकता है।"
+ },
+ {
+  "subject": "nomination",
+  "aspect": "appeal_working_days",
+  "value": 15,
+  "section": "१०.४",
+  "page": 27,
+  "evidence": "इस निर्णय से असंतुष्ट कर्मचारी मानव संसाधन प्रमुख के समक्ष पंद्रह कार्यदिवस के भीतर अपील कर सकता है।"
+ },
+ {
+  "subject": "batch_capacity",
+  "aspect": "classroom_max_participants",
+  "value": 24,
+  "section": "११.१",
+  "page": 27,
+  "evidence": "कक्षा-आधारित व्याख्यान के लिए अधिकतम चौबीस प्रतिभागी; अभ्यास-प्रधान कार्यशाला के लिए सोलह; प्रयोगशाला अथवा उपकरण-आधारित सत्र के लिए बारह; तथा ऑनलाइन सत्र के लिए पैंतीस।"
+ },
+ {
+  "subject": "waitlist",
+  "aspect": "max_names",
+  "value": 8,
+  "section": "११.३",
+  "page": 29,
+  "evidence": "प्रत्येक बैच के लिए अधिकतम आठ नाम प्रतीक्षा सूची में रखे जाते हैं।"
+ },
+ {
+  "subject": "waitlist",
+  "aspect": "promotion_cutoff_working_days",
+  "value": 3,
+  "section": "११.३",
+  "page": 29,
+  "evidence": "प्रतीक्षा सूची से स्थान भरने की प्रक्रिया कार्यक्रम आरंभ से तीन कार्यदिवस पूर्व तक चलती है।"
+ },
+ {
+  "subject": "waitlist",
+  "aspect": "priority_certificate_validity_days",
+  "value": 180,
+  "section": "११.३",
+  "page": 29,
+  "evidence": "प्रतीक्षा सूची में रहकर स्थान न पाने वाले कर्मचारी को एक प्राथमिकता-प्रमाण मिलता है जो एक सौ अस्सी दिन तक वैध रहता है।"
+ },
+ {
+  "subject": "oversubscription",
+  "aspect": "additional_batch_trigger_percent",
+  "value": 150,
+  "section": "११.४",
+  "page": 30,
+  "evidence": "यदि किसी कार्यक्रम के लिए वैध नामांकनों की संख्या स्वीकृत क्षमता के एक सौ पचास प्रतिशत से अधिक हो जाती है, तो प्रशिक्षण प्रकोष्ठ के लिए अतिरिक्त बैच की व्यवहार्यता पर विचार करना अनिवार्य है।"
+ },
+ {
+  "subject": "oversubscription",
+  "aspect": "decision_working_days",
+  "value": 15,
+  "section": "११.४",
+  "page": 30,
+  "evidence": "विचार का अर्थ स्वीकृति नहीं है, किंतु निर्णय लिखित होना चाहिए और वह पंद्रह कार्यदिवस के भीतर आना चाहिए।"
+ },
+ {
+  "subject": "attendance",
+  "aspect": "minimum_percent",
+  "value": 90,
+  "section": "१२.२",
+  "page": 31,
+  "evidence": "किसी कार्यक्रम को पूर्ण मानने के लिए कर्मचारी को उसके कुल संपर्क-घंटों के कम से कम नब्बे प्रतिशत में उपस्थित रहना होगा।"
+ },
+ {
+  "subject": "attendance",
+  "aspect": "late_arrival_grace_minutes",
+  "value": 15,
+  "section": "१२.२",
+  "page": 31,
+  "evidence": "सत्र आरंभ होने के पंद्रह मिनट बाद तक पहुँचने वाले प्रतिभागी को उपस्थित माना जाएगा; उसके बाद पहुँचने पर वह उस सत्र के लिए अनुपस्थित अंकित होगा।"
+ },
+ {
+  "subject": "attendance",
+  "aspect": "record_entry_working_days",
+  "value": 3,
+  "section": "१२.३",
+  "page": 32,
+  "evidence": "प्रशिक्षक उपस्थिति-पत्रक उसी दिन प्रशिक्षण प्रकोष्ठ को सौंपेगा, और प्रकोष्ठ उसे तीन कार्यदिवस के भीतर प्रणाली में दर्ज करेगा।"
+ },
+ {
+  "subject": "attendance",
+  "aspect": "excuse_proof_working_days",
+  "value": 3,
+  "section": "१२.४",
+  "page": 32,
+  "evidence": "प्रमाण तीन कार्यदिवस के भीतर प्रस्तुत करना होगा।"
+ },
+ {
+  "subject": "repeat_absence",
+  "aspect": "elective_suspension_days",
+  "value": 180,
+  "section": "१२.५",
+  "page": 33,
+  "evidence": "तीसरी अनुपस्थिति पर उस कर्मचारी का ऐच्छिक नामांकन अगले एक सौ अस्सी दिन तक स्थगित रहता है।"
+ },
+ {
+  "subject": "repeat_absence",
+  "aspect": "personal_recovery_percent",
+  "value": 50,
+  "section": "१२.५",
+  "page": 33,
+  "evidence": "इसके अतिरिक्त, तीसरी अनुपस्थिति वाले ऐच्छिक कार्यक्रम की प्रति-सीट लागत का पचास प्रतिशत कर्मचारी से वसूला जा सकता है, किंतु यह वसूली मानव संसाधन प्रमुख के लिखित अनुमोदन के बिना नहीं होगी और उससे पूर्व कर्मचारी को अपना पक्ष रखने के लिए सात कार्यदिवस दिए जाएँगे।"
+ },
+ {
+  "subject": "repeat_absence",
+  "aspect": "response_working_days",
+  "value": 7,
+  "section": "१२.५",
+  "page": 33,
+  "evidence": "इसके अतिरिक्त, तीसरी अनुपस्थिति वाले ऐच्छिक कार्यक्रम की प्रति-सीट लागत का पचास प्रतिशत कर्मचारी से वसूला जा सकता है, किंतु यह वसूली मानव संसाधन प्रमुख के लिखित अनुमोदन के बिना नहीं होगी और उससे पूर्व कर्मचारी को अपना पक्ष रखने के लिए सात कार्यदिवस दिए जाएँगे।"
+ },
+ {
+  "subject": "withdrawal_recovery",
+  "aspect": "ten_or_more_working_days_percent",
+  "value": 0,
+  "section": "१३.२",
+  "page": 34,
+  "evidence": "| आरंभ से १० कार्यदिवस या उससे अधिक पूर्व | शून्य |"
+ },
+ {
+  "subject": "withdrawal_recovery",
+  "aspect": "six_to_nine_working_days_percent",
+  "value": 25,
+  "section": "१३.२",
+  "page": 34,
+  "evidence": "| आरंभ से ६ से ९ कार्यदिवस पूर्व | प्रति-सीट लागत का २५ प्रतिशत |"
+ },
+ {
+  "subject": "withdrawal_recovery",
+  "aspect": "three_to_five_working_days_percent",
+  "value": 50,
+  "section": "१३.२",
+  "page": 34,
+  "evidence": "| आरंभ से ३ से ५ कार्यदिवस पूर्व | प्रति-सीट लागत का ५० प्रतिशत |"
+ },
+ {
+  "subject": "withdrawal_recovery",
+  "aspect": "two_or_fewer_working_days_percent",
+  "value": 100,
+  "section": "१३.२",
+  "page": 34,
+  "evidence": "| आरंभ से २ कार्यदिवस या उससे कम पूर्व | प्रति-सीट लागत का १०० प्रतिशत |"
+ },
+ {
+  "subject": "substitution",
+  "aspect": "cutoff_working_days_before",
+  "value": 2,
+  "section": "१३.४",
+  "page": 35,
+  "evidence": "प्रतिस्थापन कार्यक्रम आरंभ से दो कार्यदिवस पूर्व तक स्वीकार किया जाता है, बशर्ते कि प्रतिस्थापित कर्मचारी कार्यक्रम की पूर्व-अपेक्षित योग्यता रखता हो और उसका प्रबंधकीय अनुमोदन उसी दिन प्राप्त हो जाए।"
+ },
+ {
+  "subject": "internal_trainer",
+  "aspect": "minimum_service_years",
+  "value": 3,
+  "section": "१४.२",
+  "page": 37,
+  "evidence": "संस्था में निरंतर सेवा कम से कम तीन वर्ष; जिस विषय पर पढ़ाना है उसमें कम से कम पाँच वर्ष का कार्यानुभव; तथा प्रशिक्षक-प्रशिक्षण कार्यक्रम, जो चौबीस संपर्क-घंटे का है, सफलतापूर्वक पूर्ण किया हुआ।"
+ },
+ {
+  "subject": "internal_trainer",
+  "aspect": "train_the_trainer_hours",
+  "value": 24,
+  "section": "१४.२",
+  "page": 37,
+  "evidence": "संस्था में निरंतर सेवा कम से कम तीन वर्ष; जिस विषय पर पढ़ाना है उसमें कम से कम पाँच वर्ष का कार्यानुभव; तथा प्रशिक्षक-प्रशिक्षण कार्यक्रम, जो चौबीस संपर्क-घंटे का है, सफलतापूर्वक पूर्ण किया हुआ।"
+ },
+ {
+  "subject": "internal_trainer",
+  "aspect": "demonstration_session_minutes",
+  "value": 45,
+  "section": "१४.२",
+  "page": 37,
+  "evidence": "आवेदन के बाद प्रत्याशी को एक प्रदर्शन-सत्र देना होता है, जिसकी अवधि पैंतालीस मिनट है और जिसे प्रशिक्षण प्रमुख तथा संबंधित विषय के एक वरिष्ठ कर्मी देखते हैं।"
+ },
+ {
+  "subject": "internal_trainer",
+  "aspect": "panel_validity_years",
+  "value": 2,
+  "section": "१४.२",
+  "page": 37,
+  "evidence": "पैनल-सदस्यता दो वर्ष के लिए दी जाती है और नवीकरण के लिए पुनः प्रदर्शन-सत्र आवश्यक नहीं, बशर्ते सदस्य ने प्रत्येक वर्ष कम से कम दो कार्यक्रम वितरित किए हों।"
+ },
+ {
+  "subject": "internal_trainer",
+  "aspect": "honorarium_per_contact_hour_rupees",
+  "value": 1100,
+  "section": "१४.३",
+  "page": 38,
+  "evidence": "आंतरिक प्रशिक्षक को वितरण के लिए प्रति संपर्क-घंटा एक हज़ार एक सौ रुपये का मानदेय देय है।"
+ },
+ {
+  "subject": "internal_trainer",
+  "aspect": "daily_honorarium_cap_rupees",
+  "value": 8800,
+  "section": "१४.३",
+  "page": 38,
+  "evidence": "किसी एक दिन के लिए अधिकतम मानदेय आठ हज़ार आठ सौ रुपये है, चाहे उस दिन कितने भी घंटे पढ़ाया गया हो।"
+ },
+ {
+  "subject": "internal_trainer",
+  "aspect": "content_development_rate_rupees",
+  "value": 2500,
+  "section": "१४.३",
+  "page": 38,
+  "evidence": "नई पाठ्य-सामग्री विकसित करने पर, प्रति विकसित संपर्क-घंटा दो हज़ार पाँच सौ रुपये का एकमुश्त मानदेय देय है।"
+ },
+ {
+  "subject": "internal_trainer",
+  "aspect": "annual_honorarium_cap_rupees",
+  "value": 90000,
+  "section": "१४.३",
+  "page": 38,
+  "evidence": "किसी एक प्रशिक्षक को एक वित्तीय वर्ष में कुल नब्बे हज़ार रुपये से अधिक मानदेय नहीं दिया जाएगा।"
+ },
+ {
+  "subject": "internal_trainer",
+  "aspect": "annual_delivery_cap_hours",
+  "value": 80,
+  "section": "१४.४",
+  "page": 39,
+  "evidence": "कोई भी कर्मचारी एक वित्तीय वर्ष में अस्सी घंटे से अधिक प्रशिक्षण-वितरण नहीं करेगा।"
+ },
+ {
+  "subject": "internal_trainer",
+  "aspect": "own_hours_credit_cap",
+  "value": 8,
+  "section": "१४.४",
+  "page": 39,
+  "evidence": "आंतरिक प्रशिक्षक द्वारा पढ़ाया गया समय उसके अपने न्यूनतम वार्षिक घंटों में अधिकतम आठ घंटे तक गिना जाता है।"
+ },
+ {
+  "subject": "internal_trainer",
+  "aspect": "unavailability_notice_working_days",
+  "value": 7,
+  "section": "१४.५",
+  "page": 40,
+  "evidence": "यदि निर्धारित प्रशिक्षक किसी कारण से अनुपलब्ध हो जाता है, तो उसे कम से कम सात कार्यदिवस पूर्व सूचित करना होगा, जिससे स्थानापन्न की व्यवस्था हो सके।"
+ },
+ {
+  "subject": "vendor_approval",
+  "aspect": "single_source_limit_rupees",
+  "value": 100000,
+  "section": "१५.२",
+  "page": 41,
+  "evidence": "| १,००,००० रुपये तक | एकल स्रोत स्वीकार्य, लिखित औचित्य सहित | प्रशिक्षण प्रमुख |"
+ },
+ {
+  "subject": "vendor_approval",
+  "aspect": "three_quotes_upper_limit_rupees",
+  "value": 500000,
+  "section": "१५.२",
+  "page": 41,
+  "evidence": "| १,००,००१ से ५,००,००० रुपये | कम से कम तीन तुलनीय उद्धरण | मानव संसाधन प्रमुख |"
+ },
+ {
+  "subject": "vendor_approval",
+  "aspect": "committee_upper_limit_rupees",
+  "value": 2500000,
+  "section": "१५.२",
+  "page": 41,
+  "evidence": "| ५,००,००१ से २५,००,००० रुपये | औपचारिक प्रस्ताव-आमंत्रण एवं तकनीकी-वाणिज्यिक मूल्यांकन | प्रशिक्षण संचालन समिति एवं वित्त नियंत्रक |"
+ },
+ {
+  "subject": "vendor_panel",
+  "aspect": "validity_years",
+  "value": 3,
+  "section": "१५.३",
+  "page": 41,
+  "evidence": "संस्था एक सूचीबद्ध प्रदाता-सूची रखती है, जिसकी वैधता तीन वर्ष की है और जिसकी वार्षिक पुनरीक्षा प्रत्येक वर्ष सितंबर में होती है।"
+ },
+ {
+  "subject": "vendor_panel",
+  "aspect": "pilot_batch_max_participants",
+  "value": 15,
+  "section": "१५.३",
+  "page": 42,
+  "evidence": "नया प्रदाता, चाहे उसके संदर्भ कितने भी अच्छे हों, पहले एक प्रायोगिक बैच ही चलाएगा, जिसमें अधिकतम पंद्रह प्रतिभागी होंगे।"
+ },
+ {
+  "subject": "vendor_panel",
+  "aspect": "concentration_limit_percent",
+  "value": 25,
+  "section": "१५.३",
+  "page": 42,
+  "evidence": "किसी एक प्रदाता को एक वित्तीय वर्ष में कुल प्रशिक्षण बजट के पच्चीस प्रतिशत से अधिक कार्य नहीं दिया जाएगा।"
+ },
+ {
+  "subject": "vendor_contract",
+  "aspect": "trainer_change_notice_working_days",
+  "value": 10,
+  "section": "१५.४",
+  "page": 42,
+  "evidence": "प्रदाता उसे बदलना चाहे तो कम से कम दस कार्यदिवस पूर्व सूचना देकर समकक्ष योग्यता वाले प्रशिक्षक का प्रस्ताव देगा, जिसे स्वीकार या अस्वीकार करने का अधिकार संस्था के पास रहेगा।"
+ },
+ {
+  "subject": "vendor_contract",
+  "aspect": "advance_payment_cap_percent",
+  "value": 30,
+  "section": "१५.४",
+  "page": 43,
+  "evidence": "अग्रिम भुगतान अनुबंध मूल्य के तीस प्रतिशत से अधिक नहीं होगा।"
+ },
+ {
+  "subject": "vendor_contract",
+  "aspect": "payment_days",
+  "value": 30,
+  "section": "१५.४",
+  "page": 43,
+  "evidence": "शेष भुगतान कार्यक्रम की समाप्ति, उपस्थिति-पत्रक की प्राप्ति तथा चालान प्रस्तुति के बाद तीस दिन के भीतर किया जाएगा।"
+ },
+ {
+  "subject": "conference",
+  "aspect": "minimum_service_months",
+  "value": 18,
+  "section": "१७.१",
+  "page": 47,
+  "evidence": "बाह्य सम्मेलन अथवा उद्योग-कार्यशाला में भागीदारी के लिए कर्मचारी की निरंतर सेवा कम से कम अठारह माह होनी चाहिए।"
+ },
+ {
+  "subject": "conference",
+  "aspect": "annual_event_limit",
+  "value": 2,
+  "section": "१७.१",
+  "page": 47,
+  "evidence": "कोई भी कर्मचारी एक वित्तीय वर्ष में अधिकतम दो बाह्य आयोजनों में संस्था के व्यय पर भाग ले सकता है।"
+ },
+ {
+  "subject": "conference",
+  "aspect": "per_department_limit",
+  "value": 3,
+  "section": "१७.१",
+  "page": 48,
+  "evidence": "एक ही आयोजन में एक विभाग से अधिकतम तीन कर्मचारी भेजे जाएँगे।"
+ },
+ {
+  "subject": "conference",
+  "aspect": "domestic_fee_cap_rupees",
+  "value": 35000,
+  "section": "१७.२",
+  "page": 48,
+  "evidence": "देश के भीतर होने वाले आयोजन के लिए पंजीकरण शुल्क की ऊपरी सीमा पैंतीस हज़ार रुपये प्रति कर्मचारी है।"
+ },
+ {
+  "subject": "conference",
+  "aspect": "international_fee_cap_rupees",
+  "value": 150000,
+  "section": "१७.२",
+  "page": 48,
+  "evidence": "देश के बाहर होने वाले आयोजन के लिए यह सीमा एक लाख पचास हज़ार रुपये है।"
+ },
+ {
+  "subject": "conference",
+  "aspect": "domestic_application_days_before",
+  "value": 45,
+  "section": "१७.३",
+  "page": 48,
+  "evidence": "देश के भीतर के आयोजन के लिए आवेदन आयोजन की तिथि से कम से कम पैंतालीस दिन पूर्व देना होगा।"
+ },
+ {
+  "subject": "conference",
+  "aspect": "international_application_days_before",
+  "value": 75,
+  "section": "१७.३",
+  "page": 48,
+  "evidence": "देश के बाहर के आयोजन के लिए यह अवधि पचहत्तर दिन है, और उस पर प्रबंधन मंडल के किसी सदस्य का अनुमोदन आवश्यक है।"
+ },
+ {
+  "subject": "conference",
+  "aspect": "speaker_material_review_working_days",
+  "value": 10,
+  "section": "१७.४",
+  "page": 49,
+  "evidence": "पहली, प्रस्तुत की जाने वाली सामग्री आयोजन से कम से कम दस कार्यदिवस पूर्व विभागाध्यक्ष तथा विधि विभाग को समीक्षा के लिए भेजनी होगी, जिससे किसी ग्राहक-गोपनीय अथवा स्वामित्व-युक्त सूचना का अनजाने प्रकटन न हो।"
+ },
+ {
+  "subject": "knowledge_sharing",
+  "aspect": "deadline_working_days",
+  "value": 20,
+  "section": "१७.५",
+  "page": 49,
+  "evidence": "जो कर्मचारी संस्था के व्यय पर किसी बाह्य आयोजन में गया है, उस पर लौटने के बीस कार्यदिवस के भीतर दो दायित्व हैं।"
+ },
+ {
+  "subject": "knowledge_sharing",
+  "aspect": "session_minutes",
+  "value": 60,
+  "section": "१७.५",
+  "page": 49,
+  "evidence": "पहला, वह अपने विभाग अथवा संबंधित रुचि-समूह के लिए कम से कम साठ मिनट का एक आंतरिक सत्र आयोजित करेगा, जिसकी व्यवस्था प्रशिक्षण प्रकोष्ठ करेगा।"
+ },
+ {
+  "subject": "knowledge_sharing",
+  "aspect": "summary_pages",
+  "value": 2,
+  "section": "१७.५",
+  "page": 50,
+  "evidence": "दूसरा, वह अधिकतम दो पृष्ठ का एक सार-लेख प्रशिक्षण प्रकोष्ठ को देगा, जिसमें आयोजन के प्रमुख विषय, संस्था के लिए उपयोगी निष्कर्ष तथा किसी अनुवर्ती कार्रवाई का सुझाव अंकित हो।"
+ },
+ {
+  "subject": "knowledge_sharing",
+  "aspect": "sponsorship_bar_days",
+  "value": 365,
+  "section": "१७.५",
+  "page": 50,
+  "evidence": "जो कर्मचारी बिना पर्याप्त कारण के इन दायित्वों को बीस कार्यदिवस के भीतर पूरा नहीं करता, वह अगले तीन सौ पैंसठ दिन तक किसी बाह्य आयोजन के लिए प्रायोजन का पात्र नहीं रहेगा।"
+ },
+ {
+  "subject": "service_bond",
+  "aspect": "cost_threshold_rupees",
+  "value": 115000,
+  "section": "१८.२",
+  "page": 51,
+  "evidence": "सेवा-बंधन तभी लागू होता है जब किसी एक कर्मचारी पर किसी एक कार्यक्रम की कुल लागत एक लाख पंद्रह हज़ार रुपये से अधिक हो।"
+ },
+ {
+  "subject": "service_bond",
+  "aspect": "slab_one_months",
+  "value": 12,
+  "section": "१८.३",
+  "page": 51,
+  "evidence": "| १,१५,००१ से ३,००,००० रुपये | १२ माह |"
+ },
+ {
+  "subject": "service_bond",
+  "aspect": "slab_two_months",
+  "value": 18,
+  "section": "१८.३",
+  "page": 51,
+  "evidence": "| ३,००,००१ से ६,००,००० रुपये | १८ माह |"
+ },
+ {
+  "subject": "service_bond",
+  "aspect": "slab_three_months",
+  "value": 24,
+  "section": "१८.३",
+  "page": 51,
+  "evidence": "| ६,००,००१ से १२,००,००० रुपये | २४ माह |"
+ },
+ {
+  "subject": "service_bond",
+  "aspect": "slab_four_months",
+  "value": 36,
+  "section": "१८.३",
+  "page": 51,
+  "evidence": "| १२,००,००० रुपये से अधिक | ३६ माह |"
+ },
+ {
+  "subject": "service_bond",
+  "aspect": "maximum_months",
+  "value": 36,
+  "section": "१८.३",
+  "page": 51,
+  "evidence": "किसी भी परिस्थिति में सेवा-बंधन की अवधि छत्तीस माह से अधिक नहीं होगी।"
+ },
+ {
+  "subject": "service_bond",
+  "aspect": "signing_review_working_days",
+  "value": 3,
+  "section": "१८.४",
+  "page": 52,
+  "evidence": "कर्मचारी को हस्ताक्षर से पूर्व पत्र पढ़ने के लिए कम से कम तीन कार्यदिवस का समय दिया जाएगा, और वह चाहे तो मानव संसाधन विभाग से स्पष्टीकरण माँग सकता है।"
+ },
+ {
+  "subject": "service_bond",
+  "aspect": "part_month_rounding_days",
+  "value": 15,
+  "section": "१८.५",
+  "page": 53,
+  "evidence": "शेष माहों की गणना में पंद्रह दिन से अधिक की अवधि को पूर्ण माह माना जाता है और उससे कम को छोड़ दिया जाता है।"
+ },
+ {
+  "subject": "service_bond",
+  "aspect": "maximum_recovery_instalments",
+  "value": 6,
+  "section": "१८.५",
+  "page": 53,
+  "evidence": "यदि अंतिम भुगतान से राशि पूरी न हो, तो शेष के लिए कर्मचारी से लिखित भुगतान-व्यवस्था की जाएगी, जिसकी अधिकतम अवधि छह मासिक किस्तें होंगी।"
+ },
+ {
+  "subject": "training_records",
+  "aspect": "employee_register_retention_years",
+  "value": 5,
+  "section": "१९.३",
+  "page": 55,
+  "evidence": "कर्मचारी की प्रशिक्षण-पंजी — सेवा-समाप्ति के बाद पाँच वर्ष।"
+ },
+ {
+  "subject": "training_records",
+  "aspect": "mandatory_records_retention_years",
+  "value": 8,
+  "section": "१९.३",
+  "page": 55,
+  "evidence": "अनिवार्य एवं अनुपालन प्रशिक्षण के अभिलेख — कार्यक्रम की तिथि से आठ वर्ष, क्योंकि इन्हें विधिक अथवा ग्राहक-अंकेक्षण में प्रस्तुत करना पड़ सकता है।"
+ },
+ {
+  "subject": "training_records",
+  "aspect": "attendance_sheet_retention_years",
+  "value": 7,
+  "section": "१९.३",
+  "page": 55,
+  "evidence": "हस्ताक्षरित उपस्थिति-पत्रक — सात वर्ष।"
+ },
+ {
+  "subject": "training_records",
+  "aspect": "nomination_records_retention_years",
+  "value": 3,
+  "section": "१९.३",
+  "page": 55,
+  "evidence": "नामांकन, अनुमोदन तथा प्रतीक्षा सूची के अभिलेख — तीन वर्ष।"
+ },
+ {
+  "subject": "training_records",
+  "aspect": "correction_objection_working_days",
+  "value": 15,
+  "section": "१९.२",
+  "page": 54,
+  "evidence": "यदि किसी कर्मचारी को अपनी पंजी में कोई प्रविष्टि त्रुटिपूर्ण लगे, तो वह प्रविष्टि दिखने के पंद्रह कार्यदिवस के भीतर प्रशिक्षण प्रकोष्ठ को आपत्ति दे सकता है।"
+ },
+ {
+  "subject": "training_records",
+  "aspect": "correction_resolution_working_days",
+  "value": 7,
+  "section": "१९.२",
+  "page": 55,
+  "evidence": "प्रकोष्ठ उपस्थिति-पत्रक अथवा मंच-अभिलेख से मिलान कर सात कार्यदिवस के भीतर निपटान करेगा और कर्मचारी को लिखित उत्तर देगा।"
+ },
+ {
+  "subject": "facilities",
+  "aspect": "room_booking_working_days_before",
+  "value": 10,
+  "section": "२०.१",
+  "page": 56,
+  "evidence": "कक्ष का आरक्षण प्रशिक्षण प्रकोष्ठ करता है, कार्यक्रम से कम से कम दस कार्यदिवस पूर्व।"
+ },
+ {
+  "subject": "facilities",
+  "aspect": "booking_cancellation_notice_hours",
+  "value": 48,
+  "section": "२०.१",
+  "page": 56,
+  "evidence": "आरक्षण रद्द करने की सूचना कम से कम अड़तालीस घंटे पूर्व देनी होगी, जिससे कक्ष अन्य उपयोग के लिए मुक्त हो सके।"
+ },
+ {
+  "subject": "facilities",
+  "aspect": "material_submission_working_days_before",
+  "value": 5,
+  "section": "२०.२",
+  "page": 56,
+  "evidence": "पाठ्य-सामग्री की अंतिम प्रति कार्यक्रम से पाँच कार्यदिवस पूर्व प्रकोष्ठ को मिल जानी चाहिए, चाहे प्रशिक्षक आंतरिक हो या बाह्य।"
+ },
+ {
+  "subject": "facilities",
+  "aspect": "full_day_refreshment_cap_rupees",
+  "value": 220,
+  "section": "२०.२",
+  "page": 57,
+  "evidence": "जलपान की व्यवस्था पूर्ण-दिवस कार्यक्रम में प्रति प्रतिभागी दो सौ बीस रुपये तथा अर्ध-दिवस कार्यक्रम में एक सौ बीस रुपये की सीमा तक की जाएगी।"
+ },
+ {
+  "subject": "facilities",
+  "aspect": "external_venue_per_participant_per_day_rupees",
+  "value": 1800,
+  "section": "२०.३",
+  "page": 57,
+  "evidence": "बाह्य स्थल पर प्रति प्रतिभागी प्रति दिन एक हज़ार आठ सौ रुपये तक का स्थल-व्यय स्वीकार्य है, जिसमें कक्ष, उपकरण तथा जलपान सम्मिलित हैं।"
+ },
+ {
+  "subject": "online_delivery",
+  "aspect": "max_continuous_session_minutes",
+  "value": 90,
+  "section": "२०.४",
+  "page": 58,
+  "evidence": "ऑनलाइन सत्र की अधिकतम निरंतर अवधि नब्बे मिनट है, जिसके बाद कम से कम पंद्रह मिनट का अवकाश अनिवार्य है।"
+ },
+ {
+  "subject": "online_delivery",
+  "aspect": "daily_cap_hours",
+  "value": 4,
+  "section": "२०.४",
+  "page": 58,
+  "evidence": "एक दिन में ऑनलाइन वितरण चार घंटे से अधिक नहीं होगा, क्योंकि उससे अधिक पर उपस्थिति तो बनी रहती है पर ध्यान नहीं।"
+ },
+ {
+  "subject": "online_delivery",
+  "aspect": "recording_retention_days",
+  "value": 90,
+  "section": "२०.४",
+  "page": 58,
+  "evidence": "ऐसी प्रति नब्बे दिन तक आंतरिक संग्रह में रहेगी और उसका उपयोग केवल उन कर्मचारियों के लिए होगा जो क्षम्य कारण से अनुपस्थित रहे; अभिलेखन देख लेने से उपस्थिति की पूर्ति नहीं होती।"
+ },
+ {
+  "subject": "steering_committee",
+  "aspect": "member_count",
+  "value": 7,
+  "section": "४.१",
+  "page": 8,
+  "evidence": "प्रशिक्षण संबंधी नीतिगत निर्णयों के लिए एक स्थायी समिति गठित है, जिसमें सात सदस्य होते हैं: मानव संसाधन प्रमुख (अध्यक्ष), प्रशिक्षण प्रमुख (सदस्य-सचिव), वितरण विभाग का एक वरिष्ठ प्रतिनिधि, प्रौद्योगिकी विभाग का एक वरिष्ठ प्रतिनिधि, वित्त नियंत्रक अथवा उनका नामित अधिकारी, गुणवत्ता एवं अनुपालन विभाग का एक प्रतिनिधि, तथा विभागीय प्रशिक्षण समन्वयकों में से आवर्तन द्वारा चुना गया एक सदस्य।"
+ },
+ {
+  "subject": "steering_committee",
+  "aspect": "quorum",
+  "value": 4,
+  "section": "४.१",
+  "page": 8,
+  "evidence": "गणपूर्ति के लिए चार सदस्यों की उपस्थिति आवश्यक है, जिनमें अध्यक्ष अथवा उनके द्वारा लिखित रूप से नामित सदस्य का होना अनिवार्य है।"
+ },
+ {
+  "subject": "steering_committee",
+  "aspect": "minutes_circulation_working_days",
+  "value": 5,
+  "section": "४.१",
+  "page": 9,
+  "evidence": "समिति की कार्यवाही का विवरण बैठक के पाँच कार्यदिवस के भीतर परिचालित किया जाता है और उस पर आपत्ति के लिए तीन कार्यदिवस का समय रहता है।"
+ },
+ {
+  "subject": "training_cell",
+  "aspect": "officers_per_employees",
+  "value": 400,
+  "section": "४.२",
+  "page": 9,
+  "evidence": "प्रकोष्ठ में प्रत्येक चार सौ कर्मचारियों पर कम से कम एक पूर्णकालिक अधिकारी होना चाहिए; यह अनुपात केवल संचालन-क्षमता की न्यूनतम माप है और इसे ऊपर की ओर बढ़ाने के लिए प्रबंधन मंडल की स्वीकृति अपेक्षित है।"
+ },
+ {
+  "subject": "training_coordinator",
+  "aspect": "employees_per_coordinator",
+  "value": 60,
+  "section": "४.३",
+  "page": 9,
+  "evidence": "प्रत्येक विभाग अपने यहाँ प्रति साठ कर्मचारियों पर एक विभागीय प्रशिक्षण समन्वयक नामित करेगा, और जिस विभाग में साठ से कम कर्मचारी हैं वहाँ भी कम से कम एक।"
+ },
+ {
+  "subject": "training_coordinator",
+  "aspect": "monthly_time_allowance_hours",
+  "value": 8,
+  "section": "४.३",
+  "page": 10,
+  "evidence": "समन्वयक का कार्यभार उसके मूल कार्य के अतिरिक्त होता है, किंतु इस भूमिका के लिए प्रति माह आठ घंटे का समय उसके कार्य-आवंटन में स्वीकृत माना जाएगा।"
+ },
+ {
+  "subject": "exceptions",
+  "aspect": "maximum_duration_days",
+  "value": 120,
+  "section": "२२.१",
+  "page": 61,
+  "evidence": "कोई भी अपवाद एक सौ बीस दिन से अधिक के लिए नहीं दिया जाएगा।"
+ },
+ {
+  "subject": "exceptions",
+  "aspect": "training_head_financial_limit_rupees",
+  "value": 15000,
+  "section": "२२.३",
+  "page": 61,
+  "evidence": "प्रशिक्षण प्रमुख पंद्रह हज़ार रुपये तक के वित्तीय प्रभाव वाले तथा केवल प्रक्रियागत समय-सीमाओं से संबंधित अपवाद दे सकते हैं।"
+ },
+ {
+  "subject": "exceptions",
+  "aspect": "post_facto_application_working_days",
+  "value": 3,
+  "section": "२२.१",
+  "page": 60,
+  "evidence": "कार्य कर लेने के बाद नियमन केवल तभी विचारित होगा जब परिस्थिति वास्तव में आकस्मिक थी, और ऐसे आवेदन घटना के तीन कार्यदिवस के भीतर देने होंगे।"
+ },
+ {
+  "subject": "dispute",
+  "aspect": "recovery_objection_working_days",
+  "value": 10,
+  "section": "२२.४",
+  "page": 62,
+  "evidence": "लागत-वसूली से संबंधित विवाद में कर्मचारी वसूली की सूचना से दस कार्यदिवस के भीतर प्रशिक्षण प्रमुख को लिखित आपत्ति देगा।"
+ },
+ {
+  "subject": "annual_compliance_report",
+  "aspect": "submission_date_april",
+  "value": 30,
+  "section": "२४.२",
+  "page": 71,
+  "evidence": "प्रत्येक वर्ष ३० अप्रैल तक प्रशिक्षण प्रमुख पिछले वित्तीय वर्ष की अनुपालन विवरणी प्रस्तुत करेंगे, जिसमें ये तथ्य रहेंगे: ग्रेडवार न्यूनतम घंटों की पूर्ति का प्रतिशत; अनिवार्य कार्यक्रमों की समय पर पूर्णता का प्रतिशत; कैलेंडर के विरुद्ध वास्तव में संचालित कार्यक्रमों की संख्या; आंतरिक बनाम बाह्य वितरण का अनुपात; बजट का उपयोग मदवार; स्थगित एवं रद्द कार्यक्रमों की संख्या तथा उनके कारण; प्रति-सीट औसत लागत; प्रतीक्षा सूची में अपूर्ण रह गए नामांकनों की संख्या; तथा दी गई छूटों की सूची।"
+ },
+ {
+  "subject": "policy_amendment",
+  "aspect": "comment_period_working_days",
+  "value": 15,
+  "section": "२४.४",
+  "page": 72,
+  "evidence": "समिति की संस्तुति के बाद मसौदा विभागाध्यक्षों को पंद्रह कार्यदिवस की टिप्पणी-अवधि के साथ परिचालित होगा।"
+ },
+ {
+  "subject": "policy_amendment",
+  "aspect": "effective_after_days",
+  "value": 30,
+  "section": "२४.४",
+  "page": 72,
+  "evidence": "अनुमोदित संशोधन प्रकाशन के तीस दिन बाद प्रभावी होगा, सिवाय उन संशोधनों के जो किसी विधिक दायित्व से उत्पन्न हों — वे तत्काल प्रभावी होंगे।"
+ },
+ {
+  "subject": "example_withdrawal",
+  "aspect": "per_seat_cost_rupees",
+  "value": 18600,
+  "section": "२३.१",
+  "page": 63,
+  "evidence": "वितरण विभाग की अनुजा वर्मा ने एक बाह्य प्रदाता द्वारा संचालित तीन-दिवसीय कार्यक्रम में नामांकन कराया था, जिसकी प्रकाशित प्रति-सीट लागत अठारह हज़ार छह सौ रुपये थी।"
+ },
+ {
+  "subject": "example_bond",
+  "aspect": "programme_cost_rupees",
+  "value": 440000,
+  "section": "२३.२",
+  "page": 64,
+  "evidence": "प्रौद्योगिकी विभाग के रोहित सांखला को एक विशेषीकृत बाह्य कार्यक्रम में भेजा गया, जिसकी कुल लागत — शुल्क, सामग्री तथा कार्यक्रम-विशिष्ट यात्रा एवं ठहरने को मिलाकर — चार लाख चालीस हज़ार रुपये थी।"
+ },
+ {
+  "subject": "example_bond",
+  "aspect": "remaining_months",
+  "value": 10,
+  "section": "२३.२",
+  "page": 65,
+  "evidence": "शेष अवधि दस माह बनी।"
+ },
+ {
+  "subject": "example_bond",
+  "aspect": "recovery_amount_rupees",
+  "value": 244444,
+  "section": "२३.२",
+  "page": 65,
+  "evidence": "वसूली की गणना इस प्रकार हुई: चार लाख चालीस हज़ार को अठारह से विभाजित करने पर प्रति माह चौबीस हज़ार चार सौ चौवालीस रुपये चवालीस पैसे आते हैं; इसे दस से गुणा करने पर वसूली-योग्य राशि दो लाख चौवालीस हज़ार चार सौ चौवालीस रुपये बनती है।"
+ },
+ {
+  "subject": "example_oversubscription",
+  "aspect": "valid_nominations",
+  "value": 34,
+  "section": "२३.३",
+  "page": 66,
+  "evidence": "एक तकनीकी कार्यक्रम, जो कक्षा-आधारित था और जिसकी क्षमता चौबीस थी, के लिए नामांकन बंद होने तक चौंतीस वैध नामांकन प्राप्त हुए।"
+ },
+ {
+  "subject": "example_oversubscription",
+  "aspect": "next_quarter_nominations",
+  "value": 39,
+  "section": "२३.३",
+  "page": 67,
+  "evidence": "अगली तिमाही में उसी कार्यक्रम के लिए उनतालीस नामांकन आए।"
+ },
+ {
+  "subject": "example_trainer_honorarium",
+  "aspect": "content_development_rupees",
+  "value": 15000,
+  "section": "२३.४",
+  "page": 67,
+  "evidence": "सामग्री-विकास का मानदेय छह संपर्क-घंटों के लिए प्रति घंटा दो हज़ार पाँच सौ रुपये की दर से पंद्रह हज़ार रुपये बना, जो प्रथम बैच के बाद देय हुआ।"
+ },
+ {
+  "subject": "example_trainer_honorarium",
+  "aspect": "delivery_rupees",
+  "value": 19800,
+  "section": "२३.४",
+  "page": 67,
+  "evidence": "वितरण का मानदेय तीन बैचों के कुल अठारह संपर्क-घंटों के लिए, प्रति घंटा एक हज़ार एक सौ रुपये की दर से, उन्नीस हज़ार आठ सौ रुपये बना।"
+ },
+ {
+  "subject": "example_trainer_honorarium",
+  "aspect": "total_rupees",
+  "value": 34800,
+  "section": "२३.४",
+  "page": 67,
+  "evidence": "कुल मानदेय चौंतीस हज़ार आठ सौ रुपये हुआ, जो वार्षिक सीमा नब्बे हज़ार रुपये के भीतर है।"
+ },
+ {
+  "subject": "example_vendor_split",
+  "aspect": "contract_value_rupees",
+  "value": 680000,
+  "section": "२३.६",
+  "page": 70,
+  "evidence": "एक विभाग ने छह लाख अस्सी हज़ार रुपये मूल्य के एक प्रशिक्षण-कार्यक्रम के लिए प्रस्ताव भेजा और साथ ही यह सुझाव दिया कि इसे तीन लाख चालीस हज़ार रुपये के दो आदेशों में बाँट दिया जाए, जिससे प्रस्ताव-आमंत्रण की लंबी प्रक्रिया से बचा जा सके और कार्यक्रम उसी तिमाही में हो सके।"
+ }
+]
