@@ -1,0 +1,1766 @@
+[
+ {
+  "id": "TR-BN-0010",
+  "packet": "BN01",
+  "lid": "BN01-010",
+  "language": "Bengali",
+  "hop_type": "cross_document",
+  "question": "মানবসম্পদ প্রশিক্ষণ কর্মশালায় প্রশ্ন উঠেছে: পদসংকোচনের নির্বাচনে \"একাধিক ভূমিকায় কাজ করার সক্ষমতা\" যে ভারাঙ্ক পায়, নিয়োগ সাক্ষাৎকারে \"সহযোগিতা ও যোগাযোগ\" তার চেয়ে কত বিন্দু কম ভারাঙ্ক পায়?",
+  "short_answer": "৮ বিন্দু কম (২০ বনাম ১২)",
+  "answer": "প্রস্থান নির্দেশিকার ধারা ১৯.৩ অনুযায়ী একাধিক ভূমিকায় কাজ করার সক্ষমতার ভারাঙ্ক ২০। নিয়োগ নির্দেশিকার ধারা ১২.১ অনুযায়ী সহযোগিতা ও যোগাযোগের ভারাঙ্ক ১২ শতাংশ। অতএব সহযোগিতা ও যোগাযোগ ২০ − ১২ = ৮ বিন্দু কম ভারাঙ্ক পায়।",
+  "source": [
+   {
+    "language": "Bengali",
+    "document": "01_recruitment",
+    "section": "১২.১"
+   },
+   {
+    "language": "Bengali",
+    "document": "04_separation",
+    "section": "১৯.৩"
+   }
+  ],
+  "supporting_facts": [
+   {
+    "language": "Bengali",
+    "document": "01_recruitment",
+    "subject": "scoring_weights",
+    "aspect": "collaboration_percent"
+   },
+   {
+    "language": "Bengali",
+    "document": "04_separation",
+    "subject": "redundancy",
+    "aspect": "selection_weight_versatility"
+   }
+  ]
+ },
+ {
+  "id": "TR-BN-0024",
+  "packet": "BN01",
+  "lid": "BN01-024",
+  "language": "Bengali",
+  "hop_type": "cross_document",
+  "question": "বার্ষিক দুইবার সম্পদতালিকা যাচাইয়ের সময় কর্মীকে তাঁর নামে নথিভুক্ত সম্পদের তালিকা পাঠানো হয় এবং আপত্তি জানানোর একটি সময়সীমা থাকে; অন্যদিকে সাক্ষাৎকারে নিষিদ্ধ প্রশ্নের শিকার প্রার্থী লিখিত অভিযোগ জানানোর একটি সময়সীমা পান। কোন সময়সীমাটি দীর্ঘতর, এবং কত দিন?",
+  "short_answer": "প্রার্থীর অভিযোগের সময়সীমা; ৪ দিন দীর্ঘতর (১৪ বনাম ১০)",
+  "answer": "প্রস্থান নির্দেশিকার ধারা ১১.১ অনুযায়ী কর্মী ১০ দিনের মধ্যে আপত্তি না জানালে সম্পদতালিকা সঠিক বলে গণ্য হয়। নিয়োগ নির্দেশিকার ধারা ১১.৪ অনুযায়ী প্রার্থী সাক্ষাৎকারের তারিখ থেকে ১৪ দিনের মধ্যে লিখিত অভিযোগ জানাতে পারেন। অতএব অভিযোগের সময়সীমা ১৪ − ১০ = ৪ দিন দীর্ঘতর।",
+  "source": [
+   {
+    "language": "Bengali",
+    "document": "04_separation",
+    "section": "১১.১"
+   },
+   {
+    "language": "Bengali",
+    "document": "01_recruitment",
+    "section": "১১.৪"
+   }
+  ],
+  "supporting_facts": [
+   {
+    "language": "Bengali",
+    "document": "04_separation",
+    "subject": "asset_return",
+    "aspect": "inventory_objection_window_days"
+   },
+   {
+    "language": "Bengali",
+    "document": "01_recruitment",
+    "subject": "prohibited_question_complaint",
+    "aspect": "filing_days"
+   }
+  ]
+ },
+ {
+  "id": "TR-BN-0027",
+  "packet": "BN01",
+  "lid": "BN01-027",
+  "language": "Bengali",
+  "hop_type": "cross_document",
+  "question": "প্রস্থান সাক্ষাৎকারের অনুমোদিত প্রশ্নসূচির মূল প্রশ্নসংখ্যা নিয়োগ সাক্ষাৎকারের মূল প্রশ্নগুচ্ছে আচরণভিত্তিক (অতীতের নির্দিষ্ট ঘটনা-সংক্রান্ত) প্রশ্নসংখ্যার কত গুণ?",
+  "short_answer": "৩ গুণ (১২ বনাম ৪)",
+  "answer": "প্রস্থান নির্দেশিকার ধারা ৯.৫ অনুযায়ী প্রস্থান সাক্ষাৎকারের প্রশ্নসূচিতে ১২টি মূল প্রশ্ন আছে। নিয়োগ নির্দেশিকার ধারা ১০.৩ অনুযায়ী মূল প্রশ্নগুচ্ছের ৪টি প্রশ্ন আচরণভিত্তিক। অতএব অনুপাত ১২ ÷ ৪ = ৩ গুণ।",
+  "source": [
+   {
+    "language": "Bengali",
+    "document": "01_recruitment",
+    "section": "১০.৩"
+   },
+   {
+    "language": "Bengali",
+    "document": "04_separation",
+    "section": "৯.৫"
+   }
+  ],
+  "supporting_facts": [
+   {
+    "language": "Bengali",
+    "document": "01_recruitment",
+    "subject": "question_set",
+    "aspect": "behavioural_questions"
+   },
+   {
+    "language": "Bengali",
+    "document": "04_separation",
+    "subject": "exit_interview",
+    "aspect": "core_question_count"
+   }
+  ]
+ },
+ {
+  "id": "TR-BN-0033",
+  "packet": "BN01",
+  "lid": "BN01-033",
+  "language": "Bengali",
+  "hop_type": "cross_section",
+  "question": "ব্যবস্থাপক স্তরের একটি পদের প্রার্থীকে গৃহে সম্পাদনযোগ্য অনুশীলন দেওয়া হবে, এবং পরে তাঁর একটি নিয়মিত সাক্ষাৎকারও হবে। অনুশীলনের প্রাক্কলিত সময়ের সর্বোচ্চ সীমা ওই স্তরের সাক্ষাৎকারের জন্য বরাদ্দ সময়ের কত গুণ, এবং মিনিটে কত বেশি?",
+  "short_answer": "৩ গুণ; ১২০ মিনিট বেশি (১৮০ বনাম ৬০)",
+  "answer": "নিয়োগ নির্দেশিকার ধারা ১৩.৩ অনুযায়ী ব্যবস্থাপক পর্যন্ত স্তরে গৃহে সম্পাদনযোগ্য অনুশীলনের প্রাক্কলিত সময় ১৮০ মিনিটের বেশি হতে পারে না। ধারা ১০.৭ অনুযায়ী নির্বাহী ও ব্যবস্থাপক স্তরে সাক্ষাৎকারের জন্য ৬০ মিনিট বরাদ্দ। অতএব সীমাটি ১৮০ ÷ ৬০ = ৩ গুণ, অর্থাৎ ১২০ মিনিট বেশি।",
+  "source": [
+   {
+    "language": "Bengali",
+    "document": "01_recruitment",
+    "section": "১০.৭"
+   },
+   {
+    "language": "Bengali",
+    "document": "01_recruitment",
+    "section": "১৩.৩"
+   }
+  ],
+  "supporting_facts": [
+   {
+    "language": "Bengali",
+    "document": "01_recruitment",
+    "subject": "interview_scheduling",
+    "aspect": "duration_manager_minutes"
+   },
+   {
+    "language": "Bengali",
+    "document": "01_recruitment",
+    "subject": "work_sample_test",
+    "aspect": "max_duration_manager_minutes"
+   }
+  ]
+ },
+ {
+  "id": "TR-BN-0037",
+  "packet": "BN02",
+  "lid": "BN02-001",
+  "language": "Bengali",
+  "hop_type": "cross_document",
+  "question": "এক কর্মী সদ্য হাইব্রিড কর্মপদ্ধতিতে গেলেন। তাঁর হাইব্রিড ব্যবস্থার প্রাথমিক মেয়াদ যতদিন, সেই পুরো সময়ে প্রতিষ্ঠান তাঁর জন্য গোষ্ঠী বিমা প্রিমিয়াম বাবদ মোট কত টাকা বহন করবে, যদি প্রিমিয়ামের হার অপরিবর্তিত থাকে?",
+  "short_answer": "₹২,৮৮০ (২৪ মাস × মাসিক ₹১২০)",
+  "answer": "বেতন কাঠামো নির্দেশিকার ধারা ৫.৮ অনুসারে গোষ্ঠী বিমা প্রিমিয়াম বার্ষিক ₹১,৪৪০, অর্থাৎ মাসিক ₹১২০। দূরবর্তী ও হাইব্রিড কর্মপদ্ধতি নির্দেশিকার ধারা ৬.৩ অনুসারে হাইব্রিড ব্যবস্থার প্রাথমিক মেয়াদ ২৪ মাস, অর্থাৎ দুই বছর। অতএব মোট প্রিমিয়াম ২ × ₹১,৪৪০ = ₹২,৮৮০।",
+  "source": [
+   {
+    "language": "Bengali",
+    "document": "02_compensation_payroll",
+    "section": "৫.৮"
+   },
+   {
+    "language": "Bengali",
+    "document": "03_remote_hybrid",
+    "section": "৬.৩"
+   }
+  ],
+  "supporting_facts": [
+   {
+    "language": "Bengali",
+    "document": "02_compensation_payroll",
+    "subject": "group_insurance",
+    "aspect": "annual_premium_inr"
+   },
+   {
+    "language": "Bengali",
+    "document": "03_remote_hybrid",
+    "subject": "hybrid_arrangement",
+    "aspect": "initial_term_months"
+   }
+  ]
+ },
+ {
+  "id": "TR-BN-0066",
+  "packet": "BN02",
+  "lid": "BN02-030",
+  "language": "Bengali",
+  "hop_type": "cross_document",
+  "question": "এক কর্মী ব্যক্তিগত ভ্রমণের সময় বিদেশ থেকে কাজ শুরু করতে চান সেই দিন থেকে, যা প্রতি অর্থবর্ষে ভবিষ্য নিধিতে সম্পূর্ণ মজুরির উপর অংশদানের ঘোষণা দাখিলের শেষ তারিখ। বিদেশ থেকে কাজের আবেদন সর্বশেষ কবে করতে হবে, এবং একটানা সর্বাধিক কতদিন তিনি বিদেশ থেকে কাজ করতে পারবেন?",
+  "short_answer": "৩১ মার্চের মধ্যে আবেদন; সর্বাধিক ১৫ পরপর দিন",
+  "answer": "বেতন কাঠামো নির্দেশিকার ধারা ১০.২ অনুসারে সম্পূর্ণ মজুরির ঘোষণা প্রতি অর্থবর্ষের ৩০ এপ্রিলের মধ্যে দাখিল করতে হয়, তাই কাজ শুরু ৩০ এপ্রিল। দূরবর্তী কর্মপদ্ধতি নির্দেশিকার ধারা ৮.৫ অনুসারে এক অর্থবর্ষে সর্বাধিক ১৫ পরপর দিন বিদেশ থেকে কাজ অনুমোদিত, এবং আবেদন অন্তত ৩০ দিন পূর্বে করতে হয়। ৩০ এপ্রিল থেকে ৩০ দিন আগে ৩১ মার্চ।",
+  "source": [
+   {
+    "language": "Bengali",
+    "document": "03_remote_hybrid",
+    "section": "৮.৫"
+   },
+   {
+    "language": "Bengali",
+    "document": "02_compensation_payroll",
+    "section": "১০.২"
+   }
+  ],
+  "supporting_facts": [
+   {
+    "language": "Bengali",
+    "document": "03_remote_hybrid",
+    "subject": "work_from_abroad",
+    "aspect": "max_consecutive_days_and_advance_notice"
+   },
+   {
+    "language": "Bengali",
+    "document": "02_compensation_payroll",
+    "subject": "pf_full_wage_option",
+    "aspect": "declaration_deadline"
+   }
+  ]
+ },
+ {
+  "id": "TR-HI-0024",
+  "packet": "HI01",
+  "lid": "HI01-024",
+  "language": "Hindi",
+  "hop_type": "cross_document",
+  "question": "अप्रयुक्त आकस्मिक अवकाश के अर्जित अवकाश खाते में स्वतः अंतरण की अंतिम तिथि से लेकर भविष्य निधि पर वार्षिक ब्याज दर की घोषणा की अंतिम तिथि तक, एक ही कैलेंडर वर्ष में कितने दिन होते हैं?",
+  "short_answer": "८१ दिन (१० अप्रैल से ३० जून)",
+  "answer": "अवकाश नीति की धारा ५.६ के अनुसार अंतरण १० अप्रैल तक स्वतः संपन्न होता है। सेवानिवृत्ति निर्देशिका की धारा ९.४ के अनुसार न्यास मंडल ब्याज दर प्रत्येक वर्ष ३० जून तक घोषित करता है। अप्रैल के शेष २० दिन, मई के ३१ और जून के ३० दिन मिलाकर ८१ दिन होते हैं।",
+  "source": [
+   {
+    "language": "Hindi",
+    "document": "02_leave",
+    "section": "५.६"
+   },
+   {
+    "language": "Hindi",
+    "document": "09_retirement_pf",
+    "section": "९.४"
+   }
+  ],
+  "supporting_facts": [
+   {
+    "language": "Hindi",
+    "document": "02_leave",
+    "subject": "casual_leave",
+    "aspect": "transfer_completion_date"
+   },
+   {
+    "language": "Hindi",
+    "document": "09_retirement_pf",
+    "subject": "interest_rate_declaration",
+    "aspect": "deadline"
+   }
+  ]
+ },
+ {
+  "id": "TR-HI-0038",
+  "packet": "HI02",
+  "lid": "HI02-001",
+  "language": "Hindi",
+  "hop_type": "cross_document",
+  "question": "स्तर ग-४ का एक कर्मचारी नगर-श्रेणी अ के एक नगर में ४ पूर्ण दिवस के दौरे पर था (चारों दिन मुख्यालय से पूरे २४ घंटे अनुपस्थित, कोई भोजन उपलब्ध नहीं कराया गया)। अंतिम दिन दुर्घटना होने पर उसे आपातकालीन सड़क-मार्ग रोगी-वाहन से अस्पताल ले जाया गया, जिसका व्यय ४,५०० रुपये आया। दैनिक भत्ते और समूह स्वास्थ्य बीमा के अंतर्गत रोगी-वाहन व्यय को मिलाकर उसे कुल कितनी राशि मिलेगी?",
+  "short_answer": "१०,२०० रुपये (भत्ता ७,२०० + रोगी-वाहन ३,०००)",
+  "answer": "यात्रा एवं व्यय प्रतिपूर्ति नियमावली की धारा ६.२ के अनुसार स्तर ग-४ को नगर-श्रेणी अ में प्रति दिवस १,८०० रुपये दैनिक भत्ता देय है, अतः ४ दिवस का भत्ता ७,२०० रुपये हुआ। कर्मचारी लाभ एवं बीमा नीति की धारा ५.४ के अनुसार सड़क-मार्ग रोगी-वाहन का व्यय प्रति भर्ती अधिकतम ३,००० रुपये तक देय है, इसलिए ४,५०० में से ३,००० रुपये मिलेंगे। कुल राशि ७,२०० + ३,००० = १०,२०० रुपये है।",
+  "source": [
+   {
+    "language": "Hindi",
+    "document": "03_travel_expense",
+    "section": "६.२"
+   },
+   {
+    "language": "Hindi",
+    "document": "08_benefits_insurance",
+    "section": "५.४"
+   }
+  ],
+  "supporting_facts": [
+   {
+    "language": "Hindi",
+    "document": "03_travel_expense",
+    "subject": "daily_allowance",
+    "aspect": "amount_inr_metro_grade4"
+   },
+   {
+    "language": "Hindi",
+    "document": "08_benefits_insurance",
+    "subject": "road_ambulance",
+    "aspect": "per_admission_limit_inr"
+   }
+  ]
+ },
+ {
+  "id": "TR-HI-0042",
+  "packet": "HI02",
+  "lid": "HI02-005",
+  "language": "Hindi",
+  "hop_type": "cross_document",
+  "question": "संस्था का अतिथि-गृह खाली होने के बावजूद एक कर्मचारी ने ६ रात्रि के लिए १,८०० रुपये प्रति रात्रि वाले बाह्य आवास-गृह में ठहरना चुना। इस निर्णय से उसे जो राशि स्वयं वहन करनी पड़ी, वह केवल कर्मचारी की इकाई के लिए सबसे छोटे ऐच्छिक अतिरिक्त आवरण के वार्षिक अंशदान से कितनी अधिक या कम है?",
+  "short_answer": "दोनों बराबर हैं — ४,२०० रुपये (अंतर शून्य)",
+  "answer": "यात्रा एवं व्यय प्रतिपूर्ति नियमावली की धारा ७.५ के अनुसार अतिथि-गृह उपलब्ध रहते बाह्य आवास चुनने पर प्रतिपूर्ति ११०० रुपये प्रति रात्रि तक सीमित है, अतः उसे (१,८०० − ११००) × ६ = ४,२०० रुपये स्वयं वहन करने पड़े। कर्मचारी लाभ एवं बीमा नीति की धारा १२.२ के अनुसार केवल कर्मचारी की इकाई के लिए ५,००,००० रुपये वाले विकल्प का वार्षिक अंशदान ४,२०० रुपये है। अतः दोनों राशियाँ बराबर हैं और अंतर शून्य है।",
+  "source": [
+   {
+    "language": "Hindi",
+    "document": "03_travel_expense",
+    "section": "७.५"
+   },
+   {
+    "language": "Hindi",
+    "document": "08_benefits_insurance",
+    "section": "१२.२"
+   }
+  ],
+  "supporting_facts": [
+   {
+    "language": "Hindi",
+    "document": "03_travel_expense",
+    "subject": "company_guest_house",
+    "aspect": "standard_cost_inr_per_night"
+   },
+   {
+    "language": "Hindi",
+    "document": "08_benefits_insurance",
+    "subject": "top_up_cover",
+    "aspect": "annual_contribution_inr_self_spouse_low"
+   }
+  ]
+ },
+ {
+  "id": "TR-HI-0052",
+  "packet": "HI02",
+  "lid": "HI02-015",
+  "language": "Hindi",
+  "hop_type": "cross_document",
+  "question": "एक महिला कर्मचारी तीन दिन के सम्मेलन में गई जहाँ तीनों समय का भोजन और जलपान आयोजकों ने दिया; उसके दैनिक भत्ते की पूर्ण दर २,४०० रुपये है। लौटने के बाद उसका गर्भाशय-उच्छेदन हुआ जिसका बिल १,०५,००० रुपये आया और उसके पास कोई अतिरिक्त आवरण नहीं है। सम्मेलन के दैनिक भत्ते और शल्यक्रिया के बीमा-भुगतान को मिलाकर उसे कितना मिलेगा?",
+  "short_answer": "९१,८०० रुपये (भत्ता १,८०० + शल्यक्रिया ९०,०००)",
+  "answer": "यात्रा एवं व्यय प्रतिपूर्ति नियमावली की धारा ६.४ के अनुसार तीनों समय का भोजन व जलपान मिलने पर केवल २५ प्रतिशत दैनिक भत्ता देय है, अतः प्रति दिवस ६०० और तीन दिवस का १,८०० रुपये। कर्मचारी लाभ एवं बीमा नीति की धारा ७.४ के अनुसार गर्भाशय-उच्छेदन की सीमा ९०,००० रुपये है। कुल १,८०० + ९०,००० = ९१,८०० रुपये।",
+  "source": [
+   {
+    "language": "Hindi",
+    "document": "03_travel_expense",
+    "section": "६.४"
+   },
+   {
+    "language": "Hindi",
+    "document": "08_benefits_insurance",
+    "section": "७.४"
+   }
+  ],
+  "supporting_facts": [
+   {
+    "language": "Hindi",
+    "document": "03_travel_expense",
+    "subject": "daily_allowance",
+    "aspect": "full_board_residual_percent"
+   },
+   {
+    "language": "Hindi",
+    "document": "08_benefits_insurance",
+    "subject": "hysterectomy",
+    "aspect": "limit_inr"
+   }
+  ]
+ },
+ {
+  "id": "TR-HI-0072",
+  "packet": "HI02",
+  "lid": "HI02-035",
+  "language": "Hindi",
+  "hop_type": "cross_section",
+  "question": "एक कर्मचारी तीन दिन के आवासीय सम्मेलन में रहा जहाँ तीनों समय का भोजन और जलपान आयोजकों ने दिया; उसके दैनिक भत्ते की पूर्ण दर १,६०० रुपये है। उसका दावा इतनी देर से प्रस्तुत हुआ कि वह द्वितीय श्रेणी के विलंब में आता है (वित्त नियंत्रक का अनुमोदन मिल चुका है)। उसे अंततः कितना दैनिक भत्ता मिलेगा?",
+  "short_answer": "९०० रुपये",
+  "answer": "यात्रा एवं व्यय प्रतिपूर्ति नियमावली की धारा ६.४ के अनुसार तीनों समय का भोजन व जलपान मिलने पर केवल २५ प्रतिशत दैनिक भत्ता देय है, अतः प्रति दिवस ४०० और तीन दिवस का १,२०० रुपये। धारा १३.२ के अनुसार द्वितीय श्रेणी के विलंब में दैनिक भत्ते की समस्त राशि पर २५ प्रतिशत कटौती होती है। अतः १,२०० − ३०० = ९०० रुपये मिलेंगे।",
+  "source": [
+   {
+    "language": "Hindi",
+    "document": "03_travel_expense",
+    "section": "६.४"
+   },
+   {
+    "language": "Hindi",
+    "document": "03_travel_expense",
+    "section": "१३.२"
+   }
+  ],
+  "supporting_facts": [
+   {
+    "language": "Hindi",
+    "document": "03_travel_expense",
+    "subject": "daily_allowance",
+    "aspect": "full_board_residual_percent"
+   },
+   {
+    "language": "Hindi",
+    "document": "03_travel_expense",
+    "subject": "late_claim_tier2",
+    "aspect": "daily_allowance_deduction_percent"
+   }
+  ]
+ },
+ {
+  "id": "TR-KN-0006",
+  "packet": "KN01",
+  "lid": "KN01-006",
+  "language": "Kannada",
+  "hop_type": "cross_document",
+  "question": "ಒಬ್ಬ ವಿಚಾರಣಾಧಿಕಾರಿ ಮೊದಲ ವಿಚಾರಣಾ ಸಭೆಯನ್ನು, ಬೋನಸ್ ಸಂವಹನ ಕ್ಯಾಲೆಂಡರ್‌ನಲ್ಲಿ ಪ್ರತಿ ಉದ್ಯೋಗಿಯ ಬೋನಸ್ ಬ್ರೇಕ್‌ಡೌನ್ ಪೋರ್ಟಲ್‌ನಲ್ಲಿ ಪ್ರಕಟವಾಗುವ ದಿನದಂದೇ ನಿಗದಿಪಡಿಸಿದ್ದಾರೆ. ಆರೋಪಿತ ಉದ್ಯೋಗಿಯ ದಾಖಲೆ ಪರಿಶೀಲನೆ ಪ್ರಕ್ರಿಯೆ ಅತ್ಯಂತ ತಡವಾಗಿ ಯಾವ ದಿನಾಂಕದೊಳಗೆ ಪೂರ್ಣಗೊಳ್ಳಬೇಕು?",
+  "short_answer": "ಮೇ 20ರೊಳಗೆ (ಮೇ 25ರ ಸಭೆಗೆ ಕನಿಷ್ಠ 5 ಕ್ಯಾಲೆಂಡರ್ ದಿನ ಮೊದಲು)",
+  "answer": "ಬೋನಸ್ ಮಾರ್ಗದರ್ಶಿಯ ವಿಭಾಗ 7.5ರ ಸಂವಹನ ಕ್ಯಾಲೆಂಡರ್ ಪ್ರಕಾರ ಪೋರ್ಟಲ್‌ನಲ್ಲಿ ಬ್ರೇಕ್‌ಡೌನ್ ಪ್ರಕಟಣೆ ಮೇ 25ರಂದು. ಶಿಸ್ತು ಮಾರ್ಗದರ್ಶಿಯ ವಿಭಾಗ 8ರ ಪ್ರಕಾರ ದಾಖಲೆ ಪರಿಶೀಲನೆ ಮೊದಲ ವಿಚಾರಣಾ ಸಭೆಯ ಕನಿಷ್ಠ ಐದು ಕ್ಯಾಲೆಂಡರ್ ದಿನಗಳ ಮುನ್ನ ಪೂರ್ಣಗೊಳ್ಳಬೇಕು. ಆದ್ದರಿಂದ ಮೇ 25 − 5 = ಮೇ 20ರೊಳಗೆ ಪೂರ್ಣಗೊಳ್ಳಬೇಕು.",
+  "source": [
+   {
+    "language": "Kannada",
+    "document": "01_disciplinary_inquiry",
+    "section": "8"
+   },
+   {
+    "language": "Kannada",
+    "document": "04_performance_bonus",
+    "section": "7.5"
+   }
+  ],
+  "supporting_facts": [
+   {
+    "language": "Kannada",
+    "document": "01_disciplinary_inquiry",
+    "subject": "document_inspection",
+    "aspect": "completion_deadline"
+   },
+   {
+    "language": "Kannada",
+    "document": "04_performance_bonus",
+    "subject": "communication_calendar",
+    "aspect": "annual_schedule"
+   }
+  ]
+ },
+ {
+  "id": "TR-KN-0010",
+  "packet": "KN01",
+  "lid": "KN01-010",
+  "language": "Kannada",
+  "hop_type": "cross_document",
+  "question": "ಶಿಸ್ತು ಮಾರ್ಗದರ್ಶಿಯ ಮಾದರಿ ಆರೋಪ ಪತ್ರದಲ್ಲಿ ಉಲ್ಲೇಖಿಸಿದ ನಕಲಿ ಬಿಲ್ ಘಟನೆಗಳು ಯಾವ ವಿಭಾಗದ ಕಚೇರಿಯಲ್ಲಿ ನಡೆದವು? ಅದೇ ವಿಭಾಗದಲ್ಲಿ ಕಾರ್ಯನಿರ್ವಹಿಸುವ ಉದ್ಯೋಗಿಯ ಬೋನಸ್‌ಗೆ ಕಾರ್ಪೊರೇಟ್ ಗುಣಕ ಮತ್ತು ವ್ಯಾಪಾರ ಘಟಕ ಗುಣಕಗಳನ್ನು ಯಾವ ತೂಕದಲ್ಲಿ ಮಿಶ್ರಣ ಮಾಡಲಾಗುತ್ತದೆ?",
+  "short_answer": "ಹಣಕಾಸು ವಿಭಾಗ; ಕಾರ್ಪೊರೇಟ್ 70% + ವ್ಯಾಪಾರ ಘಟಕ 30%",
+  "answer": "ಶಿಸ್ತು ಮಾರ್ಗದರ್ಶಿಯ ವಿಭಾಗ 24ರ ಮಾದರಿ ಆರೋಪ ಪತ್ರದ ಪ್ರಕಾರ ಮೊದಲ ಆರೋಪದ ಘಟನೆ ಹಣಕಾಸು ವಿಭಾಗದ ಕಚೇರಿಯಲ್ಲಿ ನಡೆಯಿತು. ಬೋನಸ್ ಮಾರ್ಗದರ್ಶಿಯ ವಿಭಾಗ 3.1ರ ಪ್ರಕಾರ ಹಣಕಾಸು ಬೆಂಬಲ ಕಾರ್ಯವಾಗಿದ್ದು, ಬೆಂಬಲ ಕಾರ್ಯಗಳ ಉದ್ಯೋಗಿಗಳಿಗೆ ಕಾರ್ಪೊರೇಟ್ ಗುಣಕ 70% ಮತ್ತು ಸಂಬಂಧಿತ ವ್ಯಾಪಾರ ಘಟಕ ಗುಣಕ 30% ತೂಕದೊಂದಿಗೆ ಮಿಶ್ರಣಗೊಳ್ಳುತ್ತದೆ.",
+  "source": [
+   {
+    "language": "Kannada",
+    "document": "01_disciplinary_inquiry",
+    "section": "24"
+   },
+   {
+    "language": "Kannada",
+    "document": "04_performance_bonus",
+    "section": "3.1"
+   }
+  ],
+  "supporting_facts": [
+   {
+    "language": "Kannada",
+    "document": "01_disciplinary_inquiry",
+    "subject": "sample_charge_sheet_rakesh_shetty",
+    "aspect": "case_details"
+   },
+   {
+    "language": "Kannada",
+    "document": "04_performance_bonus",
+    "subject": "support_function_multiplier_blend",
+    "aspect": "weighting"
+   }
+  ]
+ },
+ {
+  "id": "TR-KN-0032",
+  "packet": "KN01",
+  "lid": "KN01-032",
+  "language": "Kannada",
+  "hop_type": "cross_section",
+  "question": "ಬೋನಸ್ ಮಾರ್ಗದರ್ಶಿಯ ಐದು-ವರ್ಷದ ವಿವರಣಾತ್ಮಕ ಗುಣಕ ಮಾದರಿಯಲ್ಲಿ ನಾಲ್ಕನೇ ವರ್ಷದ ಸಂಖ್ಯೆಯನ್ನು ಆ ವರ್ಷದ ಕಚ್ಚಾ ಸಾಧನೆ ಆಧಾರಿತ ಗುಣಕವೆಂದೂ, ಮೂರನೇ ವರ್ಷದ ಸಂಖ್ಯೆಯನ್ನು ಹಿಂದಿನ ವರ್ಷದ ಅಂತಿಮ ಗುಣಕವೆಂದೂ ಪರಿಗಣಿಸಿದರೆ, ಬಹು-ವರ್ಷದ ಸುಗಮೀಕರಣ ಸೂತ್ರದಂತೆ ನಾಲ್ಕನೇ ವರ್ಷದ ಸುಗಮೀಕೃತ ಅಂತಿಮ ಕಂಪನಿ ಗುಣಕ ಎಷ್ಟು?",
+  "short_answer": "102.5%",
+  "answer": "ಬೋನಸ್ ಮಾರ್ಗದರ್ಶಿಯ ವಿಭಾಗ 1.2ರ ಮಾದರಿಯಲ್ಲಿ ವರ್ಷ 4ರ ಗುಣಕ 110% ಮತ್ತು ವರ್ಷ 3ರ ಗುಣಕ 60%. ವಿಭಾಗ 3.3ರ ಪ್ರಕಾರ ಅಂತಿಮ ಗುಣಕ = ಪ್ರಸಕ್ತ ವರ್ಷದ ಸಾಧನೆಯ 85% ತೂಕ + ಹಿಂದಿನ ವರ್ಷದ ಗುಣಕದ 15% ತೂಕ. ಆದ್ದರಿಂದ (110% × 0.85) + (60% × 0.15) = 93.5% + 9% = 102.5%.",
+  "source": [
+   {
+    "language": "Kannada",
+    "document": "04_performance_bonus",
+    "section": "3.3"
+   },
+   {
+    "language": "Kannada",
+    "document": "04_performance_bonus",
+    "section": "1.2"
+   }
+  ],
+  "supporting_facts": [
+   {
+    "language": "Kannada",
+    "document": "04_performance_bonus",
+    "subject": "multi_year_smoothing_formula",
+    "aspect": "weighting"
+   },
+   {
+    "language": "Kannada",
+    "document": "04_performance_bonus",
+    "subject": "historical_multiplier_example",
+    "aspect": "five_year_illustration"
+   }
+  ]
+ },
+ {
+  "id": "TR-MR-0003",
+  "packet": "MR03",
+  "lid": "MR03-003",
+  "language": "Marathi",
+  "hop_type": "cross_section",
+  "question": "एकाच विभागातील दोन महिला कर्मचाऱ्यांपैकी पहिली दुसऱ्या दांपत्यासाठी सरोगेट माता म्हणून प्रसूती करणार आहे, तर दुसरी सरोगसीद्वारे स्वतःच्या जैविक अपत्याची नियुक्त माता बनणार आहे (तिला याआधी अपत्य नाही आणि सेवाकाळाची अट ती पूर्ण करते). पहिल्या कर्मचाऱ्याची सशुल्क रजा दुसरीच्या तुलनेत किती आठवड्यांनी जास्त असेल?",
+  "short_answer": "१४ आठवडे जास्त (२६ विरुद्ध १२ आठवडे)",
+  "answer": "कलम ६.१० नुसार सरोगेट माता म्हणून प्रत्यक्ष प्रसूती करणाऱ्या कर्मचाऱ्याला कलम ६.२ प्रमाणे सव्वीस आठवड्यांची प्रसूती रजा मिळते. कलम ८.३ नुसार नियुक्त मातेला अपत्य ताब्यात मिळाल्याच्या तारखेपासून बारा आठवड्यांची सशुल्क रजा मिळते. अतः फरक २६ − १२ = १४ आठवडे आहे.",
+  "source": [
+   {
+    "language": "Marathi",
+    "document": "03_sick_maternity_leave",
+    "section": "६.१०"
+   },
+   {
+    "language": "Marathi",
+    "document": "03_sick_maternity_leave",
+    "section": "८.३"
+   }
+  ],
+  "supporting_facts": [
+   {
+    "language": "Marathi",
+    "document": "03_sick_maternity_leave",
+    "subject": "surrogate_employee",
+    "aspect": "leave_weeks"
+   },
+   {
+    "language": "Marathi",
+    "document": "03_sick_maternity_leave",
+    "subject": "commissioning_mother_leave",
+    "aspect": "duration_weeks"
+   }
+  ]
+ },
+ {
+  "id": "TR-MR-0005",
+  "packet": "MR03",
+  "lid": "MR03-005",
+  "language": "Marathi",
+  "hop_type": "cross_section",
+  "question": "जुळी अपत्ये अपेक्षित असलेल्या एका पात्र कर्मचाऱ्याने ५ जानेवारी २०२६ पासून जुळ्या प्रसूतीसाठीची पूर्ण प्रसूती रजा एकसलग घेतली (कोणतीही अतिरिक्त गुंतागुंत रजा नाही). तिची प्रसूती रजा कोणत्या तारखेला संपेल, आणि गर्भधारणा व प्रसूती रजेशी संबंधित कारणास्तव तिला बडतर्फीपासून असलेले संरक्षण कोणत्या तारखेपर्यंत टिकेल?",
+  "short_answer": "रजा १९ जुलै २०२६ ला संपते; संरक्षण १९ ऑक्टोबर २०२६ पर्यंत",
+  "answer": "कलम ६.३ नुसार जुळ्या किंवा अधिक अपत्यांसाठी २८ आठवड्यांची, म्हणजे १९६ दिवसांची, प्रसूती रजा मिळते; ५ जानेवारी २०२६ पासून १९६ दिवस मोजल्यास रजा १९ जुलै २०२६ रोजी संपते. कलम १२.१ नुसार प्रसूती रजा संपल्यानंतरच्या तीन महिन्यांपर्यंत तिला गर्भधारणा/प्रसूती रजेशी संबंधित कारणास्तव बडतर्फ करता येत नाही. अतः संरक्षण १९ ऑक्टोबर २०२६ पर्यंत टिकते.",
+  "source": [
+   {
+    "language": "Marathi",
+    "document": "03_sick_maternity_leave",
+    "section": "६.३"
+   },
+   {
+    "language": "Marathi",
+    "document": "03_sick_maternity_leave",
+    "section": "१२.१"
+   }
+  ],
+  "supporting_facts": [
+   {
+    "language": "Marathi",
+    "document": "03_sick_maternity_leave",
+    "subject": "maternity_leave",
+    "aspect": "duration_weeks_multiple_birth"
+   },
+   {
+    "language": "Marathi",
+    "document": "03_sick_maternity_leave",
+    "subject": "job_protection",
+    "aspect": "protected_period_after_leave_months"
+   }
+  ]
+ },
+ {
+  "id": "TR-MR-0009",
+  "packet": "MR03",
+  "lid": "MR03-009",
+  "language": "Marathi",
+  "hop_type": "cross_section",
+  "question": "श्रेणी ई५ मधील एका कर्मचाऱ्याने या आठवड्यात चार सामान्य कामकाजाच्या दिवशी प्रत्येकी एका दिवसासाठी अनुमत असलेले कमाल जादा तास काम केले आणि या सर्व जादा वेळेसाठी रोख मोबदल्याऐवजी कॉम्प-ऑफ निवडले. त्याला एकूण किती तासांची भरपाई रजा मिळेल?",
+  "short_answer": "१२ तास भरपाई रजा",
+  "answer": "निर्देशिकेच्या प्रकरण ९ नुसार एका दिवसात जास्तीत जास्त तीन तास जादा काम करता येते, म्हणून चार दिवसांत ४ × ३ = १२ तास जादा काम होते. प्रकरण १२ नुसार सामान्य कामकाजाच्या दिवशीच्या जादा वेळेचे कॉम्प-ऑफ रूपांतरण प्रमाण १:१ आहे. अतः त्याला १२ तासांची भरपाई रजा मिळेल.",
+  "source": [
+   {
+    "language": "Marathi",
+    "document": "04_overtime_shift",
+    "section": "९"
+   },
+   {
+    "language": "Marathi",
+    "document": "04_overtime_shift",
+    "section": "१२"
+   }
+  ],
+  "supporting_facts": [
+   {
+    "language": "Marathi",
+    "document": "04_overtime_shift",
+    "subject": "overtime_cap",
+    "aspect": "daily_hours"
+   },
+   {
+    "language": "Marathi",
+    "document": "04_overtime_shift",
+    "subject": "compoff_conversion",
+    "aspect": "weekday_ratio"
+   }
+  ]
+ },
+ {
+  "id": "TR-MR-0011",
+  "packet": "MR03",
+  "lid": "MR03-011",
+  "language": "Marathi",
+  "hop_type": "cross_document",
+  "question": "ग्राहक सेवा केंद्रातील एक सहकारी सोमवारी अचानक आजारी पडली आणि तिने आजारपणाची सूचना देण्यासाठी नियमांनुसार अनुमत असलेल्या शेवटच्या क्षणीच पर्यवेक्षकाला कळवले. पर्यवेक्षकाने त्याच क्षणी तुमचे पाळी वेळापत्रक बदलण्याचा निर्णय घेऊन तुम्हाला कळवले. तुमच्या लेखी संमतीने हा बदल सर्वात लवकर कोणत्या दिवशी व किती वाजल्यापासून लागू होऊ शकतो?",
+  "short_answer": "मंगळवारी सकाळी १० वाजल्यापासून",
+  "answer": "आजारपण आणि प्रसूती रजा निर्देशिकेच्या कलम १४.१ नुसार अनपेक्षित आजारपणाची सूचना पहिल्या दिवशी सकाळी दहा वाजण्यापूर्वी द्यावी लागते, म्हणून सहकारीने सोमवारी सुमारे सकाळी १० वाजता कळवले. जादा वेळ आणि पाळीचे काम निर्देशिकेच्या प्रकरण ११ नुसार अनपेक्षित वेळापत्रक बदल किमान चोवीस तास अगोदर कळवावा लागतो आणि कर्मचाऱ्याची लेखी किंवा ईमेल संमती घ्यावी लागते. अतः बदल सर्वात लवकर मंगळवारी सकाळी १० वाजल्यापासून लागू होऊ शकतो.",
+  "source": [
+   {
+    "language": "Marathi",
+    "document": "03_sick_maternity_leave",
+    "section": "१४.१"
+   },
+   {
+    "language": "Marathi",
+    "document": "04_overtime_shift",
+    "section": "११"
+   }
+  ],
+  "supporting_facts": [
+   {
+    "language": "Marathi",
+    "document": "03_sick_maternity_leave",
+    "subject": "leave_application",
+    "aspect": "sick_leave_notice_time"
+   },
+   {
+    "language": "Marathi",
+    "document": "04_overtime_shift",
+    "subject": "shift_rotation_notice",
+    "aspect": "unexpected_change_min_hours"
+   }
+  ]
+ },
+ {
+  "id": "TR-MR-0022",
+  "packet": "MR03",
+  "lid": "MR03-022",
+  "language": "Marathi",
+  "hop_type": "cross_document",
+  "question": "वर्षाच्या सुरुवातीला एका ई५ श्रेणीतील कर्मचाऱ्याच्या खात्यात त्या वर्षाचा संपूर्ण नवीन आजारपण रजेचा हक्क आहे (मागील शिल्लक शून्य), आणि त्याने ४० तासांची भरपाई रजा (कॉम्प-ऑफ) संचित केली आहे. या दोन्ही प्रकारच्या रजा पूर्ण दिवसांच्या स्वरूपात मोजल्यास त्याच्याकडे एकूण किती दिवसांची रजा उपलब्ध आहे?",
+  "short_answer": "१७ दिवस (१२ आजारपण + ५ कॉम्प-ऑफ)",
+  "answer": "आजारपण आणि प्रसूती रजा निर्देशिकेच्या कलम ३.१ नुसार प्रत्येक नियमित कर्मचाऱ्याला वर्षात बारा दिवसांची सशुल्क आजारपण रजा मिळते. जादा वेळ आणि पाळीचे काम निर्देशिकेच्या प्रकरण १२ नुसार संचित भरपाई रजा आठ तासांच्या पटीत पूर्ण दिवसांत घेता येते, म्हणून ४० ÷ ८ = ५ दिवस. अतः एकूण १२ + ५ = १७ दिवस.",
+  "source": [
+   {
+    "language": "Marathi",
+    "document": "03_sick_maternity_leave",
+    "section": "३.१"
+   },
+   {
+    "language": "Marathi",
+    "document": "04_overtime_shift",
+    "section": "१२"
+   }
+  ],
+  "supporting_facts": [
+   {
+    "language": "Marathi",
+    "document": "03_sick_maternity_leave",
+    "subject": "sick_leave",
+    "aspect": "annual_days"
+   },
+   {
+    "language": "Marathi",
+    "document": "04_overtime_shift",
+    "subject": "compoff_units",
+    "aspect": "full_day_hours"
+   }
+  ]
+ },
+ {
+  "id": "TR-MR-0039",
+  "packet": "MR03",
+  "lid": "MR03-039",
+  "language": "Marathi",
+  "hop_type": "cross_document",
+  "question": "एका ई५ कर्मचाऱ्याने या कॅलेंडर वर्षात चार वेगवेगळ्या प्रसंगी प्रमाणपत्राशिवाय आजारपण रजा घेतली आहे, आणि आता त्याने एका दिवशी अडीच तास जादा काम करण्याची विनंती केली आहे. विभाग प्रमुख त्याच्या पुढील आजारपण रजांबाबत काय करू शकतो, आणि या जादा वेळेच्या विनंतीसाठी कोणाकोणाची मान्यता आवश्यक आहे?",
+  "short_answer": "समुपदेशन व पुढील सर्व आजारपण रजांसाठी प्रमाणपत्र बंधनकारक; पर्यवेक्षक + विभाग प्रमुख मान्यता",
+  "answer": "आजारपण आणि प्रसूती रजा निर्देशिकेच्या कलम ५.३ नुसार एका कॅलेंडर वर्षात तीनपेक्षा अधिक वेळा विनाप्रमाणपत्र रजा घेतल्यास विभागप्रमुख समुपदेशनासाठी बोलावू शकतो आणि पुढील सर्व आजारपण रजांसाठी, एका दिवसासाठीही, प्रमाणपत्र बंधनकारक करू शकतो; चार प्रसंग ही मर्यादा ओलांडतात. जादा वेळ आणि पाळीचे काम निर्देशिकेच्या प्रकरण ८ नुसार दोन ते चार तासांच्या जादा वेळेसाठी तत्काळ पर्यवेक्षक व विभाग प्रमुख या दोघांची मान्यता लागते.",
+  "source": [
+   {
+    "language": "Marathi",
+    "document": "03_sick_maternity_leave",
+    "section": "५.३"
+   },
+   {
+    "language": "Marathi",
+    "document": "04_overtime_shift",
+    "section": "८"
+   }
+  ],
+  "supporting_facts": [
+   {
+    "language": "Marathi",
+    "document": "03_sick_maternity_leave",
+    "subject": "uncertified_leave",
+    "aspect": "repeated_incidents_threshold"
+   },
+   {
+    "language": "Marathi",
+    "document": "04_overtime_shift",
+    "subject": "overtime_authorization",
+    "aspect": "2to4hrs_approver"
+   }
+  ]
+ },
+ {
+  "id": "TR-MR-0050",
+  "packet": "MR03",
+  "lid": "MR03-050",
+  "language": "Marathi",
+  "hop_type": "cross_document",
+  "question": "सर्वसाधारण पाळीत काम करणाऱ्या जुळ्या बाळांच्या आईला दिवसभरात मिळणाऱ्या सर्व स्तनपान विश्रांतींचा एकूण वेळ, त्या पाळीतील प्रत्यक्ष कामाच्या तासांचा कितवा भाग (अपूर्णांक व टक्केवारी) आहे?",
+  "short_answer": "१/८ भाग, म्हणजे १२.५% (१ तास विरुद्ध ८ तास)",
+  "answer": "आजारपण आणि प्रसूती रजा निर्देशिकेच्या कलम ११.५ नुसार जुळ्या अपत्यांच्या मातेला दिवसातून चार स्तनपान विश्रांती, प्रत्येकी पंधरा मिनिटांच्या, मिळतात, म्हणजे एकूण १ तास. जादा वेळ आणि पाळीचे काम निर्देशिकेच्या प्रकरण ३ नुसार सर्वसाधारण पाळीत प्रत्यक्ष कामाचे तास आठ आहेत. अतः १ ÷ ८ = १/८, म्हणजे १२.५%.",
+  "source": [
+   {
+    "language": "Marathi",
+    "document": "04_overtime_shift",
+    "section": "३"
+   },
+   {
+    "language": "Marathi",
+    "document": "03_sick_maternity_leave",
+    "section": "११.५"
+   }
+  ],
+  "supporting_facts": [
+   {
+    "language": "Marathi",
+    "document": "04_overtime_shift",
+    "subject": "shift_general",
+    "aspect": "timing"
+   },
+   {
+    "language": "Marathi",
+    "document": "03_sick_maternity_leave",
+    "subject": "nursing_break",
+    "aspect": "twins_breaks_per_day"
+   }
+  ]
+ },
+ {
+  "id": "TR-OD-0035",
+  "packet": "OD01",
+  "lid": "OD01-035",
+  "language": "Odia",
+  "hop_type": "cross_section",
+  "question": "ଜଣେ ବରିଷ୍ଠ ପରିଚାଳକଙ୍କ ମୌଳିକ ବେତନ ₹୮୦,୦୦୦। ଶ୍ରୀ ଦେବାଶିଷ ସାହୁଙ୍କୁ ଅନ୍ତର୍ବର୍ତ୍ତୀକାଳୀନ ନିଯୁକ୍ତିରେ ଯେଉଁ ହାରରେ ଅତିରିକ୍ତ ଦାୟିତ୍ୱ ଭତ୍ତା ଦିଆଯାଇଥିଲା, ସେହି ହାର ଏବଂ ‘ବର୍ତ୍ତମାନ ପ୍ରସ୍ତୁତ’ ଉତ୍ତରାଧିକାରୀଙ୍କ ପ୍ରତିଭା ଧାରଣ ଭତ୍ତାର ସର୍ବୋଚ୍ଚ ହାର — ଦୁଇଟିକୁ ଏହି ଏକା ମୌଳିକ ବେତନ ଉପରେ ହିସାବ କଲେ ଟଙ୍କାରେ ପାର୍ଥକ୍ୟ କେତେ?",
+  "short_answer": "₹୪,୦୦୦ (₹୧୨,୦୦୦ − ₹୮,୦୦୦)",
+  "answer": "ଉତ୍ତରାଧିକାର ଯୋଜନା ନିର୍ଦେଶିକାର ଧାରା ୧୫ (ଉଦାହରଣ ୨) ଅନୁସାରେ ଅତିରିକ୍ତ ଦାୟିତ୍ୱ ଭତ୍ତା ମୌଳିକ ବେତନର ପନ୍ଦର ପ୍ରତିଶତ, ଅର୍ଥାତ୍ ₹୮୦,୦୦୦ ଉପରେ ₹୧୨,୦୦୦। ଧାରା ୨୫ ଅନୁସାରେ ପ୍ରତିଭା ଧାରଣ ଭତ୍ତା ମୌଳିକ ବେତନର ୫ ରୁ ୧୦ ପ୍ରତିଶତ, ତେଣୁ ସର୍ବୋଚ୍ଚ ୧୦ ପ୍ରତିଶତ = ₹୮,୦୦୦। ପାର୍ଥକ୍ୟ ₹୧୨,୦୦୦ − ₹୮,୦୦୦ = ₹୪,୦୦୦।",
+  "source": [
+   {
+    "language": "Odia",
+    "document": "05_succession_planning",
+    "section": "୧୫"
+   },
+   {
+    "language": "Odia",
+    "document": "05_succession_planning",
+    "section": "୨୫"
+   }
+  ],
+  "supporting_facts": [
+   {
+    "language": "Odia",
+    "document": "05_succession_planning",
+    "subject": "example_pattnaik",
+    "aspect": "interim_allowance_percent"
+   },
+   {
+    "language": "Odia",
+    "document": "05_succession_planning",
+    "subject": "talent_retention_allowance",
+    "aspect": "percent_range_max"
+   }
+  ]
+ },
+ {
+  "id": "TR-OD-0036",
+  "packet": "OD01",
+  "lid": "OD01-036",
+  "language": "Odia",
+  "hop_type": "cross_section",
+  "question": "ମଧ୍ୟବର୍ତ୍ତୀ ପରୀକ୍ଷଣ ବୈଠକରେ ଶ୍ରୀ ପ୍ରଦୀପ ନାୟକ ଦ୍ୱିତୀୟ ପ୍ରସ୍ତୁତି ସ୍ତରକୁ ଉନ୍ନୀତ ହୋଇଥିବା ଯେଉଁ ଦିନ ରିପୋର୍ଟ ହେଲା, ସେହି ଦିନଠାରୁ ଏହି ସ୍ତରର ପରିଭାଷା ଅନୁଯାୟୀ ସେ ମୁଖ୍ୟ ଆର୍ଥିକ ପଦାଧିକାରୀ ପଦବୀ ପାଇଁ କେଉଁ ତାରିଖ ପରିସର ମଧ୍ୟରେ ପ୍ରସ୍ତୁତ ହେବେ ବୋଲି ଆଶା କରାଯାଏ?",
+  "short_answer": "୧୫ ସେପ୍ଟେମ୍ବର ୨୦୨୭ ରୁ ୧୫ ସେପ୍ଟେମ୍ବର ୨୦୨୮ ମଧ୍ୟରେ",
+  "answer": "ଉତ୍ତରାଧିକାର ଯୋଜନା ନିର୍ଦେଶିକାର ଧାରା ୧୫ (ଉଦାହରଣ ୫) ଅନୁସାରେ ଶ୍ରୀ ନାୟକଙ୍କ ଉନ୍ନତି ୧୫ ସେପ୍ଟେମ୍ବର ୨୦୨୬ର ମଧ୍ୟବର୍ତ୍ତୀ ପରୀକ୍ଷଣ ବୈଠକରେ ରିପୋର୍ଟ ହେଲା। ଧାରା ୫ ଅନୁସାରେ ଦ୍ୱିତୀୟ ସ୍ତର ‘ଏକ ରୁ ଦୁଇ ବର୍ଷରେ ପ୍ରସ୍ତୁତ’, ଅର୍ଥାତ୍ ଏକ ରୁ ଦୁଇ ବର୍ଷ ସମୟ ଆବଶ୍ୟକ। ତେଣୁ ସେ ପ୍ରାୟ ୧୫ ସେପ୍ଟେମ୍ବର ୨୦୨୭ ରୁ ୧୫ ସେପ୍ଟେମ୍ବର ୨୦୨୮ ମଧ୍ୟରେ ପ୍ରସ୍ତୁତ ହେବେ ବୋଲି ଆଶା।",
+  "source": [
+   {
+    "language": "Odia",
+    "document": "05_succession_planning",
+    "section": "୫"
+   },
+   {
+    "language": "Odia",
+    "document": "05_succession_planning",
+    "section": "୧୫"
+   }
+  ],
+  "supporting_facts": [
+   {
+    "language": "Odia",
+    "document": "05_succession_planning",
+    "subject": "readiness_tier",
+    "aspect": "tier2_years_required"
+   },
+   {
+    "language": "Odia",
+    "document": "05_succession_planning",
+    "subject": "succession_risk_flag",
+    "aspect": "resolved_review_date"
+   }
+  ]
+ },
+ {
+  "id": "TR-PA-0003",
+  "packet": "PA01",
+  "lid": "PA01-003",
+  "language": "Punjabi",
+  "hop_type": "cross_document",
+  "question": "ਇੱਕ ਨਵੀਂ ਕਰਮਚਾਰੀ ੧ ਦਸੰਬਰ ੨੦੨੫ ਨੂੰ ਕੰਪਨੀ ਵਿੱਚ ਸ਼ਾਮਲ ਹੋਈ। ਸ਼ਾਮਲ ਹੋਣ ਦੇ ਪਹਿਲੇ ਹਫ਼ਤੇ ਵਿੱਚ ਉਸ ਨੂੰ ਵਿਸਲਬਲੋਅਰ ਨੀਤੀ ਦਾ ਲਾਜ਼ਮੀ ਓਰੀਐਂਟੇਸ਼ਨ ਮੌਡਿਊਲ ਕਿੰਨੇ ਮਿੰਟ ਦਾ ਪੂਰਾ ਕਰਨਾ ਪਵੇਗਾ? ਅਤੇ ੧ ਮਾਰਚ ੨੦੨੬ ਦੀ ਕਟ-ਆਫ਼ ਮਿਤੀ ਤੱਕ ਦੀ ਉਸ ਦੀ ਸੇਵਾ ਦੇ ਆਧਾਰ ਉੱਤੇ, ਇਸ ਸਾਲਾਨਾ ਚੱਕਰ ਵਿੱਚ ਉਸ ਨੂੰ ਪੂਰਾ ਵਾਧਾ, ਪ੍ਰੋਰੇਟਿਡ ਵਾਧਾ ਜਾਂ ਕੋਈ ਵਾਧਾ ਨਹੀਂ — ਇਹਨਾਂ ਵਿੱਚੋਂ ਕੀ ਮਿਲੇਗਾ?",
+  "short_answer": "੪੫ ਮਿੰਟ; ਪ੍ਰੋਰੇਟਿਡ ਵਾਧਾ (ਤਿੰਨ ਮਹੀਨੇ ਦੀ ਸੇਵਾ)",
+  "answer": "ਵਿਸਲਬਲੋਅਰ ਨੀਤੀ ਦੀ ਧਾਰਾ ੧੮ ਅਨੁਸਾਰ ਹਰ ਨਵੇਂ ਕਰਮਚਾਰੀ ਨੂੰ ਸ਼ਾਮਲ ਹੋਣ ਦੇ ਪਹਿਲੇ ਸੱਤ ਦਿਨਾਂ ਵਿੱਚ ੪੫ ਮਿੰਟ ਦਾ ਲਾਜ਼ਮੀ ਓਰੀਐਂਟੇਸ਼ਨ ਮੌਡਿਊਲ ਪੂਰਾ ਕਰਨਾ ਹੁੰਦਾ ਹੈ। ੧ ਦਸੰਬਰ ੨੦੨੫ ਤੋਂ ੧ ਮਾਰਚ ੨੦੨੬ ਤੱਕ ਉਸ ਦੀ ਸੇਵਾ ਤਿੰਨ ਮਹੀਨੇ ਬਣਦੀ ਹੈ, ਅਤੇ ਤਨਖਾਹ ਸੋਧ ਨਿਰਦੇਸ਼ਿਕਾ ਦੀ ਧਾਰਾ ੩ ਅਨੁਸਾਰ ਕਟ-ਆਫ਼ ਮਿਤੀ ਤੱਕ ਤਿੰਨ ਤੋਂ ਛੇ ਮਹੀਨੇ ਦੀ ਸੇਵਾ ਵਾਲੇ ਕਰਮਚਾਰੀਆਂ ਨੂੰ ਪੂਰੇ ਵਾਧੇ ਦੀ ਬਜਾਏ ਸੇਵਾ-ਮਿਆਦ ਦੇ ਅਨੁਪਾਤ ਵਿੱਚ ਪ੍ਰੋਰੇਟਿਡ ਵਾਧਾ ਮਿਲਦਾ ਹੈ। ਇਸ ਲਈ ਉਸ ਨੂੰ ਪ੍ਰੋਰੇਟਿਡ ਵਾਧਾ ਮਿਲੇਗਾ।",
+  "source": [
+   {
+    "language": "Punjabi",
+    "document": "02_salary_revision_increments",
+    "section": "੩"
+   },
+   {
+    "language": "Punjabi",
+    "document": "05_whistleblower_policy",
+    "section": "੧੮"
+   }
+  ],
+  "supporting_facts": [
+   {
+    "language": "Punjabi",
+    "document": "02_salary_revision_increments",
+    "subject": "review_cycle",
+    "aspect": "prorated_tenure_min_months"
+   },
+   {
+    "language": "Punjabi",
+    "document": "05_whistleblower_policy",
+    "subject": "training",
+    "aspect": "orientation_duration_minutes"
+   }
+  ]
+ },
+ {
+  "id": "TR-PA-0024",
+  "packet": "PA01",
+  "lid": "PA01-024",
+  "language": "Punjabi",
+  "hop_type": "cross_document",
+  "question": "ਤਨਖਾਹ ਨਿਰਦੇਸ਼ਿਕਾ ਦੀ ਬਰਾਬਰੀ-ਸੁਧਾਰ ਵਾਲੀ ਉਦਾਹਰਨ ਵਿੱਚ ਸੁਸ਼੍ਰੀ ਰਿਤੂ ਸ਼ਰਮਾ (ਤਨਖਾਹ ₹੧੫,੦੦,੦੦੦) ਨੂੰ ਪਹਿਲੇ ਸਾਲ ਤਨਖਾਹ ਬਰਾਬਰੀ ਬਜਟ ਵਿੱਚੋਂ ਸੁਧਾਰਾਤਮਕ ਵਾਧਾ ਦਿੱਤਾ ਗਿਆ। ਮੰਨ ਲਓ ਇੱਕ ਲੇਖਾ ਕਰਮਚਾਰੀ ਨੇ ਇਸ ਪਹਿਲੇ ਸਾਲ ਦੇ ਸੁਧਾਰ ਦੀ ਪੂਰੀ ਸਾਲਾਨਾ ਰਾਸ਼ੀ ਇੱਕ ਗੈਰ-ਮੌਜੂਦ ਵਿਕਰੇਤਾ ਦੇ ਨਾਂ ਭੁਗਤਾਨ ਵਜੋਂ ਮੋੜ ਲਈ। ਕਿੰਨੀ ਰਾਸ਼ੀ ਦੀ ਹੇਰ-ਫੇਰ ਹੋਈ, ਅਤੇ ਇਹ ਵਿਸਲਬਲੋਅਰ ਨੀਤੀ ਦੀ ਕਿਹੜੀ ਸ਼੍ਰੇਣੀ ਹੇਠ ਆਵੇਗੀ?",
+  "short_answer": "₹੪੫,੦੦੦; ਪਹਿਲੀ ਸ਼੍ਰੇਣੀ — ਵਿੱਤੀ ਧੋਖਾਧੜੀ",
+  "answer": "ਤਨਖਾਹ ਸੋਧ ਨਿਰਦੇਸ਼ਿਕਾ ਦੀ ਉਦਾਹਰਨ ੭ ਅਨੁਸਾਰ ਸੁਸ਼੍ਰੀ ਸ਼ਰਮਾ ਨੂੰ ਪਹਿਲੇ ਸਾਲ ੩ ਪ੍ਰਤੀਸ਼ਤ ਸੁਧਾਰ ਮਿਲਿਆ (₹੧੫,੪੫,੦੦੦ ਤੱਕ), ਭਾਵ ₹੧੫,੦੦,੦੦੦ × ੩% = ₹੪੫,੦੦੦। ਵਿਸਲਬਲੋਅਰ ਨੀਤੀ ਦੀ ਧਾਰਾ ੩ ਅਨੁਸਾਰ ਕੰਪਨੀ ਦੇ ਫੰਡਾਂ ਦੀ ਦੁਰਵਰਤੋਂ ਅਤੇ ਗੈਰ-ਮੌਜੂਦ ਵਿਕਰੇਤਾਵਾਂ ਨੂੰ ਭੁਗਤਾਨ ਪਹਿਲੀ ਸ਼੍ਰੇਣੀ, ਵਿੱਤੀ ਧੋਖਾਧੜੀ, ਵਿੱਚ ਆਉਂਦੇ ਹਨ। ਇਸ ਲਈ ₹੪੫,੦੦੦ ਦੀ ਇਹ ਹੇਰ-ਫੇਰ ਪਹਿਲੀ ਸ਼੍ਰੇਣੀ ਹੇਠ ਆਵੇਗੀ।",
+  "source": [
+   {
+    "language": "Punjabi",
+    "document": "02_salary_revision_increments",
+    "section": "ਉਦਾਹਰਨ ੭ — ਸੁਸ਼੍ਰੀ ਰਿਤੂ ਸ਼ਰਮਾ (ਤਨਖਾਹ ਬਰਾਬਰੀ ਸੁਧਾਰ)"
+   },
+   {
+    "language": "Punjabi",
+    "document": "05_whistleblower_policy",
+    "section": "੩"
+   }
+  ],
+  "supporting_facts": [
+   {
+    "language": "Punjabi",
+    "document": "02_salary_revision_increments",
+    "subject": "example_ritu_sharma",
+    "aspect": "year1_correction_percent"
+   },
+   {
+    "language": "Punjabi",
+    "document": "05_whistleblower_policy",
+    "subject": "reportable_categories",
+    "aspect": "category_1"
+   }
+  ]
+ },
+ {
+  "id": "TR-TA-0017",
+  "packet": "TA01",
+  "lid": "TA01-017",
+  "language": "Tamil",
+  "hop_type": "cross_document",
+  "question": "ஒரே திங்கட்கிழமை, ஒரு மனித வள பங்குதாரருக்கு ஒரு அலுமினியின் நெட்வொர்க் ஆப்ட்-அவுட் கோரிக்கையும், ஒரு புதிய வேட்பாளரின் முழுமையான பின்னணி சரிபார்ப்பு அறிக்கையும் வந்து சேர்ந்தன. இரண்டில் எதை முதலில் முடிக்க வேண்டும், மற்றதைவிட எத்தனை பணி நாட்கள் முன்னதாக?",
+  "short_answer": "பின்னணி அறிக்கையை முதலில்; 10 பணி நாட்கள் முன்னதாக",
+  "answer": "பணியில் சேர்த்தல் வழிகாட்டியின் பிரிவு 3.3 இன்படி, முழுமையான பின்னணி சரிபார்ப்பு அறிக்கை வந்தவுடன் ஐந்து வேலை நாட்களுக்குள் மனித வள தலைவரிடம் இறுதி ஒப்புதலுக்கு அனுப்பப்பட வேண்டும். முன்னாள் ஊழியர் உறவு வழிகாட்டியின் பிரிவு 2 இன்படி, ஆப்ட்-அவுட் கோரிக்கை பெறப்பட்ட 15 பணி நாட்களுக்குள் செயல்படுத்தப்பட வேண்டும். எனவே பின்னணி அறிக்கையை முதலில் அனுப்ப வேண்டும்; 15 − 5 = 10 பணி நாட்கள் முன்னதாக.",
+  "source": [
+   {
+    "language": "Tamil",
+    "document": "10_alumni_relations",
+    "section": "2"
+   },
+   {
+    "language": "Tamil",
+    "document": "01_onboarding",
+    "section": "3.3"
+   }
+  ],
+  "supporting_facts": [
+   {
+    "language": "Tamil",
+    "document": "10_alumni_relations",
+    "subject": "கனெக்ட்.சூர்யோதயா தளம்",
+    "aspect": "ஆப்ட்-அவுட் செயல்படுத்தும் காலக்கெடு"
+   },
+   {
+    "language": "Tamil",
+    "document": "01_onboarding",
+    "subject": "background_verification",
+    "aspect": "final_approval_deadline"
+   }
+  ]
+ },
+ {
+  "id": "TR-TA-0023",
+  "packet": "TA01",
+  "lid": "TA01-023",
+  "language": "Tamil",
+  "hop_type": "cross_document",
+  "question": "மறுவேலைவாய்ப்பு வாய்ப்பை ஏற்ற, இன்னும் பணியில் சேராத ஒரு அலுமினி, இடமாற்ற உதவி விண்ணப்பத்தை நிர்வாக பிரிவிடம் சமர்ப்பிக்க அனுமதிக்கப்பட்ட கடைசி நாளில் சமர்ப்பிக்கிறார்; அதே நாளில், சேரும் நாளிலிருந்து தொடங்கும் தங்குமிடத்தை கூட்டாண்மை ஹோட்டல் சங்கிலியில் முன்பதிவு செய்கிறார் (திருவிழா காலம் அல்ல). அலுமினி ஹோட்டல் தள்ளுபடியின் முன்பதிவு நிபந்தனை பூர்த்தியாகுமா? இல்லையெனில், குறைந்தது எத்தனை நாட்கள் முன்னதாக முன்பதிவு செய்திருக்க வேண்டும்?",
+  "short_answer": "இல்லை; குறைந்தது 5 நாட்கள் முன்னதாக (சேரும் தேதிக்கு 15 நாள் முன்) முன்பதிவு தேவை",
+  "answer": "பணியில் சேர்த்தல் வழிகாட்டியின் பிரிவு 3.5 இன்படி, இடமாற்ற உதவி விண்ணப்பம் சேரும் தேதிக்கு பத்து நாட்களுக்கு முன்பு சமர்ப்பிக்கப்பட வேண்டும், எனவே முன்பதிவு சேரும் தேதிக்கு 10 நாட்கள் முன் நடந்தது. முன்னாள் ஊழியர் உறவு வழிகாட்டியின் பிரிவு 11 இன்படி, 12 சதவீத ஹோட்டல் தள்ளுபடி குறைந்தது 15 நாட்களுக்கு முன் முன்பதிவு செய்தால் மட்டுமே பொருந்தும். 10 < 15 என்பதால் நிபந்தனை பூர்த்தியாகாது; 15 − 10 = 5 நாட்கள் முன்னதாக முன்பதிவு செய்திருக்க வேண்டும்.",
+  "source": [
+   {
+    "language": "Tamil",
+    "document": "01_onboarding",
+    "section": "3.5"
+   },
+   {
+    "language": "Tamil",
+    "document": "10_alumni_relations",
+    "section": "11"
+   }
+  ],
+  "supporting_facts": [
+   {
+    "language": "Tamil",
+    "document": "01_onboarding",
+    "subject": "relocation_assistance",
+    "aspect": "application_deadline"
+   },
+   {
+    "language": "Tamil",
+    "document": "10_alumni_relations",
+    "subject": "ஹோட்டல் சங்கிலி கூட்டாண்மை",
+    "aspect": "தள்ளுபடி விகிதம்"
+   }
+  ]
+ },
+ {
+  "id": "TR-TA-0024",
+  "packet": "TA01",
+  "lid": "TA01-024",
+  "language": "Tamil",
+  "hop_type": "cross_document",
+  "question": "வேலை வாய்ப்பை ஏற்ற வேட்பாளருக்காக மனித வள பிரிவு நடத்தும் \"சேருவதற்கு முன்\" இணையவழி சமூகத்திலும், வெளியேறிய பின் அலுமினிகளுக்கான வாட்ஸ்அப் அறிவிப்பு குழுவிலும் சேருவது கட்டாயமா? அலுமினி நெட்வொர்க் தள உறுப்பினர் ஒருவர் வாட்ஸ்அப் குழுவில் தானாகவே சேர்க்கப்படுவாரா?",
+  "short_answer": "இரண்டும் விருப்பத்தேர்வு; தானாக சேர்க்கப்படமாட்டார் — தனி ஆப்ட்-இன் தேவை",
+  "answer": "பணியில் சேர்த்தல் வழிகாட்டியின் பிரிவு 3.11 இன்படி, \"சேருவதற்கு முன்\" (ப்ரீ-ஜாயின்) சமூகம் ஒரு விருப்பத்தேர்வு இணையவழி சமூகம். முன்னாள் ஊழியர் உறவு வழிகாட்டியின் பிரிவு 20 இன்படி, வாட்ஸ்அப் அறிவிப்பு குழு ஒரு வழி அறிவிப்பு மட்டுமே, அதில் சேர்வது தன்னார்வமானது; தள உறுப்பினராக இருப்பது தானாகவே குழுவில் சேர்க்காது, தனியாக ஆப்ட்-இன் செய்ய வேண்டும். எனவே இரண்டும் கட்டாயமில்லை.",
+  "source": [
+   {
+    "language": "Tamil",
+    "document": "10_alumni_relations",
+    "section": "20"
+   },
+   {
+    "language": "Tamil",
+    "document": "01_onboarding",
+    "section": "3.11"
+   }
+  ],
+  "supporting_facts": [
+   {
+    "language": "Tamil",
+    "document": "10_alumni_relations",
+    "subject": "WhatsApp அறிவிப்பு குழு",
+    "aspect": "தன்மை"
+   },
+   {
+    "language": "Tamil",
+    "document": "01_onboarding",
+    "subject": "pre_joining_community",
+    "aspect": "name"
+   }
+  ]
+ },
+ {
+  "id": "TR-TA-0029",
+  "packet": "TA01",
+  "lid": "TA01-029",
+  "language": "Tamil",
+  "hop_type": "cross_document",
+  "question": "ஒரு அலுமினியின் கடைசி பணி நாள் 2024 மார்ச் 10; அவர் 5 ஆண்டு முந்தைய பணிக்காலத்துடன் 2026 மார்ச் 6 அன்று மீண்டும் சேர திட்டமிட்டுள்ளார். ஆனால் அவரது ஆவண நகல்கள் நினைவூட்டலுக்குப் பிறகும் விதிக்கப்பட்ட காலத்திற்குள் வராததால் சேரும் தேதி தானாகவே பிற்போடப்படுகிறது. புதிய சேரும் தேதி என்ன, மேலும் அவரது முந்தைய பணிக்காலத்தில் எத்தனை ஆண்டுகள் புதிய பணிக்காலத்துடன் இணைக்கப்படும்?",
+  "short_answer": "2026 மார்ச் 13; 2.5 ஆண்டுகள் (50%)",
+  "answer": "பணியில் சேர்த்தல் வழிகாட்டியின் பிரிவு 3.2 இன்படி, பதினேழு நாட்கள் கடந்தும் ஆவணங்கள் வராவிட்டால் சேரும் தேதி தானாகவே ஏழு நாட்கள் பிற்போடப்படும்; எனவே புதிய தேதி 2026 மார்ச் 13. முன்னாள் ஊழியர் உறவு வழிகாட்டியின் பிரிவு 6 இன்படி, 24 மாதங்களுக்குள் இணைந்தால் 100 சதவீதம், 24 முதல் 48 மாதங்களுக்குள் 50 சதவீதம் பணிக்காலம் இணைக்கப்படும். 2026 மார்ச் 13 என்பது 24 மாத எல்லையான 2026 மார்ச் 10-ஐக் கடந்துவிட்டதால், 5 ஆண்டுகளில் 50 சதவீதம் = 2.5 ஆண்டுகள் மட்டுமே இணைக்கப்படும் (திட்டமிட்ட தேதியில் சேர்ந்திருந்தால் முழு 5 ஆண்டுகள்).",
+  "source": [
+   {
+    "language": "Tamil",
+    "document": "01_onboarding",
+    "section": "3.2"
+   },
+   {
+    "language": "Tamil",
+    "document": "10_alumni_relations",
+    "section": "6"
+   }
+  ],
+  "supporting_facts": [
+   {
+    "language": "Tamil",
+    "document": "01_onboarding",
+    "subject": "document_copies",
+    "aspect": "late_consequence"
+   },
+   {
+    "language": "Tamil",
+    "document": "10_alumni_relations",
+    "subject": "மறுவேலைவாய்ப்பு",
+    "aspect": "பணிக்காலம் அங்கீகார விதி"
+   }
+  ]
+ },
+ {
+  "id": "TR-TA-0039",
+  "packet": "TA01",
+  "lid": "TA01-039",
+  "language": "Tamil",
+  "hop_type": "cross_section",
+  "question": "ஒரு அலுமினி பரிந்துரைத்த வேட்பாளர் நுழைவு மற்றும் நிர்வாக அளவிலான பதவியில் பணியமர்த்தப்பட்டார். மூலத்தில் வரி கழித்தலுக்குப் (TDS) பிறகு அந்த அலுமினிக்கு கைக்கு வரும் நிகர பரிந்துரை போனஸ் எவ்வளவு?",
+  "short_answer": "₹22,500",
+  "answer": "முன்னாள் ஊழியர் உறவு வழிகாட்டியின் பிரிவு 7 இன்படி, நுழைவு மற்றும் நிர்வாக அளவிலான பதவிகளுக்கு ஒரு அலுமினி பரிந்துரைக்கு ₹25,000 போனஸ். பிரிவு 77 இன்படி, வருமான வரிச் சட்டம் பிரிவு 194J இன் கீழ் 10 சதவீதம் TDS கழிக்கப்படும், அதாவது ₹2,500. எனவே நிகர தொகை ₹25,000 − ₹2,500 = ₹22,500.",
+  "source": [
+   {
+    "language": "Tamil",
+    "document": "10_alumni_relations",
+    "section": "7"
+   },
+   {
+    "language": "Tamil",
+    "document": "10_alumni_relations",
+    "section": "77"
+   }
+  ],
+  "supporting_facts": [
+   {
+    "language": "Tamil",
+    "document": "10_alumni_relations",
+    "subject": "அலுமினி பரிந்துரைத் திட்டம்",
+    "aspect": "நுழைவு/நிர்வாக பதவி போனஸ்"
+   },
+   {
+    "language": "Tamil",
+    "document": "10_alumni_relations",
+    "subject": "அலுமினி பரிந்துரைத் திட்டம்",
+    "aspect": "வரி கழிவு (TDS)"
+   }
+  ]
+ },
+ {
+  "id": "TR-TA-0045",
+  "packet": "TA02",
+  "lid": "TA02-003",
+  "language": "Tamil",
+  "hop_type": "cross_document",
+  "question": "ஒரு ஊழியரின் தற்காலிக பொறுப்பு நியமனம், தூண்டல் நிகழ்வாகக் கருதப்படும் அளவைத் தாண்டி நீண்டதால், HRBPம் துறைத் தலைவரும் இணைந்து ஒரு தற்காலிக மதிப்பெண் ஒதுக்கீடு செய்தனர். அந்த ஒதுக்கீடு செல்லுபடியாகும் முழுக் காலத்திலும் நிறுவனம் அறிவித்த தொலைநிலை பணி நடைமுறையில் இருந்து அவர் வீட்டிலிருந்தே பணியாற்றினால், அந்தக் காலத்தில் அவருக்கு மொத்தம் எவ்வளவு மாதாந்திர தொலைநிலை பணி கொடுப்பனவு கிடைக்கும்?",
+  "short_answer": "₹7,200 (6 மாதம் × ₹1,200)",
+  "answer": "பணி விவர வழிகாட்டியின் பிரிவு 6.6-இன்படி, மூன்று மாதங்களைத் தாண்டும் தற்காலிக பொறுப்பு நியமனத்திற்கு செய்யப்படும் தற்காலிக மதிப்பெண் ஒதுக்கீடு ஆறு மாதங்களுக்கு செல்லுபடியாகும். வணிகத் தொடர்ச்சி வழிகாட்டியின் பிரிவு 5-இன்படி, தொலைநிலை பணியின்போது மாதாந்திர தொலைநிலை பணி கொடுப்பனவு 1,200 ரூபாய். எனவே 6 × 1,200 = 7,200 ரூபாய்.",
+  "source": [
+   {
+    "language": "Tamil",
+    "document": "02_job_description_grading",
+    "section": "6.6"
+   },
+   {
+    "language": "Tamil",
+    "document": "09_business_continuity",
+    "section": "5"
+   }
+  ],
+  "supporting_facts": [
+   {
+    "language": "Tamil",
+    "document": "02_job_description_grading",
+    "subject": "acting_assignment",
+    "aspect": "extended_rule"
+   },
+   {
+    "language": "Tamil",
+    "document": "09_business_continuity",
+    "subject": "தொலைநிலை பணி கொடுப்பனவு",
+    "aspect": "மாதாந்திர தொகை"
+   }
+  ]
+ },
+ {
+  "id": "TR-TE-0013",
+  "packet": "TE01",
+  "lid": "TE01-013",
+  "language": "Telugu",
+  "hop_type": "cross_document",
+  "question": "బోనస్ చెల్లింపు చట్టం కింద స్టాట్యుటరీ బోనస్‌కు అర్హురాలైన ఒక ఉద్యోగిని సరిహద్దు స్కోరుతో ఉండగా, ఆమె మేనేజరు అధికారిక PIPకు బదులు అనధికారిక కోచింగ్‌ను ఎంచుకున్నాడు. కోచింగ్ ప్రారంభమయ్యే ముందు ఆ బోనస్ సంవత్సరంలో ఆమె 200 రోజులు పని చేసింది; ఆ తర్వాత పరిశీలనా కాలంలోని ప్రతి రోజూ పని చేసి, ఆ కాలం చివరి రోజున నిష్క్రమించింది. ఆమెకు రోజుకు బేసిక్ + DA ₹50 అయితే, ఆమెకు రావలసిన కనీస స్టాట్యుటరీ బోనస్ ఎంత?",
+  "short_answer": "₹957.95 (230 రోజులు × ₹50 = ₹11,500 పై)",
+  "answer": "PIP విధానం సెక్షన్ 2 ప్రకారం సరిహద్దు కేసులలో అనధికారిక కోచింగ్‌కు 30 రోజుల పరిశీలనా కాలం ఉంటుంది, కాబట్టి ఆమె మొత్తం 200 + 30 = 230 రోజులు పని చేసింది. తుది చెల్లింపు విధానం సెక్షన్ 2.5 ప్రకారం స్టాట్యుటరీ బోనస్ పని చేసిన రోజుల ఆధారంగా ప్రో-రేటాగా, బేసిక్ + DA పై కనీసం 8.33% రేటుతో గణించబడుతుంది. 230 × ₹50 = ₹11,500; ₹11,500 × 8.33% = ₹957.95.",
+  "source": [
+   {
+    "language": "Telugu",
+    "document": "02_performance_improvement_plan",
+    "section": "2"
+   },
+   {
+    "language": "Telugu",
+    "document": "07_final_settlement_exit",
+    "section": "2.5"
+   }
+  ],
+  "supporting_facts": [
+   {
+    "language": "Telugu",
+    "document": "02_performance_improvement_plan",
+    "subject": "విచక్షణాధారిత అనధికారిక కోచింగ్",
+    "aspect": "పరిశీలనా కాలం"
+   },
+   {
+    "language": "Telugu",
+    "document": "07_final_settlement_exit",
+    "subject": "స్టాట్యుటరీ బోనస్",
+    "aspect": "కనీస రేటు"
+   }
+  ]
+ },
+ {
+  "id": "TR-TE-0018",
+  "packet": "TE01",
+  "lid": "TE01-018",
+  "language": "Telugu",
+  "hop_type": "cross_section",
+  "question": "PIP తుది సమీక్షలో ఒక ఉద్యోగి లక్ష్యాల సగటు పూర్తి శాతం 78%గా వచ్చింది, అదనపు సమయంతో అతను లక్ష్యాలు చేరుకోగలడని మేనేజరు, HRBP నమ్ముతున్నారు. కేవలం HRBP ఆమోదంతో PIP పొడిగింపు ఇవ్వాలని మేనేజరు అనుకుంటున్నాడు. ఈ ఉద్యోగి పొడిగింపుకు అర్హుడా, మరియు మేనేజరు ప్రణాళిక సరైనదేనా?",
+  "short_answer": "అర్హుడే; కానీ స్కిప్-లెవెల్ మేనేజరు లిఖిత ఆమోదం తప్పనిసరి",
+  "answer": "PIP విధానం సెక్షన్ 6 ప్రకారం సగటు పూర్తి శాతం 55% నుండి 84% మధ్య ఉంటే \"పాక్షిక మెరుగుదల - పొడిగింపుకు అర్హత\" కేటగిరీ; 78% దీనిలోకి వస్తుంది. సెక్షన్ 4 ప్రకారం పొడిగింపుకు స్కిప్-లెవెల్ మేనేజరు యొక్క లిఖితపూర్వక ఆమోదం తప్పనిసరి. కాబట్టి ఉద్యోగి అర్హుడే, కానీ కేవలం HRBP ఆమోదం సరిపోదు.",
+  "source": [
+   {
+    "language": "Telugu",
+    "document": "02_performance_improvement_plan",
+    "section": "4"
+   },
+   {
+    "language": "Telugu",
+    "document": "02_performance_improvement_plan",
+    "section": "6"
+   }
+  ],
+  "supporting_facts": [
+   {
+    "language": "Telugu",
+    "document": "02_performance_improvement_plan",
+    "subject": "PIP పొడిగింపు ఆమోదం",
+    "aspect": "అవసరమైన ఆమోదం"
+   },
+   {
+    "language": "Telugu",
+    "document": "02_performance_improvement_plan",
+    "subject": "పాక్షిక మెరుగుదల కేటగిరీ",
+    "aspect": "ప్రమాణం"
+   }
+  ]
+ },
+ {
+  "id": "TR-TE-0047",
+  "packet": "TE02",
+  "lid": "TE02-018",
+  "language": "Telugu",
+  "hop_type": "cross_document",
+  "question": "ఒక ఉద్యోగికి ఈ సంవత్సరం మూడు వేర్వేరు న్యాయ సమస్యలు ఉన్నాయి: అద్దె వివాదం, వినియోగదారుల హక్కుల సమస్య, కుటుంబ న్యాయ ప్రశ్న. EAP కింద ఆయన పొందగల మొత్తం ఉచిత న్యాయ సంప్రదింపు సమయం దశ 1 ఆప్టిట్యూడ్ టెస్ట్ వ్యవధికి ఎన్ని రెట్లు?",
+  "short_answer": "2 రెట్లు (90 నిమిషాలు vs 45 నిమిషాలు)",
+  "answer": "EAP మార్గదర్శకాల సెక్షన్ 5 ప్రకారం ఒక్కో నిర్దిష్ట న్యాయ అంశంపై సంవత్సరానికి ఒక ఉచిత 30 నిమిషాల సంప్రదింపు లభిస్తుంది; మూడు అంశాలకు 3 × 30 = 90 నిమిషాలు. నియామక మార్గదర్శకాల సెక్షన్ 6.1 ప్రకారం ఆప్టిట్యూడ్ టెస్ట్ 45 నిమిషాలు. కాబట్టి 90 ÷ 45 = 2 రెట్లు.",
+  "source": [
+   {
+    "language": "Telugu",
+    "document": "06_employee_assistance_programme",
+    "section": "5"
+   },
+   {
+    "language": "Telugu",
+    "document": "03_recruitment_advertising_selection",
+    "section": "6.1"
+   }
+  ],
+  "supporting_facts": [
+   {
+    "language": "Telugu",
+    "document": "06_employee_assistance_programme",
+    "subject": "న్యాయ సంప్రదింపు సేవ",
+    "aspect": "ఉచిత పరిమితి"
+   },
+   {
+    "language": "Telugu",
+    "document": "03_recruitment_advertising_selection",
+    "subject": "దశ 1 ఆప్టిట్యూడ్ టెస్ట్",
+    "aspect": "వ్యవధి మరియు మార్కులు"
+   }
+  ]
+ },
+ {
+  "id": "TR-XL-DIS-012",
+  "packet": "XLDIS",
+  "lid": "XLDIS-012",
+  "language": "Hindi-Kannada",
+  "hop_type": "cross_language",
+  "question": "एक कर्मी उसी दिन कंपनी में आया जिस दिन अनुशासन समिति का गठन हुआ। कन्नड़ मार्गदर्शिका के अनुसार जाँच अधिकारी फलक (ಐಒ ಫಲಕ) का सदस्य बनने के लिए जितना न्यूनतम सेवा-अनुभव चाहिए, वह ठीक उतना अनुभव पूरा होते ही पात्र होता है। तब तक हिंदी निर्देशिका के नियम के अनुसार समिति-सदस्यों के नामांकन पर कितनी बार पुनर्विचार हो चुका होगा?",
+  "short_answer": "४ बार (८ वर्ष ÷ २ वर्ष)",
+  "answer": "कन्नड़ मार्गदर्शिका के विभाग 19 के अनुसार जाँच अधिकारी फलक का सदस्य बनने के लिए न्यूनतम ८ वर्ष का सेवा-अनुभव आवश्यक है। हिंदी निर्देशिका की धारा १२.४ के अनुसार अनुशासन समिति के सदस्यों का नामांकन प्रत्येक २ वर्ष पर पुनर्विचारित होता है। अतः ८ वर्ष में २, ४, ६ और ८ वर्ष पर — कुल ४ बार — पुनर्विचार हो चुका होगा।",
+  "source": [
+   {
+    "language": "Hindi",
+    "document": "05_disciplinary",
+    "section": "१२.४"
+   },
+   {
+    "language": "Kannada",
+    "document": "01_disciplinary_inquiry",
+    "section": "19"
+   }
+  ],
+  "supporting_facts": [
+   {
+    "language": "Hindi",
+    "document": "05_disciplinary",
+    "subject": "disciplinary_committee",
+    "aspect": "nomination_review_years"
+   },
+   {
+    "language": "Kannada",
+    "document": "01_disciplinary_inquiry",
+    "subject": "io_panel",
+    "aspect": "minimum_experience"
+   }
+  ]
+ },
+ {
+  "id": "TR-XL-DIS-026",
+  "packet": "XLDIS",
+  "lid": "XLDIS-026",
+  "language": "Hindi-Kannada",
+  "hop_type": "cross_language",
+  "question": "आंतरिक अंकेक्षण में एक जाँच-फ़ाइल को कन्नड़ मार्गदर्शिका की गुणवत्ता-अंक योजना के 'समय-सीमा अनुपालन' (ಕಾಲಮಿತಿ ಅನುಸರಣೆ) घटक में शून्य अंक मिले, जबकि बाकी सभी घटकों में पूरे अंक मिले। उस फ़ाइल का कुल अंक कितना है, और हिंदी निर्देशिका के अनुसार अंकेक्षण-प्रतिवेदन में पाई गई त्रुटियों के निवारण की कार्ययोजना मानव संसाधन प्रमुख को कितने कार्यदिवस में प्रस्तुत करनी होगी?",
+  "short_answer": "१०० में ८० अंक; कार्ययोजना ३० कार्यदिवस में",
+  "answer": "कन्नड़ मार्गदर्शिका के विभाग 19 के अनुसार १०० अंकों में प्राकृतिक न्याय ४०, दस्तावेज़ीकरण की पूर्णता २५, समय-सीमा अनुपालन २० और जाँच प्रतिवेदन की तार्किक गुणवत्ता १५ अंक के हैं; समय-सीमा घटक में शून्य मिलने पर कुल ४० + २५ + १५ = ८० अंक होंगे। हिंदी निर्देशिका की धारा २५.३ के अनुसार प्रतिवेदन में पाई गई त्रुटियों के निवारण हेतु मानव संसाधन प्रमुख ३० कार्यदिवस के भीतर कार्ययोजना प्रस्तुत करेंगे।",
+  "source": [
+   {
+    "language": "Hindi",
+    "document": "05_disciplinary",
+    "section": "२५.३"
+   },
+   {
+    "language": "Kannada",
+    "document": "01_disciplinary_inquiry",
+    "section": "19"
+   }
+  ],
+  "supporting_facts": [
+   {
+    "language": "Hindi",
+    "document": "05_disciplinary",
+    "subject": "annual_audit",
+    "aspect": "corrective_plan_working_days"
+   },
+   {
+    "language": "Kannada",
+    "document": "01_disciplinary_inquiry",
+    "subject": "quality_audit",
+    "aspect": "scoring_breakdown"
+   }
+  ]
+ },
+ {
+  "id": "TR-XL-REC-002",
+  "packet": "XLREC",
+  "lid": "XLREC-002",
+  "language": "Telugu-Bengali",
+  "hop_type": "cross_language",
+  "question": "బెంగాలీ నియామక మార్గదర్శకం (নিয়োগ ও নির্বাচন প্রক্রিয়া নির্দেশিকা) ఆఫర్ అంగీకార రేటుకు నిర్దేశించిన ఆమోదయోగ్య పరిమితిని లక్ష్యంగా తీసుకుంటే, తెలుగు పత్రంలోని 'తీవ్రమైన విచలనం' నిర్వచనం ప్రకారం ఒక త్రైమాసికంలో ఆఫర్ అంగీకార రేటు ఏ స్థాయికి లేదా అంతకంటే తక్కువకు పడిపోతే అది తీవ్రమైన విచలనంగా వర్గీకరించబడుతుంది?",
+  "short_answer": "63.75% లేదా అంతకంటే తక్కువ",
+  "answer": "బెంగాలీ మార్గదర్శకం సెక్షన్ 21.3 ప్రకారం ఆఫర్ అంగీకార రేటు ఆమోదయోగ్య పరిమితి 85%. తెలుగు పత్రం సెక్షన్ 80 ప్రకారం ఏదైనా KPI లక్ష్యం కంటే 25% లేదా అంతకంటే ఎక్కువ తక్కువగా పడిపోతే అది తీవ్రమైన విచలనం. కాబట్టి 85 × 0.75 = 63.75%; రేటు 63.75% లేదా అంతకంటే తక్కువైతే తీవ్రమైన విచలనం (పత్రంలోని 63% ఉదాహరణ దీనికి అనుగుణంగా ఉంది).",
+  "source": [
+   {
+    "language": "Telugu",
+    "document": "03_recruitment_advertising_selection",
+    "section": "80"
+   },
+   {
+    "language": "Bengali",
+    "document": "01_recruitment",
+    "section": "২১.৩"
+   }
+  ],
+  "supporting_facts": [
+   {
+    "language": "Telugu",
+    "document": "03_recruitment_advertising_selection",
+    "subject": "KPI తీవ్రమైన విచలనం నిర్వచనం",
+    "aspect": "పరిమితి శాతం"
+   },
+   {
+    "language": "Bengali",
+    "document": "01_recruitment",
+    "subject": "offer_acceptance_rate",
+    "aspect": "acceptable_threshold_percent"
+   }
+  ]
+ },
+ {
+  "id": "TR-XL-REC-017",
+  "packet": "XLREC",
+  "lid": "XLREC-017",
+  "language": "Bengali-Telugu",
+  "hop_type": "cross_language",
+  "question": "একটি নির্বাচন প্যানেল বাংলা নির্দেশিকার ন্যূনতম সদস্যসংখ্যা নিয়ে গঠিত, এবং প্রত্যেক সদস্যকে তেলুগু নির্দেশিকার বাধ্যতামূলক নিরপেক্ষ মূল্যায়ন প্রশিক্ষণ মডিউল সম্পন্ন করতে হবে। সব সদস্যের মিলিত প্রশিক্ষণ-সময় কত ঘণ্টা?",
+  "short_answer": "৯ ঘণ্টা (৩ জন × ৩ ঘণ্টা)",
+  "answer": "বাংলা নির্দেশিকার ধারা ৯.১ অনুসারে নির্বাচন প্যানেলের ন্যূনতম সদস্যসংখ্যা ৩। তেলুগু নির্দেশিকার সেকশন ১৭.১ অনুসারে প্রত্যেক মূল্যায়নকারীর জন্য প্রশিক্ষণ মডিউলটি ৩ ঘণ্টার। অতএব মোট ৩ × ৩ = ৯ ঘণ্টা।",
+  "source": [
+   {
+    "language": "Bengali",
+    "document": "01_recruitment",
+    "section": "৯.১"
+   },
+   {
+    "language": "Telugu",
+    "document": "03_recruitment_advertising_selection",
+    "section": "17.1"
+   }
+  ],
+  "supporting_facts": [
+   {
+    "language": "Bengali",
+    "document": "01_recruitment",
+    "subject": "selection_panel",
+    "aspect": "min_members"
+   },
+   {
+    "language": "Telugu",
+    "document": "03_recruitment_advertising_selection",
+    "subject": "మూల్యాంకనకర్తల తప్పనిసరి శిక్షణ",
+    "aspect": "వ్యవధి"
+   }
+  ]
+ },
+ {
+  "id": "TR-XL-REC-026",
+  "packet": "XLREC",
+  "lid": "XLREC-026",
+  "language": "Telugu-Bengali",
+  "hop_type": "cross_language",
+  "question": "తెలుగు పత్రంలోని అభ్యర్థి సంతృప్తి స్కోరు (CSAT) లక్ష్యాన్ని గరిష్ట సాధ్యమైన స్కోరులో శాతంగా వ్యక్తపరిస్తే, అది బెంగాలీ మార్గదర్శకంలో అభ్యర్థి అనుభవ సర్వే చివరి ప్రశ్నకు నిర్దేశించిన సానుకూల ప్రతిస్పందన రేటు లక్ష్యం కంటే ఎన్ని శాతం పాయింట్లు ఎక్కువ?",
+  "short_answer": "9 శాతం పాయింట్లు ఎక్కువ (84% మరియు 75%)",
+  "answer": "తెలుగు పత్రం సెక్షన్ 14 ప్రకారం CSAT లక్ష్యం ≥ 4.2/5, అంటే 4.2 ÷ 5 = 84%. బెంగాలీ మార్గదర్శకం సెక్షన్ 21.6 ప్రకారం చివరి ప్రశ్నకు సానుకూల ప్రతిస్పందన రేటు లక్ష్యం 75 శాతం. కాబట్టి తేడా 84 − 75 = 9 శాతం పాయింట్లు.",
+  "source": [
+   {
+    "language": "Telugu",
+    "document": "03_recruitment_advertising_selection",
+    "section": "14"
+   },
+   {
+    "language": "Bengali",
+    "document": "01_recruitment",
+    "section": "২১.৬"
+   }
+  ],
+  "supporting_facts": [
+   {
+    "language": "Telugu",
+    "document": "03_recruitment_advertising_selection",
+    "subject": "KPI - అభ్యర్థి సంతృప్తి స్కోరు",
+    "aspect": "లక్ష్యం"
+   },
+   {
+    "language": "Bengali",
+    "document": "01_recruitment",
+    "subject": "candidate_experience_survey",
+    "aspect": "positive_response_target_percent"
+   }
+  ]
+ },
+ {
+  "id": "TR-XL-SEP-011",
+  "packet": "XLSEP",
+  "lid": "XLSEP-011",
+  "language": "Telugu-Bengali",
+  "hop_type": "cross_language",
+  "question": "ఒక త్రైమాసికంలో F&F స్టేట్‌మెంట్ ముందస్తు పంపిణీ కంప్లయన్స్ 97.5% వచ్చింది; అదే త్రైమాసికంలో బెంగాలీ మార్గదర్శకం ప్రకారం గ్రహీత సంతకంతో పూర్తయిన హ్యాండోవర్ల నిష్పత్తి (গ্রহীতার স্বাক্ষরসহ সম্পন্ন হস্তান্তরের অনুপাত) కూడా 97.5%. ఏ సూచిక లక్ష్యాన్ని చేరింది, ఏది చేరలేదు?",
+  "short_answer": "F&F సూచిక చేరింది; హ్యాండోవర్ సూచిక చేరలేదు",
+  "answer": "తెలుగు పత్రం సెక్షన్ 15 ప్రకారం F&F స్టేట్‌మెంట్ ముందస్తు పంపిణీ లక్ష్యం కనీసం 97%, కాబట్టి 97.5% తో అది నెరవేరింది. బెంగాలీ మార్గదర్శకం సెక్షన్ ২৩.২ ప్రకారం సంతకంతో పూర్తైన హ్యాండోవర్ లక్ష్యం 98% కన్నా ఎక్కువ, కాబట్టి 97.5% సరిపోదు.",
+  "source": [
+   {
+    "language": "Telugu",
+    "document": "07_final_settlement_exit",
+    "section": "15"
+   },
+   {
+    "language": "Bengali",
+    "document": "04_separation",
+    "section": "২৩.২"
+   }
+  ],
+  "supporting_facts": [
+   {
+    "language": "Telugu",
+    "document": "07_final_settlement_exit",
+    "subject": "F&F స్టేట్‌మెంట్ ముందస్తు పంపిణీ కంప్లయన్స్",
+    "aspect": "KPI లక్ష్యం"
+   },
+   {
+    "language": "Bengali",
+    "document": "04_separation",
+    "subject": "metrics",
+    "aspect": "signed_handover_target_percent"
+   }
+  ]
+ },
+ {
+  "id": "TR-XL-SEP-015",
+  "packet": "XLSEP",
+  "lid": "XLSEP-015",
+  "language": "Telugu-Bengali",
+  "hop_type": "cross_language",
+  "question": "నిష్క్రమించే ఉద్యోగి విషయంలో, బెంగాలీ మార్గదర్శకంలోని సూచిక ప్రకారం చివరి పని దినం తర్వాత అన్ని యాక్సెస్ హక్కులు (প্রবেশাধিকার) ఉపసంహరించాల్సిన గడువు, తెలుగు పత్రంలో EPFO పోర్టల్‌లో నిష్క్రమణ తేదీ నమోదుకు KPI లో నిర్దేశించిన గడువు — PF నమోదు గడువు ఎన్ని పని దినాలు ఎక్కువ?",
+  "short_answer": "8 పని దినాలు ఎక్కువ",
+  "answer": "బెంగాలీ మార్గదర్శకం సెక్షన్ ২৩.২ ప్రకారం యాక్సెస్ ఉపసంహరణ చివరి పని దినం నుండి 2 పని దినాల్లోపు జరగాలి. తెలుగు పత్రం సెక్షన్ 15 ప్రకారం EPFO లో నిష్క్రమణ తేదీ నమోదు చివరి పని దినం నుండి 10 పని దినాల్లోపు పూర్తి కావాలి. కాబట్టి 10 − 2 = 8 పని దినాలు ఎక్కువ.",
+  "source": [
+   {
+    "language": "Telugu",
+    "document": "07_final_settlement_exit",
+    "section": "15"
+   },
+   {
+    "language": "Bengali",
+    "document": "04_separation",
+    "section": "২৩.২"
+   }
+  ],
+  "supporting_facts": [
+   {
+    "language": "Telugu",
+    "document": "07_final_settlement_exit",
+    "subject": "PF నిష్క్రమణ నమోదు సమయపాలన కంప్లయన్స్",
+    "aspect": "KPI లక్ష్యం"
+   },
+   {
+    "language": "Bengali",
+    "document": "04_separation",
+    "subject": "metrics",
+    "aspect": "access_revocation_indicator_working_days"
+   }
+  ]
+ },
+ {
+  "id": "TR-XL-SEP-018",
+  "packet": "XLSEP",
+  "lid": "XLSEP-018",
+  "language": "Bengali-Telugu",
+  "hop_type": "cross_language",
+  "question": "একটি অর্থবর্ষে ৩০০টি চূড়ান্ত নিষ্পত্তি হয়েছে, যার মধ্যে ৬০টি স্বেচ্ছা প্রস্থান। অনুশোচিত প্রস্থানের লক্ষ্যমাত্রা পূরণ করতে সর্বাধিক কতটি অনুশোচিত প্রস্থান থাকতে পারে, এবং তেলুগু নির্দেশিকার বিলম্বজনিত সুদের হারের লক্ষ্য পূরণ করতে প্রতিষ্ঠানের দেরির কারণে সুদ দিতে হয় এমন ঘটনা সর্বাধিক কতটি হতে পারে?",
+  "short_answer": "অনুশোচিত প্রস্থান ২০টি; সুদের ঘটনা ৫টি",
+  "answer": "নির্দেশিকার ধারা ২৩.৪ অনুযায়ী অনুশোচিত প্রস্থান মোট স্বেচ্ছা প্রস্থানের ৩৫ শতাংশের নিচে রাখতে হবে; ৬০-এর ৩৫ শতাংশ = ২১, তাই সর্বাধিক ২০টি। তেলুগু নির্দেশিকার ধারা ১৫ অনুযায়ী সুদ প্রদেয় ঘটনা ২ শতাংশের কম হতে হবে; ৩০০-র ২ শতাংশ = ৬, তাই সর্বাধিক ৫টি।",
+  "source": [
+   {
+    "language": "Bengali",
+    "document": "04_separation",
+    "section": "২৩.৪"
+   },
+   {
+    "language": "Telugu",
+    "document": "07_final_settlement_exit",
+    "section": "15"
+   }
+  ],
+  "supporting_facts": [
+   {
+    "language": "Bengali",
+    "document": "04_separation",
+    "subject": "metrics",
+    "aspect": "regret_exit_target_percent"
+   },
+   {
+    "language": "Telugu",
+    "document": "07_final_settlement_exit",
+    "subject": "ఆలస్యపు వడ్డీ సంభవించే రేటు",
+    "aspect": "KPI లక్ష్యం"
+   }
+  ]
+ },
+ {
+  "id": "TR-XL-SEP-035",
+  "packet": "XLSEP",
+  "lid": "XLSEP-035",
+  "language": "Bengali-Telugu",
+  "hop_type": "cross_language",
+  "question": "সুতপা (ধারা ২৪.১) যদি ১ আগস্ট ২০১৮ তারিখে যোগ দিয়ে থাকেন এবং প্রতিষ্ঠান তাঁর পদত্যাগপত্রে প্রস্তাবিত শেষ কর্মদিবসই মেনে নিত, আর তাঁর শেষ মূল বেতন + DA মাসিক ₹৫২,০০০ হয়, তবে তেলুগু নির্দেশিকার সূত্র অনুযায়ী তাঁর গ্র্যাচুইটি কত হত?",
+  "short_answer": "₹২,১০,০০০",
+  "answer": "ধারা ২৪.১ অনুযায়ী সুতপার প্রস্তাবিত শেষ কর্মদিবস ৩১ জুলাই ২০২৫, তাই ১ আগস্ট ২০১৮ থেকে সেবাকাল ঠিক ৭ পূর্ণ বছর। তেলুগু নির্দেশিকার ধারা ২.৩ অনুযায়ী গ্র্যাচুইটি = (মূল বেতন + DA) × ১৫/২৬ × পূর্ণ সেবাবর্ষ = ₹৫২,০০০ × ১৫/২৬ × ৭ = ₹৩০,০০০ × ৭ = ₹২,১০,০০০।",
+  "source": [
+   {
+    "language": "Bengali",
+    "document": "04_separation",
+    "section": "২৪.১"
+   },
+   {
+    "language": "Telugu",
+    "document": "07_final_settlement_exit",
+    "section": "2.3"
+   }
+  ],
+  "supporting_facts": [
+   {
+    "language": "Bengali",
+    "document": "04_separation",
+    "subject": "scenario_one",
+    "aspect": "employee_proposed_last_day"
+   },
+   {
+    "language": "Telugu",
+    "document": "07_final_settlement_exit",
+    "subject": "గ్రాట్యుటీ",
+    "aspect": "గణన ఫార్ములా"
+   }
+  ]
+ },
+ {
+  "id": "TR-XL-SEP-038",
+  "packet": "XLSEP",
+  "lid": "XLSEP-038",
+  "language": "Telugu-Bengali",
+  "hop_type": "cross_language",
+  "question": "ఒక ఉద్యోగి బెంగాలీ మార్గదర్శకంలోని మొదటి-సంవత్సర నిష్క్రమణ సూచిక (যোগদানের পর প্রথম বছরের প্রস্থান) లో లెక్కించబడే వ్యవధిలోనే కంపెనీని వదిలి, తన మొత్తం EPF బ్యాలెన్స్‌ను విత్‌డ్రా చేశారు. తెలుగు పత్రం ప్రకారం ఈ విత్‌డ్రాయల్‌పై పన్ను ప్రభావం ఉంటుందా? ఏ భాగాలు ఆదాయంగా పరిగణించబడతాయి?",
+  "short_answer": "అవును; యజమాని వంతు + వడ్డీ, గతంలో క్లెయిమ్ చేసిన 80C మినహాయింపు",
+  "answer": "బెంగాలీ మార్గదర్శకం సెక్షన్ ২৩.৩ ప్రకారం ఈ సూచిక చేరిన 12 మాసాల్లోపు జరిగే నిష్క్రమణలను లెక్కిస్తుంది, కాబట్టి ఆ ఉద్యోగి సర్వీసు 5 సంవత్సరాల కన్నా చాలా తక్కువ. తెలుగు పత్రం సెక్షన్ 7.3 ప్రకారం 5 సంవత్సరాల నిరంతర సర్వీసుకు ముందు విత్‌డ్రా చేస్తే యజమాని వంతు, దానిపై వడ్డీ, సెక్షన్ 80C క్రింద క్లెయిమ్ చేసిన మినహాయింపు మొత్తం ఆ సంవత్సర ఆదాయంగా పన్ను విధించబడతాయి.",
+  "source": [
+   {
+    "language": "Telugu",
+    "document": "07_final_settlement_exit",
+    "section": "7.3"
+   },
+   {
+    "language": "Bengali",
+    "document": "04_separation",
+    "section": "২৩.৩"
+   }
+  ],
+  "supporting_facts": [
+   {
+    "language": "Telugu",
+    "document": "07_final_settlement_exit",
+    "subject": "PF విత్‌డ్రాయల్",
+    "aspect": "5-సంవత్సరాల ముందస్తు విత్‌డ్రాయల్ పన్ను ప్రభావం"
+   },
+   {
+    "language": "Bengali",
+    "document": "04_separation",
+    "subject": "metrics",
+    "aspect": "first_year_attrition_window_months"
+   }
+  ]
+ },
+ {
+  "id": "TR-XL-TRN-009",
+  "packet": "XLTRN",
+  "lid": "XLTRN-009",
+  "language": "Kannada-Hindi",
+  "hop_type": "cross_language",
+  "question": "ಒಂದೇ ದಿನ ಒಬ್ಬ ಉದ್ಯೋಗಿ ಎರಡು ಲಿಖಿತ ದೂರುಗಳನ್ನು ಸಲ್ಲಿಸಿದ: ತನ್ನ ತರಬೇತಿ ನೋಂದಣಿಯ (प्रशिक्षण-पंजी) ಒಂದು ತಪ್ಪು ನಮೂದಿನ ಬಗ್ಗೆ ತರಬೇತಿ ಪ್ರಕೋಷ್ಠಕ್ಕೆ ಆಕ್ಷೇಪಣೆ, ಮತ್ತು ಎರಡು ಮಾರ್ಗಸೂಚಿಗಳ ನಡುವಿನ ಸಂಘರ್ಷದ ಬಗ್ಗೆ ಮಾನವ ಸಂಪನ್ಮೂಲ ವಿಭಾಗಕ್ಕೆ ವರದಿ. ಸಂಘರ್ಷ ಪರಿಹಾರದ ಗರಿಷ್ಠ ಗಡುವು, ನೋಂದಣಿ ಆಕ್ಷೇಪಣೆಯ ಇತ್ಯರ್ಥದ ಗಡುವಿಗಿಂತ ಎಷ್ಟು ಕಾರ್ಯ ದಿನಗಳ ನಂತರ ಬರುತ್ತದೆ?",
+  "short_answer": "23 ಕಾರ್ಯ ದಿನಗಳ ನಂತರ (7 ವಿರುದ್ಧ 30 ಕಾರ್ಯ ದಿನಗಳು)",
+  "answer": "ಹಿಂದಿ ಮಾರ್ಗಸೂಚಿ ಸಂಖ್ಯೆ 07ರ ವಿಭಾಗ 19.2ರ ಪ್ರಕಾರ ಪ್ರಕೋಷ್ಠವು ನೋಂದಣಿ ಆಕ್ಷೇಪಣೆಯನ್ನು ಏಳು ಕಾರ್ಯ ದಿನಗಳ ಒಳಗೆ ಇತ್ಯರ್ಥಪಡಿಸಿ ಲಿಖಿತ ಉತ್ತರ ನೀಡಬೇಕು. ಮೌಲ್ಯಮಾಪನ ಮಾರ್ಗದರ್ಶಿಯ ವಿಭಾಗ 19ರ ಪ್ರಕಾರ ದಾಖಲೆ ಸಂಘರ್ಷದ ಪರಿಹಾರ ಮೂವತ್ತು ಕಾರ್ಯ ದಿನಗಳ ಒಳಗೆ ಬರಬೇಕು. ಆದ್ದರಿಂದ ಸಂಘರ್ಷ ಪರಿಹಾರದ ಗಡುವು 30 − 7 = 23 ಕಾರ್ಯ ದಿನಗಳ ನಂತರ ಬರುತ್ತದೆ.",
+  "source": [
+   {
+    "language": "Kannada",
+    "document": "02_training_evaluation",
+    "section": "19"
+   },
+   {
+    "language": "Hindi",
+    "document": "07_training",
+    "section": "१९.२"
+   }
+  ],
+  "supporting_facts": [
+   {
+    "language": "Kannada",
+    "document": "02_training_evaluation",
+    "subject": "ದಾಖಲೆ ಸಂಘರ್ಷ ಪರಿಹಾರ",
+    "aspect": "ಗಡುವು"
+   },
+   {
+    "language": "Hindi",
+    "document": "07_training",
+    "subject": "training_records",
+    "aspect": "correction_resolution_working_days"
+   }
+  ]
+ },
+ {
+  "id": "TR-XL-TRV-010",
+  "packet": "XLTRV",
+  "lid": "XLTRV-010",
+  "language": "Hindi-Telugu",
+  "hop_type": "cross_language",
+  "question": "एक नया कर्मचारी कार्यभार ग्रहण करता है। तेलुगु यात्रा नीति के अनुसार यात्रा-नीति पर उसका संक्षिप्त जागरूकता सत्र कब तक होना चाहिए, और हिंदी नियमावली के अनुसार व्यय नियमावली का संक्षिप्त प्रशिक्षण अधिकतम कितने कैलेंडर दिनों में? पहले सप्ताह को ७ दिन मानें, तो हिंदी प्रशिक्षण की अंतिम सीमा तेलुगु सत्र की अंतिम सीमा से कितने दिन बाद आती है?",
+  "short_answer": "२३ दिन बाद (पहला सप्ताह बनाम ३० कैलेंडर दिन)",
+  "answer": "तेलुगु यात्रा नीति की धारा १९ के अनुसार प्रत्येक नया कर्मचारी अपने पहले सप्ताह में ही ३० मिनट के जागरूकता सत्र में भाग लेता है। हिंदी नियमावली की धारा २६.५ के अनुसार नए कर्मचारियों को कार्यभार ग्रहण के ३० कैलेंडर दिनों के भीतर प्रशिक्षण दिया जाता है। पहले सप्ताह को ७ दिन मानने पर अंतर ३० − ७ = २३ दिन है।",
+  "source": [
+   {
+    "language": "Hindi",
+    "document": "03_travel_expense",
+    "section": "२६.५"
+   },
+   {
+    "language": "Telugu",
+    "document": "04_travel_policy",
+    "section": "19"
+   }
+  ],
+  "supporting_facts": [
+   {
+    "language": "Hindi",
+    "document": "03_travel_expense",
+    "subject": "new_employee_training",
+    "aspect": "deadline_calendar_days"
+   },
+   {
+    "language": "Telugu",
+    "document": "04_travel_policy",
+    "subject": "కొత్త ఉద్యోగి ఆన్‌బోర్డింగ్ ట్రావెల్ పాలసీ సెషన్",
+    "aspect": "వ్యవధి"
+   }
+  ]
+ },
+ {
+  "id": "TR-XL-TRV-018",
+  "packet": "XLTRV",
+  "lid": "XLTRV-018",
+  "language": "Telugu-Hindi",
+  "hop_type": "cross_language",
+  "question": "ఒక ఉద్యోగి దేశీయ ప్రయాణానికి అంచనా ఖర్చు ₹60,000 గా లెక్కించబడింది, మరియు అతను ₹45,000 ప్రయాణ అడ్వాన్స్ (यात्रा अग्रिम) కోరుతున్నాడు. తెలుగు విధానం ప్రకారం ఈ ట్రిప్‌కు ఎవరెవరి ఆమోదం ఏ పద్ధతిలో కావాలి, మరియు హిందీ నియమావళి ప్రకారం అడ్వాన్స్ అభ్యర్థనకు తక్షణ పర్యవేక్షకుడితో పాటు విభాగాధిపతి సిఫార్సు కూడా అవసరమా?",
+  "short_answer": "రిపోర్టింగ్ మేనేజర్ + విభాగాధిపతి (సమాంతరంగా); అవును, విభాగాధిపతి సిఫార్సు అవసరం (₹40,000 మించింది)",
+  "answer": "తెలుగు విధానం సెక్షన్ 3 ప్రకారం ₹25,001 నుండి ₹1,00,000 వరకు అంచనా ఉన్న దేశీయ ట్రిప్ రెండవ శ్రేణి; దీనికి రిపోర్టింగ్ మేనేజర్ మరియు విభాగాధిపతి ఆమోదాలు సమాంతరంగా అభ్యర్థించబడతాయి. హిందీ నియమావళి ధార १४.३ ప్రకారం ₹40,000 కంటే ఎక్కువ అడ్వాన్స్‌కు విభాగాధిపతి సిఫార్సు కూడా అవసరం. ₹45,000 ఆ పరిమితిని మించుతుంది కాబట్టి అవసరం.",
+  "source": [
+   {
+    "language": "Telugu",
+    "document": "04_travel_policy",
+    "section": "3"
+   },
+   {
+    "language": "Hindi",
+    "document": "03_travel_expense",
+    "section": "१४.३"
+   }
+  ],
+  "supporting_facts": [
+   {
+    "language": "Telugu",
+    "document": "04_travel_policy",
+    "subject": "రెండవ శ్రేణి ట్రిప్ ఆమోదం",
+    "aspect": "ఆమోదకర్తలు"
+   },
+   {
+    "language": "Hindi",
+    "document": "03_travel_expense",
+    "subject": "travel_advance",
+    "aspect": "hod_countersign_threshold_inr"
+   }
+  ]
+ },
+ {
+  "id": "TR-XL-TRV-019",
+  "packet": "XLTRV",
+  "lid": "XLTRV-019",
+  "language": "Telugu-Hindi",
+  "hop_type": "cross_language",
+  "question": "హిందీ నియమావళి ఉదాహరణ ప్రకరణం ఒకటిలో (శ్రీ ఆదిత్య వర్మ ముంబై–నాశిక్ యాత్ర) నాలుగు శీర్షికల మొత్తం ఖర్చు ఎంత అయ్యింది? అదే మొత్తాన్ని దేశీయ ట్రిప్ అంచనా ఖర్చుగా తీసుకుంటే, తెలుగు విధానం ప్రకారం ఆ ట్రిప్‌కు ఎవరి ఆమోదాలు, ఏ పద్ధతిలో అవసరం?",
+  "short_answer": "₹46,630; రెండవ శ్రేణి — రిపోర్టింగ్ మేనేజర్ + విభాగాధిపతి, సమాంతర ఆమోదం",
+  "answer": "హిందీ నియమావళి ధార २२.१ ప్రకారం వర్మ గారి యాత్రలో నాలుగు శీర్షికల మొత్తం ₹46,630. తెలుగు విధానం సెక్షన్ 3 ప్రకారం ₹25,001 నుండి ₹1,00,000 వరకు అంచనా ఉన్న దేశీయ ట్రిప్ రెండవ శ్రేణిలోకి వస్తుంది, దీనికి రిపోర్టింగ్ మేనేజర్ మరియు విభాగాధిపతి ఆమోదాలు సమాంతరంగా (వరుసగా కాకుండా) అవసరం. ₹46,630 ఈ పరిధిలో ఉంది.",
+  "source": [
+   {
+    "language": "Telugu",
+    "document": "04_travel_policy",
+    "section": "3"
+   },
+   {
+    "language": "Hindi",
+    "document": "03_travel_expense",
+    "section": "२२.१"
+   }
+  ],
+  "supporting_facts": [
+   {
+    "language": "Telugu",
+    "document": "04_travel_policy",
+    "subject": "రెండవ శ్రేణి ట్రిప్ ఆమోదం",
+    "aspect": "ఆమోదకర్తలు"
+   },
+   {
+    "language": "Hindi",
+    "document": "03_travel_expense",
+    "subject": "worked_example_one",
+    "aspect": "total_claim_inr"
+   }
+  ]
+ },
+ {
+  "id": "TR-XL-TRV-030",
+  "packet": "XLTRV",
+  "lid": "XLTRV-030",
+  "language": "Hindi-Telugu",
+  "hop_type": "cross_language",
+  "question": "तेलुगु यात्रा नीति के गोवा वाले देशीय ब्लेज़र-विस्तार उदाहरण में आंतरिक कार्यशाला जितने दिनों की है, उन सभी दिनों में कर्मचारी के होटल के कक्ष-शुल्क में प्रातराश सम्मिलित रहा। उसकी पूर्ण दैनिक भत्ता दर १,२०० रुपये मानें, तो हिंदी नियमावली के अनुसार कार्यशाला-दिनों का कुल दैनिक भत्ता कितना होगा, और तेलुगु नीति के अनुसार व्यक्तिगत विस्तार के लिए किसका अनुमोदन पर्याप्त है?",
+  "short_answer": "३,२४० रुपये (३ × १,०८०); केवल रिपोर्टिंग मैनेजर का लिखित अनुमोदन",
+  "answer": "तेलुगु यात्रा नीति की धारा ११ के उदाहरण में गोवा की आंतरिक कार्यशाला ३ दिनों की है और देशीय विस्तार होने के कारण केवल रिपोर्टिंग मैनेजर का लिखित अनुमोदन चाहिए, विभाग प्रमुख का नहीं। हिंदी नियमावली की धारा ६.४ के अनुसार प्रातराश उपलब्ध होने पर दैनिक भत्ते में १० प्रतिशत की कटौती होती है: १,२०० − १२० = १,०८० रुपये प्रति दिन। अतः ३ × १,०८० = ३,२४० रुपये।",
+  "source": [
+   {
+    "language": "Hindi",
+    "document": "03_travel_expense",
+    "section": "६.४"
+   },
+   {
+    "language": "Telugu",
+    "document": "04_travel_policy",
+    "section": "11"
+   }
+  ],
+  "supporting_facts": [
+   {
+    "language": "Hindi",
+    "document": "03_travel_expense",
+    "subject": "daily_allowance",
+    "aspect": "breakfast_deduction_percent"
+   },
+   {
+    "language": "Telugu",
+    "document": "04_travel_policy",
+    "subject": "గోవా దేశీయ బ్లెజర్ ఉదాహరణ (గ్రేడ్ G5)",
+    "aspect": "ఆమోద అవసరం"
+   }
+  ]
+ }
+]

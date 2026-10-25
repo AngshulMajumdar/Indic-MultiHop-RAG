@@ -1,0 +1,26 @@
+{
+ "verification": {
+  "written": 582,
+  "unverified": 582
+ },
+ "train": 533,
+ "dev": 49,
+ "train_by_group": {
+  "Bengali": 66,
+  "Hindi": 69,
+  "Kannada": 34,
+  "Marathi": 48,
+  "Odia": 35,
+  "Punjabi": 35,
+  "Tamil": 45,
+  "Telugu": 46,
+  "Cross-language": 155
+ },
+ "train_by_hop": {
+  "cross_document": 304,
+  "cross_section": 68,
+  "within_section": 6,
+  "cross_language": 155
+ },
+ "facts_shared_with_test": 0
+}
